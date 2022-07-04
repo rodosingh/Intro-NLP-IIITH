@@ -1,0 +1,500 @@
+clinical finding	procedure	disease	soft tissue lesion	anatomical structure	cardiac finding	surgical removal	embolism	artery	occlusion	removal	body structure	implantation	clinical evaluation	sickness
+somatic cell	pathological state	protein	cell	functions	gene	growth	macromolecule	clinical finding	body structure	proliferation	enzyme	disorder	malady	biomolecule
+disease	clinical finding	sickness	illness	therapy	pathological state	inflammatory disorder	disorder	drug	respiratory disorder	malady	pneumonitis	medicine	clinical evaluation	clinical symptom
+clinical finding	anomaly	congenital malformation	body structure	procedure	disease	cardiac finding	congenital disease	congenital anomaly	soft tissue lesion	congenital defect	congenital abnormality	birth defect	organ	anatomical structure
+disease	clinical finding	procedure	blood	macromolecule	fluid	pathological state	os	organ	conjunctive tissue	therapy	removal	clinical evaluation	vascular disease	implantation
+clinical finding	procedure	drug	disease	sickness	illness	therapy	cardiac finding	pathological state	intervention	vascular disease	body structure	embolism	healthcare professional	clinical evaluation
+pathological state	protein	disorder	disease	illness	clinical finding	enzyme	gene	malady	neurological disease	metabolic disease	somatic cell	body structure	factor	hydrolase
+disease	clinical finding	sickness	animal tissue	malady	malignancy	disease of lung	malignant tumor	soft tissue lesion	pneumonitis	organ	inflammatory disorder	neoplasm	respiratory disorder	body structure
+clinical finding	disease	illness	disorder	inflammatory disorder	malady	sickness	neuropathy	peripheral nerve disease	syndrome	neurological disease	clinical diagnosis	anatomical pathology	pathological state	clinical symptom
+macromolecule	biopolymer	animal tissue	biomolecule	protein	polymer	disease	removal	malignant tumor	procedure	antigen	soft tissue lesion	clinical finding	cell	organ
+cell	growth	protein	biopolymer	somatic cell	proliferation	macromolecule	disease	body structure	animal tissue	pathological state	saccharide	functions	antigen	biomolecule
+procedure	animal tissue	macromolecule	biomolecule	perfusion pump	pathological state	fluid	removal	tube	blood	body fluid	biofluid	intervention	clinical finding	chemical reaction
+protein	proliferation	disease	cell	biopolymer	antigen	enzyme	growth	macromolecule	hydrolase	glycoprotein	saccharide	gene	carrier protein	clinical finding
+clinical finding	disease	procedure	vascular disease	soft tissue lesion	inflammatory disorder	body structure	cardiac finding	illness	anatomical structure	sickness	clinical symptom	clinical diagnosis	clinical evaluation	embolism
+body structure	head part	clinical finding	procedure	body part	anatomical structure	branch of science	soft tissue lesion	dental material	sickness	aid	articulation	defect	pathological state	clinical evaluation
+pathological state	clinical finding	illness	procedure	body structure	branch of science	sickness	state	neurological lesion	disease	anatomical structure	imperfection	healthcare professional	intervention	therapeutic procedure
+disease	clinical finding	illness	disorder	inflammatory disorder	pathological state	neuropathy	respiratory disorder	sickness	body structure	malady	neurological disease	degenerative disorder	neurological finding	peripheral nerve disease
+anatomical structure	clinical finding	body structure	function	imaging of heart	pathological state	procedure	echocardiography	chamber	disease	blood flow	orifice	macromolecule	flow	vessel
+procedure	removal	clinical finding	animal tissue	organ	soft tissue lesion	tube	conjunctive tissue	polymer	head part	defect	biopolymer	implantation	anatomical structure	disease
+clinical finding	pathological state	macromolecule	sickness	animal tissue	disease	function	illness	acidosis	respiratory acidosis	body structure	blood flow	arterial blood	respiratory disorder	body fluid
+disease	melanin	proliferation	protein	cell	clinical finding	growth	inflammatory disorder	pathological state	animal tissue	conjunctive tissue	biopolymer	soft tissue lesion	macromolecule	connective tissue
+disease	pathological state	clinical finding	clinical evaluation	cell count	illness	blood	blood cell count	blood count	body structure	clinical diagnosis	laboratory test	sickness	procedure	sugar
+body structure	illness	pain	clinical finding	sickness	healthcare professional	practice of medicine	craniofacial pain	disease	disorder	pain sensation	malady	medical specialty	vas	medical research
+illness	disorder	malady	clinical finding	pathological state	disease	sickness	medical science	inflammatory disorder	mental disorder	respiratory disorder	body structure	metabolic disease	clinical diagnosis	medicine
+bone	disease	os	growth	sickness	clinical finding	malignant tumor	biopolymer	tumor	pathological state	cancer	proliferation	macromolecule	metastatic tumor	carcinoma
+enzyme	biomolecule	biopolymer	protein	pathological state	cell	macromolecule	animal tissue	glycoside	disease	amine	drug	proliferation	moiety	polymer
+disease	clinical finding	disorder	familial disease	body structure	peripheral nerve disease	malady	neuropathy	degenerative disorder	metabolic disease	muscular dystrophy	genetic defect	hereditary disease	inherited disease	inflammatory disorder
+body structure	functions	somatic cell	anatomical structure	pathological state	cell	organ	macromolecule	disease	biopolymer	growth	biofluid	malady	function	medical science
+procedure	clinical finding	removal	soft tissue lesion	surgical process	disease	clinical evaluation	defect	biopolymer	organ	surgical procedure	connective tissue	implantation	grafting procedure	body structure
+illness	pathological state	drug	sickness	disorder	disease	clinical finding	therapy	treatment	malady	medicament	clinical symptom	akathisia	body structure	os
+pathological state	sickness	injury	clinical finding	damage	function	disease	conjunctive tissue	animal tissue	procedure	stimulation	body region	organ	removal	decrease
+procedure	clinical finding	removal	sickness	therapy	branch of science	intervention	drug	therapeutic procedure	fluid	tube	surgical process	healthcare professional	introduction	biological agent
+sickness	drug	illness	clinical finding	morphine	pathological state	disorder	opiate	body structure	pharmaceutical drug	malady	respiratory disorder	painful sensation	healthcare professional	disease
+anatomical structure	body structure	clinical finding	body region	pathological state	disease	conjunctive tissue	cell	head structure	soft tissue lesion	neuron	growth	neural structure	pathology	degenerative disorder
+illness	disorder	mental disorder	sickness	psychiatry	disease	mental illness	malady	neurosis	psychotherapy	psychological disorder	body structure	psychiatric condition	folie	psychological medicine
+pathological state	clinical finding	sickness	function	disease	body structure	conjunctive tissue	biopolymer	imperfection	drug	macromolecule	musculoskeletal function	injury	neurological lesion	clinical evaluation
+procedure	removal	bone	soft tissue lesion	tumor	surgical process	surgical material	biopolymer	malignant tumor	growth	surgical procedure	excision	clinical finding	surgical removal	os
+illness	clinical finding	disorder	body structure	sickness	disease	pathological state	healthcare professional	malady	state	neurological lesion	clinical symptom	clinical diagnosis	branch of science	therapy
+clinical finding	disease	disorder	inflammatory disorder	soft tissue lesion	malady	neoplasm	malignant tumor	neuropathy	peripheral nerve disease	illness	anatomical pathology	disease of lung	pathological state	syndrome
+clinical finding	body structure	disease	bone	soft tissue lesion	vertebral column	body region	anatomical structure	malignant tumor	growth	pathological state	degenerative disorder	removal	procedure	connective tissue
+clinical finding	disease	clinical evaluation	pathological state	disorder	illness	sickness	neurological finding	procedure	body structure	clinical diagnosis	neuropathy	clinical symptom	neurological lesion	peripheral nerve disease
+psychotherapy	illness	intervention	mental disorder	sickness	therapy	healthcare professional	mental illness	disorder	caregiver	service	psychopathology	specialism	health professional	branch of science
+clinical finding	disease	disorder	illness	neurological finding	malady	body structure	soft tissue lesion	clinical symptom	sickness	pathological state	neurological lesion	inflammatory disorder	anatomical structure	injury
+bone	body structure	body region	soft tissues	soft tissue lesion	anatomical structure	procedure	organ	removal	growth	clinical finding	fracture	conjunctive tissue	vertebral column	soft tissue mass
+saccharide	clinical finding	animal tissue	disease	macromolecule	biopolymer	protein	microorganism	sickness	respiratory disorder	somatic cell	interstitial lung disease	carbohydrate	organ	lung structure
+removal	procedure	soft tissue lesion	body structure	clinical finding	body region	anatomical structure	disease	soft tissue mass	conjunctive tissue	bone	organ	malignant tumor	macromolecule	tumor
+body structure	medical science	malady	anatomical pathology	sickness	growth	disease	anatomical structure	disorder	medical research	pathological state	body region	biopolymer	somatic cell	metabolic disease
+pathological state	sickness	body structure	malady	disorder	amine	disease	enzyme	illness	functions	biomolecule	animal tissue	nervous system function	drug	macromolecule
+clinical finding	disease	sickness	illness	cardiopathy	malady	inflammatory disorder	pathological state	disorder	body structure	medical diagnosis	respiratory disorder	vascular disease	clinical diagnosis	clinical evaluation
+sickness	pathological state	body structure	illness	drug	disorder	clinical finding	disease	neurological lesion	therapy	morphine	withdrawal	treatment	opiate	clinical symptom
+clinical finding	disease	disease of lung	pneumonia	soft tissue lesion	sickness	illness	microorganism	lung consolidation	infectious disease	respiratory disorder	procedure	lung mass	pneumonitis	organ
+clinical finding	pathological state	body structure	sickness	vascular function	cardiovascular function	macromolecule	disease	biomolecule	blood flow	function	fluid	body fluid	drug	specifications
+biopolymer	procedure	animal tissue	drug	macromolecule	tube	pathological state	blood	amine	biomolecule	polymer	enzyme	clinical evaluation	medicament	fluid
+procedure	clinical finding	soft tissue lesion	tube	body region	clinical evaluation	removal	fluid	sickness	anatomical structure	disease	body structure	biopolymer	imaging	soft tissue mass
+sickness	pathological state	injury	damage	disease	protein	biopolymer	body structure	macromolecule	cell	clinical finding	conjunctive tissue	animal tissue	anatomical structure	functions
+disease	clinical finding	respiratory disorder	sickness	illness	disease of lung	medical science	inflammatory disorder	organ	body structure	disorder	infectious disease	pulmonary disease	respiratory disease	microorganism
+disorder	illness	pathological state	sickness	drug	disease	clinical finding	therapy	malady	respiratory disorder	treatment	medicament	body structure	metabolic disease	intake
+disease	disorder	clinical finding	illness	malady	pathological state	inflammatory disorder	degenerative disorder	neurological disorder	neurological disease	movement disorder	body structure	clinical diagnosis	sickness	neuropathy
+clinical finding	procedure	disease	removal	organ	soft tissue lesion	tube	sickness	fluid	surgical operation	cardiac finding	pathological state	imperfection	implantation	malady
+clinical finding	disease	pathological state	biopolymer	metabolic disease	diabetes	function	vascular disease	vascular function	sickness	protein	carbohydrate	malady	inflammatory disorder	growth
+clinical finding	soft tissue lesion	body structure	anatomical structure	connective tissue	conjunctive tissue	removal	defect	pathological state	body part	lump	malady	disease	soft tissues	growth
+cell	protein	proliferation	pathological state	disease	organ	growth	macromolecule	function	injury	conjunctive tissue	clinical finding	cardiomyopathy	body structure	animal tissue
+clinical finding	anatomical structure	body structure	injury	sickness	body region	pathological state	procedure	nerve tissue	neuroma	painful sensation	removal	neuropathy	disease	body part
+illness	disorder	clinical finding	disease	sickness	clinical symptom	malady	pathological state	disturbance	clinical diagnosis	psychosis	mental disorder	neurological finding	neurological disorder	medical diagnosis
+pathological state	illness	sickness	clinical finding	drug	disease	disorder	withdrawal	medical diagnosis	neurological lesion	respiratory disorder	therapy	malady	treatment	clinical diagnosis
+clinical finding	disease	procedure	sickness	organ	soft tissue lesion	illness	malady	disease of lung	malignancy	respiratory disorder	inflammatory disorder	disorder	clinical diagnosis	medical science
+clinical finding	injury	procedure	sickness	pathological state	conjunctive tissue	removal	damage	disease	animal tissue	anatomical structure	protein	macromolecule	function	body structure
+protein	cell	macromolecule	enzyme	animal tissue	proliferation	disease	pathological state	biopolymer	biomolecule	growth	functions	saccharide	eukaryotes	antigen
+disease	sickness	animal tissue	zinc	pathological state	protein	body region	damage	macromolecule	clinical finding	mycotoxin	disorder	enzyme	body structure	injury
+protein	enzyme	macromolecule	biopolymer	biomolecule	cell	pathological state	animal tissue	hydrolase	saccharide	proliferation	functions	disease	carboxylic acid	metabolism
+clinical finding	disease	malignancy	soft tissue lesion	biopsy	malignant tumor	pelvic mass	lung mass	carcinoma	anatomical pathology	procedure	clinical diagnosis	sickness	medical science	abdominal mass
+clinical finding	neoplasm	malignant tumor	disease	soft tissue lesion	tumor	malignancy	body structure	proliferation	growth	anatomical structure	illness	sickness	somatic cell	removal
+illness	disorder	sickness	clinical finding	disease	body structure	mental disorder	malady	pathological state	mental illness	mental disturbance	medical diagnosis	caregiver	healthcare professional	medical science
+clinical finding	disease	procedure	illness	sickness	organ	implantation	respiratory disorder	body structure	cardiac finding	clinical symptom	vascular disease	removal	intervention	oxygenator
+pathological state	protein	functions	enzyme	drug	sickness	inhibition	biopolymer	cell	neuron	macromolecule	disorder	glycoside	hydrolase	function
+disorder	clinical finding	disease	body structure	malady	facial dysmorphism	illness	pathological state	clinical diagnosis	degenerative disorder	metabolic disease	congenital malformation	inflammatory disorder	genetic disorder	neurological disorder
+clinical finding	disease	procedure	vascular disease	body structure	cardiac finding	implantation	soft tissue lesion	artery	embolism	occlusion	anatomical structure	vessel	clinical diagnosis	sickness
+clinical finding	procedure	function	pathological state	anatomical structure	disease	body structure	imperfection	cardiac finding	conjunctive tissue	organ	removal	fluid	sickness	damage
+healthcare professional	illness	primary care provider	intervention	nurse	service	health professional	worker	medical specialty	professional nurse	health care	care	body structure	specialism	sickness
+pathological state	drug	clinical finding	illness	therapy	procedure	sickness	intervention	disease	musculoskeletal function	treatment	decrease	fluid	medicament	state
+clinical finding	fluid	procedure	arterial blood	perfusion pump	tube	body structure	anatomical structure	blood flow	removal	pathological state	flow	injury	function	painful sensation
+clinical finding	disease	conjunctive tissue	biopolymer	proliferation	growth	head structure	cell	inflammatory disorder	connective tissue	soft tissue lesion	malady	macromolecule	protein	animal tissue
+disease	helminth infection	inflammatory disorder	clinical finding	malady	pathological state	sickness	antigen	infectious disease	saccharide	protein	infection	microorganism	animal tissue	nematode infection
+disease	clinical finding	malady	sickness	inflammatory disorder	liver disease	metabolic disease	disorder	pathological state	illness	malignancy	organ	cancer of prostate	body structure	malignant tumor
+clinical finding	disease	body structure	illness	sickness	procedure	disorder	pathological state	soft tissue lesion	malady	body region	medical science	clinical symptom	tube	clinical evaluation
+zinc	sickness	disease	pathological state	disorder	clinical finding	malady	body structure	inflammatory disorder	protein	metabolic disease	illness	growth	animal tissue	functions
+body structure	anatomical structure	clinical finding	neural structure	disease	growth	sickness	malady	disorder	body region	congenital defect	macromolecule	pathological state	soft tissue lesion	pathology
+disease	sickness	clinical finding	therapy	biopolymer	pathological state	os	illness	drug	macromolecule	treatment	head structure	body structure	disorder	growth
+somatic cell	disease	clinical finding	proliferation	carcinoma	cancer	cancer of prostate	protein	growth	malignant tumor	tumor	sickness	gene	cell	secondary tumor
+anatomical structure	body structure	clinical finding	neural structure	disease	sickness	stimulation	stimulation procedure	procedure	pathological state	body part	disorder	body region	head structure	mapping
+pathological state	sickness	disorder	illness	state	disease	body structure	clinical finding	humour	malady	macromolecule	function	neural structure	neurological lesion	intervention
+clinical finding	disease	cardiac finding	procedure	illness	cardiomyopathy	disorder	sickness	vascular disease	pathological state	cardiopathy	embolism	body structure	clinical evaluation	electrocardiogram
+clinical finding	disease	vascular disease	pathological state	sickness	disorder	illness	malady	inflammatory disorder	neuropathy	clinical evaluation	clinical diagnosis	neurological lesion	body structure	cardiopathy
+clinical finding	disease	malady	connective tissue	body structure	periodontal disease	body part	disorder	pathological state	growth	soft tissue lesion	periodontitis	inflammatory disorder	illness	sickness
+disease	drug	pathological state	sickness	therapy	clinical finding	biological agent	conjunctive tissue	organ	biopolymer	treatment	body region	os	macromolecule	proliferation
+illness	disorder	sickness	drug	therapy	pathological state	mental disorder	clinical finding	disease	treatment	healthcare professional	intervention	psychiatric condition	hurting	clinical symptom
+sickness	clinical finding	disease	medical science	infectious disease	inflammatory disorder	anatomical pathology	lump	malady	medicine	malignant tumor	carcinoma	malignancy	illness	cancer
+clinical finding	disease	bone	conjunctive tissue	soft tissue lesion	connective tissue	disorder	organ	pathological state	malady	proliferation	growth	malignant tumor	body structure	inflammatory disorder
+clinical finding	respiratory disorder	sickness	animal tissue	body structure	pathological state	illness	painful sensation	disease	malady	anatomical structure	environment	disorder	craniofacial pain	body region
+sickness	clinical finding	disease	respiratory disorder	pathological state	illness	food allergen	animal tissue	biopolymer	malady	macromolecule	body structure	eosinophilia	inflammatory disorder	medical science
+clinical finding	illness	disease	pathological state	disorder	neurological finding	sickness	body structure	malady	neurological lesion	clinical symptom	disturbance	clinical diagnosis	inflammatory disorder	nervous disorder
+illness	drug	pathological state	sickness	disorder	therapy	administration of substance	branch of science	treatment	clinical finding	medicament	pharmaceutical drug	state	intervention	body structure
+disease	clinical finding	illness	sickness	disorder	therapy	inflammatory disorder	pathological state	malady	respiratory disorder	medicine	medical science	transplant	body structure	anatomical pathology
+clinical finding	disease	pathological state	blood	lung consolidation	protein	fluid	organ	soft tissue lesion	conjunctive tissue	microorganism	animal tissue	respiratory disorder	macromolecule	clinical evaluation
+disease	bone	clinical finding	growth	pathological state	sickness	body structure	musculoskeletal function	fracture	therapy	biopolymer	proliferation	soft tissue lesion	disorder	organ
+disease	clinical finding	pathological state	protein	organ	biopolymer	inflammatory disorder	macromolecule	malady	proliferation	animal tissue	growth	disorder	metabolic disease	sickness
+clinical finding	pathological state	procedure	disease	function	drug	cardiac finding	electrocardiogram	clinical evaluation	state	sickness	illness	imperfection	disorder	body structure
+clinical finding	disorder	disease	malady	illness	body structure	respiratory disorder	syndrome	sickness	inflammatory disorder	clinical symptom	genetic disease	facial dysmorphism	degenerative disorder	clinical diagnosis
+disease	clinical finding	treatment	pathological state	illness	intervention	drug	therapeutic procedure	procedure	sickness	disorder	introduction	clinical evaluation	body structure	healthcare professional
+clinical finding	cardiac finding	respiratory disorder	disease	illness	clinical symptom	procedure	pathological state	body structure	sickness	clinical evaluation	imperfection	vascular disease	soft tissue lesion	lump
+sickness	clinical finding	illness	biopolymer	body structure	flavoring	vegetable	sugar	malady	food allergen	pathological state	worker	branch of science	disease	plant
+biopolymer	pathological state	food additive	macromolecule	enzyme	biomolecule	glycoside	protein	plant	constituent	animal tissue	amide	functions	polymer	drug
+illness	disorder	malady	clinical finding	nervous disorder	sickness	mental disorder	pathological state	neurosis	disturbance	body structure	hurting	disease	body part	clinical symptom
+clinical finding	respiratory disorder	illness	sickness	disease	pathological state	medical diagnosis	clinical evaluation	healthcare professional	clinical symptom	food allergen	therapy	allergic condition	disorder	procedure
+growth	proliferation	biopolymer	disease	macromolecule	organ	pathological state	biomolecule	blood	musculoskeletal function	animal tissue	cell	clinical finding	sickness	bone
+clinical finding	soft tissue lesion	neoplasm	disease	malignant tumor	disorder	lump	malady	hamartoma	clinical diagnosis	soft tissue mass	anatomical pathology	malignant neoplasm	malignancy	congenital malformation
+illness	medical specialty	healthcare professional	medical practitioner	specialism	worker	practice of medicine	specialty	nurse	medical research	speciality	service	sickness	health professional	clinical finding
+clinical finding	disease	body structure	disorder	pathological state	illness	degenerative disorder	respiratory disorder	neuropathy	malady	sickness	peripheral nerve disease	inflammatory disorder	neurological lesion	clinical diagnosis
+disease	pigment	clinical finding	pathological state	soft tissue lesion	connective tissue	sickness	malignant tumor	disorder	malady	body structure	removal	macromolecule	biopolymer	proliferation
+procedure	removal	anatomical structure	tube	clinical finding	biopolymer	implantation	growth	body region	soft tissue lesion	animal tissue	surgical removal	polymer	passageway	macromolecule
+clinical finding	disease	body structure	cardiac finding	congenital malformation	illness	congenital disease	procedure	anomaly	sickness	disorder	clinical evaluation	birth defect	intervention	clinical diagnosis
+neuron	pathological state	anatomical structure	clinical finding	disease	cell	body structure	disorder	neural structure	body region	sickness	degenerative disorder	nerve cell	protein	malady
+illness	disorder	sickness	pathological state	mental disorder	clinical finding	disturbance	hurting	malady	disease	body structure	psychiatry	neurosis	psychiatric condition	mental illness
+clinical finding	disorder	disease	body structure	illness	clinical diagnosis	malady	clinical symptom	pathological state	neurological disorder	degenerative disorder	neurological disease	neurological finding	inflammatory disorder	neuropathy
+clinical finding	procedure	disease	body structure	imperfection	pathological state	cardiac finding	anatomical structure	illness	sickness	clinical evaluation	soft tissue lesion	malady	intervention	removal
+pathological state	clinical finding	disease	sickness	illness	body structure	animal tissue	respiratory disorder	malady	functions	function	neurological lesion	drug	disorder	microorganism
+clinical finding	neuropathy	body structure	somatosensory system	sickness	painful sensation	pain	body part	pathological state	peripheral nerve disease	disease	pain sensation	disorder	sensation	malady
+body structure	disorder	illness	malady	sentience	disease	specialisation	attention	specialization	clinical finding	sickness	mental disorder	body part	pathological state	practice of medicine
+clinical finding	illness	disease	sickness	respiratory disorder	disorder	malady	pathological state	body structure	inflammatory disorder	medical diagnosis	respiratory disease	respiratory illness	clinical diagnosis	worker
+biopolymer	macromolecule	animal tissue	injury	pathological state	removal	drug	procedure	disease	sickness	damage	protein	clinical finding	reaction	fluid
+body structure	clinical finding	anatomical structure	pathological state	body region	bone	body part	conjunctive tissue	neurological lesion	growth	disease	function	degenerative disorder	joint	articulation
+clinical finding	disease	illness	disorder	sickness	pathological state	malady	respiratory disorder	inflammatory disorder	nervous disorder	medical diagnosis	body structure	medical science	clinical symptom	disease of lung
+clinical finding	body structure	disorder	disease	congenital malformation	sickness	malady	illness	anatomical structure	congenital anomaly	congenital abnormality	anomaly	procedure	clinical diagnosis	body region
+disease	pathological state	illness	disorder	body structure	sickness	clinical finding	malady	clinical diagnosis	movement disorder	clinical symptom	neurological lesion	therapy	degenerative disorder	therapeutic procedure
+clinical finding	pathological state	disease	procedure	respiratory disorder	body structure	sickness	illness	state	body region	function	anatomical structure	imperfection	disorder	clinical evaluation
+clinical finding	disease	malady	anatomical pathology	disorder	medical science	soft tissue lesion	malignant tumor	neoplasm	inflammatory disorder	illness	lump	sickness	clinical diagnosis	malignant neoplasm
+pathological state	disorder	clinical finding	disease	illness	sickness	malady	clinical symptom	metabolic disease	degenerative disorder	inflammatory disorder	medical diagnosis	neurological lesion	abdominal mass	clinical diagnosis
+illness	worker	sickness	clinical finding	malady	respiratory disorder	disorder	disease	body structure	hospital environment	bodily function	healthcare professional	pathological state	introduction	branch of science
+clinical finding	disease	pathological state	illness	disorder	neurological lesion	malady	soft tissue lesion	neurological finding	inflammatory disorder	clinical diagnosis	body structure	sickness	procedure	anatomical structure
+disorder	body structure	pathological state	clinical finding	illness	disease	sickness	degenerative disorder	malady	neurological lesion	anatomical structure	body region	clinical symptom	anatomical pathology	metabolic disease
+protein	enzyme	pathological state	disease	gene	cell	functions	degenerative disorder	growth	biopolymer	biomolecule	proliferation	somatic cell	clinical finding	carrier protein
+clinical finding	conjunctive tissue	removal	disease	fluid	procedure	organ	injury	soft tissue lesion	lung consolidation	damage	disease of lung	function	edema	imperfection
+clinical finding	soft tissue lesion	malignant tumor	disease	neoplasm	disorder	growth	tumor	soft tissue mass	proliferation	malady	inflammatory disorder	body structure	lump	bone
+clinical finding	disease	illness	malady	disorder	inflammatory disorder	medicine	medical science	infectious disease	anatomical pathology	sickness	organ	pathological state	respiratory disorder	introduction
+illness	mental disorder	malady	pathological state	branch of science	disorder	mental illness	neurosis	sickness	psychiatry	sentience	practice of medicine	psychopathology	attention	folie
+anatomical structure	clinical finding	body structure	body region	disorder	soft tissue lesion	neural structure	neurological finding	body part	pathological state	malady	disease	encephalon	sickness	illness
+illness	mental illness	mental disorder	psychotherapy	service	psychiatry	specialism	health care	psychological medicine	intervention	sickness	worker	body structure	healthcare professional	mental health service
+body structure	clinical finding	procedure	soft tissue lesion	disorder	anatomical structure	lump	clinical evaluation	medical science	disease	malady	illness	aid	sickness	anomaly
+clinical finding	disease	organ	respiratory disorder	illness	abdominal mass	inflammatory disorder	malady	disease of lung	pathological state	disorder	soft tissue lesion	lung consolidation	cardiac finding	pneumonitis
+clinical finding	procedure	soft tissue lesion	disease	pathological state	neurological finding	anatomical structure	body structure	clinical evaluation	illness	removal	clinical symptom	clinical diagnosis	body region	soft tissue mass
+clinical finding	disease	procedure	organ	transplant	transplantation	removal	biopsy	conjunctive tissue	soft tissue lesion	clinical evaluation	malignancy	lung consolidation	liver disease	cardiac finding
+sickness	disease	biopolymer	pathological state	polymer	animal tissue	clinical finding	biomolecule	body structure	macromolecule	malady	therapeutic procedure	procedure	zinc	specifications
+growth	pathological state	body structure	disease	clinical finding	functions	proliferation	protein	degenerative disorder	malady	cell	somatic cell	function	anatomical structure	disorder
+protein	disease	pathological state	antigen	biopolymer	sickness	somatic cell	macromolecule	clinical finding	saccharide	malady	illness	tumor-associated antigen	body structure	cell
+clinical finding	pathological state	body structure	sickness	illness	disorder	neurological finding	anatomical structure	body part	neurological lesion	pain	painful sensation	malady	therapeutic procedure	procedure
+macromolecule	pathological state	sickness	disease	protein	biomolecule	biopolymer	enzyme	animal tissue	metabolism	cell	glycoside	body structure	injury	functions
+clinical finding	pathological state	disease	body structure	sickness	disorder	malady	anatomical structure	conjunctive tissue	inflammatory disorder	illness	body part	craniofacial pain	soft tissue lesion	periodontal disease
+biopolymer	macromolecule	animal tissue	biomolecule	chemical bond	removal	procedure	chemical change	saccharide	backbone	conjunctive tissue	growth	chemical reaction	proliferation	enzyme
+procedure	surgical process	clinical finding	removal	body structure	implantation	surgical procedure	anatomical structure	cardiac finding	surgery	tube	intervention	clinical evaluation	grafting procedure	vas
+psychotherapy	specialism	sentience	illness	branch of science	psychiatry	mental disorder	practice of medicine	psychology	research	medical specialty	career	body structure	disorder	malady
+pathological state	sickness	clinical finding	malady	body structure	disorder	disease	body part	food intake	anatomical structure	functions	painful sensation	illness	stimulation	neurological lesion
+clinical finding	disease	body structure	disorder	procedure	malady	congenital malformation	embolism	vascular disease	anatomical structure	sickness	clinical evaluation	surgical removal	anomaly	congenital disease
+clinical finding	pathological state	anatomical structure	procedure	function	fluid	blood flow	disease	macromolecule	organ	vascular resistance	body structure	sickness	imperfection	imaging of heart
+clinical finding	imaging	disease	body structure	disorder	anatomical structure	clinical diagnosis	clinical evaluation	soft tissue lesion	pathological state	neurological finding	clinical symptom	neurological lesion	malady	body region
+illness	disorder	clinical finding	disease	malady	sickness	pathological state	body structure	clinical diagnosis	neurological disorder	anatomical pathology	clinical symptom	inflammatory disorder	degenerative disorder	medical science
+protein	enzyme	macromolecule	pathological state	biopolymer	biomolecule	cell	proliferation	gene	disease	peptide	saccharide	carrier protein	functions	lyase
+illness	disease	clinical finding	pathological state	body structure	procedure	healthcare professional	aid	sickness	anatomical structure	clinical diagnosis	therapeutic procedure	medical science	disorder	imperfection
+disease	clinical finding	drug	illness	sickness	infectious disease	therapy	pathological state	inflammatory disorder	clinical diagnosis	biological agent	respiratory disorder	procedure	body structure	introduction
+pathological state	drug	clinical finding	disease	protein	disorder	sickness	enzyme	body structure	therapy	macromolecule	illness	biomolecule	biological agent	treatment
+clinical finding	body structure	anatomical structure	anomaly	disease	cardiac finding	procedure	congenital disease	congenital malformation	congenital abnormality	congenital defect	congenital anomaly	organ	defect	soft tissue lesion
+sickness	clinical finding	medical science	illness	pathological state	malady	medicament	medicine	introduction	drug	therapeutic procedure	biopolymer	body structure	periodontal disease	therapy
+clinical finding	body structure	disease	disorder	degenerative disorder	neuropathy	malady	peripheral nerve disease	illness	syndrome	inflammatory disorder	facial dysmorphism	neurological finding	clinical diagnosis	congenital disorder
+body structure	anatomical structure	body part	neurological lesion	sickness	clinical finding	stimulation	procedure	pathological state	neural structure	somatic sensation	body region	malady	painful sensation	disease
+clinical finding	soft tissue lesion	disease	soft tissue mass	procedure	removal	disease of lung	surgical removal	inflammatory disorder	excision	lump	malignant tumor	conjunctive tissue	anatomical structure	organ
+disease	branch of science	pathological state	body structure	sickness	clinical finding	somatic cell	malady	illness	state	macromolecule	anatomical structure	os	protein	medical science
+disease	enzyme	pathological state	macromolecule	biopolymer	animal tissue	vascular function	vascular disease	clinical finding	drug	biomolecule	mycotoxin	function	organ	metabolism
+illness	disorder	pathological state	sickness	clinical finding	disease	mental disorder	drug	malady	therapy	medical diagnosis	state	mental illness	respiratory disorder	nervous disorder
+body structure	bone	anatomical structure	joint	clinical finding	head structure	growth	disease	soft tissue lesion	body region	biopolymer	articulation	connective tissue	degenerative disorder	pathological state
+procedure	clinical finding	removal	tube	medical procedure	fluid	sickness	body region	therapeutic procedure	anatomical structure	disease	organ	clinical evaluation	blood	animal tissue
+clinical finding	disease	disease of lung	soft tissue lesion	respiratory disorder	illness	organ	pneumonitis	procedure	lung mass	lung consolidation	malady	sickness	malignancy	malignant tumor
+macromolecule	biomolecule	enzyme	pathological state	protein	animal tissue	disease	biopolymer	body structure	procedure	clinical finding	sickness	function	blood	body fluid
+clinical finding	disease	lump	soft tissue lesion	pelvic mass	illness	malignant tumor	sickness	neoplasm	malignancy	carcinoma	tumor	cancer	malady	clinical diagnosis
+disease	tumor	neoplasm	malignant tumor	malignancy	clinical finding	carcinoma	malignant neoplasm	cancer	pelvic mass	adenocarcinoma	os	cancer of prostate	soft tissue lesion	anatomical pathology
+clinical finding	disease	pathological state	inflammatory disorder	sickness	illness	respiratory disorder	disorder	metabolic disease	malady	liver disease	vascular disease	organ	medical diagnosis	infectious disease
+disease	clinical finding	illness	inflammatory disorder	malady	medicine	sickness	disorder	pathological state	thrombosis	infectious disease	therapy	body structure	organ	neuropathy
+removal	body structure	biopolymer	anatomical structure	defect	procedure	macromolecule	bone	excision	growth	biomolecule	connective tissue	clinical finding	cell	animal tissue
+disease	illness	sickness	clinical finding	infectious disease	body structure	introduction	acute respiratory disease	medical diagnosis	pneumonia	medical research	medical science	worker	medical specialty	respiratory disorder
+clinical finding	disease	cardiopathy	vascular disease	cardiomyopathy	malady	organ	illness	pathological state	disorder	cardiac finding	body structure	metabolic disease	clinical diagnosis	embolism
+disease	sickness	os	body structure	pathological state	biological agent	illness	clinical finding	therapy	cancer	disorder	malady	medical diagnosis	drug	malignant tumor
+enzyme	protein	disease	pathological state	metabolic disease	macromolecule	biopolymer	biomolecule	clinical finding	proliferation	lyase	animal tissue	metabolism	cell	growth
+disease	clinical finding	respiratory disorder	inflammatory disorder	malady	medicine	clinical evaluation	disorder	clinical diagnosis	disease of lung	illness	pneumonitis	pathological state	medical science	malignancy
+disorder	clinical finding	illness	malady	sickness	disease	body structure	inflammatory disorder	pathological state	body part	neurological disorder	degenerative disorder	nervous disorder	folie	clinical symptom
+illness	body structure	sickness	disorder	intervention	disease	therapy	psychotherapy	psychiatry	mental illness	mental disorder	specialisation	clinical finding	practice of medicine	healthcare professional
+clinical finding	disease	inflammatory disorder	disorder	malady	soft tissue lesion	body structure	conjunctive tissue	disease of lung	connective tissue	pathological state	peripheral nerve disease	organ	neuropathy	degenerative disorder
+sedation	illness	sickness	drug	pathological state	clinical finding	disorder	medicament	pharmaceutical drug	administration of medication	therapy	therapeutic procedure	treatment	intervention	body structure
+body structure	anatomical structure	pathological state	body region	clinical finding	procedure	sickness	state	controller	disease	illness	body part	physical property	imperfection	function
+clinical finding	soft tissue lesion	disease	conjunctive tissue	abdominal mass	removal	malignant tumor	anatomical structure	soft tissue mass	lump	body structure	body region	procedure	organ	pathological state
+pathological state	clinical finding	sickness	drug	disease	therapy	illness	disorder	clinical symptom	ache	neurological lesion	treatment	intervention	beta blocker	therapeutic procedure
+disease	body structure	clinical finding	disorder	malady	pathological state	pelvic organ	cancer of prostate	abdominal mass	sickness	prostatectomy	metabolic disease	open prostatectomy	procedure	pelvic mass
+macromolecule	biomolecule	disease	clinical finding	anatomical structure	pathological state	function	biopolymer	malignant tumor	body structure	polymer	drug	cell	body region	clinical evaluation
+clinical finding	disease	illness	disorder	pathological state	inflammatory disorder	sickness	malady	body structure	clinical diagnosis	respiratory disorder	metabolic disease	neurological disease	medical diagnosis	clinical symptom
+body structure	clinical finding	procedure	soft tissue lesion	bone	medical science	sickness	joint	anatomical structure	organ	biopolymer	disease	conjunctive tissue	pathological state	joint structure
+sickness	clinical finding	illness	disease	respiratory disorder	pathological state	disorder	malady	medical science	inflammatory disorder	craniofacial pain	medicine	body structure	painful sensation	therapy
+healthcare professional	illness	practice of medicine	medical specialty	sickness	intervention	clinical finding	body structure	specialism	therapeutic procedure	disease	participation	aid	specialty	branch of science
+illness	disease	disorder	clinical finding	malady	inflammatory disorder	sickness	neurological disease	pathological state	peripheral nerve disease	clinical diagnosis	encephalopathy	neurological disorder	anatomical pathology	medical science
+clinical finding	disorder	disease	malady	body structure	degenerative disorder	neuropathy	pathological state	peripheral nerve disease	illness	inflammatory disorder	neurological finding	clinical diagnosis	clinical symptom	syndrome
+illness	disease	disorder	clinical finding	inflammatory disorder	sickness	malady	peripheral nerve disease	neurological disease	body structure	encephalopathy	clinical diagnosis	neuropathy	neurological disorder	clinical symptom
+clinical finding	disease	pulmonary hypertension	vascular disease	organ	sickness	illness	pulmonary embolism	procedure	precapillary pulmonary hypertension	pathological state	cardiopathy	implantation	cardiac finding	respiratory disorder
+clinical finding	procedure	body structure	disease	implantation	soft tissue lesion	anatomical structure	removal	vessel	artery	body region	vascular disease	sickness	clinical evaluation	surgical process
+body structure	disorder	illness	malady	clinical finding	disease	sickness	body part	specialisation	sentience	attention	pathological state	clinical diagnosis	specialization	mental disorder
+clinical finding	disease	soft tissue lesion	disease of lung	neoplasm	malignant tumor	malady	lung mass	inflammatory disorder	anatomical pathology	malignancy	disorder	pathology	lump	carcinoma
+clinical finding	disorder	body structure	illness	malady	sickness	body part	pathological state	disease	sentience	anatomical structure	somatic sensation	somatosensory system	clinical symptom	nervous system structure
+disease	sickness	clinical finding	pathological state	musculoskeletal function	growth	metabolic disease	body structure	protein	illness	bone	organ	dietary intake	degenerative disorder	disorder
+disease	biopolymer	clinical finding	malignant tumor	os	tumor	carcinoma	proliferation	cancer	sickness	clinical evaluation	pathological state	protein	growth	macromolecule
+clinical finding	illness	disease	sickness	body structure	pathological state	medical diagnosis	clinical symptom	disorder	respiratory disorder	malady	soft tissue lesion	clinical diagnosis	neurological finding	aching
+clinical finding	disease	neoplasm	disorder	malignancy	soft tissue lesion	malady	malignant tumor	inflammatory disorder	cancer of prostate	carcinoma	lump	clinical diagnosis	abdominal mass	malignant neoplasm
+disease	pathological state	clinical finding	protein	enzyme	malady	disorder	macromolecule	metabolic disease	clinical evaluation	biomolecule	sickness	illness	body structure	clinical diagnosis
+body structure	clinical finding	anatomical structure	pathological state	disease	malady	biopolymer	conjunctive tissue	growth	body region	animal tissue	connective tissue	soft tissue lesion	proliferation	sickness
+disease	clinical finding	disorder	illness	malady	sickness	neuropathy	body structure	clinical diagnosis	clinical symptom	pathological state	clinical evaluation	peripheral nerve disease	respiratory disorder	medical research
+clinical finding	soft tissue lesion	anatomical structure	procedure	removal	conjunctive tissue	body structure	soft tissue mass	disease	body region	defect	neurological finding	surgical process	pathological state	organ
+procedure	clinical finding	pathological state	therapy	disease	cardiac finding	clinical evaluation	intervention	drug	implantation	illness	therapeutic procedure	sickness	vas	clinical symptom
+disease	clinical finding	malignant tumor	sickness	os	malignant neoplasm	cancer	malignancy	neoplasm	tumor	soft tissue lesion	carcinoma	malady	pelvic mass	illness
+illness	mental disorder	mental illness	psychotherapy	psychopathology	psychiatry	practice of medicine	disorder	branch of science	sickness	body structure	psychological medicine	healthcare professional	folie	sentience
+clinical finding	procedure	removal	soft tissue lesion	surgical removal	anatomical structure	disease	injury	implantation	clinical evaluation	body structure	surgical process	surgery	body region	neurological finding
+clinical finding	disease	malady	disorder	soft tissue lesion	malignant tumor	illness	inflammatory disorder	malignancy	pathological state	neoplasm	anatomical pathology	clinical diagnosis	sickness	pathology
+body structure	illness	sickness	disorder	healthcare professional	clinical finding	anatomical structure	malady	pathological state	mental disorder	participation	caregiver	branch of science	medical diagnosis	disease
+clinical finding	disease	pathological state	disorder	degenerative disorder	body structure	genetic defect	inflammatory disorder	neurological lesion	genetic disease	facial dysmorphism	malady	hereditary disease	organ	protein
+sickness	clinical finding	periodontal disease	medicament	illness	pathological state	periodontitis	medical science	body structure	clinical evaluation	disease	disorder	biopolymer	therapeutic procedure	craniofacial pain
+biopolymer	bone	disease	soft tissue lesion	clinical finding	growth	animal tissue	macromolecule	body structure	periodontal disease	protein	clinical evaluation	malignant tumor	polymer	sickness
+clinical finding	disease	pathological state	sickness	illness	therapy	procedure	disorder	drug	body structure	vas	vascular disease	respiratory disorder	clinical evaluation	neurological lesion
+biopolymer	periodontal disease	clinical finding	animal tissue	sickness	disease	malady	body structure	periodontitis	medical science	macromolecule	pathological state	microorganism	clinical evaluation	polymer
+protein	biopolymer	cell	macromolecule	antigen	animal tissue	disease	saccharide	sickness	clinical finding	microorganism	proliferation	enzyme	pathological state	polymer
+disease	clinical finding	illness	sickness	liver disease	disorder	therapy	inflammatory disorder	malady	infectious disease	organ	transplant	respiratory disorder	pathological state	metabolic disease
+sickness	pathological state	malady	plant	painful sensation	animal tissue	illness	biopolymer	body structure	disorder	glycoside	clinical finding	flavoring	drug	macromolecule
+prostate cancer	growth	cancer of prostate	disease	proliferation	carcinoma	tumor	secondary tumor	cancer	cell	somatic cell	pathological state	metastatic tumor	body structure	bone
+tumor-associated antigen	antigen	nucleic acid sequence	disease	biopolymer	somatic cell	protein	cancer	cell	virus	growth	sickness	proliferation	secondary tumor	carcinoma
+body structure	clinical finding	branch of science	procedure	body part	removal	head part	anatomical structure	pathological state	articulation	aid	body region	neural structure	neurological finding	imperfection
+clinical finding	disease	malady	disorder	inflammatory disorder	medicine	cardiopathy	illness	medical science	vascular disease	respiratory disorder	familial disease	organ	disease of lung	anatomical pathology
+disease	illness	sickness	clinical finding	disorder	pathological state	therapy	body structure	respiratory disorder	drug	inflammatory disorder	neurological disease	medical diagnosis	treatment	clinical symptom
+clinical finding	body structure	procedure	disease	sickness	removal	illness	soft tissue lesion	anatomical structure	neurological finding	clinical evaluation	disorder	surgical removal	therapeutic procedure	lump
+body structure	sickness	pathological state	clinical finding	intervention	disease	function	illness	neurological lesion	anatomical structure	disorder	imperfection	therapy	musculoskeletal function	vascular disease
+protein	biopolymer	macromolecule	enzyme	disease	pathological state	biomolecule	antigen	saccharide	cell	hydrolase	peptide	functions	growth	gene
+disease	clinical finding	illness	therapy	pathological state	liver disease	drug	sickness	transplant	metabolic disease	kidney disease	os	infection	infectious disease	lithiasis
+clinical finding	sickness	disease	body structure	pathological state	disorder	malady	illness	therapy	drug	body part	therapeutic procedure	os	cancer of prostate	lithiasis
+soft tissue lesion	disease	clinical finding	lump	malignant tumor	tumor	os	malignancy	soft tissue mass	excision	neoplasm	lung mass	carcinoma	clinical diagnosis	biopsy
+procedure	body structure	branch of science	anatomical structure	receptacle	stimulation	head part	body part	body region	aid	painful sensation	specifications	sickness	pathological state	clinical finding
+disease	clinical finding	illness	sickness	malady	disorder	inflammatory disorder	infectious disease	pathological state	medical science	clinical diagnosis	body structure	anatomical pathology	clinical evaluation	peripheral nerve disease
+headache	headache disorder	cephalalgia	disorder	illness	pain	sickness	craniofacial pain	clinical finding	medication overuse headache	neurological finding	body structure	painful sensation	pathological state	aching
+procedure	biopolymer	disease	clinical finding	clinical evaluation	removal	sickness	macromolecule	organ	therapy	polymer	pathological state	therapeutic procedure	drug	body structure
+clinical finding	disease	abdominal mass	malignant tumor	sickness	soft tissue lesion	illness	malignancy	malady	organ	therapy	os	pelvic mass	inflammatory disorder	neoplasm
+protein	biopolymer	cell	enzyme	pathological state	growth	macromolecule	hydrolase	proliferation	functions	somatic cell	disease	gene	carrier protein	animal tissue
+disease	vascular disease	heart valve	clinical finding	pathological state	growth	proliferation	body structure	os	macromolecule	cardiac valve	protein	biopolymer	congenital malformation	implantation
+disease	pathological state	clinical finding	illness	disorder	sickness	body structure	degenerative disorder	neurological disease	neurological lesion	neurone	therapy	drug	neuropathy	malady
+biopolymer	macromolecule	biomolecule	enzyme	protein	animal tissue	carboxylic acid	cell	plant	food additive	polymer	glycoside	moiety	amide	chemical series
+macromolecule	protein	biomolecule	enzyme	biopolymer	cell	somatic cell	proliferation	disease	growth	pathological state	animal tissue	hydrolase	tumor-associated antigen	amine
+clinical finding	disease	familial disease	disorder	malady	cardiomyopathy	inflammatory disorder	metabolic disease	genetic defect	pathological state	body structure	cardiopathy	organ	genetic disease	degenerative disorder
+clinical finding	sickness	pathological state	disease	illness	digoxin	beta blocker	drug	therapy	cardioversion	body structure	disorder	os	procedure	intervention
+biopolymer	bone	growth	macromolecule	polymer	animal tissue	biomolecule	proliferation	conjunctive tissue	removal	cell	biological agent	joint structure	head part	os
+biopolymer	macromolecule	branch of science	animal tissue	sickness	body structure	procedure	malady	medical science	growth	anatomical structure	functions	pathological state	environment	somatic cell
+clinical finding	disease	soft tissue lesion	biopsy	malignancy	malignant tumor	soft tissue mass	clinical evaluation	procedure	os	tumor	neoplasm	bone	clinical diagnosis	lump
+disease	clinical finding	illness	disorder	malady	neurosyphilis	pathological state	inflammatory disorder	infectious disease	clinical diagnosis	body structure	medical diagnosis	medical science	medical specialty	sickness
+growth	bone	disease	proliferation	clinical finding	biopolymer	pathological state	protein	body structure	degenerative disorder	head structure	cell	conjunctive tissue	sickness	disorder
+disease	antigen	protein	nucleic acid sequence	cell	somatic cell	pathological state	virus	clinical finding	saccharide	sickness	biopolymer	proliferation	growth	infection
+clinical finding	malignant tumor	soft tissue lesion	disease	neoplasm	tumor	proliferation	malignancy	soft tissue mass	organ	conjunctive tissue	abdominal mass	growth	disease of lung	carcinoma
+clinical finding	conjunctive tissue	disease	protein	pathological state	inflammatory disorder	proliferation	biopolymer	soft tissue lesion	cell	growth	animal tissue	damage	organ	body structure
+clinical finding	disease	pathological state	inflammatory disorder	growth	sickness	proliferation	disorder	malady	head structure	body structure	biopolymer	medical science	injury	metabolic disease
+clinical finding	illness	pathological state	sickness	body structure	disorder	vas	neurological finding	aching	disease	procedure	clinical symptom	painful sensation	pain	body part
+clinical finding	disease	soft tissue lesion	sickness	illness	pathological state	lump	body structure	malady	disorder	anatomical structure	inflammatory disorder	clinical symptom	medical science	malignant tumor
+clinical finding	procedure	soft tissue lesion	surgery	removal	disease	surgical procedure	illness	surgical process	sickness	surgical removal	malignant tumor	excision	os	complication
+sickness	clinical finding	illness	disease	medical science	procedure	malady	body structure	medicine	medical diagnosis	disorder	medical specialty	therapeutic procedure	healthcare professional	clinical evaluation
+clinical finding	body structure	implant	soft tissue lesion	anatomical structure	connective tissue	sickness	grafting procedure	defect	procedure	clinical evaluation	periodontal disease	pathological state	head part	bone
+sickness	pathological state	disease	metabolic disease	dietary intake	biopolymer	disorder	carbohydrate	macromolecule	body structure	illness	function	biomolecule	protein	clinical finding
+procedure	implantation	sickness	appendage	body structure	closure	clinical finding	embolism	intervention	malady	disease	vascular disease	anatomical structure	occlusion	macromolecule
+clinical finding	procedure	removal	anatomical structure	soft tissue lesion	conjunctive tissue	body region	vessel	body structure	disease	soft tissue mass	occlusion	tube	injury	defect
+clinical finding	disease	body structure	disorder	sickness	malady	pathological state	clinical symptom	illness	neuropathy	inflammatory disorder	clinical evaluation	nervous disorder	peripheral nerve disease	neurological lesion
+disease	clinical finding	sickness	malignant tumor	malady	malignancy	os	cancer	illness	carcinoma	soft tissue lesion	clinical evaluation	neoplasm	pelvic mass	therapy
+pathological state	clinical finding	disease	function	sickness	drug	procedure	imperfection	organ	functions	therapy	macromolecule	disorder	decrease	musculoskeletal function
+clinical finding	disorder	body structure	pathological state	disease	illness	neurological finding	disturbance	malady	sickness	neurological lesion	soft tissue lesion	clinical symptom	anatomical structure	clinical diagnosis
+respiratory disorder	disease	clinical finding	sickness	illness	respiratory disease	respiratory tract infection	pulmonary disease	disorder	malady	respiratory illness	inflammatory disorder	body structure	pathological state	medical science
+disease	liver disease	clinical finding	disorder	malady	inflammatory disorder	sickness	organ	familial disease	metabolic disease	respiratory disorder	illness	body structure	medicine	pathological state
+disorder	disease	pathological state	sickness	illness	clinical finding	malady	drug	body structure	epilepsy	inflammatory disorder	metabolic disease	therapy	degenerative disorder	ache
+biopolymer	pathological state	sickness	protein	macromolecule	enzyme	clinical finding	proliferation	drug	functions	disease	growth	cell	inhibition	animal tissue
+sickness	pathological state	disorder	drug	neurological lesion	alcohol	clinical finding	body structure	illness	intake	disease	painful sensation	malady	withdrawal	body part
+clinical finding	disease	illness	respiratory disorder	pathological state	cardiac finding	body structure	sickness	clinical symptom	disorder	procedure	lump	soft tissue lesion	malady	vascular disease
+disease	disorder	illness	dementia	body structure	clinical diagnosis	malady	sickness	psychiatry	clinical finding	pathological state	neurological disease	specialisation	degenerative disorder	practice of medicine
+disease	clinical finding	disorder	kidney disease	malady	illness	pathological state	nephropathy	body structure	inflammatory disorder	nephrosis	anatomical pathology	neuropathy	metabolic disease	respiratory disorder
+disease	clinical finding	illness	pneumonia	respiratory disorder	infection	infectious disease	sickness	acute respiratory disease	microorganism	respiratory tract infection	inflammatory disorder	respiratory illness	pneumonitis	lung consolidation
+procedure	removal	body structure	anatomical structure	branch of science	impulse generator	clinical finding	tube	body region	pathological state	animal tissue	fluid	perfusion pump	injury	sickness
+clinical finding	disease	illness	respiratory disorder	pneumonia	sickness	organ	respiratory failure	ventilation	pulmonary disease	lung consolidation	pneumonitis	disease of lung	respiratory acidosis	respiratory insufficiency
+illness	disorder	sickness	mental illness	mental disorder	body structure	psychiatry	branch of science	psychotherapy	clinical finding	healthcare professional	specialism	intervention	sentience	caregiver
+drug	illness	sickness	pathological state	therapy	disorder	pharmaceutical drug	disease	clinical finding	medicament	treatment	administration of substance	therapeutic procedure	body structure	introduction
+clinical finding	body structure	disease	disorder	neuropathy	illness	pathological state	malady	neurological finding	peripheral nerve disease	sickness	soft tissue lesion	anatomical structure	body region	degenerative disorder
+clinical finding	disorder	pathological state	sickness	branch of science	malady	illness	body part	body structure	imperfection	hurting	procedure	painful sensation	bodily function	clinical symptom
+sickness	disease	animal tissue	illness	biomolecule	pathological state	clinical finding	macromolecule	disorder	body structure	biopolymer	zinc	body region	inflammatory disorder	plant
+illness	mental disorder	psychosis	mental illness	disorder	neurosis	psychopathology	psychiatry	folie	psychotherapy	mental disturbance	psychiatric condition	psychoneurosis	psychological medicine	pathological state
+body structure	periodontal disease	clinical finding	sickness	dentist	illness	implant	medical science	malady	dental material	dentistry	body part	appliance	anatomical structure	periodontitis
+illness	clinical finding	sickness	malady	disease	disorder	pathological state	therapy	inflammatory disorder	respiratory disorder	periodontal disease	clinical evaluation	introduction	body structure	infectious disease
+clinical finding	pathological state	disease	disorder	malady	body structure	illness	lump	soft tissue lesion	inflammatory disorder	abdominal mass	conjunctive tissue	sickness	clinical symptom	neuropathy
+proliferation	growth	protein	cell	disease	pathological state	clinical finding	somatic cell	biopolymer	macromolecule	enzyme	sickness	organ	malady	functions
+tumor	procedure	clinical finding	disease	removal	body structure	anatomical structure	soft tissue lesion	os	body region	malignant tumor	surgical material	excision	lump	surgical removal
+animal tissue	biopolymer	biomolecule	macromolecule	procedure	removal	polymer	pathological state	chemical change	clinical finding	chemical reaction	protein	cell	organ	body structure
+clinical finding	disease	illness	respiratory disorder	malady	sickness	disorder	inflammatory disorder	disease of lung	organ	infectious disease	malignancy	pneumonitis	clinical evaluation	therapy
+medical science	clinical finding	medicine	medical specialty	specialty	sickness	surgical specialty	anatomical pathology	speciality	malady	department	disease	illness	hospital department	procedure
+illness	disease	sickness	pathological state	clinical finding	body structure	disorder	malady	infectious disease	respiratory disorder	periodontal disease	microorganism	medical diagnosis	saccharide	periodontitis
+clinical finding	disorder	sickness	body structure	neurological finding	malady	disease	anatomical structure	body part	headache	neurological lesion	pain	clinical symptom	illness	pathological state
+illness	disorder	sickness	pathological state	drug	clinical finding	mental disorder	akathisia	disease	therapy	neurosis	psychiatric condition	psychiatry	malady	treatment
+clinical finding	disease	malignant tumor	soft tissue lesion	neoplasm	malady	medical science	malignancy	inflammatory disorder	sickness	carcinoma	anatomical pathology	malignant neoplasm	pelvic mass	disease of lung
+illness	disorder	clinical finding	pathological state	hurting	mental disorder	disturbance	sickness	malady	nervous disorder	mental disturbance	psychiatric condition	body structure	healthcare professional	dyssomnia
+bone	body structure	anatomical structure	conjunctive tissue	procedure	growth	clinical finding	biopolymer	removal	soft tissue lesion	connective tissue	defect	organ	animal tissue	pathological state
+clinical finding	body structure	disease	sickness	soft tissue lesion	anatomical structure	lump	illness	pathological state	procedure	neurological lesion	disorder	body region	vas	malady
+illness	disorder	sickness	disease	pathological state	clinical finding	mental disorder	malady	body structure	mental disturbance	healthcare professional	disturbance	mental illness	clinical symptom	practice of medicine
+body structure	clinical finding	sickness	pathological state	painful sensation	illness	body part	aching	anatomical structure	malady	disorder	pain	sensation	neurological lesion	disease
+illness	clinical finding	disease	respiratory disorder	sickness	disorder	pathological state	medical diagnosis	malady	body structure	healthcare professional	worker	therapy	clinical symptom	clinical diagnosis
+clinical finding	body structure	neurological finding	disorder	pathological state	malady	illness	sensation	neuropathy	aching	disease	sickness	disturbance	anatomical structure	clinical symptom
+disease	cancer	tumor	carcinoma	os	sickness	clinical finding	malignant tumor	adenocarcinoma	pelvic mass	body structure	neoplasm	soft tissue lesion	malady	metastasis
+illness	sickness	clinical finding	disorder	malady	mental disorder	disease	healthcare professional	body structure	medical diagnosis	worker	pathological state	medical procedure	mental illness	medical science
+biopolymer	pathological state	glycoside	disease	protein	sickness	proliferation	macromolecule	growth	enzyme	cell	clinical finding	plant	animal tissue	constituent
+clinical finding	disease	sickness	metabolic disease	pathological state	organ	adiposity	illness	obesity	os	therapy	intervention	malady	procedure	disorder
+clinical finding	disease	disorder	illness	pathological state	sickness	encephalopathy	body structure	neurological lesion	inflammatory disorder	malady	respiratory disorder	medical diagnosis	clinical diagnosis	metabolic disease
+body structure	head part	sickness	implant	procedure	anatomical structure	clinical finding	body part	articulation	bone	branch of science	joint	removal	connective tissue	macromolecule
+pathological state	sickness	body structure	clinical finding	disorder	malady	functions	illness	anatomical structure	painful sensation	neurological lesion	stimulation	body part	disease	neural structure
+clinical finding	disease	malady	inflammatory disorder	illness	disorder	malignancy	soft tissue lesion	infectious disease	respiratory disorder	sickness	medical science	anatomical pathology	neoplasm	disease of lung
+clinical finding	illness	pathological state	disease	disorder	sickness	disturbance	respiratory disorder	clinical symptom	body structure	neurological lesion	malady	imperfection	metabolic disease	hurting
+medicine	medical specialty	specialty	medical science	healthcare professional	illness	practice of medicine	speciality	physician	service	career	department	health care	clinical finding	nurse
+clinical finding	body structure	disease	disorder	malady	neuropathy	illness	pathological state	degenerative disorder	neurological lesion	neurological finding	peripheral nerve disease	anatomical structure	clinical diagnosis	soft tissue lesion
+clinical finding	soft tissue lesion	anatomical structure	disease	procedure	body structure	removal	conjunctive tissue	pathological state	soft tissue mass	malady	lump	surgical removal	inflammatory disorder	disease of lung
+procedure	clinical finding	body structure	removal	anatomical structure	clinical evaluation	soft tissue lesion	sickness	animal tissue	branch of science	therapeutic procedure	medical science	disease	tube	body region
+clinical finding	malignancy	disease	soft tissue lesion	malignant tumor	tumor	malignant neoplasm	carcinoma	clinical diagnosis	disorder	soft tissue mass	inflammatory disorder	lung mass	lump	disease of lung
+clinical finding	sickness	disease	ventilation	respiratory disorder	illness	breathing	procedure	pathological state	body structure	ventilator	intervention	disorder	respiratory acidosis	medical diagnosis
+illness	sickness	disease	therapy	healthcare professional	intervention	drug	clinical finding	treatment	pathological state	disorder	body structure	medical specialty	introduction	respiratory disorder
+procedure	tube	perfusion pump	fluid	clinical finding	removal	impulse generator	receptacle	animal tissue	chamber	arterial blood	blood	branch of science	macromolecule	imaging of heart
+clinical finding	pathological state	disease	fluid	body fluid	drug	macromolecule	procedure	removal	therapy	organ	sickness	acidosis	inotropic agent	musculoskeletal function
+clinical finding	neuropathy	disease	disorder	pathological state	peripheral nerve disease	malady	illness	body structure	sickness	degenerative disorder	inflammatory disorder	polyneuropathy	clinical diagnosis	neurological lesion
+clinical finding	disease	sickness	procedure	vascular disease	pathological state	illness	injury	embolism	cardiac finding	removal	clinical evaluation	organ	respiratory disorder	implantation
+clinical finding	body structure	procedure	anatomical structure	sickness	body region	body part	soft tissue lesion	removal	disease	neurological finding	pathological state	neurological lesion	spinal canal	neural structure
+illness	disorder	clinical finding	sickness	mental disorder	malady	body structure	pathological state	disease	medical diagnosis	psychiatric condition	mental illness	respiratory disorder	neurosis	healthcare professional
+sickness	opiate	drug	withdrawal	pathological state	disease	pain sensation	clinical finding	illness	painful sensation	drug withdrawal	medicament	pain	disorder	body structure
+clinical finding	body structure	anatomical structure	procedure	removal	injury	body region	connective tissue	pathological state	disease	conjunctive tissue	neurological finding	malady	soft tissue lesion	damage
+drug	pathological state	disease	sickness	therapy	clinical finding	illness	malady	medicament	biopolymer	pharmaceutical drug	disorder	treatment	therapeutic procedure	glycoside
+clinical finding	disease	vascular disease	pulmonary hypertension	respiratory disorder	pathological state	sickness	interstitial lung disease	therapy	vascular function	body structure	thromboembolic disease	precapillary pulmonary hypertension	drug	organ
+sickness	drug	disease	clinical finding	procedure	pathological state	therapy	macromolecule	biopolymer	embolism	os	body structure	thromboembolism	illness	thrombosis
+drug	procedure	fluid	blood	pathological state	biopolymer	clinical finding	macromolecule	decrease	disease	blood flow	removal	sickness	arterial blood	perfusion pump
+enzyme	protein	pathological state	animal tissue	macromolecule	biomolecule	biopolymer	cell	functions	proliferation	damage	disease	function	metabolism	conjunctive tissue
+biopolymer	protein	animal tissue	enzyme	macromolecule	biomolecule	polymer	chemical change	saccharide	antigen	proliferation	pathological state	cell signaling	conjunctive tissue	cell
+soft tissue lesion	clinical finding	malignant tumor	soft tissue mass	neoplasm	growth	tumor	bone	lump	surgical removal	excision	proliferation	disease	anatomical structure	conjunctive tissue
+clinical finding	anatomical structure	procedure	body structure	soft tissue lesion	removal	body region	neurological finding	defect	disease	neural structure	surgical process	pathological state	soft tissue mass	head structure
+growth	bone	biopolymer	cell	proliferation	biomolecule	macromolecule	body structure	bone formation	protein	conjunctive tissue	functions	somatic cell	pathological state	disease
+macromolecule	biopolymer	pathological state	clinical finding	blood	disease	protein	cell	sickness	growth	biomolecule	proliferation	animal tissue	enzyme	body fluid
+body structure	bone	biopolymer	anatomical structure	growth	clinical finding	injury	conjunctive tissue	connective tissue	biomolecule	proliferation	joint	macromolecule	pathological state	sickness
+illness	disorder	sickness	mental disorder	caregiver	body structure	clinical diagnosis	disease	healthcare professional	assessment scales	mental illness	medical research	medical science	scale	depression
+clinical finding	disease	soft tissue lesion	malignant tumor	neoplasm	tumor	organ	congenital malformation	congenital disease	procedure	anatomical structure	malignancy	malady	lump	pathology
+disease	biopolymer	polymer	drug	proliferation	macromolecule	pathological state	vascular disease	enzyme	vascular function	growth	conjunctive tissue	animal tissue	biomolecule	os
+protein	cell	proliferation	growth	outgrowth	disease	body structure	macromolecule	pathological state	neuron	somatic cell	biopolymer	enzyme	biomolecule	clinical finding
+clinical finding	pathological state	illness	sickness	disorder	disease	body structure	malady	clinical evaluation	neurological lesion	clinical symptom	clinical diagnosis	healthcare professional	nervous disorder	medical diagnosis
+clinical finding	soft tissue lesion	procedure	removal	disease	surgical removal	excision	clinical evaluation	conjunctive tissue	malignant tumor	connective tissue	sickness	lump	organ	malady
+pathological state	clinical finding	procedure	biopolymer	head part	sickness	animal tissue	macromolecule	body structure	dental material	polymer	bone	implant	biomolecule	removal
+drug	amine	pathological state	carboxylic acid	medicament	macromolecule	enzyme	glycoside	biomolecule	biopolymer	pharmaceutical drug	sickness	protein	inhibition	disorder
+biopolymer	macromolecule	cell	sickness	protein	animal tissue	biomolecule	isolation procedure	antigen	body structure	assay	pathological state	polymer	saccharide	analyte
+disease	clinical finding	malignant tumor	biopolymer	soft tissue lesion	sickness	proliferation	malady	organ	growth	os	medical science	tumor	inflammatory disorder	macromolecule
+disease	clinical finding	illness	organ	inflammatory disorder	transplant	malady	disorder	sickness	malignancy	infectious disease	liver disease	respiratory disorder	transplantation	metabolic disease
+pathological state	drug	sickness	clinical finding	disease	biopolymer	painful sensation	functions	medicament	function	malady	glycoside	illness	macromolecule	animal tissue
+disease	clinical finding	inflammatory disorder	pathological state	sickness	therapy	malady	biopolymer	illness	conjunctive tissue	biological agent	disorder	soft tissue lesion	organ	os
+disease	neuropathy	clinical finding	disorder	peripheral nerve disease	pathological state	inflammatory disorder	sickness	malady	body structure	polyneuropathy	illness	degenerative disorder	anatomical structure	pathology
+disorder	clinical finding	disease	body structure	malady	anatomical structure	pathological state	degenerative disorder	inflammatory disorder	sickness	illness	pathology	soft tissue lesion	heterotopia	growth
+illness	clinical finding	sickness	disease	pathological state	disorder	body structure	body region	respiratory disorder	drug	clinical symptom	state	neurological lesion	anatomical structure	malady
+clinical finding	disorder	disease	pathological state	neurological finding	body structure	illness	degenerative disorder	clinical diagnosis	clinical symptom	neurological lesion	malady	disturbance	body region	anatomical structure
+pathological state	disease	sickness	therapy	illness	clinical finding	procedure	malady	therapeutic procedure	removal	drug	disorder	body structure	intervention	anatomical structure
+clinical finding	cardiac finding	body structure	procedure	congenital malformation	anomaly	closure	congenital disease	disease	surgical repair	semilunar valve	ductus	vascular disease	imaging of heart	anatomical structure
+clinical finding	procedure	cardiac finding	disease	implantation	vascular disease	cardiopathy	imaging of heart	valve	heart valve	echocardiography	cardiac valve	body structure	anatomical structure	clinical evaluation
+pathological state	intervention	body structure	function	sickness	imperfection	illness	neurological lesion	clinical finding	functions	state	musculoskeletal function	branch of science	disease	participation
+cell	protein	macromolecule	biomolecule	neuron	body structure	biopolymer	pathological state	growth	functions	anatomical structure	somatic cell	proliferation	disease	clinical finding
+disorder	illness	clinical finding	pathological state	body structure	malady	disturbance	clinical symptom	body part	disease	sickness	mental disorder	nervous disorder	neurological lesion	folie
+sickness	illness	disorder	headache	malady	body structure	clinical finding	headache disorder	pathological state	aching	mental disorder	sentience	craniofacial pain	disease	ache
+drug	clinical finding	sickness	therapy	medicament	procedure	biological agent	pathological state	biopolymer	disease	osmotic laxative	treatment	route of administration	administration of substance	illness
+biomolecule	biopolymer	macromolecule	pathological state	animal tissue	assay	chemical change	sugar	polymer	protein	analyte	enzyme	glucose	chemical reaction	branch of science
+illness	mental illness	disorder	sickness	psychiatry	psychiatric condition	psychotherapy	psychopathology	mental disturbance	health professional	psychological medicine	healthcare professional	caregiver	health care	psychological disorder
+clinical finding	periodontal disease	disease	periodontitis	soft tissue lesion	body structure	disorder	malady	inflammatory disorder	connective tissue	sickness	pathological state	illness	conjunctive tissue	clinical evaluation
+disease	clinical finding	pathological state	diabetes	metabolic disease	disorder	neuropathy	sickness	malady	illness	vascular disease	body structure	obesity	peripheral nerve disease	adiposity
+clinical finding	disease	illness	sickness	clinical diagnosis	body structure	disorder	clinical evaluation	malady	procedure	healthcare professional	medical science	medical diagnosis	vascular disease	clinical symptom
+procedure	clinical finding	artery	body structure	appendage	cardiac finding	imaging of heart	implantation	orifice	vessel	tube	organ	anatomical structure	disease	ductus
+practice of medicine	malady	medical science	medical specialty	body structure	branch of science	medicine	specialism	specialization	specialty	career	speciality	pathological state	research	therapeutic procedure
+clinical finding	soft tissue lesion	disease	malignant tumor	neoplasm	carcinoma	malady	malignancy	tumor	anatomical pathology	disorder	malignant neoplasm	proliferation	inflammatory disorder	lump
+illness	disorder	disease	clinical finding	healthcare professional	medical practitioner	medical diagnosis	mental disorder	sickness	respiratory disorder	pathological state	drug	clinical diagnosis	participation	mental illness
+clinical finding	disease	pathological state	body structure	sickness	disorder	malady	anatomical structure	head structure	illness	biopolymer	medical science	growth	macromolecule	body region
+procedure	macromolecule	clinical finding	blood	tube	biopolymer	disease	sickness	removal	perfusion pump	pathological state	fluid	oxygenator	animal tissue	body fluid
+clinical finding	body structure	disease	anatomical structure	procedure	neurological finding	soft tissue lesion	body region	clinical evaluation	clinical symptom	body part	disorder	neurological lesion	injury	malady
+illness	sickness	body structure	healthcare professional	practice of medicine	disorder	medicine	mental disorder	medical science	mental illness	psychotherapy	branch of science	specialism	medical specialty	psychiatry
+clinical finding	illness	pathological state	disease	disorder	sickness	clinical symptom	malady	therapy	respiratory disorder	medical diagnosis	neurological lesion	body structure	disturbance	hurting
+illness	body structure	clinical finding	disorder	pathological state	malady	disease	neurological finding	branch of science	neurological lesion	clinical diagnosis	body part	sickness	neurological disorder	anatomical structure
+sickness	illness	pathological state	malady	disorder	disease	drug	therapy	therapeutic procedure	medical science	clinical finding	treatment	medicine	inflammatory disorder	respiratory disorder
+biopolymer	proliferation	malignant tumor	disease	clinical finding	growth	sickness	protein	somatic cell	cell	tumor	skin lesion	secondary tumor	biological agent	cancer of prostate
+procedure	macromolecule	biopolymer	clinical finding	blood	disease	tube	animal tissue	fluid	thrombosis	removal	pathological state	body fluid	protein	sickness
+malady	clinical finding	pathological state	illness	sickness	disorder	branch of science	flavoring	medical science	medicament	body structure	plant	disease	nervous disorder	hurting
+disease	protein	malady	somatic cell	pathological state	body structure	sickness	biopolymer	clinical finding	cell	animal tissue	disorder	growth	macromolecule	medical science
+pathological state	carbohydrate	disease	biomolecule	metabolic disease	biopolymer	adiposity	macromolecule	food intake	clinical finding	sugar	metabolism	protein	dietary intake	growth
+clinical finding	disease	sickness	illness	pathological state	organ	respiratory disorder	os	biological agent	therapy	malady	disorder	transplantation	body structure	drug
+clinical finding	disease	illness	procedure	sickness	respiratory disorder	medical diagnosis	clinical diagnosis	medical science	healthcare professional	medicine	infectious disease	clinical evaluation	worker	intervention
+clinical finding	respiratory disorder	disease	illness	pulmonary disease	sickness	body structure	disease of lung	lung consolidation	clinical symptom	procedure	vas	obstruction	chest	precapillary pulmonary hypertension
+illness	clinical finding	disease	sickness	pathological state	respiratory disorder	inflammatory disorder	disorder	malady	organ	pneumonia	infectious disease	body structure	injury	metabolic disease
+enzyme	macromolecule	biopolymer	animal tissue	biomolecule	metabolism	pathological state	glycoside	carboxylic acid	protein	food additive	drug	moiety	polymer	saccharide
+disorder	clinical finding	disease	body structure	malady	degenerative disorder	pathological state	anatomical structure	congenital disorder	illness	facial dysmorphism	inflammatory disorder	growth	genetic defect	congenital malformation
+body structure	stimulation	anatomical structure	clinical finding	neural structure	body part	pathological state	sickness	neurological lesion	body region	disorder	somatic sensation	therapeutic procedure	procedure	medical science
+disease	pathological state	somatic cell	clinical finding	protein	biomolecule	malady	body structure	disorder	cell	animal tissue	metabolic disease	macromolecule	enzyme	proliferation
+drug	pathological state	procedure	disease	clinical finding	sickness	inotropic agent	therapy	beta-adrenergic blocker	digoxin	pharmaceutical drug	illness	beta blocker	sedation	function
+clinical finding	disease	disorder	soft tissue lesion	congenital abnormality	neoplasm	congenital disorder	inflammatory disorder	malady	body structure	congenital malformation	anomaly	disease of lung	congenital anomaly	lump
+disease	clinical finding	disorder	degenerative disorder	neuropathy	peripheral nerve disease	familial disease	malady	body structure	genetic disease	inflammatory disorder	illness	pathological state	clinical diagnosis	neurological disease
+clinical finding	pathological state	disease	procedure	drug	malady	sickness	painful sensation	animal tissue	therapeutic procedure	inflammatory disorder	anatomical structure	vas	neurological lesion	conjunctive tissue
+clinical finding	procedure	body structure	head part	soft tissue lesion	clinical evaluation	aid	medical science	malady	implant	removal	grafting procedure	sickness	dental material	anatomical structure
+clinical finding	soft tissue lesion	soft tissue mass	disease	lung mass	procedure	lump	disease of lung	clinical evaluation	anatomical structure	lung consolidation	conjunctive tissue	body structure	surgical removal	imperfection
+clinical finding	procedure	disease	removal	soft tissue lesion	sickness	pathological state	surgical process	illness	thrombosis	clinical evaluation	implantation	surgical procedure	organ	body structure
+clinical finding	sickness	illness	disease	disorder	body structure	malady	medical science	clinical diagnosis	clinical evaluation	pathological state	procedure	trauma	clinical symptom	anatomical structure
+drug	illness	pathological state	sickness	disorder	therapy	treatment	administration of substance	pharmaceutical drug	medicament	mental disorder	disease	administration of medication	withdrawal	akathisia
+disease	clinical finding	pathological state	proliferation	growth	drug	os	sickness	protein	body structure	biological agent	conjunctive tissue	inflammatory disorder	malignant tumor	vascular disease
+protein	macromolecule	biopolymer	cell	enzyme	animal tissue	growth	saccharide	biomolecule	body structure	somatic cell	proliferation	disease	functions	pathological state
+sickness	disorder	pathological state	illness	drug	malady	biopolymer	biomolecule	disease	enzyme	animal tissue	macromolecule	glycoside	protein	mycotoxin
+disease	clinical finding	cardiomyopathy	pathological state	cardiopathy	vascular disease	sickness	organ	disorder	malady	inflammatory disorder	illness	function	conjunctive tissue	familial disease
+pathological state	diabetes	enzyme	disease	biopolymer	protein	carbohydrate	polyol	clinical finding	drug	aldose	monosaccharide	carboxylic acid	biomolecule	macromolecule
+clinical finding	disease	body structure	pathological state	conjunctive tissue	soft tissue lesion	inflammatory disorder	clinical evaluation	respiratory disorder	disorder	organ	neurological lesion	malady	degenerative disorder	illness
+neuron	cell	body structure	anatomical structure	growth	protein	pathological state	body region	functions	outgrowth	nerve cell	macromolecule	somatic cell	disease	degenerative disorder
+disease	pathological state	sickness	animal tissue	protein	mycotoxin	macromolecule	damage	injury	cell	metabolic disease	body structure	drug	proliferation	biopolymer
+protein	cell	gene	growth	enzyme	proliferation	somatic cell	biopolymer	functions	macromolecule	hydrolase	biomolecule	eukaryotes	pathological state	disease
+clinical finding	precapillary pulmonary hypertension	disease	imaging of heart	pulmonary hypertension	cardiac finding	vascular disease	echocardiography	vascular resistance	procedure	fluid	cardiopathy	organ	blood flow	conjunctive tissue
+disease	biopolymer	sickness	clinical finding	protein	animal tissue	food allergen	pathological state	malady	macromolecule	illness	antigen	saccharide	mycotoxin	inflammatory disorder
+clinical finding	illness	disease	body structure	disorder	sickness	injury	respiratory disorder	clinical symptom	neurological lesion	malady	organ	poisoning	pathological state	metabolic disease
+body structure	illness	disorder	sickness	clinical finding	state	disease	malady	body part	pathological state	sentience	neurological lesion	somatic sensation	anatomical structure	clinical diagnosis
+drug	pathological state	sickness	disorder	disease	illness	alcohol	clinical finding	opiate	respiratory disorder	morphine	abuse	withdrawal	dependence	neurological lesion
+clinical finding	sickness	disease	malady	illness	organ	disease of lung	disorder	body structure	procedure	respiratory disorder	medical science	inflammatory disorder	clinical symptom	lump
+disorder	body structure	illness	sickness	mental disorder	attention	malady	disease	psychiatry	pathological state	clinical finding	body part	clinical diagnosis	psychopathology	practice of medicine
+periodontal disease	periodontitis	clinical finding	biofluid	pathological state	malady	macromolecule	disease	body structure	biopolymer	animal tissue	sickness	fluid	body fluid	biomolecule
+bone	body structure	growth	bone formation	clinical finding	bone tissue	conjunctive tissue	anatomical structure	soft tissue lesion	body region	musculoskeletal function	injury	disease	organ	head structure
+clinical finding	soft tissue lesion	malignant tumor	disease	hamartoma	neoplasm	lump	congenital abnormality	soft tissue mass	congenital anomaly	body structure	anatomical structure	anomaly	tumor	inflammatory disorder
+illness	mental disorder	disorder	mental illness	malady	folie	sickness	clinical finding	psychiatry	psychotherapy	neurosis	practice of medicine	branch of science	medical specialty	body structure
+prostate cancer	carcinoma	cancer of prostate	cancer	malignancy	disease	tumor	malignant tumor	proliferation	adenocarcinoma	somatic cell	pelvic mass	neoplasm	prostatectomy	metastatic tumor
+disease	clinical finding	sickness	metabolic disease	organ	pathological state	illness	respiratory disorder	malady	disorder	body structure	growth	inflammatory disorder	malignancy	clinical diagnosis
+disease	pathological state	macromolecule	clinical finding	biopolymer	antigen	animal tissue	protein	nucleic acid sequence	microorganism	saccharide	biological agent	cell	reaction	functions
+pathological state	clinical finding	illness	drug	sickness	disorder	disease	body structure	therapy	neurological lesion	painful sensation	neurological finding	body part	treatment	malady
+clinical finding	inotropic agent	disease	sickness	pathological state	vascular disease	vascular resistance	digoxin	drug	procedure	organ	cardiac finding	function	body structure	blood flow
+disease	cancer	carcinoma	sickness	clinical finding	cancer of prostate	pelvic mass	radical cystectomy	malady	tumor	medical science	os	prostate cancer	body structure	urology
+clinical finding	body structure	disease	soft tissue lesion	anatomical structure	procedure	malignant tumor	sickness	medical science	head structure	removal	clinical evaluation	body region	malady	tumor
+clinical finding	disease	illness	malady	inflammatory disorder	disorder	sickness	organ	body structure	infectious disease	pathological state	respiratory disorder	clinical diagnosis	disease of lung	vascular disease
+illness	disease	sickness	body structure	healthcare professional	service	clinical finding	medical specialty	specialism	medical diagnosis	primary care provider	medical care	care	worker	health care
+body structure	anatomical structure	macromolecule	procedure	biomolecule	biopolymer	animal tissue	branch of science	imperfection	pathological state	specifications	body region	cell	functions	growth
+clinical finding	disease	illness	sickness	disorder	pathological state	clinical symptom	clinical diagnosis	malady	vascular disease	medical diagnosis	clinical evaluation	inflammatory disorder	respiratory disorder	state
+tumor	disease	clinical finding	cancer	malignant tumor	os	soft tissue lesion	procedure	sickness	body region	oncology	organ	secondary tumor	carcinoma	body structure
+clinical finding	procedure	disease	sickness	illness	soft tissue lesion	therapy	removal	clinical evaluation	drug	respiratory disorder	pathological state	fluid	microorganism	conjunctive tissue
+clinical finding	disease	soft tissue lesion	inflammatory disorder	disease of lung	disorder	pathological state	illness	clinical diagnosis	malady	conjunctive tissue	respiratory disorder	clinical evaluation	organ	clinical symptom
+soft tissue lesion	disease	malignant tumor	clinical finding	macromolecule	biopolymer	clinical evaluation	oral lesion	biomolecule	protein	antigen	malignancy	animal tissue	organ	procedure
+healthcare professional	illness	clinical finding	sickness	intervention	body structure	medical aid	procedure	medical care	worker	physician	practice of medicine	medical specialty	disease	nurse
+clinical finding	disease	illness	respiratory disorder	pathological state	disease of lung	inflammatory disorder	disorder	lung consolidation	pneumonitis	clinical symptom	soft tissue lesion	infectious disease	organ	pneumonia
+protein	biopolymer	cell	enzyme	nucleic acid sequence	gene	biomolecule	somatic cell	animal tissue	macromolecule	antigen	growth	proliferation	saccharide	reaction mixture
+illness	sickness	mental disorder	mental illness	body structure	disorder	medical specialty	malady	career	specialism	medical diagnosis	worker	psychotherapy	service	clinical finding
+pathological state	disease	os	clinical finding	body structure	sickness	growth	cancer	biological agent	medical science	malady	illness	oncology	tumor	somatic cell
+protein	gene	enzyme	clinical finding	disease	somatic cell	proliferation	cell	biomolecule	macromolecule	biopolymer	eukaryotes	animal tissue	body structure	growth
+body structure	disorder	disease	clinical finding	malady	illness	clinical diagnosis	degenerative disorder	body part	pathological state	sickness	clinical symptom	neurological lesion	neurological disease	pathology
+animal tissue	protein	macromolecule	biopolymer	disease	pathological state	biomolecule	zinc	organ	cell	body structure	sickness	polymer	enzyme	body region
+clinical finding	procedure	illness	medical specialty	sickness	healthcare professional	disease	practice of medicine	physician	malady	medical science	specialty	surgical specialty	body structure	clinical diagnosis
+illness	disorder	sickness	mental disorder	mental illness	caregiver	worker	healthcare professional	psychopathology	body structure	clinical finding	psychiatry	psychological medicine	psychotherapy	attention
+disorder	illness	sickness	clinical finding	disease	body structure	neurological disorder	malady	pathological state	neurological disease	neurological lesion	psychiatry	clinical diagnosis	status epilepticus	mental disorder
+protein	enzyme	macromolecule	biopolymer	saccharide	biomolecule	cell	disease	pathological state	animal tissue	functions	moiety	eukaryotes	proliferation	carbohydrate
+body structure	bone	clinical finding	biopolymer	sickness	clinical evaluation	medical science	disease	head structure	soft tissue lesion	joint	procedure	growth	connective tissue	grafting procedure
+disorder	illness	pathological state	malady	sickness	body structure	disease	metabolic disease	medical diagnosis	clinical finding	mental disorder	anatomical structure	sentience	somatic cell	psychiatric condition
+cell	macromolecule	biopolymer	growth	protein	anatomical structure	proliferation	biomolecule	animal tissue	functions	conjunctive tissue	body structure	somatic cell	pathological state	neuron
+disease	pathological state	therapy	biological agent	sickness	os	tumor	clinical finding	drug	malignant tumor	cancer	carcinoma	abdominal mass	malady	growth
+pathological state	enzyme	macromolecule	protein	disease	biomolecule	clinical finding	carbohydrate	sickness	functions	animal tissue	glycoside	metabolism	body structure	metabolic process
+illness	medical specialty	career	medicine	healthcare professional	medical science	sickness	specialty	clinical finding	speciality	malady	practice of medicine	medical research	specialism	worker
+biopolymer	macromolecule	animal tissue	amine	polymer	protein	cell	pathological state	disease	conjunctive tissue	sickness	biomolecule	body structure	clinical finding	saccharide
+biopolymer	procedure	bone	macromolecule	clinical finding	defect	clinical evaluation	connective tissue	polymer	grafting procedure	removal	bone graft material	implant	body structure	flap
+cell	protein	macromolecule	disease	biomolecule	proliferation	biopolymer	pathological state	animal tissue	body structure	functions	growth	eukaryotes	somatic cell	clinical finding
+clinical finding	medical science	dental medicine	medicine	malady	dentistry	periodontal disease	sickness	soft tissue lesion	body structure	procedure	clinical evaluation	lump	periodontitis	disease
+clinical finding	body structure	procedure	soft tissue lesion	anatomical structure	grafting procedure	malady	clinical evaluation	head part	connective tissue	defect	sickness	disorder	pathological state	disease
+bone	implant	biopolymer	body structure	procedure	soft tissue lesion	defect	clinical finding	grafting procedure	polymer	fracture	removal	implantation	animal tissue	conjunctive tissue
+proliferation	cell	growth	antigen	somatic cell	protein	biopolymer	disease	clinical finding	macromolecule	pathological state	enzyme	sickness	inflammatory disorder	tumor-associated antigen
+biopolymer	amine	drug	glycoside	carboxylic acid	enzyme	amide	macromolecule	polymer	food additive	animal tissue	protein	medicament	pathological state	moiety
+procedure	biopolymer	animal tissue	dental material	polymer	head part	removal	bone	physical property	clinical finding	macromolecule	branch of science	soft tissue lesion	sickness	body structure
+body structure	procedure	body part	head part	branch of science	clinical finding	anatomical structure	intervention	surgical process	aid	body region	removal	neurological lesion	articulation	pathological state
+drug	sickness	illness	pathological state	disorder	disease	therapy	medicament	clinical finding	treatment	craniofacial pain	morphine	ache	malady	body structure
+clinical finding	disease	malady	sickness	pathological state	disorder	illness	inflammatory disorder	protein	respiratory disorder	macromolecule	malignancy	biopolymer	neuropathy	somatic cell
+medicine	cancer	medical science	radical prostatectomy	prostate cancer	prostatectomy	oncology	carcinoma	pelvic mass	surgical specialty	disease	radical cystectomy	anatomical pathology	sickness	clinical finding
+malady	illness	clinical finding	branch of science	body structure	disorder	sentience	sickness	practice of medicine	medical science	specialism	nervous disorder	pathological state	disease	medical specialty
+sickness	clinical finding	craniofacial pain	pathological state	illness	headache	pain	disorder	ache	disease	painful sensation	body structure	headache disorder	os	malady
+clinical finding	disease	sickness	embolism	pathological state	thromboembolism	procedure	illness	vascular disease	body structure	drug	therapy	os	malady	macromolecule
+illness	disorder	disease	pathological state	sickness	clinical finding	mental disorder	malady	body structure	healthcare professional	drug	psychiatry	clinical diagnosis	therapy	neurological lesion
+body structure	somatic cell	protein	gene	growth	disease	cell	anatomical structure	malady	disorder	clinical finding	degenerative disorder	eukaryotes	proliferation	pathological state
+illness	disorder	sickness	clinical finding	pathological state	hurting	malady	body structure	bodily function	neurosis	mental disorder	nervous disorder	branch of science	aching	disturbance
+clinical finding	disease	sickness	vascular disease	pathological state	clinical evaluation	cardiomyopathy	medical diagnosis	illness	body structure	body fluid	metabolic disease	disorder	clinical diagnosis	function
+disease	clinical finding	pathological state	inflammatory disorder	proliferation	conjunctive tissue	malignancy	protein	disorder	respiratory disorder	malady	malignant tumor	organ	growth	disease of lung
+disease	clinical finding	sickness	malady	inflammatory disorder	illness	respiratory disorder	disorder	pathological state	medical science	medicine	infectious disease	therapy	pneumonitis	antigen
+disorder	clinical finding	disease	malady	neuropathy	pathological state	neurological disorder	illness	degenerative disorder	inflammatory disorder	body structure	familial disease	neurological disease	clinical symptom	peripheral nerve disease
+clinical finding	optic neuropathy	disease	inflammatory disorder	sickness	disorder	pathological state	neuropathy	malady	illness	soft tissue lesion	body structure	neurological finding	anatomical structure	peripheral nerve disease
+body structure	clinical finding	anatomical structure	pathological state	body part	sickness	body region	neurological lesion	malady	disease	neuropathy	disorder	illness	painful sensation	neurological finding
+clinical finding	procedure	blood flow	body structure	disease	sickness	injury	anatomical structure	macromolecule	pathological state	removal	function	clinical evaluation	fluid	organ
+disease	procedure	body structure	clinical finding	pathological state	illness	sickness	clinical evaluation	anatomical structure	clinical diagnosis	protein	aid	os	specifications	disorder
+pathological state	disease	clinical finding	sickness	malady	metabolic disease	illness	body structure	sugar	carbohydrate	disorder	dietary intake	therapy	neurological lesion	biomolecule
+clinical finding	soft tissue lesion	disease	tumor	procedure	removal	body structure	surgical removal	malignant tumor	excision	anatomical structure	malady	growth	sickness	soft tissue mass
+clinical finding	disease	pathological state	sickness	illness	procedure	body structure	medical diagnosis	vascular disease	clinical evaluation	disorder	clinical diagnosis	clinical symptom	respiratory disorder	therapy
+disorder	clinical finding	illness	disease	sickness	malady	pathological state	body structure	metabolic disease	nervous disorder	clinical symptom	ache	neurological disorder	respiratory disorder	medical science
+illness	mental disorder	sickness	caregiver	disorder	mental illness	healthcare professional	psychotherapy	body structure	clinical finding	psychopathology	psychological disorder	intervention	hurting	neuroticism
+illness	sickness	disorder	drug	malady	mental disorder	pathological state	neurosis	mental illness	psychotherapy	branch of science	clinical finding	therapy	disease	nervous disorder
+body structure	procedure	clinical finding	anatomical structure	body part	body region	painful sensation	removal	neurological finding	impulse generator	vas	stimulation	head part	branch of science	pathological state
+biopolymer	clinical finding	clinical evaluation	grafting procedure	polymer	procedure	bone	removal	disease	sickness	implant	soft tissue lesion	macromolecule	body structure	bone graft

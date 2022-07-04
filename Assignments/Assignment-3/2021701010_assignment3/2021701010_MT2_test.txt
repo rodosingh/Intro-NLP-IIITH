@@ -1,0 +1,1306 @@
+corpus_BLEU:	3.125191
+Et , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.4042387286444455
+Et , , , , , , .  <eos> <eos> <eos> <eos>	1.5436644068195333
+Et est , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.4971158614143294
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5019398568141248
+Et , , , , , , , .  <eos> <eos> <eos> <eos>	1.7956349284756952
+Et , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.6151720297612713
+Et , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5238499385463977
+Et , , .  <eos> <eos> <eos>	2.156693969393992
+Et , .  <eos> <eos> <eos> <eos> <eos> <eos>	0.8887839864973845
+Et , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.2745858173323723
+Et est est est est , , , , , , , , , , , , , , , , , , , , , , , ,	2.0145071295892203
+Et , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8896546764139783
+Et , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5305763187547438
+Et , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.9841254112306917
+Et .  <eos> <eos> <eos>	1.9119108411650758
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos>	1.5199466663267451
+Et , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.5203507802452136
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5307962702637211
+Et est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8676958340999544
+Et , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7052178108392831
+Et , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6838393198807637
+Et est est est est , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.9925572822875032
+Et est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5019398568141248
+Et , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7735615314649243
+Et , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.34179525449681164
+Et , , , , , .  <eos> <eos> <eos> <eos>	1.866455476068894
+Et est , , , , , .  <eos> <eos>	2.60859600387516
+Et , , , , , .  <eos> <eos>	3.3142882018868
+Et , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7677840347154583
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.6874463837095038
+Et est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8676958340999544
+Et est est , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7622192632595594
+Et est est est est est , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6018550115078719
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.2540980706244005
+Et est est est est est est est est , .	4.540013809283726
+Et est est est , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6373159984331113
+Et est est est , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6897404609352816
+Et est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.9600611940453904
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos>	0.9394936903327626
+Et est est est , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.0755462360979269
+Et , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5275816745125588
+Et est est est est , , , , , , , , , , , , .  <eos> <eos> <eos> <eos>	1.3809851504530963
+Et est est , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7230729329389843
+Et est est est est est .  <eos> <eos> <eos> <eos> <eos> <eos>	1.2482247181508341
+Et , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.0347491962428474
+Et , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8248496679006178
+Et est , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.9335319664286456
+Et est est .  <eos>	9.138402379955025
+Et , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.2333876140809734
+Et , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.161454369214914
+Et reviewer >  <eos> <eos> <eos> <eos>	0.0
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7395617032094572
+Et .  <eos> <eos> <eos> <eos> <eos>	0.9690650671856613
+Et , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.925702029626254
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.744622752924511
+Et , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.0026480694935538
+Et , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7556342428242743
+Et est est , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.2458232008504773
+Et est est , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.4796285733189312
+Et , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5019225302951664
+Et , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.4489987759263738
+Et est est est .  <eos> <eos> <eos> <eos> <eos> <eos>	0.0
+Et est est .  <eos> <eos>	3.564186929405141
+Et , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.4157146038769592
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.149898569087498
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.3358964482707558
+Et est est est est est est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.1620173530575975
+Et est est est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5390885954242963
+Et est est est est est est est est est est , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5955050354547728
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.9048820584510155
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5065911375131152
+Et est est est .  <eos> <eos> <eos> <eos> <eos> <eos>	1.0063298747841174
+Et est est est est .  <eos> <eos> <eos> <eos> <eos>	1.4945407105672606
+Et , , , , , , , , , , , , , , , , , , , , , , , .  <eos>	1.8833989647479359
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .	1.3125497474434407
+Et , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7524028648224513
+Et , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.212367194696552
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.3797874952733131
+Et , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.4278308782451221
+Et est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos>	0.9014020928797328
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.1612768343692383
+Et est est est est est est est .  <eos> <eos> <eos> <eos> <eos>	0.0
+Et , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos>	1.2677653154738413
+Et est est , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8376098343576669
+Et , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8386500382767186
+Et est est est , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.37184122466267855
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.432837955983965
+Et , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5252745559895782
+Et , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.584422925449391
+Et est est est est est est est est est est est est est est est est est est	0.0
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.123350534501048
+Et est est est est , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.2426823461910674
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos>	1.2374729892274134
+Et est est .  <eos> <eos> <eos>	2.564755813286796
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.4637600490346767
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.4614787821465618
+Et est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.0472124523740656
+Et , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7575625282839856
+Et est est est est est est , , , , , , , , , .  <eos> <eos> <eos>	1.6376065572176504
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.261900774693035
+Et est est est , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.832670646829732
+Et est est , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6010776450830334
+Et est est est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7181628570215435
+Et , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.3174708894697023
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.0561659635783065
+Et , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7533626138013962
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.2403847051918373
+Et est est , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.3461554698999326
+Et , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos>	1.5304756282275755
+Et est est est est est est est est est est est est est est est est est est est est est est est est est est est est est est est est est , ,	0.0
+Et > >  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.0
+Et , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5616077691452245
+Et est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5686771695698953
+Et est est , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5573606901641148
+Et , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.5008807196502314
+Et est est est est est .  <eos> <eos> <eos> <eos> <eos> <eos>	1.0496276909241147
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8663209384868662
+Et est est est , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6957744088387182
+Et , .  <eos> <eos> <eos> <eos> <eos>	1.098475607466579
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5614666627265356
+Et , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.3465189427757207
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.2745237763622665
+Et est est est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.4174246816862535
+Et est est est est est est est est .  <eos> <eos> <eos> <eos> <eos> <eos>	1.2423864144551617
+Et est est est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.0747534682472246
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7006743941915626
+Et , , , .  <eos> <eos> <eos> <eos>	1.5738541970947637
+Et .  <eos>	1.8315638888734187
+Et , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.4031537578751961
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.0756508006394487
+Et , , , , , , , , , , , .  <eos> <eos> <eos> <eos>	0.0
+Et , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.0347491962428474
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.3797874952733131
+Et , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.9571036600363774
+Et est est , , , , , .  <eos> <eos>	3.6843717424467886
+Et est est , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.0347491962428474
+Et est est , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.0
+Et , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.9270204349733657
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.966945584651053
+Et , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5439239738158296
+Et , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.2416131204392928
+Et est est , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.052262118092312
+Et , , , , , , , , , .  <eos> <eos> <eos>	2.2882399068641384
+Et est est , , , , , , , , , , .  <eos> <eos> <eos> <eos>	1.3090321044246584
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.4352266385073049
+Et , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.5029740873775828
+Et est est est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.1902875732913087
+Et est est est est est est est est est est est est est est est est est est , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5147341811978005
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.1217233343986688
+Et , , , , , , .	0.0
+Et , , , , , , , , , , , , , , , , , , , , , , ,	1.7911710595643588
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos>	1.4106375825866007
+Et , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8056025298293269
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.2358177909673398
+Et est est , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6198148136022537
+Et est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.8999151582864394
+Et est est est est est est est est est est est est est est est est est est est est est est est est est est est est est , , , , , , , , .	1.4115924720732913
+Et , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.49454916865217025
+Et , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.267613308416247
+Et .  <eos>	1.8315638888734187
+Et , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.2218603383055533
+Et , , , , , , , , , , , , , , , , , , , , , , , ,	1.7921903624811637
+Et , , , , , , , .  <eos> <eos>	2.910967817713898
+Et , , , , , .  <eos> <eos> <eos> <eos>	1.5694957190569983
+Et , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.44784061970788613
+Et est est est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8926713308486253
+Et est est , , , , .  <eos> <eos> <eos> <eos>	1.5436644068195333
+Et est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8676958340999544
+Et , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.39521795974377516
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5065911375131152
+Et est est .  <eos> <eos> <eos> <eos> <eos> <eos>	0.9596488401476516
+Et , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8058059704122307
+Et , , , , , , , , , , , , , , , .  <eos> <eos> <eos>	1.8123095684554635
+Et , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.0699102941148824
+Et , .  <eos> <eos> <eos> <eos> <eos>	2.0822836897918786
+Et , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6949999011151207
+Et est est est .  <eos> <eos>	3.8261660656802645
+Et , , , , , .  <eos> <eos> <eos>	2.0315766105349127
+Et , , .  <eos> <eos> <eos> <eos>	1.5330462064343475
+Et .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6679009843017161
+Et , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.16714452278290848
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.8242809821638615
+Et , , , , , , , .  <eos>	3.983253478176822
+Et est est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7556299678971445
+Et est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8471809886867429
+Et est est est est est est est , ,	5.08764122072739
+Et est est est .  <eos> <eos> <eos> <eos> <eos>	1.4653570635958932
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.929896218128723
+Et , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.358477924116243
+Et est est est , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.089930340281564
+Et est est , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5515067499660484
+Et .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6679009843017161
+Et , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5752646412635193
+Et , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7784195183058047
+Et est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6936131288608464
+Et est est est .  <eos> <eos> <eos> <eos> <eos>	1.2322135018444962
+Et est est est est est .  <eos> <eos> <eos> <eos>	1.866455476068894
+Et est est est est est est , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.899683730964252
+Et est est est est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.692723185941376
+Et , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.0659314869751233
+Et , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6936131288608464
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.7291698644541256
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.4828430985349124
+Et , , , , , , , , .  <eos> <eos> <eos> <eos>	1.936953263325894
+Et , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.2512754594423912
+Et , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.9165185160190285
+Et est est est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.0707574111952591
+Et , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.3487786253196849
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8369880796364355
+Et est est , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.4352266385073049
+Et , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8926713308486253
+Et est est est est est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6893086473431651
+Et est est , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5614666627265356
+Et est est est est , , , , , , , , , , , , , , , , , , , , , , , , , .	1.6984210955039127
+Et , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.0063298747841174
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.6966007891337822
+Et , , .  <eos> <eos> <eos> <eos> <eos>	1.18271569172795
+Et .  <eos>	1.8315638888734187
+Et .  <eos>	1.8315638888734187
+Et .  <eos>	1.8315638888734187
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.634399749728147
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.6934096677198087
+Et , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7519318212891528
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .	1.6981781927975181
+Et , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8664121037441123
+Et .  <eos> <eos> <eos> <eos> <eos> <eos>	0.7870921666513669
+Et , , , , , , , , , , , , , , , , , , .  <eos>	2.4680301241191462
+Et est est .  <eos> <eos>	3.929752628321626
+Et , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8114020298562608
+Et , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.7654973655112172
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.4339637234586369
+Et est est .  <eos> <eos> <eos> <eos> <eos> <eos>	1.6633142482788623
+Et , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.0496276909241147
+Et , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7735615314649243
+Et .  <eos> <eos> <eos> <eos> <eos>	0.9690650671856613
+Et , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7296423164252336
+Et , , , , , , , .  <eos> <eos> <eos> <eos>	1.7956349284756952
+Et , .  <eos> <eos> <eos> <eos> <eos>	1.098475607466579
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.5788649383243545
+Et .  <eos> <eos> <eos> <eos> <eos> <eos>	1.2192584915912204
+Et est est , , , , , , .  <eos>	4.023185929567685
+Et , , .  <eos> <eos> <eos> <eos> <eos> <eos>	0.9596488401476516
+Et est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.579735255625423
+Et est est est est est est est est est est est est est est est est	2.292084231617577
+Et , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.4448308061992692
+Et , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6829560610940206
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.5886262183839546
+Et , , , , , , .  <eos> <eos>	3.102160927976006
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.2540980706244005
+Et .  <eos> <eos> <eos>	1.9119108411650758
+Et description , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.9527800929822878
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos>	0.9733681242104343
+Et est est est est est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.0960493510636786
+Et , , , , , , , , , , , , , , .	2.923637789252517
+Et , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.2638455222950324
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	3.2920414572635375
+Et est est est .  <eos> <eos> <eos> <eos> <eos> <eos>	1.0063298747841174
+Et est est est .  <eos> <eos> <eos> <eos> <eos> <eos>	1.1967346471330695
+Et , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.0777840753839405
+Et , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.6913956476085643
+Et est est est , , , , , , , , , , , , , , , ,	2.2796871594840864
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.8203126785831367
+Et , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8349575720517796
+Et , , , , , , , .  <eos> <eos> <eos>	2.242173863464727
+Et , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6448270161892034
+Et , , , , , , , , , , , , , , , , , , , , , , , , , .	1.65345928425853
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6127256212402179
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.6421867505326525
+Et est est , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5271116265366127
+Et est est est est est est est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.9803026085592073
+Et , , , , , , , , , .  <eos>	3.737437943747671
+Et , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8829422521995683
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6024417851279186
+Et est est est .  <eos>	8.22487964923291
+Et est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.0074736594413143
+Et est est .  <eos> <eos> <eos>	0.0
+Et .  <eos> <eos> <eos> <eos> <eos>	0.9690650671856613
+Et .  <eos> <eos> <eos> <eos> <eos>	0.9690650671856613
+Et , , , , , , , , , , , , .  <eos>	3.2342452920962157
+Et .  <eos> <eos> <eos> <eos> <eos>	0.9690650671856613
+Et est est est est .  <eos> <eos> <eos> <eos> <eos>	1.4945407105672606
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.8837936165988451
+Et est est est est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.3705063051209185
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.809664307725299
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.117358032430412
+Et est est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.8300500206719574
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7060069513648596
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos>	1.2729647471441259
+Et , , , , , , , , .  <eos> <eos> <eos> <eos>	1.9071414280313312
+Et est , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.566125256226538
+Et est est est est est est est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.0
+Et est est , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6322967730372454
+Et est > >  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.0
+Et , , .  <eos> <eos> <eos> <eos> <eos>	1.18271569172795
+Et , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.927139037292611
+Et , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7849766813495752
+Et est est est , , , , .  <eos> <eos> <eos> <eos>	1.7956349284756952
+Et est est est est est est .  <eos>	5.3990167242108145
+Et est est est est , , , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.7426578426181496
+Et , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.9925572822875032
+Et est est est est , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.9056431903693958
+Et est est est est .  <eos> <eos>	2.9859662827819125
+Et est est est est est est est est est est est est .  <eos> <eos> <eos> <eos> <eos> <eos>	0.9867048034309054
+Et , , , , , , , , , , , .  <eos> <eos> <eos>	2.110598936713726
+Et est est , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7922566912880582
+Et , , , , , , .  <eos> <eos> <eos> <eos>	1.5436644068195333
+Et , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6010776450830334
+Et , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8066007291324114
+Et .  <eos> <eos> <eos> <eos> <eos> <eos>	0.7870921666513669
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos>	1.159885429174733
+Et , , , , , , , .  <eos> <eos>	3.221515452693472
+Et , , , , , , .  <eos> <eos> <eos>	2.330920810330635
+Et est est est .  <eos> <eos> <eos>	2.139538333930869
+Et est est est est .  <eos> <eos> <eos> <eos> <eos>	1.9871967097264318
+Et est est est .  <eos> <eos> <eos> <eos>	2.5795879170461364
+Et est est est est est est est est est .  <eos> <eos>	2.583112439191653
+Et est est est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.7673102512290831
+Et , , , , , , .  <eos> <eos>	3.9778149665594618
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.0546144926670948
+Et est est .  <eos> <eos> <eos> <eos>	1.8231094563196564
+Et est est est , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6681538764729504
+Et , , , , , , , , , , , , , , , , , , , , , , ,	1.8721971830722224
+Et est est est est est est est , , , , , , , ,	2.916495972453022
+Et , , .  <eos> <eos> <eos> <eos>	1.5330462064343475
+Et , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.651126819848788
+Et est est , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7006743941915626
+Et est est est , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos>	1.3809851504530963
+Et est est est , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.9875974326945554
+Et , , , , , , , , , , , , , , , , , , , , , , ,	2.1300733682208985
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.2744039505750158
+Et , , , , , ,	0.0
+Et , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7946756706327243
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.9220045183415521
+Et , .  <eos> <eos> <eos> <eos> <eos> <eos>	0.8887839864973845
+Et est est est est est est est est est est est est est est est est est est est est est est est est , , ,	0.0
+Et est est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.4945266162173072
+Et , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7523587419963557
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.66993068726635
+Et , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.0407110011718281
+Et , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.6848173061009901
+Et reviewer >  <eos> <eos> <eos> <eos> <eos>	0.0
+Et est est est , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.45425132056147677
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.566125256226538
+Et , , , , .  <eos>	4.79981069911921
+Et .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5820564441072186
+Et , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.0244576992172667
+Et .  <eos> <eos> <eos> <eos> <eos> <eos>	1.6216841681867293
+Et , , , , , , , .  <eos> <eos> <eos> <eos>	2.360926901454312
+Et , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.633898440122165
+Et , , , .  <eos> <eos>	3.2174093287959424
+Et .  <eos>	1.8315638888734187
+Et , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7740836411188776
+Et , , , , .  <eos>	4.79981069911921
+Et est est .  <eos> <eos>	5.484411595600381
+Et est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.9698498908312707
+Et , , , .  <eos> <eos>	3.2174093287959424
+Et , , , , , , , , , , , , , , , , , , , , , ,	1.6504712178944343
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.188432823684058
+Et , , , , , , , , , , , , .	2.908317710573757
+Et , , , , , , , , , , , , , , , , , , , , , ,	0.0
+Et , , , , , , , .  <eos> <eos>	3.6843717424467886
+Et > >  <eos> <eos> <eos>	0.0
+Et , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7481074282102178
+Et est est , , , , , , , , , .  <eos>	0.0
+Et , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8432903337623023
+Et , , , , .  <eos> <eos> <eos> <eos>	1.5821934551541403
+Et , , , , .  <eos> <eos> <eos> <eos> <eos>	1.2567539259667488
+Et est est est est est est est est est est est , .  <eos> <eos> <eos>	1.8333813469321008
+Et , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.0347491962428474
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.1493330194206166
+Et , , , .  <eos> <eos> <eos>	2.139538333930869
+Et , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.0347491962428474
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.5860671757292075
+Et , , , , , , .  <eos> <eos> <eos> <eos>	1.5436644068195333
+Et , , , , , , , .  <eos> <eos> <eos>	1.8854359641630605
+Et .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5166669851080904
+Et est est est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.6280182345986878
+Et est est est , , .  <eos> <eos> <eos>	2.0315766105349127
+Et , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.34706130315543776
+Et est est .  <eos> <eos> <eos> <eos>	1.5330462064343475
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.4266655216992208
+Et , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7556342428242743
+Et , , , , , , , , , , , .  <eos> <eos> <eos>	1.9071414280313312
+Et est est est .  <eos> <eos> <eos> <eos>	1.8716386091619874
+Et est est est est est est est est est est est est est est est est est est est est est est	0.0
+Et , , , , , .  <eos> <eos> <eos>	2.0315766105349127
+Et , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.578011896847351
+Et .  <eos> <eos> <eos> <eos> <eos>	0.9690650671856613
+Et est est est est est .  <eos> <eos> <eos> <eos> <eos> <eos>	1.0496276909241147
+Et , , , , .  <eos> <eos>	2.9859662827819125
+Et est est est .  <eos> <eos> <eos> <eos> <eos>	1.2322135018444962
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.7003330440389444
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos>	1.1168904137076294
+Et , , , , .  <eos> <eos> <eos> <eos> <eos>	1.2567539259667488
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.3358964482707558
+Et , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.0984451985744679
+Et .  <eos> <eos> <eos> <eos> <eos> <eos>	0.7870921666513669
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .	1.3349107662733946
+Et , , , , , , , , , , , .  <eos>	2.8856494253219522
+Et est est est est est est est est est est est est est , , ,	0.0
+Et est est est , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.784999493247825
+Et , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.9658630590090866
+Et , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6838401590243605
+Et , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5247802220860328
+Et , , , , , , , .  <eos> <eos> <eos>	2.481373275521031
+Et , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.0615710980041333
+Et est est , .  <eos> <eos> <eos> <eos> <eos>	1.2322135018444962
+Et est est .  <eos> <eos> <eos> <eos> <eos> <eos>	0.9596488401476516
+Et est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8058059704122307
+Et est est .  <eos> <eos> <eos> <eos> <eos>	1.18271569172795
+Et est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.3113617852675474
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6653807970835066
+Et , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.0080976967165527
+Et , , , , , , , , , , , , , , , , , , , , , , , .	1.7921903624811637
+Et , , , .  <eos> <eos> <eos>	2.139538333930869
+Et , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7481074282102178
+Et est est est , , , , , , , , , , , , , , .  <eos>	2.5905489539591007
+Et , , , , , .  <eos> <eos>	4.023185929567685
+Et , , , .  <eos> <eos>	3.2174093287959424
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos>	1.142252338965159
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.5451965846211807
+Et , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.080983309489111
+Et est est est .  <eos> <eos>	3.8261660656802645
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.2053701669696537
+Et , , , .  <eos> <eos> <eos>	2.139538333930869
+Et , , , , , , , .	5.854497694024015
+Et .  <eos> <eos> <eos> <eos> <eos>	0.9690650671856613
+Et , , , , , , , , ,	5.08764122072739
+Et est est est est , , , , , , , , , , , , , , , , .  <eos> <eos> <eos>	3.4983519690376927
+Et , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.788978687862629
+Et , , , , , , , , , , , , , , , .  <eos> <eos> <eos>	1.6376065572176504
+Et .  <eos>	1.8315638888734187
+Et est est est est est est , , , , .  <eos> <eos> <eos> <eos>	2.7150665656333692
+Et est est est .  <eos> <eos> <eos> <eos>	1.8716386091619874
+Et est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6081999071433923
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.1526157353570807
+Et est est , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.929896218128723
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .	1.1138388088435793
+Et .  <eos>	1.8315638888734187
+Et est est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.6292973534055488
+Et .  <eos> <eos> <eos> <eos> <eos> <eos>	0.7870921666513669
+Et , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.06472490926338
+Et , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8689170835585474
+Et , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.4592991025482187
+Et , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.7032021085254625
+Et , , , , , , , , .  <eos> <eos> <eos>	1.8110197178625276
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos>	2.024267978158244
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.0398188143365028
+Et , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.925702029626254
+Et , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.4667456544685305
+Et est est est est est est , , , , , , , , , , , .  <eos> <eos>	2.087736220588747
+Et , , , , , , , , , , , , .  <eos> <eos> <eos>	2.8597983122681327
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.9216168770877762
+Et est est , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.4931828124309372
+Et est est est est est est est est est est est , , , , , , , , .  <eos> <eos> <eos>	1.7328106980349882
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.2193311110766474
+Et , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8998663017016566
+Et , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.1620173530575975
+Et est est , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8332469748728274
+Et est est , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.27626951722079557
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.9022136640364156
+Et , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.4194453467238541
+Et , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6256105027765131
+Et , , , .  <eos> <eos> <eos> <eos>	1.5738541970947637
+Et , , , , .  <eos> <eos> <eos> <eos>	1.881555714180042
+Et , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.925702029626254
+Et , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.925702029626254
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.5269858740475688
+Et , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos>	1.422288536849777
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.3370051239753844
+Et est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.7607972069498103
+Et , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8471809886867429
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos>	1.5050636696508113
+Et , , .  <eos> <eos> <eos> <eos> <eos>	2.2196021319769197
+Et est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos>	1.17402710560411
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.0016920892285681
+Et , , , , , .  <eos> <eos> <eos>	2.0315766105349127
+Et .  <eos> <eos> <eos> <eos> <eos>	0.9690650671856613
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , .	1.634399749728147
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.929896218128723
+Et , , , .  <eos> <eos> <eos> <eos> <eos>	1.2322135018444962
+Et , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.2265985673398625
+Et est est est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.0615710980041333
+Et > >  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.0
+Et , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos>	1.269961673637781
+Et , .  <eos> <eos> <eos> <eos>	0.0
+Et , , , .  <eos> <eos>	0.0
+Et , , , , , , , .  <eos> <eos> <eos>	1.8854359641630605
+Et .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6679009843017161
+Et , , .  <eos> <eos> <eos> <eos>	1.5330462064343475
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.9037128794596342
+Et , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.2669716281003425
+Et est est , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos>	1.4836287124017802
+Et .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5820564441072186
+Et est est , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.1524610209657213
+Et , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6389101656231364
+Et est est .  <eos> <eos>	3.564186929405141
+Et est est , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5591571302186795
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.9243411456936733
+Et .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6679009843017161
+Et , , , , , .  <eos> <eos> <eos> <eos>	1.5694957190569983
+Et , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos>	3.2589400161405697
+Et , , .  <eos> <eos> <eos>	2.156693969393992
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.4268010691129594
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.4763939041893883
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7006743941915626
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos>	1.3211018789113775
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.9307894357055139
+Et , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8709631591921211
+Et , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.0036994301921276
+Et , , , .  <eos> <eos> <eos> <eos> <eos>	1.2322135018444962
+Et , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.9342065796357392
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.1872272326996993
+Et , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.0480595758311502
+Et , , , , , , , , , , , , , , , , , , ,	2.7162118995714084
+Et , , , , , , , , .	4.300847718252331
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.2203976754616772
+Et , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.1088275341554792
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.2557690800697192
+Et , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6514735559585895
+Et , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5880500686678467
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.4815418144868515
+Et , , , , , , , , , , , , , , , , , , , , , , .	1.5771292882446188
+Et , , , , , , , , .	0.0
+Et , , , , , , .  <eos> <eos>	7.209140348761813
+Et est est est >  <eos> <eos>	0.0
+Et .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6679009843017161
+Et est est , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7008165804248191
+Et est est est est .  <eos> <eos> <eos> <eos>	1.881555714180042
+Et , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.0355500935763762
+Et est est est est est est est est , , , , , .  <eos> <eos> <eos>	1.8300565547874381
+Et est est est , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.9669692704698518
+Et , , , , , , , , , , , , .  <eos> <eos> <eos> <eos>	1.7227831347538063
+Et , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.147796506820099
+Et est est , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.4837379746607074
+Et , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.1803561821440631
+Et .  <eos> <eos> <eos>	1.9119108411650758
+Et est est est , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5456857668744711
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.8837936165988451
+Et , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.096301576954616
+Et , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8835180337660576
+Et est est , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.48467045457775715
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6929765540771698
+Et , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.44319622191966596
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.8133623362569405
+Et , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7429471474058881
+Et est est est est est , , , , , , , , , , , .	2.7076576267554477
+Et , , , , , , .  <eos> <eos> <eos> <eos>	1.8357366957662442
+Et , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	2.372271509904253
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , .	1.7557381354086663
+Et est est est est , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6857769304691761
+Et , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.1554512030057265
+Et , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8332587138545037
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.4971158614143294
+Et , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7939681058817049
+Et , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.1643077315782857
+Et , .  <eos> <eos> <eos> <eos> <eos> <eos>	0.8887839864973845
+Et , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.37850781080859414
+Et est est est est est est est est est est est est est est est est est est est est est est est est est , , , , , , , .  <eos> <eos>	1.3719924284123102
+Et est est est est est est est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7070048859517997
+Et , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.599968608340303
+Et , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.86730271338494
+Et est est , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7735615314649243
+Et est est , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6732401826873375
+Et est est , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.0231331441268472
+Et , , , , , , , , , , , .  <eos> <eos> <eos>	1.9071414280313312
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7921984704869107
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.0534384554899547
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.4815418144868515
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.7193834174823476
+Et , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8058059704122307
+Et , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.4028917355082147
+Et , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5331814906176161
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.3483543360885736
+Et est est .  <eos> <eos> <eos> <eos>	1.5330462064343475
+Et est est est est est est est .  <eos> <eos> <eos> <eos> <eos> <eos>	1.052262118092312
+Et est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.9890909830762525
+Et est est est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7735615314649243
+Et , , , , , .  <eos> <eos>	4.023185929567685
+Et , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.0496276909241147
+Et est .  <eos> <eos> <eos> <eos>	1.4456752008489664
+Et est est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.022951633574269
+Et , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8332587138545037
+Et est est est est , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5314316503362707
+Et est est est , , , .  <eos> <eos> <eos> <eos> <eos>	1.2589193610827865
+Et est est est est est est .  <eos> <eos> <eos> <eos> <eos> <eos>	1.054566571964658
+Et , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8522309433486996
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.7067604405306844
+Et , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.0500012084522536
+Et , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8986005341325619
+Et , , , , , .  <eos> <eos> <eos> <eos>	1.5694957190569983
+Et , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8471809886867429
+Et , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.9063047654078948
+Et , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6319822997175313
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8332469748728274
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.149898569087498
+Et est est est , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.758991960544414
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5065911375131152
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .	0.9010837781632643
+Et est est est est est est est est est est est est est , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.9124954798608391
+Et , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.9441925205997571
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.9304707574316041
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.35104922640156655
+Et , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.44856684774583094
+Et , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.900898748694766
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.7569189423313447
+Et .  <eos> <eos> <eos> <eos> <eos>	0.9690650671856613
+Et est est est est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.47055629603451615
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.61501278520268
+Et , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6838393198807637
+Et est est est est est est est .  <eos> <eos> <eos>	2.9048161683970806
+Et est est est .  <eos> <eos> <eos>	2.544354209531657
+Et est est est est est est est est est est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.8499635874146905
+Et , , , , , , , , , , .  <eos> <eos> <eos> <eos>	1.6532587556583624
+Et , , , , .  <eos> <eos> <eos>	2.0943469770777075
+Et , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.3848548284356388
+Et est est , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6887428534713577
+Et , , , , , , .  <eos> <eos> <eos>	0.0
+Et .  <eos> <eos>	2.489353418393197
+Et , , , , , .  <eos> <eos> <eos>	2.0315766105349127
+Et est est , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.0347491962428474
+Et , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.344582985145481
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.8837936165988451
+Et est est , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.4503835981806183
+Et , , , , .  <eos> <eos> <eos>	2.0943469770777075
+Et , , , , , , , , , , , .  <eos> <eos> <eos> <eos>	2.4012376162754436
+Et , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8926713308486253
+Et , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8675915551927157
+Et est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.4936442298092893
+Et est est est est est .	6.567274736060395
+Et est est est est est est est est .  <eos> <eos> <eos> <eos>	1.4717662109143204
+Et est est est .  <eos> <eos> <eos>	2.544354209531657
+Et est est est , , , , .  <eos> <eos> <eos> <eos>	2.1970900464782472
+Et est est , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.49640440143903886
+Et , , , , .  <eos> <eos> <eos> <eos> <eos>	1.9871967097264318
+Et , , , , , , , , , , , .  <eos> <eos>	3.00988340490413
+Et est est est est est , , , , , , , , , , , , , , , , , , , , , ,	1.7600631436276775
+Et , , , .  <eos> <eos> <eos>	2.139538333930869
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.8404845444815474
+Et .  <eos> <eos> <eos> <eos> <eos>	0.9690650671856613
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.566125256226538
+Et est est est est .  <eos> <eos> <eos> <eos> <eos> <eos>	1.0347491962428474
+Et , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7588727336813993
+Et est est , , , , , , , , , , , , , , , , .  <eos> <eos> <eos>	1.4755303245661644
+Et , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.7426578426181496
+Et , , , , , , , .  <eos> <eos> <eos>	2.7032360411086658
+Et , , , , , , .  <eos> <eos> <eos>	2.8586838330063986
+Et , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5297750467552717
+Et , , , , , .  <eos> <eos>	3.3142882018868
+Et , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.0063298747841174
+Et , , , , , .  <eos> <eos> <eos> <eos>	1.5694957190569983
+Et est est est est est est est est est est est est est est , , , , , , .  <eos> <eos>	1.7527002282222934
+Et , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.0230589619465373
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.9934811498333419
+Et , , , , , , .  <eos> <eos> <eos> <eos>	1.8357366957662442
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.929896218128723
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.8380183525103547
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.34400741395862844
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.3323296355684284
+Et reviewer >  <eos> <eos> <eos> <eos> <eos> <eos>	0.0
+Et , , , , , .  <eos> <eos> <eos> <eos>	1.18271569172795
+Et , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.29209749612955715
+Et est est , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.109727645289861
+Et , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.9671266891634408
+Et , , , , , , , , , , , , , , , ,	2.7005617565085704
+Et est est , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.2458232008504773
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.023023860233092
+Et est est , .  <eos> <eos> <eos> <eos> <eos>	1.2322135018444962
+Et est est est est .  <eos> <eos>	3.983253478176822
+Et est est est est , , , , , , , , , , , ,	2.732111648124769
+Et , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.1423392165906565
+Et , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	0.8958842298007127
+Et est est est , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7556299678971445
+Et est est est .  <eos>	8.22487964923291
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8251067071619
+Et , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.6530871992004423
+Et , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6553711868265936
+Et , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.2638455222950324
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.2415186927963269
+Et , , , , , , , , , , , , , , , , , .	2.5197593442434796
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.8857189260973364
+Et , , , , , , , , , , .  <eos> <eos> <eos> <eos>	1.9521690441158932
+Et , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.897150383692032
+Et , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.019475227991533
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.185130763955551
+Et est est est est est est est est est , , , , , , , , , .	2.2854640586554065
+Et , , , , , , , , .  <eos> <eos> <eos> <eos>	1.7502348496399052
+Et , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.45375009196826505
+Et , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.9444709298734467
+Et est est .  <eos> <eos>	4.238556455648295
+Et est est est est , , .  <eos> <eos> <eos> <eos>	0.0
+Et , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7563041057570397
+Et , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6396753156126506
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.959641509636166
+Et , , , , , , , , , , , , , , , , , , , , , , ,	1.8721971830722224
+Et est est est est est est est est est est , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8829422521995683
+Et est est est est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos>	1.148621121457041
+Et est est est est est est est est , , , , , .	3.1251907639724417
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos>	0.8185017663707864
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6972231717453047
+Et .  <eos>	1.8315638888734187
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos>	1.3043475672390548
+Et est est est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.8223549184053933
+Et est est .  <eos> <eos>	4.238556455648295
+Et , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.49549909640752887
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.4266655216992208
+Et > >  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.0
+Et , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.0
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.4815418144868515
+Et est est est est est .  <eos>	4.167251645138561
+Et est est , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.0496276909241147
+Et est est est est est est est est est .  <eos> <eos>	2.583112439191653
+Et , , , , , , , .  <eos> <eos> <eos> <eos>	1.7956349284756952
+Et .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5820564441072186
+Et , , , , .  <eos> <eos> <eos> <eos> <eos>	1.2567539259667488
+Et , , , , .  <eos> <eos> <eos> <eos> <eos>	1.2567539259667488
+Et est est .  <eos> <eos> <eos> <eos> <eos>	1.18271569172795
+Et , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	2.459242500661985
+Et est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.5443355461466222
+Et est est , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.0500012084522536
+Et , , , , , .  <eos> <eos> <eos> <eos>	1.5694957190569983
+Et est est est , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.4846004057982594
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.3113617852675474
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.3391281351042348
+Et est est est est est est est est est est , , , , , , , , .  <eos>	1.950443326499412
+Et , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.0500012084522536
+Et est est .  <eos> <eos> <eos> <eos> <eos> <eos>	0.9596488401476516
+Et est est est .  <eos> <eos>	3.8261660656802645
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8410631990423791
+Et est est est , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.48992866218288605
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.7190612080204217
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.0983526387508984
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.123350534501048
+Et est est est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.052601808414082
+Et est est est est est est est est est est est est est est est est est .  <eos> <eos> <eos> <eos> <eos>	1.0010613966262247
+Et est est , .  <eos> <eos>	3.2174093287959424
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.6738386577278215
+Et est est est est est est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5252745559895782
+Et , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5589351732938146
+Et , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.9616148260929777
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.054566571964658
+Et , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6205166271143553
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.0386449896968446
+Et est est est est est est , , , , , , , , , , , , , , , , , , , , , , , , ,	1.5883027492953543
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos>	1.624730430286819
+Et est est est est est est est est est est est est est est est est est est est est est est , , ,	0.0
+Et , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.05075644277416
+Et , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.0755462360979269
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.054566571964658
+Et est est est , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.641473976638645
+Et , , , , .  <eos> <eos>	2.9859662827819125
+Et est est est est , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.0729189085247801
+Et , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.9441925205997571
+Et , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.0777840753839405
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.251357597683211
+Et est est , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.9766628155535856
+Et , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8048250367507995
+Et , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.28370386556276783
+Et est est .  <eos> <eos> <eos> <eos> <eos>	1.18271569172795
+Et est est , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5152387784350044
+Et , , , , .  <eos> <eos> <eos> <eos> <eos>	1.2567539259667488
+Et , , .  <eos> <eos> <eos> <eos> <eos> <eos>	0.9596488401476516
+Et est est est est est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7006743941915626
+Et est est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.1784531110724779
+Et , , .  <eos> <eos> <eos> <eos> <eos>	1.18271569172795
+Et est est est est est est .  <eos> <eos> <eos> <eos> <eos> <eos>	1.2540980706244005
+Et est est est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.1784531110724779
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5573606901641148
+Et , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.5953069568438385
+Et , , , , , , , , .  <eos> <eos> <eos> <eos>	1.4717662109143204
+Et , , , , .  <eos> <eos> <eos> <eos> <eos>	1.2567539259667488
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.9412893692299721
+Et est est est est est , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.9531419646506696
+Et .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6679009843017161
+Et est est est , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.580193441214545
+Et , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.3498149780298129
+Et , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5064273670086246
+Et .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5820564441072186
+Et , , , , , , , , , , .  <eos> <eos> <eos>	1.9852949681089909
+Et , , , .  <eos> <eos> <eos> <eos> <eos>	1.2322135018444962
+Et est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.7962923006068036
+Et , , , , , , , , , , , .  <eos> <eos> <eos> <eos>	1.7757003991314684
+Et , , , , , , .  <eos> <eos> <eos> <eos>	1.8357366957662442
+Et , , , .  <eos> <eos> <eos> <eos> <eos>	1.2322135018444962
+Et , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8279169647937545
+Et est est .  <eos> <eos> <eos> <eos> <eos>	1.18271569172795
+Et est est est est .  <eos> <eos>	2.9859662827819125
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.8740098174757931
+Et description , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.8865315817514363
+Et est est est , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.47213530397121
+Et , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8477057393944755
+Et .  <eos>	1.8315638888734187
+Et , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.80141746614081
+Et est , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.566125256226538
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.0769973256410494
+Et .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6679009843017161
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.9660670751694698
+Et , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5571325931494928
+Et est est est , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.3417048544084738
+Et est , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.360059256140209
+Et , .  <eos> <eos> <eos> <eos> <eos>	1.098475607466579
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.493369524819332
+Et , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7481915045787284
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5984040491108686
+Et , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.514239773424206
+Et , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8402560858503317
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.1859268977203987
+Et est est , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.692723185941376
+Et , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos>	2.059181229713454
+Et , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5331814906176161
+Et description , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.8864914124518566
+Et , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6958817518192218
+Et est est est est est est .  <eos> <eos>	0.0
+Et , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.193606503708655
+Et , , , .  <eos> <eos> <eos> <eos> <eos>	1.2322135018444962
+Et , , , , , , , , , , , , , , , , .  <eos>	2.576950303094841
+Et , , .  <eos> <eos>	3.564186929405141
+Et est est est est est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7455680737834143
+Et est est est .  <eos> <eos> <eos> <eos> <eos> <eos>	1.1967346471330695
+Et est est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.3339613703314737
+Et est est est est est est est est est , , , , , .  <eos> <eos> <eos> <eos>	1.7426578426181496
+Et , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6807399672756915
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8224486029055917
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.7951457728428223
+Et est est est est est est est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos>	1.1741330736581586
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5779782187399676
+Et , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.05075644277416
+Et est > >  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.4063834381994531
+Et > >  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.0
+Et est est , , , , .  <eos> <eos>	3.102160927976006
+Et est est est est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7353378744132544
+Et est est , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.0984451985744679
+Et , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8896546764139783
+Et , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.39395223463605217
+Et est est est est est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.4114962835149105
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.7821590010947428
+Et est est est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.9199248771104893
+Et , , , .  <eos> <eos> <eos>	2.139538333930869
+Et est est est est est est est est est est est est est est est est est est est	1.9169807603100912
+Et est est est est est .  <eos> <eos>	3.3142882018868
+Et , , , , , , , , , , , , , , , , , , , ,	2.1619563671311695
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.5788649383243545
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6127256212402179
+Et .  <eos>	1.8315638888734187
+Et est est , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.21760265498393241
+Et , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8986005341325619
+Et est est est , , , , , , , , , , , .  <eos> <eos> <eos> <eos>	1.8149971850154616
+Et est est , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.4096087767725158
+Et est est est , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.584422925449391
+Et est est est est est est , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.3358964482707558
+Et , , , , , , , , , , , , , .  <eos>	2.1340743160056204
+Et est est , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5045114520181206
+Et , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5075954526964905
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos>	1.290338541030558
+Et est est , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.39839041432030703
+Et est est est est est est est est est est est est est est est est est est	0.0
+Et est est est est est est est est est est est est est .  <eos> <eos> <eos>	1.7639838596482365
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.664243037862671
+Et est , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5614666627265356
+Et , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.0244576992172667
+Et est est , , , , , , , , , , , , .  <eos> <eos> <eos>	1.4285126250130793
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.2092315158017553
+Et est est est est est est est est est est est est est est est est .  <eos> <eos> <eos> <eos>	1.3809851504530963
+Et , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.80141746614081
+Et est est est , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6199042007945744
+Et , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5438373942811392
+Et , , , , , , , , .  <eos> <eos> <eos>	2.315472233965254
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.9022136640364156
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.0530499408745069
+Et est , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.251357597683211
+Et est est , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.9992385157175514
+Et est est est , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5997090369844255
+Et est est est est est est est est est est est est est est est est est , , , , , , .  <eos> <eos>	1.4089850593894238
+Et , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.38163872787670783
+Et , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.3118708070608266
+Et est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.1494496310848246
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5573606901641148
+Et est est , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.412727771054563
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.9022136640364156
+Et , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.4655891936177272
+Et , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.1313951168076752
+Et , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.925702029626254
+Et est est est est est est est est est est est est est est est est .  <eos>	2.576950303094841
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.2358177909673398
+Et est est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.0754563544357545
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.392592367002852
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .	1.4514334839122442
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.5788649383243545
+Et est , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.0
+Et est est est est est est est est est est est est est , , , , , , , , ,	1.6479141331850187
+Et est , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6374654312490083
+Et est est est est est est est est est est est est est est .  <eos> <eos> <eos> <eos>	1.4653947328713741
+Et , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.0230589619465373
+Et est est , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.9780683273472224
+Et est est est est .  <eos> <eos> <eos> <eos>	1.5821934551541403
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.7446030455068398
+Et , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.761720379235356
+Et est est est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.311562788950238
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.251357597683211
+Et , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7523587419963557
+Et , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.4762027414320783
+Et , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.363683232028305
+Et .  <eos> <eos>	2.489353418393197
+Et , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6332592662348664
+Et , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7563041057570397
+Et , , .  <eos> <eos> <eos> <eos> <eos> <eos>	0.9596488401476516
+Et est est est est est est est , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.179049953454677
+Et est est est est est est est .  <eos> <eos> <eos> <eos> <eos>	1.4815418144868515
+Et est est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8986005341325619
+Et , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.0500012084522536
+Et , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5922830005063846
+Et est > >  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.0
+Et , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.416756833057743
+Et , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.49143914300248176
+Et , , , .  <eos> <eos> <eos> <eos> <eos>	1.2322135018444962
+Et , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.852181181622654
+Et , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.64677028505321
+Et est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.4784124458931216
+Et , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos>	1.227186497868276
+Et , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6367987009829534
+Et est est est est est est est .  <eos> <eos>	2.910967817713898
+Et est est est , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.3749265821588377
+Et est est est .  <eos> <eos> <eos>	0.0
+Et , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.899683730964252
+Et , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.0
+Et , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6183429825943918
+Et reviewer >  <eos> <eos> <eos> <eos> <eos>	1.6224821466016939
+Et , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.0
+Et , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	0.0
+Et est est , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.0063298747841174
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos>	1.429443573396954
+Et est est .  <eos> <eos> <eos> <eos>	1.8231094563196564
+Et , , , , , , , , , , , , .  <eos> <eos> <eos>	2.028969988565578
+Et est est , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5075954526964905
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos>	0.9806246950174222
+Et , , , , , , , , , , , , .  <eos> <eos>	2.4347130516557893
+Et est est , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.0984451985744679
+Et .  <eos> <eos> <eos>	1.9119108411650758
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos>	0.9404071160462034
+Et , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5267069486244212
+Et , , , , , , , , .  <eos> <eos>	2.1904077266353736
+Et est est est est .  <eos> <eos> <eos> <eos>	1.881555714180042
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.4971158614143294
+Et est est est est .  <eos> <eos> <eos> <eos>	2.666409111505393
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.48145302566625137
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5614666627265356
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.0755638500908877
+Et est est est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.0615710980041333
+Et est est est est est est est .  <eos> <eos> <eos>	2.242173863464727
+Et , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8814648451014957
+Et est est est est est est est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.943353010185168
+Et est est , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.2458232008504773
+Et est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.0
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos>	1.011139707518599
+Et , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos>	1.6913956476085643
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.2885037927778757
+Et , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.0223308944218097
+Et , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.2941537419346831
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.0729189085247801
+Et est est est est est est est est .  <eos> <eos> <eos> <eos>	1.4717662109143204
+Et est est .  <eos> <eos> <eos>	2.564755813286796
+Et est est est est est est est est est , , , , , , , , ,	3.0317726778696166
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos>	1.428875948425916
+Et , , , , .  <eos> <eos> <eos> <eos>	1.5821934551541403
+Et , , , .  <eos> <eos> <eos> <eos> <eos>	1.2322135018444962
+Et , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.43321690611435426
+Et est est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos>	1.2024545344428885
+Et est est est est est est , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.4947566869308118
+Et , , , , , .  <eos> <eos>	2.7869730680842904
+Et , , , .  <eos> <eos>	3.2174093287959424
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6155827944258521
+Et est est est est est est est est , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos>	1.4278308782451221
+Et , , , , , .  <eos> <eos> <eos>	2.673705182447105
+Et , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos>	1.5102474580708127
+Et est est , , , .  <eos> <eos> <eos> <eos> <eos>	1.2638455222950324
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.4971158614143294
+Et , , , .  <eos> <eos> <eos> <eos>	1.5738541970947637
+Et est est , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.04170792613293
+Et , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.382873248277475
+Et est > >  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.0
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.052262118092312
+Et , , , , , , , .  <eos> <eos> <eos> <eos>	1.9871967097264318
+Et , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.1258095225244604
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7850820667904758
+Et , , , .	0.0
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	2.0145071295892203
+Et , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8676958340999544
+Et est est , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7556342428242743
+Et est est est , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8279169647937545
+Et est est est est est est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6205166271143553
+Et , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7735615314649243
+Et , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5081065530317888
+Et , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.0371512232990228
+Et est est est est est est est est est est est est est est est est est est est est est est est est est est	1.3900750999094553
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.763487513066632
+Et .  <eos>	1.8315638888734187
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8332469748728274
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.4266655216992208
+Et est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6936131288608464
+Et , , , , , , .  <eos> <eos>	3.9778149665594618
+Et est est est , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7052178108392831
+Et , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7556342428242743
+Et , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	0.9140698783019278
+Et , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6396269586046143
+Et est est .  <eos> <eos> <eos> <eos> <eos>	1.18271569172795
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8541637192895177
+Et , , , , , , .	0.0
+Et .  <eos>	1.8315638888734187
+Et , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7091198186788286
+Et est est est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5892510509252525
+Et est est est , , , , .  <eos> <eos> <eos>	2.242173863464727
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.3113617852675474
+Et est est , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	2.7072602089026114
+Et est est est est .  <eos> <eos> <eos> <eos>	1.5821934551541403
+Et est est est est est est est est est est est est est est est est est est est est est est est est est est est est est est est est est est est	1.0255030899442503
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos>	1.30067436027371
+Et , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.0074736594413143
+Et , , , , .  <eos> <eos> <eos> <eos> <eos>	1.2567539259667488
+Et , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5305763187547438
+Et , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.4331734778487197
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos>	0.9922509149086511
+Et , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.2638455222950324
+Et est est , , , , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.6713635561203382
+Et est est , , , , , , , .  <eos> <eos> <eos> <eos>	1.8333813469321008
+Et description , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.6290942588050257
+Et est est est , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.0347491962428474
+Et est est est .  <eos> <eos> <eos> <eos> <eos>	1.8357366957662442
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.054566571964658
+Et est est est est est est est est est est est est est , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.3001580260086207
+Et est est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.0
+Et est est est est est est est est , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos>	1.400226065349512
+Et est est , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.052262118092312
+Et est est , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.4737687152585911
+Et description , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.0255030899442503
+Et , , , , , , , .  <eos> <eos> <eos> <eos>	1.7956349284756952
+Et est est .  <eos> <eos> <eos>	0.0
+Et , , , , .  <eos> <eos> <eos> <eos>	1.881555714180042
+Et est est est est est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , .	1.2203976754616772
+Et est est est est est est est , , , , , , , , , , , , , , , , , , , , , , , ,	1.5883027492953543
+Et , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.089930340281564
+Et , , , , , , , , , , , , , , .  <eos>	2.0128303461390598
+Et est est est , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.44864206435515736
+Et est est est .  <eos> <eos> <eos> <eos> <eos> <eos>	1.0063298747841174
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.1216940038341034
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.8999151582864394
+Et , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.382873248277475
+Et est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7882270471637196
+Et est > >  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.3750439771616539
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6732401826873375
+Et est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8676958340999544
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.66993068726635
+Et , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.0347491962428474
+Et , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos>	1.5102474580708127
+Et est est est est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos>	1.3009158357693755
+Et est est est est est est est est est est est est est est est est est est est est est est est est est est est est est est est est est est est est est est est	0.9193505568048113
+Et , , , .  <eos> <eos> <eos>	2.139538333930869
+Et est est est , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7932621645835087
+Et est est est est est est est est , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	0.0
+Et .  <eos> <eos> <eos> <eos>	1.3111910958201225
+Et .  <eos> <eos>	2.489353418393197
+Et , , , , , , .  <eos> <eos> <eos>	1.9600629536473144
+Et est est est , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.813120993198598
+Et , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.3209427368910835
+Et , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos>	3.3518388426385206
+Et , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.6568310555238104
+Et est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5610586825341887
+Et est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.0072487110349273
+Et est est .  <eos> <eos> <eos>	2.564755813286796
+Et est est est .  <eos> <eos>	3.2174093287959424
+Et , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos>	1.6329427321669214
+Et est .  <eos> <eos> <eos> <eos> <eos>	1.3063150080561918
+Et est est est est est est est est est est est est est est est est , , , , , , , , ,	1.7187608283404379
+Et est est est est est est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8386500382767186
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8332469748728274
+Et est est .  <eos> <eos> <eos>	2.156693969393992
+Et , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.12900832955124
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8237913414488371
+Et est est , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7850820667904758
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .	1.031684820624912
+Et est est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8751301502004946
+Et est > >  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6936131288608464
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .	0.8326543136991705
+Et , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.7502348496399052
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos>	0.9481351758713426
+Et description , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.7529319634330062
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.2871554389059843
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.692723185941376
+Et est est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8986005341325619
+Et est est est , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.3349683769818085
+Et , , , , .	8.745825313180626
+Et est est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.7422438240145308
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.6807264575936847
+Et , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8212722605106099
+Et .  <eos> <eos> <eos>	4.234348806659263
+Et , , , , .  <eos> <eos>	8.516593018819643
+Et > >  <eos> <eos> <eos> <eos>	0.0
+Et est est est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8926713308486253
+Et , , , , , .  <eos> <eos> <eos>	2.0315766105349127
+Et , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5570104714151348
+Et , , , .  <eos>	5.876350803261633
+Et , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.925702029626254
+Et , , , .  <eos> <eos> <eos> <eos>	2.5795879170461364
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.7719066742464611
+Et .  <eos>	1.8315638888734187
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7915268563019138
+Et , , , , , , , , , .  <eos> <eos> <eos> <eos>	1.7021996863461522
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.2589193610827865
+Et est est est .  <eos> <eos> <eos>	3.689111847432509
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5152387784350044
+Et , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos>	1.5283195178775655
+Et , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.5593987533296287
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.1743309926340424
+Et , , , , , , .  <eos>	3.708659055657029
+Et , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.085146117058332
+Et , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.904422974374372
+Et est est est est est est , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8837845002582796
+Et est est est est .  <eos> <eos> <eos>	2.0943469770777075
+Et .  <eos> <eos> <eos> <eos> <eos>	0.9690650671856613
+Et est est .  <eos> <eos> <eos>	2.156693969393992
+Et , , , .  <eos> <eos> <eos> <eos> <eos>	1.2322135018444962
+Et , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.5521618763164895
+Et est est , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6645240484835363
+Et est est , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.683750528348241
+Et .  <eos> <eos> <eos> <eos> <eos> <eos>	0.7870921666513669
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos>	1.147123563651736
+Et est est est est , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7932621645835087
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.9022136640364156
+Et est est est est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.3398700077336705
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.2445055841528523
+Et est est est est est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7915268563019138
+Et , , , , , , , , , .  <eos> <eos> <eos> <eos>	1.7021996863461522
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.0475808601826655
+Et , , , , , , , , , , , , , , , .	3.0235785635823293
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.0769973256410494
+Et .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5820564441072186
+Et , , , , , , , , , , , , , , , , , , , , , , , , ,	1.6504045595709425
+Et , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.063066425702151
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.0
+Et , , , .  <eos> <eos>	0.0
+Et , , , , , .  <eos> <eos> <eos> <eos>	1.5694957190569983
+Et est est est , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5996712030884395
+Et , , .  <eos> <eos> <eos> <eos> <eos> <eos>	0.9596488401476516
+Et est est , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7006743941915626
+Et , , , , , , .  <eos> <eos> <eos> <eos>	2.2882399068641384
+Et , , , , , , , .  <eos> <eos> <eos>	2.7032360411086658
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.2540980706244005
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos>	1.21063859804985
+Et .  <eos> <eos> <eos> <eos> <eos> <eos>	0.7870921666513669
+Et est est est .  <eos> <eos> <eos> <eos>	1.5738541970947637
+Et , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7519318212891528
+Et , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.1348017612063048
+Et , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.2638455222950324
+Et .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.3244045966611124
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.42720568940893255
+Et , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.4233488874446905
+Et est est est est .  <eos> <eos> <eos> <eos> <eos> <eos>	1.2305311064153412
+Et est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.0074736594413143
+Et est est est est est est est est est est .  <eos> <eos> <eos> <eos> <eos>	1.4042387286444455
+Et est est est , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7969616454395704
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5152387784350044
+Et , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.6395955393726065
+Et , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos>	1.7895156207463108
+Et est est , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7230729329389843
+Et est est est est est est est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.9972131254285401
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .	1.0933669314731962
+Et .  <eos> <eos> <eos> <eos> <eos> <eos>	0.7870921666513669
+Et , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.1918934678525488
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.306916858451758
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6525654793134619
+Et est est est est est .  <eos> <eos> <eos> <eos> <eos>	1.936953263325894
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.4780822562194806
+Et est est , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.173396372647394
+Et est est est est , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.1454179252874248
+Et , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8751301502004946
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.5886575611904474
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.9022136640364156
+Et , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.0371512232990228
+Et , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5418641006178401
+Et , , , , , .  <eos> <eos> <eos> <eos>	2.383435987623427
+Et , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7300384412105041
+Et , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5217902073457872
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.1526157353570807
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.261900774693035
+Et est est est est .  <eos> <eos> <eos> <eos>	1.881555714180042
+Et est est est .  <eos> <eos> <eos> <eos>	1.5738541970947637
+Et est est est .  <eos> <eos> <eos>	2.139538333930869
+Et , , , , , , , , , , , , , , , , , , , , , , , ,	1.7946164267667561
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6269455205720901
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5573606901641148
+Et est est est est est .  <eos> <eos> <eos> <eos> <eos>	1.2638455222950324
+Et est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos>	2.1881712120429144
+Et .  <eos> <eos> <eos>	1.9119108411650758
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.2092315158017553
+Et , , , , , , , .  <eos> <eos>	2.910967817713898
+Et , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6083414104706726
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.251357597683211
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6183429825943918
+Et , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.3112928216259965
+Et , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6839481878820098
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos>	1.1182743210208566
+Et est est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7887471949677209
+Et , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.9441925205997571
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.052262118092312
+Et est est est est est est est est est .  <eos> <eos> <eos> <eos> <eos>	1.8512509556591454
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.5788649383243545
+Et est est , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.48992866218288605
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos>	1.2669473831578746
+Et est est est est , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8225780716309875
+Et est est est est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.1500580412390293
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.1741330736581586
+Et est est est est est est est est est est .  <eos> <eos>	2.4426495029761353
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.312443855793458
+Et , , , , , , , , , .	0.0
+Et , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8257728189485033
+Et est est est , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6444292989863163
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos>	0.0
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.065219669422773
+Et , , , , , , , , , , , , , .  <eos> <eos>	2.70279757737439
+Et , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7819887625535336
+Et , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos>	1.2512754594423912
+Et est est est est est est est est est est , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.122291151998765
+Et , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.9068912286390387
+Et , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6661845505786941
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.9056431903693958
+Et , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.456860374616667
+Et , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8116516608687665
+Et , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.35205983372764965
+Et , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.161454369214914
+Et est est est est .  <eos> <eos> <eos> <eos> <eos> <eos>	1.2305311064153412
+Et est est est est .  <eos> <eos> <eos> <eos> <eos> <eos>	1.0347491962428474
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7915268563019138
+Et , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8157221690249191
+Et est est , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7556299678971445
+Et .  <eos> <eos>	2.489353418393197
+Et .  <eos>	1.8315638888734187
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.0262280304796905
+Et , , , , , , , .  <eos> <eos> <eos> <eos>	1.7956349284756952
+Et , , , , , , , , , , , , .  <eos> <eos> <eos> <eos>	1.5567102923487885
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos>	1.1222332880723576
+Et , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6326557691295297
+Et , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.925702029626254
+Et est est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5305763187547438
+Et , , , , , , , , , , , , .  <eos> <eos>	2.2000115916912106
+Et , , , .  <eos> <eos> <eos> <eos>	2.5795879170461364
+Et , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7556299678971445
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	1.0135914524585532
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7850820667904758
+Et est est .  <eos>	0.0
+Et est , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7850820667904758
+Et .  <eos> <eos> <eos> <eos>	1.3111910958201225
+Et est est est .  <eos> <eos> <eos>	2.139538333930869
+Et .  <eos>	1.8315638888734187
+Et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , .	0.8851290873849788
+Et est est .  <eos> <eos>	4.238556455648295
+Et .  <eos>	1.8315638888734187
+Et est est est .  <eos>	6.988198185490689
+Et .  <eos> <eos>	2.489353418393197
+Et .  <eos> <eos>	2.489353418393197
+Et est , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.3417048544084738
+Et , , , .  <eos> <eos> <eos> <eos>	1.5738541970947637
+Et est est est , , , .  <eos> <eos> <eos>	1.9600629536473144
+Et .  <eos> <eos>	2.489353418393197
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8986005341325619
+Et , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.0449207912640248
+Et , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.9269676594468113
+Et est , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.0332261061379784
+Et est est , , , , , , .  <eos> <eos>	3.0307561627463224
+Et est est est est est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.1918934678525488
+Et , , , , , .  <eos> <eos>	3.3142882018868
+Et , , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.4971158614143294
+Et , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.9199248771104893
+Et , , , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.4815418144868515
+Et .  <eos> <eos> <eos> <eos> <eos>	0.0
+Et , , , , , .  <eos> <eos> <eos> <eos>	1.866455476068894
+Et , , , , , , .  <eos> <eos> <eos>	2.330920810330635
+Et , , , , , , , , .  <eos> <eos> <eos>	2.153677533892338
+Et , , , , , , , .  <eos> <eos>	2.910967817713898
+Et , , , , , .	8.51528917838043
+Et , , , , , .  <eos> <eos>	3.3142882018868
+Et est est , , , , , , , , , .	4.11236251403474
+Et , , , , , , , , .  <eos> <eos> <eos> <eos>	1.7502348496399052
+Et est est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.8751301502004946
+Et , , , , , , , , .  <eos> <eos> <eos> <eos> <eos>	1.9081142568337384
+Et , , , , , , , .  <eos> <eos> <eos> <eos>	1.7956349284756952
+Et .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5820564441072186
+Et est est est est est , , , , , .  <eos>	3.4286942462594507
+Et , , , , , , .  <eos>	4.410363736106611
+Et , , , , , .  <eos> <eos> <eos>	2.4159653599212296
+Et , , , , , , .  <eos> <eos> <eos> <eos>	2.0315766105349127
+Et , , , .  <eos> <eos> <eos> <eos>	1.5738541970947637
+Et , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.0755462360979269
+Et est , , , , , .  <eos> <eos> <eos>	1.9600629536473144
+Et , , , , , , , , , , , , , , , , , , , , , ,	1.9597112120971663
+Et , , , , , , , .  <eos> <eos> <eos>	2.242173863464727
+Et , , , , , , , , , , , , , , .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.1156434942477471
+Et est est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.488123358577587
+Et est est est est est est est est est est est est est est est est est est est , ,	2.2751694875125548
+Et , , , , , , , , .  <eos> <eos> <eos> <eos>	1.936953263325894
+Et , , , , , , , , .  <eos>	3.056960239296902
+Et .  <eos> <eos>	2.489353418393197
+Et est est est est est est est est est .  <eos> <eos> <eos> <eos> <eos> <eos>	1.2289522688764083
+Et , , , , , , , , , , , , , , , , , , , , , , , , ,	1.7187608283404379
+Et , , , , , , .  <eos>	4.410363736106611
+Et , , , , .  <eos> <eos> <eos> <eos> <eos>	1.2567539259667488
+Et est est est est est est est est est est .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7579007198417191

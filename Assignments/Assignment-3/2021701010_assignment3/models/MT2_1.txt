@@ -1,0 +1,14 @@
+Batch Size = 4
+Learning Rate = 0.1
+Patience to Early Stop the Model = 15
+ENCODER Vocab Size = 25231
+DECODER Vocab Size = 31890
+ENCODER Embedding Dimension = 512
+DECODER Embedding Dimension = 512
+ENCODER Encoding Hidden Dimension = 256
+DECODER Encoding Hidden Dimension = 256
+ENCODER Dropout = 0
+DECODER Dropout = 0
+Early Stopping happened at Step = 21
+Number of Epochs = 100
+

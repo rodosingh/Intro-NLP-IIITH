@@ -1,0 +1,1306 @@
+corpus_BLEU:	19.582709
+Quand j' étais dans mon mon mon j' ai , j' ai ai très . . .	9.672649511413097
+J' étais un un de dans dans dans de de . . .	3.696719741302181
+Elle était un de de de de de de . . . .	4.11236251403474
+Il a a dans son a été de et et et et et et et et et et et et et et et et et et et et et et et et elle m' a il y a a    .    . <eos>    <eos> <eos>	2.062403823169552
+quand quand je ai entendu cette , j' ai été .  .	26.477952261405967
+Mon un un un de pour pour la . . .  <eos> <eos>	3.395776631557144
+Et j' ai ai un de qui à parler de parler .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.3342976164738012
+Je me suis pensé que je fais .	5.862502026550896
+Mais je n' ai pas pas . .	13.540372457315733
+Avec la plus de plus de de de , , , il il pour moi pour moi à à à nous nous nous nous le le . . .	3.2808945250121395
+" est est la de de , , , , , , , comme comme comme je , je , , , . . . . . .	3.7833770368137887
+Il a tard tard , elle a tard , elle a tard , elle a été .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	2.545206256378004
+Ce comme comme des et et je ne je temps temps .  <eos> <eos> <eos> <eos> <eos>	1.5540456119337736
+Mais avant avant , mon père m' a appris à parler de vie de vie .  <eos> <eos> <eos> <eos> <eos> <eos>	3.6461865204442727
+Je pense .  <eos>	10.122592925934278
+Je lui dit dit , " dit , elle est dit , elle est , un peu , mais mais mais mais mais mais elle est est est " <eos> <eos> <eos> <eos>	3.7268258597208317
+Et puis mon père dit , " Non , mais elle mais elle a été la . .	9.929263644223568
+Pour , la meilleure temps de la à la de est est elle " " " " . " " <eos> <eos> <eos> <eos> <eos>	1.3528045453700184
+C' est ce ce qui appelle un " " " "  <eos> .	5.76635340136122
+C' était le moment , je ne n' est pas pas pas de .  .  <eos> <eos> <eos>	7.42226469215118
+Oui , gens gens les plus de ils ont , , mais mais mais mais mais pas pas pas pas de     .  <eos> <eos> <eos>	4.374299797081685
+C' est a environ un un un un , , , nous nous il y il y il y . .  <eos> <eos> <eos>	1.580169449375054
+C' était quand j' ai que cette ce que j' ai fait était un , , , , , , , , , , , , , et et et et et et et et et et et et et et et de de    <eos> <eos> <eos> <eos> <eos> <eos>	3.796849152419359
+Il y a environ millions de la dans États-Unis dans la . . . <eos> <eos>	6.490858343426307
+Nous parlons environ environ environ % de la ou ou ou ou ou , si vous si vous n' pas pas de de de de de de   <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.5136322184533624
+Ça votre vous si vous êtes êtes votre .  <eos> <eos>	5.417921591708777
+Je veux vraiment voir voir ici ici ici .  <eos>	7.966506956353643
+Oh , c' est la surface .  <eos> <eos>	3.3142882018868
+Si vous vous avec vous , vous vous vous vous , vous , vous , , , , je je voir voir . . . . . . . . <eos>  . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.4223884661512691
+Donc j' ai ai que je parce que je que que que de de de de de de de de de , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,     <eos>	2.461490522361725
+Ce n' est pas mon . . . . . . .  <eos>	18.758830578240925
+Nous savons que 80 % de vie de vie de la de de de par par . . . .	7.681104116622756
+C' signifie que cette partie de la de et et et et " " " " " que que que que votre ce que ce que est est	4.1858747270392405
+Les gens sont sont sont , , ne pas pas pas    <eos>	3.7726698069117846
+Cette est est va être être , , je pense pense .	15.99024219628172
+Nous savons que le premier a 10 ans une une un une un de de comment comment vous vous . .  <eos>	4.288119316954875
+Nous savons que plus plus de de de sont des ou ou ou ou ou ou ou ou leurs ou leurs leurs . . . .	7.835854874838935
+Nous savons que la cerveau de la de de et et et et et de de de de de de , , , , , , , , que que vous est que vous est que est est est est est est . .  .  . <eos> <eos>	2.318677594776533
+Nous savons que nous plus plus plus plus plus plus de plus de temps de temps , et et et nous et et et et , et , , , , et , et , et de de . .   <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	2.344904792629855
+Donc votre donc sont temps à la lumière de votre votre votre votre et . .	3.4768108606699193
+Donc quand nous pensons que nous avons , nous nous savons savons que nous avons cinq ans de une de pour pour pour et et et  .   <eos> <eos> <eos> <eos> <eos>	2.9398208975927385
+C' est un temps quand votre , , , de à de vie de un une de sur sur . .  <eos>	2.344025626796109
+Mais ce que nous avons que c' est c' est y a une une de , , , , notre et de de de de de de   <eos>  <eos> <eos> <eos> <eos>	2.4720848542736915
+Mais ce n' est pas pas de de . . .  <eos> <eos>	14.378418466065586
+Les images de la de de de . .   <eos> <eos>	6.053236275429152
+C' est le fait un . .  .  <eos> <eos> <eos>	2.0837289954869336
+Tout les gens de de de " " " " " " " " " " " " " " " "	0.0
+C' est vrai .  <eos>	26.359713811572682
+En un , nous nous avons ce que ce que est la de de .  <eos> <eos> <eos> <eos>	4.725800840033243
+Ce que que dit que à à , , , vous un un et et pas . .    <eos> <eos> <eos>	4.793648686551026
+Est -ce que ça ? ? ? ?	6.9717291216921975
+Alors ce que vous pensez quand vous vous vous vous un sur vous vous vous vous vous vous vous avez avez de vous pour vous ? "  ? <eos>  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.9466533847097194
+C' est .  <eos> <eos> <eos> <eos>	1.4456752008489664
+Vous avez cette cette de de son et et et et et et . . .     <eos> <eos> <eos>	4.078985270057379
+Et puis chaque année , , , comme comme comme comme comme comme comme comme vos propres et et et et et et comme comme mon comme ma " mon mon n' est pas , mais je mais , mais , mais , mais je ne . . . je . . . . . . . <eos> . <eos> <eos> . <eos> <eos>	3.1789630448634316
+Ou ils disent , " " " que que j' ai j' ai sur sur sur sur un j' ai je suis , je suis . .  <eos>	3.388241589628944
+Mais ensuite elle a à à ce : : " " et et et et et et je ne je ne m' ai	4.514970966647375
+J' ai eu un professeur de la journée de j' ai . " . "	3.471023784089875
+Et puis il commence à cette comme : " " mon mon mon mon mon . . . . .  <eos> <eos> <eos> <eos>	3.083840605907186
+Il était a des et et et , mais mais mais mais mais , mais il était le le le et et et et et et  .  <eos> <eos> <eos> <eos> <eos> <eos>	2.4995299432810443
+Je ne ai pas pas pas le de de , , , , je pense que je je je me suis parce que j' avais il me suis me suis me . . . . . <eos>	5.4742566981492935
+Où sont le la ici ?  <eos> <eos> <eos> <eos> <eos>	2.989081421134522
+Ne ne pas pas .  <eos>	6.988198185490689
+Bon , maintenant , un peu petit peu , mais mais mais n' pas pas , , , très très très très . <eos> <eos>	4.817008840594118
+Quand un a a a été de à , , il y il y a de de de de un un un un , , , , , , , , ou ou ou de de de de de de de  <eos>  <eos>	1.2610675662831305
+Beaucoup de ces ces choses sont , et et , est est est est , , , , , plus à et pour pour pour à à  dans notre  . .	6.612462998516985
+Le groupe de la de n' n' est pas pas une une . . . .  <eos> <eos>	4.864149875663218
+C' est ne ne pas pas que vous vous vous . .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.117358032430412
+Ça n' est pas vous ne pas pas que vous vous vous vous vous vous vous pas votre pas un   <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6974419475045318
+En de de de et et et et et et et , , , , , , , , et et et et " , " , " " " ? " ? j' ai ? ? ? ? ? ? ? ? ? ? ? ? ?	1.252143927031557
+Je veux veux parler de parler de la et et et .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	2.079637628673006
+Voici une histoire de comment peut faire .  <eos> <eos> <eos>	4.661841620661271
+C' est une histoire un une .  .  <eos> <eos>	3.868564529208581
+En mère , quand elle a été mon fils parce que elle était , , , , , , , un  . . .  <eos>	2.258382204138171
+Elle elle a dit elle elle a comme à la ou ou ou ou , mais mais mais mais mais , mais , , , , , , de de années de années	3.0759934809350447
+Parce qu' elle était dit , elle a a un avec sa qui sa sa son son son son  son  .  <eos> <eos>	4.344109103419242
+Et comme elle a été ses ans , , , , il a a été	3.21858262703621
+Elle a dit dans notre nos , , mais mais mais mais , mais , , , , ne , pas tu as , vous pouvez vous pouvez vous pouvez . .	3.281706213141615
+Eh un jour , , elle a elle elle elle a son son son son son et elle et elle a de de de de	7.668702374725506
+Elle a juste un un de de , et elle a a dans le dans de de de , , , mais elle mais , mais , a a a qui a de de de de de de de de de de de , , . . . <eos> . <eos> <eos> <eos> <eos> <eos> <eos>	3.213960032449608
+Elle était quand quand quand elle a dit et me dit dit , " « Tu va être pour moi pour moi dans un film ?  <eos> <eos> <eos> <eos>	4.402488899874285
+Qui est -ce de de de moi -je je ? " ? "	6.8962421077164695
+Maintenant dans cette époque , elle n' a pas pas je me dire , " " " " " " "  " "  <eos>	3.8042430660270212
+Mais ce n' était pas était n' était pas pas vraiment vraiment vraiment vraiment vraiment vraiment .  <eos> <eos> <eos> <eos> <eos>	8.130065824355835
+Un jour , un un , et j' ai j' ai ai ai . . <eos> <eos> <eos> <eos> <eos>	2.3561515553742636
+J' avais appris appris que j' ai ai été été de de à à il il y il y a de de de de de .     <eos> <eos>	1.7349909224151492
+Donc le monde de et et , j' ai ai ai de de trois de , , , , , , , , , . . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.0927914033587451
+Premièrement , je ai appris que parler de un un de de et et et . .  .  <eos> <eos> <eos> <eos> <eos>	1.481550196212783
+D' autre , de , je je veux quelque chose que vous vous vous vous .  .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	2.6220505832930874
+Imaginez quelque chose que une grande qui vous vous voulez être .  <eos>  <eos> <eos> <eos> <eos>	3.2368099623649473
+Je ne sais pas pas la de de de , , , , , , , , , , mais je mais je mais je je pense que .	3.511476270817333
+Donc maintenant est la temps pour la de de , , , , , , , vous voulez . .    <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.383719845477181
+Je ne suis pas pas ici ici , mais je suis suis ce que ce que ne pas pas pas pas , , , , , , , , , pas pas pas pas pas pas pas  <eos>	2.894744944119913
+C' est . .   <eos> <eos>	4.673289785800722
+Je ai ai de de de et et et . . .    <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.3702972667411197
+Deuxièmement , je ai appris que que le le le le  .  <eos> <eos>	3.367425136798256
+Les femmes sont sont pour pour pour les la , mais mais mais mais de de de de de de de de ils ils ils ils ils ils , ils ils ils ils , ils ils ils ils ils ils ils ils ils ils ils ils ils ils ils ils ils ils	2.1928478174978596
+Cela nouveau de de de de , , , à à de de de de de de de les  . . <eos> .	2.122894426144709
+Il choses ce que ce qui sont notre nos nos nos notre notre de de de de de de . .	2.5756036060435537
+Donc , , , de de de de de ou ou . . .  . <eos> <eos>	2.70279757737439
+Mais les ne sont pas , et et sont sont comment vous vous vous      <eos> <eos> <eos> <eos> <eos> <eos> <eos>	4.32612870122874
+Les centaines de nouvelles sont sont jamais , , , , , à votre à votre est est comment vous est que vous    . <eos> <eos> <eos> <eos> <eos> <eos>	2.1904697552004975
+Ce n' est pas . . C' est est de de comment .   <eos> <eos> <eos> <eos>	9.654156210312351
+En , mais pas pas , , , , ne ne pouvez pas pas vous vous vous pouvez vous pouvez vous pouvez . . .	3.9667693416381398
+C' était donc pour lui , elle , mais mais un , , , , son son elle a elle elle elle a ses et et et et et et et de de	1.7705303846970066
+J' ai ai eu le temps à la faire à votre famille .  .  <eos> <eos> <eos> <eos>	3.831334149190149
+Maintenant vous peut-être être que c' est est un un de à à de , , , ou , ou , , , et et et je  .  <eos>  <eos>	4.055861891332454
+Mais la histoire vous êtes avec avec avec avec avec quand quand il sur le le le le la la n' est pas . . .  <eos>  <eos>  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	2.5390359057969243
+Les enfants temps à la sur votre est vous vous vous , , , , et que que comme comme comme comme comme comme avec vous	2.043962606050419
+Ce vos votre est est de de et et et que vous vous que vous ou ou ou ou ou avec avec avec . . . .  <eos> <eos> <eos> . <eos> <eos> <eos> <eos>	1.3408656246802524
+Alors ce qui est -il ?  <eos> <eos> <eos> <eos> <eos>	2.781653694759595
+Eh bien , nous avons avons de , , et elle elle a une une un un qui qui qui un une un un un dans un  . <eos> <eos> <eos> <eos> <eos> <eos>	5.440119756587384
+Ça a été un son un un un . . .  <eos> <eos> <eos> <eos>	2.305354994989551
+Ça va vous la son la la pour à qui de . .  . <eos> <eos> <eos> <eos> <eos>	1.3426247383996714
+Maintenant , cinq ans , elle a a une une de de . . . . <eos> <eos>	8.971490274471483
+Elle est un à un elle elle .    <eos> <eos> <eos>	2.8586838330063986
+Elle a dit ses enfants , elle a dit elle a dit , elle a dit , et " , " " " " , " , " , ne ne pas pas pas pas . . . . .	3.2678276226977534
+Maintenant , c' est que que que que , mais mais ce ce que j' ai j' ai avec avec avec . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	4.106962835465066
+Ils sont sont à à . . .	7.654112967106117
+Ce sont comme comme les de , , , , , .  .    <eos> <eos> <eos> <eos> <eos> <eos>	2.7779970710903115
+D' après , , un un , dans dans dans est est de de de de . . ou .  <eos> <eos> <eos>	3.947149922547327
+En , , , ou ou ou ou ou , , , , , , , , , , , , , , , , , , , , , , , et et et et et et et   <eos> <eos>	2.2931671404737464
+Donc voici un idée idée , vous vous vous vous .  .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.0889483830801157
+C' est comme comme ce que que je veux dire à .    <eos> <eos>	6.942470526671953
+C' est ce que je je que le de de de de de de de de de de : la de la est , , , , , , , , , , , , , , , , votre , votre , votre votre votre votre votre . votre  votre	4.043130982587148
+Ne ne pas pas pas ce que vous ne pas pas pas pas pas pas pas pas pas .	15.094176936643688
+Vous êtes votre votre vie .  maintenant .	16.10230726602675
+Merci .  <eos>	1.8315638888734187
+La la de de nous nous avons nous nous nous de de nous nous et et et , notre notre monde notre monde monde monde monde monde monde monde monde monde monde notre monde notre . . . .  .  <eos>  <eos>	3.5146897674415922
+Et cette a a , , , , , et et et , , , est est est est est est est un une un une un une , , de de , , , de de de de de de de de   .	2.5449372629507847
+Mais je me suis , , si si n' n' pas pas pas pas pas ? ? ?	9.100130732285809
+Je ai commencé à ce ce ce que comme comme .	15.187207110382285
+Tout , j' ai ai cette cette qui qui dans dans la , , , , quand vous , , le le le , , , , , . . .	5.875581881262648
+Les peuvent peuvent leurs leurs leurs dans dans , , , et peuvent peuvent peuvent sur sur sur le . . . . . <eos> <eos>	3.5921444492084746
+Donc avec cette cette , , , a été été . .	8.139165682360764
+Mais notre même nous nous à la la . . .  <eos>	2.812739937159535
+Comment peut pouvez voir avec avec avec avec avec les les les les de de nos ? ? ? ? ? ? <eos> <eos> <eos>	3.95314743307498
+A les jours , , avec mon enfant , mon collègue , j' ai mis le Canada et et un petit petit un un dans un un un un  .  .	8.384256188567475
+Une un un de de et et et et et et et et et et et , vous pouvez voir voir votre et et et et et et et et et et et et et et et et  . <eos> <eos> <eos> <eos> <eos>	3.49022520404627
+Parce que les gens ont ont un un dans dans dans , , , , est est comme comme comme un un un un   .  <eos> <eos> <eos>	1.8126151767396073
+Vous pouvez pouvez voir cette cette de de la , , , , , les les les les de  . .  .	3.9566236357113054
+La peuvent peuvent ou ou ou la ou avec leurs leur leur . . . <eos>	5.288157046685395
+Donc dans ces exemples , nous sommes sommes dans le monde monde monde monde .	24.689800508009657
+Mais comment comment la de son et et et la la la de nous ? ? ? ?	4.776946190850103
+Je suis beaucoup de de nous avons eu la de de et et et et  .  <eos> <eos> <eos> <eos> <eos> <eos>	1.4622771495305926
+Mais maintenant ne ne pas pas à à . .  <eos> <eos>	3.0307561627463224
+Ce que je ai ici ici est une femme de mon .  <eos> <eos> <eos>	2.7570145181845622
+Voici une histoire qui vous vous de de de de ou ou ou ou de quand quand système la de de de .  .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.077351506854571
+Mais cette idée , je ai commencé commencé à penser , de ces choses ces choses dans nos choses , nous pouvons -nous nous pouvons nous pouvons nous et et et et et  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	2.6081982257189424
+Qu' est -ce une une un ? ? ?	5.854497694024015
+Au bout de la , avec avec mes collègues mes mes mes mes mes amis , mes amis , nous avons avons une avons	3.300809119141885
+Eh bien , cette cette , , , comme comme comme un un dans dans notre dans , , , qui qui qui et et et et et que et cette à cette à cette .	3.7345847800340604
+Ce nous avons avons été de de de et et et et et de et et et et et et et et . . .  <eos>  <eos>  <eos>	1.9823349845176599
+Et par la , , , nous sommes nous sommes de de de de et et , , , , , , , , peuvent peuvent être et et et et et et et dans dans monde dans monde monde monde monde	3.236535997754842
+Donc un peut peuvent être de de de de et et et et et et et être être être et et et et et et un . . .	2.0936568681863004
+Et pouvons utiliser cette comme un qui pour à de de de de de , , , , , , , , , , , , , , , , , , , , , , , , , et et et et et et et et et et  . . <eos> <eos>  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.6479248949312584
+Et ce est plus plus que est est est est est est est est est est est est est est comment est monde monde monde monde monde monde monde nos . . . . .  <eos> <eos> <eos> <eos>	1.3171218375510119
+Vous pouvez voir voir , , n' ne pas pas pas quelque chose , mais nous mais nous nous nous nous nous nous notre notre notre nous notre nous notre nous notre notre notre monde notre monde notre monde notre monde	8.244601402197745
+Aujourd'hui , nous avons commencé à parler , nous nous mais si nous nous nous , , , , le notre notre notre notre . notre . . .	11.407710807460518
+Merci .  <eos>	1.8315638888734187
+J' ai donc à un un de pour deux ans deux ans dans la Chine .  <eos>  <eos> <eos> <eos> <eos> <eos> <eos>	2.8981615665563734
+Quand j' étais dans le premier première , , , , , m' m' à pour pour pour de , , .  .	4.582926237371264
+Mais mon père mère mère , " " Non " "	4.540013809283726
+Mon parents m' m' a demandé à un de .  .	4.456882760699063
+Après les premiers , , ils ils il y a il y a une de de un un un de de et de . . .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.8693973501056362
+Ce n' est pas pas si je comme le la ou ne pas pas pas	3.471023784089875
+Mais mon homme était été un un un . . .	4.996872151825361
+C' est moi mon mon propre . .   <eos> <eos> <eos> <eos>	3.9330489976762206
+Il a a à à à à à à , , , , j' ai je je je voulais faire faire  . .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.5839877949302872
+Je suis allée à la la et et de de de . .  .  <eos> <eos> <eos> <eos> <eos>	1.7430592791902204
+Mais aucun est le le . idée .  <eos> <eos>	5.773772066582297
+Pas de a été étais . J' étais .  <eos> <eos>	3.221515452693472
+Un mon mes amis , mais mais mais ils mais , , , que j' ai . . . . .	5.914171736486466
+Donc , donc , j' ai j' ai été été été .  .   <eos> <eos> <eos>	7.109047449495728
+Ma n' ne jamais jamais pas .  <eos>	6.431267393706692
+J' étais que j' ai pour la de mes mes ma vie de de de être être que je je que je .  .	5.356850921756574
+Mais c' est tellement .  <eos>	23.4500081062036
+J' ai donc de à un . .   <eos>	5.369488567517933
+Personne a commencé à à ce à . .	4.923026124015933
+Je me suis à .  .  <eos> <eos>	7.11586419732111
+J' ai mon mon de de livre de livre de livre de livre de la de de de de de de de de de de de j' ai de de de de de je de je de je de je de je de je je de je de je de de je de de de de de de de de je de je de j' ai j' ai j' ai j' ai j' ai de j' ai de    . <eos>   <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.6557466404078984
+Le " " " " " " " " " " " " " " " " " de " de de je suis de de , , , , , , , ? ? ? ?  ?   ?	1.3239810061347872
+Les en dans des , , .  .	7.267884212102741
+" The " " " est est de vie vie vie vie vie vie .	3.7298577910273503
+Ce n' est pas pas de pour . . . . . .	4.091092899898373
+Le gouvernement est intéressant , mais mais mais .	11.737849637633067
+C' est un un un un une . . . .	4.513617516969122
+Mais la ligne de la me moi : " " " Vous " Vous " " " . "	2.4074859035470344
+" " " " Je " " " " " C' est , , , , , , " . <eos> <eos> <eos>	2.2125462282571338
+Donc donc donc donc mon de de de de de de de et et mon mon mon mon mon mon mon mon	2.2789551664661816
+Chacune un nouvelle nouvelle de famille commencé de mon de de . . .   <eos> <eos> <eos> <eos> <eos> <eos>	1.5272140085687087
+Il y a beaucoup .  <eos> <eos> <eos> <eos>	1.5738541970947637
+Par exemple , je ai ai cette partie de cette de parce que parce que ce que ce que est avec avec avec avec avec	4.122623223639336
+Il n' avait jamais pas pas moi , mais ne ne pas pas être la la le monde monde monde monde monde monde	2.579124999132711
+Un autre est est est . . . <eos> <eos> <eos> <eos> <eos>	1.1435747191897463
+Ce n' est pas pas pas .  <eos>  <eos>	3.515208856700362
+C' est une grande dans dans monde monde monde monde .	9.080027618567454
+Il y a des projets de de de de et et et et et . . . . <eos>	2.530360044829169
+Je et et un plus plus plus de un un une . . .  <eos> <eos> <eos>	2.305354994989551
+Alors je ai pensé , , , si , , , pour , ne pas pas pas pas pas ? ? ? ? ?  <eos>  <eos>  <eos> <eos>	6.002256812328755
+J' ai commencé commencé à la . . .   <eos> <eos>	7.198551647532919
+Donc ils peuvent être les gens -- " " " " " " " " de de de de de de de de de de de de de de de , , ou ou ou . ou . .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	2.557138213456405
+Le " " " " " Il : Il de de de de de de de de de de , , , , de je de je de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de , , , , , , et et et et	0.6240577612104331
+Pour les , , , les sont , , , et et et . .	6.959578721753987
+Pour les , , ils sont sont tous les de , , et et et et . . . .	2.862999365766888
+Donc si vous savez un un , , c' est aussi à votre à votre dans dans . . . . <eos>  .	7.902303473324117
+Le " Le de de de " " " : " de de de de de de de de de de de de de , , j' ai ai ai ai . .   .   . <eos> <eos> <eos> <eos> <eos>	4.601217787513301
+Par exemple , c' est de de que j' " " " " " " " " " " " " " " " " " " " " " " " <eos> " "	8.392787994007874
+" " " " " " " " " . " . . . . . . .	4.814971807094068
+Les ont ont ont une de de de de de de de de de et et et . . . .  <eos> <eos>	2.040772158804365
+Je sais que je ne jamais jamais jamais jamais de . . . .	19.86045076930839
+Le un est est vraiment vraiment pas de ce qu' il ce qu' il . .   <eos> <eos> <eos> <eos> <eos> <eos>	3.194970160370379
+Je dois ai à ce que ce n' n' pas pas pas pas de une  .  .  <eos> <eos> <eos>	2.120962095960313
+Ce plus important est important à l' école de nous avec les enfants où où où où où , , , , , , , .  <eos> .  <eos> <eos>	3.095798508500836
+Même un petit , peut faire faire pour vous .  <eos>	14.975985500507548
+Donc , de , , je suis ici , , , , , , , avec un un et , , , ,  .    <eos> <eos> <eos>	9.889092385728825
+Donc , vous vous vous vous .  <eos> <eos>	5.57394613616858
+Merci .  <eos>	1.8315638888734187
+Merci .  <eos>	1.8315638888734187
+Merci .  <eos>	1.8315638888734187
+Donc quand j' étais été ans ans , un un , , , , , , elle elle elle , , , , , , , , de . .	3.3972302317719394
+Elle avait eu de de de de et et un et , , , , , , , , , , , , une  .	3.2808945250121395
+Et je ai ai avec avec cette année , , j' ai j' ai mon mon  . . <eos> <eos> <eos> <eos> <eos>	3.0152710666303224
+Donc un jour , j' ai un un un un un , , , , , , , , et dans dans les     <eos> <eos> <eos> <eos>	4.236071798994985
+Quand le monde était , , , , , , , , , , , et et et mon mon mon ai mon livre .    <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.8919004261881003
+Et puis je ai .   <eos> <eos>	8.389861810900507
+J' ai avec mon mon mon , , , , , , , de de de de . . <eos> <eos> <eos>	2.4896020996759156
+Tous ces ces de .  .	11.51015341649912
+Et j' ai ai à à la le le le , , , , , , , de mes mon mes de de de .    <eos> <eos> <eos> <eos>	3.0269756934514245
+Donc , un un , j' ai ai de , n' pas pas pas  .  <eos> <eos> <eos> <eos> <eos>	6.256358664987394
+J' ai ai un un de de , et je suis ai ai ai ai un , , parce que parce que parce que , , , , , , , ,	1.5763060777242128
+Et je suis toujours de mon mon mon .  .	5.522397783539471
+Je ne sais pas le où la . .    <eos> <eos>	3.6843717424467886
+Je ne sais pas pas que je je suis . . .    <eos>	3.745640979211903
+Je suis suis .    <eos>	7.16047614494885
+Je ne sais pas pourquoi pourquoi n' avais jamais jamais jamais .  <eos>	6.857388492518904
+Je veux dire , c' est que le qui .	14.991106946711685
+Je n' ai jamais jamais .  <eos> <eos>	11.943865131127652
+Mais plupart de , je suis ai ai , , , , , , , que ça cette ce que , , , , , , , , , , ?	3.4946025617846534
+Ce de moi .  <eos> <eos> <eos> <eos>	2.1590567826234346
+C' est tellement , et c' est c' est .  <eos>	7.687847996206941
+Nous savons les enfants de des . . .  <eos>	4.408194605881708
+Nous savons que nous les les sont sont très très très . . .  <eos> <eos> <eos>	4.544881298124782
+Nous savons que c' est est la de de de de de dans États-Unis États-Unis . États-Unis	5.777712690476738
+Et pourtant , je n' ai jamais jamais une de de de de à à ses ou ou ou ou ou ou ou . . .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.6759324872329666
+Pour cela , nous devons devons à faire , , parce que le le le le qui qui est est dans . . .  <eos> <eos> <eos> <eos> <eos> <eos>	7.516753007623431
+En fait , je ne sais pas si c' est un que que si que nous ne nous nous nous nous nous nous nous nous nous ? ?	9.945337591571468
+Bien n' est pas de , , " " " "	3.377156414337854
+Non : " , , " " " " " " " " <eos> <eos>	2.6149826893840222
+Pas .  <eos> <eos> <eos>	1.9119108411650758
+Il y a des de de , , parce que nous nous " " , " " , " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " "	1.6771058848336247
+Non , , non , , . Et je je je je je je dire que que que que que pour pour le le le mais , mais , mais , , , , , ,  .   <eos>  <eos> <eos> <eos>	2.2108315480430583
+C' est est la de de de de " , " de de de , , et et et et et de de de de de de et et et et , , , , , , nous nous . . .  . .   . <eos>   <eos>	1.3565833114685173
+Et nous pensons que nous , nous nous sommes la , , , , , ,	2.923637789252517
+Nous pensons qu' un peu de nous à faire à .	4.515183688171633
+Nous pensons que nous un un de . .  . <eos> <eos> <eos> <eos>	4.864149875663218
+Nous avons avons comment sa son . . . . <eos> <eos>	2.604848453271721
+Nous avons comment comment peu .    <eos> <eos> <eos>	2.447822402834545
+Je veux dire , ces sont sont qui qui la de de que de . .   <eos> <eos> <eos> <eos> <eos>	5.757661653311492
+Je ne sais pas ce que c' est , mais mais mais est c' est c' est .	21.47917245987805
+Prenons est que nous ils ils ils ils , , , , , et et et et et et et	2.711020190038818
+Est -ce quelque chose comme comme comme ça , qui est en fait , qui est , , , , , , est est est est est est ?	4.333992881550923
+Je ne sais pas . Je pense que très très très important de la parce que parce que parce que pense que ce que nous quand on nous nous .	22.029282777217755
+Quand nous nous sentons , nous nous nous nous histoire histoire <eos> <eos>	2.0837289954869336
+Nous avons nous une histoire de autres gens gens gens et et ces ces nous nous nous nous nous nous qu' ils nous nous . . . . . . .	3.285317781984132
+Au la de de la et et , nous nous nous savons que nous à à , à à à en fait . . <eos> <eos> <eos> <eos>	1.5778455984591997
+La deuxième nous nous tous tous , , , est est est est . .    <eos> <eos> <eos> <eos>	3.3416458205245885
+Dans la première , , , , , , , , , , , , , , , , , , , est de de et et et et et et et et et et et et et et et et , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,	0.6680413740135638
+Mais ce que elle elle a que que que être être être être , , , , . . . . . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7506392664331494
+Et c' est le problème , , , , , , , , , , , , , de de de de de de son son son son son son son son son son son son son son son " . " <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.9358001650740233
+Maintenant , et , , nous avons nous , , , .	3.377156414337854
+Vous savez , il y a , pour pour pour les les les ils ils ils à . . .	2.7178901196360052
+Mais vous ne pas pas faire faire pour ce qu' il ça est . ? ? ?  ? <eos> <eos>	2.0252905012123184
+C' est .  <eos> <eos> <eos>	4.222794013898957
+C' est un incroyable . . . .    <eos> <eos>	3.701773936489291
+Et ce que est -ce comme ?	7.16047614494885
+C' était .  .  <eos> <eos>	3.929752628321626
+Les années .  .   <eos>	7.16047614494885
+Les années de la de de de de , , , . . .	2.159701133933343
+C' a été .  <eos> <eos> <eos>	2.156693969393992
+C' est pourquoi une image est une . .  <eos> <eos>	3.6843717424467886
+Les fait sont les de de de et et . . . .	4.065425428798724
+Quand la est dans son son , et et et il il a a et et et et et et il a il a , il  .  .   <eos>  <eos>	4.001779470646216
+Il dit dit , " Vous savez , je sais que vous pense que c' est pas , mais mais n' est pas pas de de un de un ou un ou . . . . . <eos> <eos> <eos> <eos>	13.530369624749627
+Il dit dit " " Il sont sont avec avec avec avec . " . <eos> <eos> <eos> <eos>	2.038742662915885
+La est est à nous nous nous que que de et et nous nous , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ,  <eos> <eos> <eos>	1.124567799917652
+D' accord , , , : les de les les de pour pour pour pour pour pour .  <eos> <eos> <eos> <eos>	1.9530079292066178
+Il dit dit : " Les , , nous nous nous , , nous nous nous nous nous nous nous de une de de de et et et et de de de de . . . . <eos> <eos> <eos>	2.666071204987538
+Est -ce que nous nous à et et et de ? ?	3.737437943747671
+Non . Je pense que c' est que que que que nous nous nous nous nous . . .  <eos>	7.911912180338987
+Et il est -ce que de nous nous nous dans ? ? ? ? ? ? ? <eos> <eos>	1.877751044216087
+Est -ce qui se rendent à à notre notre nos nos nos et nos nos et nos nos nos ? ? ? ? ?  <eos>	3.9326110904151017
+Est -ce que les autres -nous -nous -nous avec avec avec ? ? ? ?  <eos>  <eos> <eos> <eos>	1.549109429143845
+L' autre est de cette .  .	4.767707020457095
+Un jour , c' était était été cette qui qui très qui qui qui qui avec avec avec avec son son son son son  .	3.2677968802443296
+Et la , , c' est quelque chose qui est ce qui , parce n' est n' est pas ce que ce que est est  .   <eos>	8.055259301867162
+Parce elle elle a de la , . . .    <eos>	3.7159390072518104
+La autre est est est est que pour pour .	5.0735520042259505
+Mais il est la pour choses que ce qui est est est est , , , . .	3.211547431691929
+Est -ce qu' il a dit , ou ou ou ou qu' elle un un un un ? ? ? <eos> <eos> <eos> <eos> <eos>	3.9157135693393106
+La grande est qui qui est le la est la de de de son  .	3.739277016277878
+Le but est très difficile sur ce sujet .	5.854497694024015
+Le but est très difficile de la façon dont comment nous nous à avec avec avec avec . .  <eos>	2.691533361054525
+En fait , les plus plus sont nous nous sommes , nous nous nous nous de .	8.15193239032085
+Et c' est pourquoi , je pense , , ne ne pas pas pas de faire de choses choses choses choses choses choses choses choses choses choses choses choses choses	3.3972302317719394
+Ce de nous nous à des des sont sont sont . . .	4.406306339938217
+Je suis suis de de de je , je je suis je suis je suis de de je de je que j' ai . .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	3.834081371844025
+Un jour de la de de a été été été été un une une une de de de de de de de de , , , pour pour  . <eos>  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.8236753027186694
+Pour un an .  <eos> .  <eos>	14.110009442520557
+Et elle était été à sa son de de de de , , , je je je je je je je je je je je suis ai ai .  .  .   <eos>	3.3371714464233597
+Parce que je je dire , , est est . <eos> <eos>	5.765477373590325
+Qu' est , , si , , , ? ? ? <eos>	3.600104948631532
+C' est quelque chose de une . .	5.815868174415823
+C' est quelque chose de une un . . . <eos> <eos>	3.5572110236581462
+Maintenant est une un de de de . . .	5.0735520042259505
+Elle est le très très et et de de de . .	4.839576869824698
+Elle est le " " " " " " " " " " " " de " de , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ce qui est ce que ce que ce que peut être être être être  <eos>  <eos>  <eos>  <eos>  <eos>  <eos> <eos>	3.336200457150074
+Prenez , de , , elle a a	4.196114906296549
+Maintenant , vous de vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous , vous , , , , , , , , , , , votre , votre , votre votre votre votre votre votre votre votre votre votre , votre . votre  votre	3.679288975307387
+C' est une façon à faire .  <eos>	19.505632433269746
+Mais ce que nous faisons faire nous nous ne pas pas le la  .   <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.6435734839575866
+Je ne peux pas le monde monde , , comme comme comme comme je je vraiment vraiment , ,  .  .	8.638804535733374
+Et c' est un un parce parce que nous vivons dans la polio .  <eos>	7.4819983481310155
+Nous vivons dans un . .   <eos>	5.854497694024015
+Je veux dire , nous sommes tous les des choses , , , , , , , , , est est  ?    <eos>	21.592878551044475
+La plupart de façon nous nous une façon dont je ne ne pas pas pas .  <eos> <eos>	2.5716061497971396
+Donc donc donc ce que ce que ne ne ils ils ils ils ils , ils ils ils ils dans un . .	7.851008461709069
+Prenons est à la de et et et pour la  . . <eos> <eos> <eos>	5.307917565796243
+Quand gens gens pensent de la , ils pensent de de de de de , , , , , , . .	2.0752738657056446
+Mais j' ai toujours toujours de la de , , , , , de de de de de de de de de de , , , , , , , , mais  mais    <eos> <eos> <eos> <eos> <eos>	5.484236895303142
+Oh , c' est ce que moi	0.0
+Donc , a a son , , , , , et et de de de de de la la . . . . <eos> <eos> <eos> <eos>	2.976749687761264
+Mais comme ils ils , quelque chose , et , , , , , , " de de de de de de de de , , , , , , , , , , , , , , , , , , , , , , , , , , , ,      <eos> <eos> <eos> <eos> <eos>	3.802390763940855
+Nous sommes des exemples . "  <eos> <eos> <eos>	2.4906123264252495
+Et il n' il a il y a pas un de de de ne ne pas pas pas de de de .   <eos> <eos> <eos> <eos>	4.819473203305503
+C' est une partie de la nous nous voyons ici dans la , et , je je , , , , , , , mais , mais , , ,   <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	2.438351963283197
+Il semble à un autre comme un de de , , , pas .   <eos> <eos> <eos> <eos> <eos>	3.648694183287919
+Vous savez , un un est est est la de autre autre  .	3.4197980307804725
+Les parents , ils ils ont le même .  <eos> <eos> <eos> <eos>	3.5912698569513903
+La , , c' est que est est cette cette c' est . . . <eos> <eos> <eos>	2.435320053919922
+Pourquoi est -ce que si ? ? ? ?	6.4790667469036025
+Qu' est -ce que vraiment est une une une , , , une est nous nous nous nous nous nous à nous à <eos> ? <eos>  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.9487337034146527
+Eh bien , mais nous ne n' pas pas de de . . .  <eos> <eos> <eos> <eos> <eos> <eos>	2.597153100501624
+Nous pourrions nous nous avec avec .	7.16047614494885
+Mais je ai comme aussi .   <eos> <eos> <eos>	2.302077893514382
+Donc nous nous donc pour pour , nous nous nous nous nous nous avons avons  . .  <eos> <eos> <eos> <eos>	1.6066694932016616
+La grande de .  .  <eos> <eos>	4.995138898472386
+Le gros de l' , , , à la . .  <eos> <eos>	3.6937808403073613
+Et ce qui est très : de de , , , , , , , , , , . .   <eos> <eos> <eos> <eos> <eos>	1.9954836277543373
+Nous sommes en fait .  .	19.3576934939088
+Merci .  <eos>	1.8315638888734187
+J' étais environ 10 ans ans sur une photo de ma avec dans dans dans dans un de de de de de dans dans dans de de New York de New York .  <eos> <eos>	8.98078539190247
+C' était un bâtiment .  <eos>	6.9717291216921975
+Le monde était était .  <eos>	8.22487964923291
+Le premier a été de comme comme comme comme , , si si si n' pas pas pas pas nous nous nous nous nous nous nous nous nous nous nous nous nous nous nous nous nous nous nous	1.476232328930697
+Nous avons à notre notre . .	6.567274736060395
+C' était un un de sur un un un une un un , , , , , quand quand j' ai	10.639941410220809
+Mais le moment de la était un un , , , , , avec avec avec avec et et et et et et et et et et et et un  .    <eos> <eos> <eos> <eos>	2.7531049048266314
+J' étais j' ai , j' étais très très , et j' étais .	17.609282679116177
+La réponse qui étaient étaient trop pour faire ce qu' ils ils ils ils ont , ils , ils ont -ils -ils ?	9.615482348730152
+Ça est avec avec moi , et ça devient un petit petit	4.503733751056993
+Qui est -ce après nous ?	36.06452879987789
+Vous vous vous ou ou vous vous , , nous , , nous nous nous ? ? ?  ? <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.3714043827142892
+Qui a été deux nous dans dans dans dans ou ou ou ou ou ou	3.471023784089875
+Ici dans New York , la partie de la de de de , , de de de de de de de de de et et de de de de .  <eos> <eos>	5.272949716415964
+Je voulais à faire à faire .    <eos>	5.11459870708889
+Je voulais à ce qui .  .  <eos> <eos> <eos>	2.882738686795162
+Qu' est -ce que comme à la et et et ? ? ? ? ? ? ? <eos>	7.964191616699299
+J' ai donc une un projet avec avec eux .  <eos> <eos>	11.281745647221445
+Je suis dans dans la et et et et et et et et et et et et et et et et et et , , , j' ai , j' ai j' ai j' ai . .	3.670322437338793
+Je me suis à faire .  .	8.170609724417774
+J' ai ai pris le fait un un .  .  <eos>	7.39343948260436
+Je n' ai pas juste dans dans le . . . je je  .	4.246549372656572
+Et j' ai ai la la et et j' ai le .	14.323145079400492
+C' était un un un et et . .   <eos> <eos>	3.3495035708457803
+Tout ce que le premier .  <eos> <eos> <eos> <eos> <eos>	1.4945407105672606
+C' est là , mais mais mais pas si vous si vous pensez , et et et , et , , est est , , vous , vous      .	13.51575749048951
+Le fait de un temps temps à l' école .	4.300847718252331
+Je ai gens gens que qui étaient années de années de de de de de de de de de de de de de de de de de de de de de .	1.8159024659260175
+Puis il y a pas .  <eos> <eos>	11.943865131127652
+Il pour le de de de de , , , est une de de de plus de de dans , , , , , je	3.652945772536268
+Vous êtes dans des milliers de toutes et et et et et et  . .    <eos> <eos> <eos> <eos> <eos> <eos>	2.634610208864319
+Ça juste juste à vous vous vous , c' est est est est n' est pas pas	3.241496606455093
+C' est vraiment vraiment pour le . . .	14.759564526951554
+Et puis la est est est est de de qui qui qui de de de de et et et . . .	2.5905489539591007
+Je ai aussi appris de la de de . .	9.287528999566801
+Lorsque vous vous vous vous vous vous vous un un un un un une , vous vous , vous à un une une une une un  . .  <eos> <eos> <eos> <eos>	2.537492462108061
+Ça n' a été .  .	8.745825313180626
+C' est aussi comme une forme de ou ou .  <eos> <eos> <eos>	18.44146814494656
+Il doit être être dans . .	8.170609724417774
+Et puis il y a la . .  <eos> <eos>	18.07288326053166
+Vous mettez sur la , et vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous votre vous votre vous vous vous vous , vous vous , ou , ou , ou , ou , , , , , , , , , , , et et vous , vous vous vous vous vous vous vous vous vous vous <eos> vous <eos> vous <eos> <eos> <eos> <eos> <eos> <eos> <eos>	2.8538860349370734
+Je suis le que ce que parce que parce que je pense que que les les les les la le le le le de de de de de de , . .  . <eos>	5.698076470263167
+Ils sont les la de de de santé .  <eos> <eos>	6.443030905386945
+Si ils ne pas pas les de de et et et et et , , , , , , de de , , , , , , le le . . .	3.2850105791223916
+Nous avons avons travaillé dans la pour pour et et et et et et et et et et . . .	2.224972978585352
+Les radiologues de les . .  <eos> <eos>	2.9859662827819125
+Si nous ne pouvons pas pas le la , nous nous avons nous avons , la la , , , , , la la de de de de de la la . .  . <eos> <eos> <eos> <eos>	7.349806878276262
+Je ne suis pas pas , je je suis juste de leur . . .	7.2147997676033215
+Et puis il y a ce que je que notre que , , , .  .	32.59169224191723
+Aujourd'hui que je je dire que comment comment nous nous nous à dans dans la et et et . . <eos> <eos>	2.094331982557397
+Nous ne ne pas pas de , , , , , , , notre notre notre notre notre notre notre notre notre notre notre nos notre	5.137737290383574
+Nous utilisons les , nous nous , nous nous , nous nous nous , parce que nous nous nous nous avons une sur sur sur la qui va .  .  .  <eos>	10.20103353329079
+Je veux donc à une une de de de parler de qui que les de de et et et et et de de de de de de de de de un un    .	2.9867390496386634
+Leur , je pense pense , c' est de de .  <eos>	15.090679227647147
+Ils sont sur la année chaque année , .  <eos> <eos> <eos> <eos> <eos>	1.6395955393726065
+Ils ont un un dans de . .  <eos> <eos>	6.204321855952011
+Vous savez quand on les faire .  <eos> <eos> <eos>	4.831930719842458
+Et leur leur nous nous nous nos nos . .  <eos>	4.023185929567685
+Ils sont sont une de de . . <eos> <eos>	3.4166909782241994
+Les qui qui ils ont de nous nous nous nous , nos notre notre notre notre notre notre notre notre , , , , , , et et ne ne pas pas <eos>	3.7090912438063204
+Sur le jour après la première , , j' ai ai vu de de de de un de , , et et j' ai et et et j' ai et et et et et et et j' ai et un ai de de . .  <eos> <eos> . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	2.6300475003437023
+Et j' ai essayé à à pour pour à à de de de de de , , , mais je je suis . .	6.035420398122437
+Et il m' a m' , et et il , et et , , dit , dit , , va  .  <eos>  <eos>	5.057094857416223
+Nous allons être . " "  <eos> <eos>	2.9859662827819125
+C' était un peu de tard que j' ai commencé commencé avec mes amis avec moi , et j' ai ai .  <eos> <eos> . <eos>	20.038769925625108
+Une est est de , et nous nous avons de , , nous nous nous avons  . .  <eos>	10.61028736691441
+Je veux vraiment ce que c' était . .	6.27465531099474
+Nous allons être être .  <eos> <eos>	3.2174093287959424
+Mais notre notre système de nous nous nous nous avons de de sur , , nous nous nous nous nous et nous , , , , , , , la les la    .  <eos> <eos>	2.668197314151604
+Nous avons aussi être que nous à à faire à faire les gens gens gens gens de et leur et de leur de nous nous nous nous nous nous nous nous nous nous nous , , , , , , , , , , , , , , , , , , , , , , , , , et et nous nous nous nous nous nous nous nous nous nous de de de de de de de de . . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.9284397621422381
+De , , , nous pensons que nous nous nous parler , nous , des trois pour cent de la de de . .  <eos> <eos>	3.718327861454321
+C' est une un . .  <eos>	10.62372743739878
+Donc dans la fin de votre , , votre , votre vos , vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous , , un   . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.8245088851279174
+Prenez un peu pour vous .	8.116697886877475
+Oui , , , , ce est . <eos>	4.194930905450255
+Pas . Pas .  .  <eos>	5.862502026550896
+D' accord , , , est -ce est ?	6.495032985064742
+Mon : C' est la , , et je ne pas pas , , mais , mais était était . . . . . . .	11.209528410149087
+Il a mon mes mes de de dans de de de de , , , , dans . dans . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.1393807775330262
+En un , , j' ai ai , , , , je je je tous . .  <eos> <eos> <eos>	3.4631162288475585
+.  <eos>	4.9787068367863965
+C' est . . Je suis comme comme , , de la  .  <eos> <eos>	13.62935817240798
+Ce n' est pas pas .  <eos> <eos> <eos>	8.377387908310832
+Il n' est pas un . . . ne ne pas pas . . .  <eos>	9.818135975194956
+Personne un un un un sur mon mère mère , je ne ai pas pas je ne pas parce que parce que mes , , , , . . . .  <eos>  <eos> . <eos> <eos>	5.001810413469434
+Il seulement seulement de de , , comme ce qui m' à à mon mon jour . .  <eos> <eos> <eos>	4.322648532201995
+Maintenant , je je vous je je suis pas , je ne je ne pas pas pas pas pas de à ce que pour moi parce que parce que parce que , , , votre , , , , vous de vous de  . <eos>  <eos> <eos>	4.874708257923624
+Le un un avec	0.0
+C' est en fait , vous êtes êtes , vous êtes êtes dans dans la de , , , et et et , , ?  <eos>  <eos> <eos> <eos> <eos> <eos> <eos>	4.927959002945475
+Les systèmes de l' ADN .  <eos> <eos>	2.9859662827819125
+Et vous êtes comme , " , , ne je pas -je un ? ? ? ? ? ? ? <eos> <eos> <eos> <eos>	1.9799933684425146
+Je , je je vous vous vous , je , ai , et et et et est  . <eos>   <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	2.0153396752381365
+Si il y a un un de , , je suis ai  .   <eos> <eos> <eos> <eos>	5.338796838243856
+Je suis suis , , , je suis , , je , , , je et je suis dans . . . <eos> <eos> <eos>	8.60728046111633
+Si vous ne vous pas vous , vous , vous vous vous  .	4.11236251403474
+Le but , , est est est mon mon . . <eos> <eos> <eos>	2.549704254217688
+J' ai ai toujours le la de mes mes mes mon mon de la même . .	5.875148471810145
+J' ai aussi le la que je si je voulais à mes mon mon mon mon à mon , , , je	10.092817545817189
+Un plupart de gens gens ne ne pas pas pas , mais mais mais pas ne pas pas pas pas " pas " " " " " " <eos> " <eos> " <eos> "	3.267668068737205
+Mon père est , était , " Vous pouvez , tu , pouvez pouvez peut . . <eos> . <eos> <eos> <eos>	3.6912810421966373
+Donc , si ma trois trois de , j' étais , j' étais .  <eos> <eos> <eos>	5.0570290239599505
+Si ma trois trois de à à à , mon , , , , , et et et et je et je et , , , , nous avons nous nous nous nous nous nous nous nous nous      . <eos> <eos> <eos> <eos> <eos> <eos> <eos>	2.027410863234188
+Ma père m' m' a demandé à quand quand j' étais ans ans ans ans à mes amis sur mon livre sur sa chambre et et et	5.464818510448143
+Une idée qui il a été un un un un un de de de et et moi et moi . . .  <eos> <eos>	2.306683222859263
+Mon père était était très très , et et . . . , , , , , , , , , j' étais j' étais j' avais un avais un avais un  <eos>	5.936311798865403
+La fois , il y avait pas de de dans dans mes , , et ils étaient étaient étaient . . . . .  <eos> <eos>	7.328896948338326
+Les y a des des de dans , , et ils sont sont . . . . . .  <eos>	14.169028445914154
+Je ne sais pas pas même pas nous nous ne pas pas . .  <eos> <eos> <eos> <eos>	2.239889426869716
+C' était avant avant et et elle a dit qu' il était vraiment dit " " " "  <eos>      <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	3.0261565570217175
+Les gens que j' ai grandi avec avec avec avec avec avec avec avec mes mon	10.372689474549311
+Ils ont fait , , , , très très que je je voulais à à <eos> . .	6.248174575604716
+Je voudrais à faire que je suis ai de de de pour pour trois trois pour , , , de de de de de de de de  .    <eos> <eos> <eos> <eos>	1.710111609695818
+J' ai ai de de sur sur . .	5.669791110976001
+Oui , sur le . C' .  <eos>  <eos>	7.030417713400723
+Ma parents ne ne pas pas de , , ils ils ont à moi .   <eos> <eos> <eos> <eos> <eos> <eos>	2.8270424579248745
+Je ai appris comment à dans ces , , je je peux je en . .  . <eos>  <eos> <eos> <eos>	4.1062815739362195
+Et je suis des histoires , et nous sommes vraiment vraiment avec , avec , , , , si mon mon , , ,	2.01381482546679
+Et quand je suis allé allé de de de de de de de de de , , , je n' ai .	2.055847707468329
+J' ai mon ma dans dans un un un , parce que , mon ai que que que nous nous nous nous nous nous nous nous nous nous nous nous nous nous nous	4.8184979696966455
+La deuxième de de mes ma ma ma ma femme , , je suis , ai ai , j' ai j' ai j' ai , j' ai , j' ai , , j' ai , , , , et , et , , , , , , " , " " <eos> " <eos> " <eos> " <eos> <eos> " <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	3.444924979155698
+Mais un la de nous avons avons avons avons . . .	8.171014300726602
+Je dois raconter vous , , c' est , mais mais mais j' ai j' ai j' étais , , j' ai de n' avais ne pas pas pas <eos>  <eos> <eos>	6.730849351609003
+Et je peux sur sur mon mon . .	10.552670315936318
+Mon de cette cette cette que je je je dire , , , , , , , , , mon mon mon livre à mon livre " " " " "  <eos> "  <eos> <eos> <eos> <eos>	2.1629765654819266
+Je suis allé à à de de et et un un un de de de , , , , , , parce que , j' ai ai  .  . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	4.271710535493325
+J' étais comme comme le la de de la . .	9.548450962056531
+La semaine moi .  <eos> <eos> <eos>	2.156693969393992
+J' ai tous les plus de de de de de de de , , j' ai ai ai ai de de de de , , , , de de de	5.497443562551869
+Chaque temps , j' ai ai un un de " " " " " , , mon	1.8160849415439309
+Mais je n' ai jamais jamais . .  <eos> <eos>	17.267606045625936
+Finalement , ma ma , , , , , un un un " " " " " " " " . " <eos> <eos> <eos> <eos> <eos>	3.0111336581784713
+C' est un un un un avec avec avec    <eos> <eos> <eos>	2.0540152107739
+J' étais un fille avec une fille .  <eos> <eos> <eos>	4.338332464551785
+J' ai donc à la , , , " Je vais vais vais un un  <eos> <eos> <eos> <eos>	3.342727112240676
+Je suis le plus .  <eos> <eos>	0.0
+Un jour de plus de de de .	0.0
+Je me , , je je suis suis " " " <eos> <eos>	5.484683161991911
+Je n' ai pas pas le . .  <eos>	15.685718045401451
+La production de la le . .  <eos>	4.955725306405571
+Je suis allé à la de de de de , , , comme comme , , , , , , , , , , , elle dit elle , elle parce qu' elle ne ne pas pas pas          <eos>  <eos>  <eos>	3.0397156830248746
+Je lui dit dit , « Je sais pas si je ne peux pas le , , " . " . "  <eos> <eos> <eos>	16.113753614139625
+C' était un projet qui j' ai été de à et et et ils ils ils ils ils un une  . . . . <eos> <eos>	3.503259881918665
+Il était été vie vie .  <eos> <eos> <eos> <eos>	3.1643869103082793
+Les images une grande de de de de de de pour pour pour . . . <eos>  <eos> <eos>	2.4416752945937867
+Elle a , j' ai ai , , , et mon ai et , était était un un un un une une une  .  . <eos> <eos> <eos> <eos>	3.5808615705300095
+Mon était était était .	12.44023474812678
+Et je me que je je être " " " " " " " " " " " " " " . .     <eos> <eos>	3.3961882197738325
+Mais , , j' ai un un un de de vous vous vous de de de de , , , , , , , , , , que que ne ne ne pas ne pas pas pas pas , , , ,	1.2895624601712163
+Ils n' ont pas de gens . .  <eos>	4.410363736106611
+Mais il y avait la pour la . .  <eos> <eos>	10.353028267053118
+J' ai grandi à la de , , , , , , , , et ces ces de qui qui avaient de . . . . . .	3.770678435743331
+Je suis donc une . . .	14.535768424205482
+Mon première était était été été de New York New York à New York à New York , et je ai ai vu le que je je que je quand quand quand quand quand il quand il quand il était le le la la de de avec un avec avec avec un avec .  .  <eos> <eos> <eos>	6.260471892732141
+J' ai ai dans dans tous tous tous , , et j' ai ai dans dans dans dans dans dans dans dans dans , , , , , .	8.35227127473685
+Certaines personnes aussi que je suis le premier sur le monde dans monde monde monde monde monde monde monde	8.592743793955233
+Je ne ai jamais à , , mais mais je sais que que ils ils que que que ce que ne ne pas pas ne pas pas pas , , ils  .  . <eos> <eos> <eos> <eos> <eos>	5.256369278263833
+Dans un , mes collègues mes amis de mon père et et et et j' ai commencé à l' Université de New York de New York de l' Université , dans l' espace .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	3.647972567698969
+Notre but était été pour la possibilité de la de de de de , , , , aussi de qui qui les et et et et et . . <eos> <eos> <eos> <eos> <eos> <eos>	1.4611509111536312
+C' était été été , , , , que la le le le le le   . <eos> <eos>	2.5483952489823305
+Mon gros de la en . . .  <eos> <eos>	3.102160927976006
+J' étais le mot à un sur sur le livre " " " " "  "  <eos> <eos> <eos> <eos> <eos> <eos>	1.4861017618021028
+Je suis dans mon comme je je je vais et et et et et et et et un et et et et un un un  ,    <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.2956024341008816
+J' ai ai regardé dans la et et je me suis dit , " , , , , -je ai "  " <eos> " <eos> <eos> <eos> <eos> <eos>	3.429056503386326
+Et elle a regardé et et et elle , " , , , , , , , , , "	8.836253224894948
+Et nous étions , , , ?  <eos> <eos> <eos>	2.4159653599212296
+J' ai donc à la de la , je je je je je je je le le le le le le le le et , , , , était était était était , j' étais .	5.712308856543939
+J' avais ai , mes mes mes et je je je suis je je je je je jamais jamais jamais .  .	4.8977933957169455
+Mais seulement seulement seulement il a de m' m' m' a , il m' a un temps , de , et et et mon  . .	4.5210270548008795
+Un fait , j' ai appris sur sur la avec avec avec la qui qui qui sur la la la  . .   <eos> <eos> <eos> <eos> <eos>	5.0907460193668586
+Les gens gens enfants sont , mais mais mais je n' avais jamais jamais un un un un un   .   <eos> <eos>	5.0130081242493585
+D' accord , ma première partie monde le monde est est .  <eos> <eos>	2.9048161683970806
+Je vais vous regarde à l' histoire et vous me dit , " , pourquoi pourquoi est -ce ? "  <eos> <eos> <eos> <eos>	2.757128633975985
+" est -ce est -ce que " " " <eos>	4.4959869933858485
+Et mon mon , " de de de de . .	3.3864985683445354
+Qu' est -ce -il ? ? ?	7.16047614494885
+Nous devrions vraiment vraiment pour . "  " <eos>	4.880869806051147
+Un autre a a que j' j' ai ma ma ma ma : de , , , , <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	2.70858664665069
+C' est comme comme comme .   <eos> <eos> <eos>	2.7376474102577792
+Si un n' ne peut pas pas pas , , ne ne ne pas pas pas pas . .  <eos> <eos> <eos> <eos> <eos> <eos>	5.044561403984653
+Les autre sont sont de , , , , , , , . . . . . <eos> <eos>	7.201405888076978
+Les gens avec les sont des dans dans dans monde monde , et nous sommes plus plus plus . . .  .  <eos>	19.65903798018941
+Le enfants a dit que je ne pas pas , mais je suis ici de  . <eos> <eos>	15.734908557297214
+Cependant , si je j' ai avec avec , , je ne je ne je je je je .   .	10.413029177416922
+Je espère que nous nous pouvons créer ces plus de de de dans dans dans et et et vie vie vie vie .  <eos>	4.306837413715237
+Il n' y a y a plus plus de , , , , , à l' eau . .    <eos>	2.703251334489793
+Ou ne ne pas pas .	20.24518585186855
+Peut - ci un peu un un pour nos enfants . .  <eos> <eos> <eos> <eos> <eos> <eos>	4.51293920960237
+Mon m' a été m' a à à très très . . . .	6.803085237372876
+J' ai ai à la la de de de de de de de la et la la . .    <eos>	4.042649040111612
+J' ai essayé à un un avec avec avec avec avec avec avec mes amis et mon , , , , . .  .	2.608796433416353
+J' ai le monde monde comme un sur de de . .   <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.900558673451234
+J' étais un un de de de de de de de de la la . . .   <eos> <eos> <eos>	2.140302754465299
+Et je pense que c' est une , , une pour un de un un une une une de de de mes mes mes mes . . . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.1553385178618796
+Mais le problème qui était le le que quand quand j' ai -- -- -- -- -- -- -- -- -- , le le que que j' que j' ai j' ai de de de de un un un comme un comme un et et , , , , , , , , , , , . . .	4.269947224322035
+C' était le temps époque que mon père mère , j' ai décidé à l' époque , et je ai ai décidé à son . .  <eos>	6.534837098052776
+Mon : C' est la , et et si je peux peux peux peut peux peut .  <eos>	15.774545980684183
+Donc , nous devons à un de . . .  <eos> <eos>	5.477194682220922
+Sur les , , , , , de de de de de de de de de et et et la la  de   <eos>	1.7577459356554812
+Les gens et étaient étaient , mais mais , la la la de de de la était était de de une une  . . . <eos> <eos> <eos>	4.2034009508528385
+Le fait était était été la la de du milieu du Pacifique .  <eos> États-Unis .  <eos> <eos> <eos> <eos> <eos>	2.8658165029890976
+Pour les à la , , , , de de de de de de , , , , , ou cent % de cent .  <eos>	2.084323581868844
+Les étudiants sont des personnes et les et les de de de de , , , , et et . . . .	4.345953622855046
+Les gens , , la la de de de . .   <eos>	3.755001157177446
+Mais avant la dernière , il a été hommes à la la la  .  <eos> <eos> <eos>	2.2330349019855595
+Ces a sur la Terre , de la , , , , , , de de de , , est est est   .  <eos> <eos> <eos> <eos> <eos> <eos>	1.5045647936742272
+Alors pourquoi -ils -ils -ils ?  <eos> <eos> <eos>	2.75631563063758
+Ils n' ont pas pas de de de de de de de , , , et et et et et de de de de de de de et de et de de notre . . notre . .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	3.8043788983447597
+Pourquoi il y ils ils ils qu' ils ont parce qu' ils ont parce qu' ils sont pas de la la la la qui la la la  . .   <eos>  <eos> <eos> <eos>	2.5994328445126516
+Mais bien est en termes dans la dans dans dans un un un . . . .    <eos>	2.4426633221059637
+Pour , , n' n' était pas pas un de de dans dans dans dans dans . . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	3.123589395169529
+Au le temps , le monde était était été été de de de de de de  . <eos> <eos> <eos> <eos> <eos> <eos>	1.5295174704622967
+Ils ont ont parce qu' il était une chose chose .  <eos> <eos> <eos> <eos>	3.599714065959926
+Dans le monde de la dans dans de de une une de de . . . <eos> <eos> <eos> <eos> <eos>	1.632497505118963
+Le premier de de la la la la la et et et et et et et et un  .    <eos> <eos> <eos> <eos> <eos>	2.9722035236042057
+Dans le monde années de siècle siècle , , était était et et . .  <eos>	5.075712721076898
+Et un est est à ce ce qui de de dans " " " " " " " <eos> " <eos> <eos> <eos>	1.5099515168632092
+Par plupart de la , , nous nous ne nous pas pas un un un un ou un un un , mais , mais , , , , de de de de de de . . . <eos> . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	2.295049835797086
+En réalité , pas n' est pas été été à la la  .	7.835643838636099
+Personne un a a de de de de de de de , et , , a a a a a a a de , , , que nous nous nous , , , , , , , , , , , , , , , , , , , , , de de de de de   .  . <eos>  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.4203687490060777
+Je ai ai la la de de . . . <eos> <eos>	2.1904077266353736
+J' étais cinq ans ans , je mère mère ai appris à la vie de la de de de de . . .    <eos> <eos> <eos>	4.4525132117617945
+Je suis que cette ce que était être la de de , , , mais j' étais j' ai j' ai j' ai j' ai mon mon  . . <eos> <eos> <eos> <eos> <eos> <eos>	7.016033053601909
+" " est arrivé à notre capacité de son propre avec avec avec avec son famille de .      <eos> <eos> <eos> <eos> <eos> <eos> <eos>	10.146652971156206
+Vous pouvez le tout le temps .  <eos>	26.088405164365604
+Nous avons entendu entendu le monde de deux minutes minutes .  <eos> .  <eos>	2.7673854938424567
+Il est aussi aussi si les de de et et et avec avec avec avec avec avec , avec , avec des et et et et et et et , , ou ou ou . .      <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	2.3543666991496623
+Il n' y a pas de de de ces choses choses choses choses . <eos> <eos>	12.82433346023247
+Ils ont des et et nos vies .  <eos>	17.563828119631346
+Mais ils ne ne pas pas de de . . . .  <eos>	3.6843717424467886
+Qu' est -ce ? ?  ?	10.400597689005304
+Donc il y une une de dans dans , , qui qui qui a a été a été de de de dans dans dans dans dans dans la il il a , , , , , , , , ,  <eos>  <eos>	3.1091006235412864
+Même les enfants les les de à , , , dans , dans la de de . .    <eos> <eos> <eos>	2.1359438528977344
+Une théorie que cette technologie de de de de de de de et et et et et et et ou ou ou . . . .  <eos>	2.1669964407754616
+Mais je ne sais pas que c' est est . . . .	9.345091860762494
+Il est ce qui ce qui avec avec . . .  <eos> <eos> <eos>	3.8483454698450967
+Même quand quand il les étaient leurs leurs plus de de , , , , , , , , , , , , , . . .  .  .  .  <eos>	1.8306333543076283
+Les ont ont toujours à des informations de des milliards de les personnes âgées de la nourriture et et les gens et et et et et et et et , , , , , , , , de de de de de de de de de de de de de     <eos> <eos> <eos> <eos> <eos> <eos>	1.7822973221102816
+Non , la nous nous nous ne pas pas pas de les plus plus plus plus plus et plus . plus	4.973205812406307
+Parfois nous nous avons pas de de de . . .  <eos> <eos> <eos>	2.2882399068641384
+Nous pourrions faire faire si nous voulons voulons .  <eos> <eos>	2.910967817713898
+La même a été la de de . .   <eos> <eos>	3.3495035708457803
+Mais vous à un un un avec avec avec , , , , et et et . . . .    <eos> <eos>	3.4251017286865153
+Nous ne ne pas pas à , parce parce parce qu' il y a plus important de faire de faire sur la Terre .  <eos> <eos> <eos> <eos>	9.39153086825429
+Parfois , nous pouvons nous pas pas de de nos nos nos nos nos . . . . .	2.867273570500278
+Aujourd'hui , moins % % de cent de la monde de la de de de de , , , , , , , , , , , , , , et et et et et et et et et . . . . . .	4.037573399811192
+Les gouvernements et sont sont sont de et et et et et et et , est est est  . . .  <eos> <eos> <eos> <eos> <eos>	1.5778455984591997
+Nous voulons les énergie de nous peuvent peuvent sur . . . . . .  <eos> <eos> <eos> <eos> <eos>	1.451184057126309
+Maintenant , , , les et et et les et sur les sur les et et et et de de de de de de de de de de de de de , , , , , , et et et et et et et de de .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	2.016188742654219
+Mais il y a pas pas pas dans dans la de nous nous nous nous nous de de ou ou de de . . . .  <eos> <eos> <eos>	3.047619996937072
+Parfois , , , a qui n' avait n' n' pas pas pas pas    <eos> <eos>	2.5066346703158198
+Ce étaient des avantages de être être par des dans nourriture . . .    <eos> <eos>	5.2573138446975785
+Mais 30 années de de ont ont nous nous nous nous sommes de de qui qui de de . . . . <eos> <eos> <eos> <eos> <eos>	4.3539595410318785
+Bien peut les choses comme comme les ou ou ou ou pour des et et , , , , mais , mais , mais des autres il y a des      <eos> <eos> <eos> <eos>	3.647710731324818
+Finalement , , les de de de , ne ne nous ne pas pas pas . . problème .  <eos> <eos>	5.049122311941813
+Les plus de plus de de de , , mais nous nous nous de beaucoup de beaucoup de beaucoup de de de de de de , , , , , , , , de de de de années de années de , , , , , ,       <eos>  <eos>  <eos> <eos> <eos> <eos> <eos> <eos>	1.5533316938776631
+Les chauves sont sont .  <eos> <eos>	3.8261660656802645
+Ce n' est pas pas que nous nous pas pas de de de  .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.3147371777210677
+Nous pouvons , nous , , mais mais ces mais de de être de de de de de de et de de de un à un un , , , , , , , , , , , , , , ,   .     .  <eos>  <eos> <eos>  <eos> <eos>	1.791501880264228
+Le fait , , qui a a une une de de de de de de de de de de de de de , , , ces . . <eos> .	3.5536559081652053
+Mais c' est une de pour pour . . . <eos> <eos> <eos>	4.7525582267211846
+C' est pas . . . . . <eos>	4.194930905450255
+Il n' y a pas de comme comme comme le , , , , comme comme comme , de de de la et et et et et et et et , , de de de de de la  . . .  . <eos> système  <eos> <eos> <eos> <eos>	8.121341982731565
+La plupart de tous , , la la de de être être  .  <eos> <eos>	2.6149826893840222
+C' était juste trois trois .  <eos>  <eos>	3.823246852690463
+Et n' n' était pas pas de de de un problème .  <eos>	3.9605331345840415
+Nous sommes sommes sur nos nos nos , et et , de de la être . . .  <eos> <eos> <eos> <eos> <eos>	2.439244736905732
+Dieu , , nous ne pas pas le le . . .	7.561318691530973
+Merci beaucoup .  <eos>	13.533528323661276
+Je aimerais comme vous vous vous votre .  .	5.795599612995366
+Imaginez vous le la la de de de votre . . .	4.521356896113449
+Je voudrais comme vous vous la la du la , , , c' est est . .  .	3.1142484770067225
+Maintenant une une de de de sur sur . . <eos> <eos> <eos> <eos>	2.6805430410486215
+Ils sont dans dans un de , , , et ils ils ils ils ont . . . .  <eos> <eos>	7.140537251628709
+Je vais vous montrer voir voir .  <eos>	5.08764122072739
+Ils sont des vraiment , , ils ils ils ils ils ils ils ils ils . . .	4.780204393760627
+Et ils sont aussi dans la de de de . .   <eos> <eos>	3.1572564565455266
+D' abord , , les femmes , vous vous , , dans les  . .   <eos> <eos> <eos> <eos> <eos>	4.038553492875281
+La plupart le de de votre dans votre votre votre votre , , , , , , , , , , , , , la  .    <eos> <eos> <eos> <eos> <eos>	2.6186318692675394
+Le réponse est la sur sur .	7.809849842300637
+Ce que est est de vous vous de de sur sur une de de .	3.21858262703621
+C' est une question .  <eos> <eos> <eos>	2.544354209531657
+Vous pouvez pouvez de de sa ses de votre . . . .	3.673526562988939
+Vous pouvez le la le de qui qui il à à à son . .   <eos> <eos> <eos> <eos> <eos>	1.9243517576525344
+Elle . . . Elle a dans votre . . . .	8.139165682360764
+Dans votre autre , , , , , , , , . .	3.716499092256817
+Elle est la de , elle elle a sur votre , , , , elle et " " " " " " " " " " " <eos>	4.416802389698502
+Et puis vous me suis votre . . .	5.854497694024015
+Dans votre troisième , , a été été un de avec un avec un et et de et de vos de de de vous , , , , , , , , , , , de de de de de de de de de . . <eos>  . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.731407480192954
+Très . votre votre . .  .	8.51528917838043
+Je veux raconter raconter vous un très très de de qui est de de dans New York . .  <eos>	4.526601509693065
+C' est appelle le temps de la .   <eos> <eos> <eos>	5.876316399785489
+J' ai ai demandé à cette cette de quelques années un un un une une , , , , , , , , que que que que comme <eos>   <eos> <eos> <eos> <eos> <eos>	2.306387267775193
+C' était un une de de et et et et et , , dans dans de et et et et  . <eos> <eos>	3.592215058169824
+Ils étaient des centaines de des de , , , les . . . .   <eos> <eos>	8.647825468524676
+Ils étaient des des de de de et et et et de de	3.377156414337854
+Ils étaient des de de dans un un  . .	4.456882760699063
+Ils étaient des voir voir qui l' une sorte de une de de de la . . . <eos> <eos> <eos> <eos> <eos> <eos> <eos>	2.099267258248275
+J' étais comme ça , c' est .  <eos>	4.880869806051147
+Ces gens ont être de de . . . <eos> <eos> <eos>	2.480447707504303
+Et j' ai commencé parler une sorte de la . .	16.14682615668325
+C' est un appelé appelé appelé qui qui avait avait de de de où où il avait une de de de . .  .	4.303846266589083
+Et je lui dit dit , " Tu dit , quand tu as vous vous un ? "  <eos> <eos> <eos> <eos> <eos> <eos>	3.765542205122977
+Et il était comme " " Je ne pas pas  .  <eos> <eos> <eos> <eos>	4.057939977131157
+En fait , je suis ai un un . .   <eos>	7.39343948260436
+Tout qui qui dans cette histoire de vous vous vous qu' ils un un      <eos>	6.809398432036521
+Nous avons tous tous nous à ces ces ces de de de de de de de de , , , , , , , , , , , , , , , , , , , , , , , . . . . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.6752797402659818
+Et j' ai dit , " " " Je ne Je ne je que je " ? ? ? ? " ? ? " <eos> <eos> <eos> <eos>	2.462887473743723
+Nous étions le la de la de , , , , , , , , , , , mais , mais , , , , , , , , , , vous     <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.863207868657975
+Savez -vous ? ?  <eos> ? <eos> <eos> <eos>	1.2976955971595585
+Je suis comme " " " " " " ? Pourquoi ?	7.11586419732111
+" Parce que je veux vraiment vraiment parler à comment comment à la de de de de de de de de de . . .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	2.085587546223902
+Il va le monde monde que que peut faire . .  <eos> <eos> <eos> <eos>	5.022348665054301
+J' étais dit , " Je ne Je pas pas , mais mais mais mais vous vous .   .  <eos> <eos> <eos>	4.233268702498735
+Je veux dire , vous devez faire quelque chose ?  <eos> <eos> <eos> <eos> <eos> <eos>	4.121014689879988
+Et c' était le de un très très de pour moi . .  <eos>	10.74159750747916
+Je ai ai vu la la de de de de de de de de de , , mais mais mais mais , mais , , , , , , , , , , , pas pas pas et pas et pas	2.9596914123201787
+J' ai rencontré une de de de gens . gens	12.862534787413374
+C' est un appelé appelé .  <eos> <eos>	4.408194605881708
+Il est un autre qui qui , très très très très très de dans dans monde monde	6.047157127164658
+Sa a été été été que il n' était pas il avait il avait un un problème , , . .    <eos>	4.582926237371264
+Et il était cette fait , , mais il était un une dans de de de nous nous nous nous nous nous nous nous nous .	4.861389747829325
+Le autre de de de : j' ai je . . .  .	13.177929630227897
+C' est le .  .	9.652434877402245
+Il était le la de de de la la dans le " " " " " " " <eos> <eos>	2.6951246723567897
+Nous avons un un de dans dans la de de de de de de de de , , . . . .   <eos> <eos> <eos>	3.5644803512530343
+Et je suis allé j' ai ai un un de de de de , , , de de ans ans ans ans ans ans dans dans dans dans dans dans dans dans dans dans dans  <eos> <eos> <eos>	2.5903654291479987
+Et je suis appris un tas de vraiment vraiment intéressant .  <eos>	18.61893718748252
+Une partie de ce que je que je que que que une une une une , , , , , , , , , , , , n' était pas , pas pas , que que	5.157142709886006
+Une un un temps , les gens leur leur leurs , , , , de . . . .	8.808424865565325
+Au la dernière de nous avons avons une avons un de de -- -- -- de de le le le le le le , , , , , , , , , , , , , , de et nous et nous nous nous nous nous nous nous nous nous nous nous nous nous nous nous nous nous nous nous  . <eos>	2.215635503329412
+Ces enfants ont été notre nos notre monde , mais mais ils ils  . .	6.150343144231885
+Ils ont ont nous nous , et et je je que ils ils ils  . . .	4.968018039415939
+Pour petit besoin à la , , , , , comme nous nous nous nous    <eos>	2.5665813713132626
+Un de la de sur sur où où où vous où où gens gens de de de de une une une , , , , , est est est est . <eos>  . <eos> <eos> <eos>	2.425870983641757
+Ce n' est pas pas pas , , il y a de de tous . . . monde .  <eos>	9.728299751326436
+Et j' étais , je je voulais voulais comment faire ces choses .  <eos>	9.032570838137461
+Un quelques années a un groupe de un de de un de un un de de de de de dans dans . . <eos> <eos> <eos> <eos>	5.953499375522528
+Ils ont des : : ces ces ces ces ces qui sont sont sont sont , , de de de de ? ? ?  ?	4.1202784939919095
+Le réponse était était .  <eos>	6.988198185490689
+Les -ils -ils -ils les la de de nous ? ?  <eos>	6.225616866546953
+Ils ont des un de de de , , , n' n' n' était pas pas vraiment vraiment vraiment <eos> <eos> <eos>	3.1703179017053937
+Il y a été un qui qui et et et de la de de la et et et et et et ils ils ils ils ils ils .	1.877081263233555
+Quand ils ont ces ces dans dans un , , , leur leur ils ils ils ils ils et et et et et et et et , , , ils , ils ils ils étaient de de de de de de de de de .  .	2.756277347812227
+En fait , ils étaient , ou ou , ils doivent être , , , de de de de de de de de de	3.4845515915285468
+Pourquoi ? Pourquoi est -ce que quelque chose de la de nous ? ? ? ? ? ? ? <eos>	4.526601509693065
+Le problème de la est est est une une une de de de de de un un un un un un de de de plus de plus de plus de plus de et , , , de de de de de de de .	2.799347677597219
+C' est mon mon de de , trois trois trois de . . . <eos>	6.2915855898775845
+Sur son a de de de de de de de de de de qui qui il est est à essayer de à dans un un un un un un un qui qui qui et il et il et il  .   <eos> <eos>	2.9554900261705463
+Il a utilisé une nouvelle de de de de de de de de de dans dans un  . . . . <eos>	7.255825013362529
+Oui .  <eos>	1.8315638888734187
+Et il y a beaucoup une de de de de de de ces ces , , , , , , de , , , , , , , , à pour pour pour pour  de   <eos>	4.9918233114942465
+Et c' est a une une un un de de de de de , , , , , , , que que que que que je que je que je je je , je , , , , , , , il y un . . . . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.3894418305903367
+C' est son son . . <eos>	10.129474235115733
+Et je veux dire , " " il y a est est est est un . . <eos> <eos> <eos> <eos> <eos>	4.353879918378283
+Et je vais vous vous à de , , , je , je , , " vous vous vous vous que je vous vous      <eos> <eos>	6.090890681369299
+Savez -vous ce qu' il était -il ? "  <eos> <eos>	5.4752948205155585
+Le qui qui était son son son est est est est est est est à la même la la son son son son son son son il est il est est est .  .	1.9375720051249818
+A , , , de de de de ce qui	4.02724819242185
+Qu' est -ce ici ici ?  <eos> <eos>	6.60902979597904
+Et la la ne ne ne pas pas pas . .	4.456882760699063
+C' est de de de de de de de de dans dans dans dans	3.393026569182827
+Mais la de de , , nous savons .  <eos> <eos> <eos> <eos>	3.3420531792258674
+Les enfants sont de . .   <eos> <eos> <eos>	3.59927582376646
+Les images de la . . . . <eos> <eos> <eos> <eos>	4.158692987846551
+Ce que nous quand quand ils ils ils . . .	8.449917822620138
+Peut nous savons que nous avons un .  <eos>	10.489671869455934
+Et quand nous avons cette cette , nous nous nous avons ces de de de qui à ce à à à à à à à à	3.630906651274709
+La deuxième de ce qui est sur ces dans dans de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de de , , , , , , , , dans , , dans , dans , dans dans dans dans dans dans dans dans les dans les choses de choses choses choses choses .      <eos>  <eos>	3.0129618573632815
+Un de la plus de de pour pour cette a de à à à à à . . .	2.8731570526769397
+Il doit être être la le le . . . .	5.0243511979240845
+Le histoire de son son . comme celui-ci : a a un était un était était était était était était une	2.7156804039319287
+Il était le la , , parce parce parce que vous si vous vous un un vous , vous vous vous vous vous vous vous , vous  <eos>  <eos>  <eos> <eos> <eos> <eos>	6.6811467291395115
+Et il a , , , son son a , , , , , , , , , , , , , , , , , , , , , , . .   . <eos> <eos> <eos> <eos> <eos>	1.2201738496163383
+Ce n' ne pas pas pas , , , la la la la . . .  <eos>  <eos> <eos> <eos>	1.782800770119698
+Personne peut être dire qui était , , , peut être où ils ils ils  . <eos> <eos> <eos> <eos>	6.680755269609315
+Les femmes ne peut pas pas . . . .	5.660233915657916
+C' est un grand de .  .	8.51528917838043
+Au , , , , la , de la , , , , , , , , , , , , , est est est est est est est , , , , , où où le le le le le  <eos>  .  <eos> <eos> <eos>	1.997446513083901
+Et il a la la la la et et et et à leur leur leur de de  .  . <eos>  <eos> <eos> <eos> <eos>	1.6870510288808611
+Ce qui est est est que est est que que que que nous nous nous nous nous nous , , , , , , que nous nous nous nous et et et et et et et de de de de de de nous nous nous nous nous nous nous nous nous . .  <eos> <eos> <eos> <eos> <eos> <eos>	2.6828192501793704
+Si je vous vous parler de première première de de de que je que je vous vous vous vous vous vous vous vous vous vous vous vous un  <eos>  <eos> <eos> <eos> <eos> <eos> <eos>	2.6598729953294202
+Mais je voudrais que si je si je vous montrer ce qui est de de de de une de de de de votre , , vous vous vous vous vous vous vous .	9.198035390746565
+Le idée du cerveau est est est de cette cette cette de de de de et et et et et et et de de de de de , , , , , , , , , , , , , , , , , , , , , , , plus de plus   <eos> <eos>	2.5240437279053425
+Voici est que c' est de de de ans pour pour la de de . . . . <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.1926140571064092
+Alors comment cela ?  <eos> <eos> <eos>	4.773548444510098
+C' est que vous vous avez à à à à à vous donner un et et vous et vous vous et vous vous vous vous vous vous faire que vous , que vous il il il il il il il il il il il il il il il il il y a il y	5.093232012656543
+Ce que vous pouvez faire est que vous la la de de votre . . . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	8.016194909523552
+Et vous étiez avec avec un une un une une , , , , , , vous vous vous vous vous vous que vous que que que est est est  . . <eos> <eos> <eos> <eos>	1.4952108588685562
+Et puis vous vous vous votre vous , et vous vous voyez un de de de de de de  . <eos>  <eos> <eos> <eos>	6.070833427954577
+Et ça va vous vous vous voulez vous vous votre votre votre . .	7.141816289329644
+Et puis vous voyez un de de de vous vous vous vous vous vous vous vous vous . . . <eos> <eos> <eos>	1.910662792773232
+Et vous allez votre votre , et et vous vous vous vous vous vous vous vous vous cette vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous	3.5205507828589395
+C' est comment à de de leur vie leur -- de de pour pour pour , , , est est vous vous vous , , , de de .  . <eos>	1.8289966666149708
+En fait , " " " " " " " " " " " " " " " " " " " " " " " " " " " "	2.319942766993901
+C' est une de de quand gens gens de de de de et et et ces ces de de de  . <eos> <eos> <eos> <eos>	1.8689407257208137
+Le cerveau " dans la première , , " , comme comme comme comme dans le de de . . . .	2.5905489539591007
+Je pensais que c' était juste , et j' ai ai vraiment vraiment .  <eos> <eos> <eos>	17.67588812265929
+Et je suis allé quelques quelques de ces de . .   <eos> <eos>	11.366772829121263
+Et j' ai cette cette que je je quelque chose que de de de de de . .   <eos> <eos> <eos> <eos>	5.200119124646234
+Mais il y avait un problème problème .	60.25286104785454
+Le problème était une un un une une est une . . . .  <eos>	5.977325737924353
+C' est c' est comme un de de gens de la  . . <eos> <eos> <eos> <eos> <eos>	8.93831154438833
+Je veux dire , la plus plus plus est est est quand quand de de  .  <eos> <eos> <eos> <eos> <eos>	6.220297046655104
+Et je suis un un , je je quelque chose . .   <eos> <eos>	10.301369550313813
+Je sais que il y a y ce que de ces choses sont gens , , mais mais je ne pas pas pas   .	9.870075842544965
+Et je me , si je je je montrer montrer ce que je je voulais à dans un un un petit . . <eos> <eos> <eos> <eos> <eos>	3.1019661702747583
+Et donc j' ai commencé à à ma à mes ou de de de je me suis je avec mes amis mon mon de à . . . .  . . <eos> <eos> <eos> <eos> <eos> <eos>	8.571647576104878
+Peut était était un un . . . <eos> <eos>	3.1795892263857453
+Peut était été condamné de une un un qui que j' ai j' ai .  .   <eos> <eos> <eos>	2.087736220588747
+Et j' ai ai cette cette était était . .  <eos>	7.270717733704594
+Je n' ai jamais jamais .  .  <eos> <eos>	3.515208856700362
+C' était été parce que c' est n' pas pas pas votre  . .  <eos> <eos> <eos>	4.156146260664685
+Ce que vous allez vous allez vous allez à l' école et et et , et , , , , , , , , , , , , , et et et et et de .   .	2.6779624945488485
+Et je ai ai en fait . .  <eos>	4.410363736106611
+C' est moi que mon collègue de la de . . .  <eos> <eos>	5.406472082217333
+C' est un une de un et de de de qui qui qui a été de de de de de de , , , , parce que est est est est est est  <eos> <eos> <eos> <eos>	5.385055353719994
+J' ai ai vu à à à ce que que j' ai j' ai une  .  .	7.158561577277536
+Et j' ai cette cette que je je je , , , une une un dans dans . .   <eos>	6.815665661266018
+Il s' agit , je pensais , un un est de à mes mes	3.7726698069117846
+C' était le la de . .   <eos> <eos> <eos>	2.1904077266353736
+Je pense que la moitié , , n' était pas vraiment pas .  .  <eos> <eos>	13.045923412418038
+C' est est facile à faire de de et et et et et et et , , mais , mais est est de    . <eos> <eos> <eos> <eos> <eos> <eos>	2.4888541575201284
+Ces sont sont .     <eos> <eos>	4.278179264606695
+Ils sont sont que que parce qu' ils ils ils ont sur des de de de de nos notre . . . . <eos> <eos>	4.468831722405515
+Et vous ne avez être être de de ou ou ou ou de de de de de de de de de de de de de de votre . . . <eos>  <eos>	3.418915290243341
+Nous avons des personnes âgées avec des gens comme comme aussi aussi de de un une une mais , mais mais mais mais mais pas pas pas pas  . <eos>	3.545478185957732
+Les sont sont sont .  <eos> <eos> <eos> <eos> <eos>	1.2322135018444962
+Au la plus plus de , , nous nous nous nous nous nous . .	11.724489878110314
+Nous pouvons nous nous sommes . . .  <eos> <eos>	6.204321855952011
+Nous savons quand nous sommes capables à un de de et et et et et pourquoi nous pourquoi pourquoi pourquoi pourquoi pourquoi pourquoi pourquoi est pourquoi , pourquoi , , , , , nous nous nous nous nous nous nous nous de de de de de de de de de de de de nous de nous nous nous nous nous nous nous nous nous nous de . .   <eos>	5.356794728595155
+Les femmes , , ces ces , , ils ils ils . .   <eos> <eos> <eos>	3.9195460349665643
+En fait , ils ne sont pas vraiment vraiment vraiment .  <eos>	21.763141204756337
+Ils ont des enseignants vont .  <eos>  <eos> <eos>	2.302077893514382
+Ils ont une sorte de un de une , , , , de de que nous nous ne nous pas pas pas     <eos>	8.602607717040309
+Mais il y a pas pas pas . .	4.935157841536379
+C' est comment comment est est .	6.567274736060395
+Et je pense que il y a une chose que je veux dire que vous vous ce que , , , , que qui ne qui qu' il avait qu' il avait un , , , , , , , , est est est que notre notre notre notre notre notre  notre  notre  notre  .  <eos>	15.256790797163205
+Comment de -nous -nous nous à nos nos nos nos nos nos nos nos nos nos nos nos nos nos , nos , , , , , , , , nous nous nous nous nous nous nous nous nous nous nous nous nous nous nous nous nous nous nous nous pas ? pas ?	2.2302381171082715
+Je ai appris que que il y y a des de de dans de de . . <eos> <eos> <eos> <eos> <eos> <eos>	5.859637094869294
+Mais si vous voulez un un un , , vous devez être de de de de de  .   <eos> <eos> <eos>	6.278725885693909
+Merci .  <eos>	1.8315638888734187
+Quand j' étais ans ans ans ans , j' ai un un très de de pour pour pour un pour un qui qui était très . . .	10.04877071264788
+Je suis allé à la à la dans dans dans New York de . . . .  <eos> <eos> <eos>	3.767029979238883
+Et comme comme les gens , j' ai ai et et .  <eos> <eos> <eos> <eos>	1.9660670751694698
+J' ai ai commencé .  .  <eos> <eos>	3.2149545730574576
+Quand le travail de la , , je je .     <eos>	9.238430210261097
+Ce que m' m' a que que n' était n' pas pas pas de mes mes mes mes mes mes mes étudiants . .  <eos>  <eos>	4.416802389698502
+Certains de mes mes n' n' pas pas pas de de . .   <eos> <eos>	3.1731598193072434
+Certains de mes enfants ne ne pas pas pas pas . .    <eos>	7.188959550044094
+Et ça m' a commencé .  <eos> <eos>	11.943865131127652
+Les choses de choses vous à les dans dans , , , , , , , ils , , , , , , , , , . <eos>  <eos> <eos> <eos>	1.7885639362940637
+Mais ces ces sont sont , , , j' ai j' ai j' ai de de mes mes étudiants de les les ils , ils ils ils et . . . . .	1.9475422614226825
+Après de plus tard de la , je je , que que que que que nous avons avons avons une une une une une de de et et et un un un un un un un      <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.9345825294349903
+Dans un , , nous nous nous savons comment à faire est , mais , mais mais si , dans dans dans dans dans dans plus de plus de plus de plus de et et et et et ? ? ? ? ?	2.772484415906604
+Je suis donc le , , et je suis allé à à à un une  .  . <eos> <eos> <eos>	9.703393475182084
+J' ai commencé des enfants et et de de de de de de de , et et et , , , , , , est est est est est  ?    <eos> <eos> <eos>	3.8861635239365517
+Ma mes enfants et et je suis allé à de . . .   <eos> <eos> <eos>	2.330576016181471
+Nous avons essayé à ce qui de de dans dans de et et et . .	4.814971807094068
+Nous avons allé le de de de et et et à ce qui qui de de de . .    <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.8762231116806114
+Nous avons des les de dans les , , , , qui qui qui vont à les de de de de de de de de , , , , , , , qui qui les les les les pour les pour pour pour ? ? ? ? ? ? <eos> ? <eos> ?	1.2539769765229463
+Nous avons avec avec des , , , , , ces ces ces qui va ? ? ? ? ? <eos>  <eos> <eos> <eos>	1.7643418208105224
+Et c' est -ce que le le ? ?  <eos>	3.983253478176822
+En tous ces choses très différentes , , un une comme un un de de	6.809398432036521
+Et il n' était pas . .   <eos> <eos>	11.823706105869768
+Il n' était pas pas , , , , , et et n' était pas pas pas <eos> <eos> <eos>	10.78794415657492
+C' était .  .  <eos>	9.71654721818804
+C' est est et et pour très très très . . . . <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.4952599440725176
+C' est est . .  .  <eos> <eos> <eos> <eos>	2.8049136322597743
+C' est avec avec votre , , , , , , , , , seulement seulement seulement seulement pas seulement , , , , mais , mais mais , mais , , , , et vraiment vraiment	3.5201936229846695
+C' est un vie comme comme un un un un , , un  .    <eos> <eos> <eos>	4.928412781230884
+Il y a années ans ans , j' ai commencé à l' âge de la .  .  <eos> <eos> <eos>	17.99052572272914
+J' ai ai de de de de de de de de , , et , , plus plus plus de de de de de de . . .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	2.255058194261114
+Les cette qui de de de de plus plus de plus de , , quand quand quand quand je quand je je je , , , , , , , , , , , , , , , , , , , , , , , ils ils ils ils ils  <eos> ils  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.425760084203908
+Donc n' est pas seulement seulement pas de ou ou ou de de de de . . . C' est est de de , , pour pour pour pour pour pour pour  . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	7.130288063328814
+Pour moi , la plupart plus plus de la est comment comment comment savons comment savons comment comment comment , , , , ,   .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.4504123786991254
+Chaque jour , et et et me demandaient , " Comment -je -je -je ? ? ? ?  ?	5.039518688486958
+Qu' -ce -je -je faire faire une serviette hygiénique ?  <eos> ?  <eos> <eos> <eos> <eos>	1.7850542155063764
+Comment -je -je -je les enfants pour la ? ? " ? "  <eos> <eos>	2.56249125689746
+Le réponse est est , je ne ne pas pas pas	15.181939159382823
+Ce que je sais que c' est que ne pas pas pas . .    <eos> <eos>	10.02653868126328
+Notre données qui sont très très qui il y a beaucoup de qui ne ne pas pas pas pas de leur . .	13.9612866954986
+En fait , notre notre , , , est est est est de ou de de de de de de . <eos>  . <eos> <eos> <eos>	3.3010627751977824
+Alors , , , , que j' ai ai de de de de dans est est est " " " " " " " " <eos> " <eos> " <eos>	2.765024764739289
+C' est une idée qui est de New York de la , et et c' est le que la est est est est est est est , , que peut que peut . . . votre  votre	8.003558941292436
+Il a a a quand lorsque quand quand il a et et et et et et et et et et et et et en fait en fait , ils , ils ils ils ils ils ils ils ils parce qu' ils ils ils ils ils pas qu' ils   .    . <eos>  <eos> <eos>	4.279293262380961
+Donc est est est une une idée de pour . .  <eos> <eos> <eos> <eos>	2.5927927658332295
+Mais nous avons besoin plus plus .  <eos>	19.505632433269746
+Et c' est où je vais vais à mon mon , , parce que c' est nous sommes . .	23.617741931843188
+C' est le travail que nous nous nous .	20.873176328735713
+Nous devons besoin à nos nos nos nos nos , nos , , , , nous nous devons nous  .	6.464268536133468
+Nous devons besoin nous nous nous avons , nous nous nous devons nous devons pour être , , , , , , , , , , à . .  .	5.011597290477271
+Dans autres autres , nous nous devons nous de de notre notre notre notre . . .  <eos> <eos> <eos> <eos>	3.576866305779478
+Merci .  <eos>	1.8315638888734187
+Mon travail de la sur la de de de de notre notre de de de de de de de de les des des les les les les et et et et et .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.6036758832802696
+Aujourd'hui j' ai vu deux deux de comme une une de . . . <eos>	3.241496606455093
+Les plupart sont dans dans dans , , dans dans dans et dans un dans . . <eos> <eos> <eos> <eos>	2.234415861202757
+Et aussi ils ont dans dans les différentes différentes différentes différentes différentes différentes de de de de de de de de .  <eos> <eos> <eos>	3.181215656738624
+Le premier exemple commencé avec un un un un un un un dans dans dans dans dans dans de de <eos> . . <eos>  <eos> <eos> <eos>	3.223187723022888
+Et c' est la de de nous nous nous tant , , , , , , , , , , , nous nous nous  . .     <eos> <eos>	1.8177309069695167
+A premier , , première chose que j' ai j' ai , je veux  .	29.43543418414033
+Après une une de ces ces -- -- sont sont dans dans dans -- nous nous nous qu' ils ont . .  <eos>  <eos> <eos> <eos> <eos> <eos>	2.789540499305322
+Premièrement , ces ces sont sont sont sont sont parce qu' ils ont ils ont ils ont où ils où où ne ne ne pas pas . . . . <eos> .	9.381429596910285
+Deuxièmement , ils ont beaucoup de de de de de de de de de avec avec qui qui avec le dans , et et et et et . beaucoup     <eos>	6.205043833616817
+Dans un monde où n' ne ne pas pas parce qu' ils ont ils ont de de de de de de de de .  .  <eos> <eos> <eos> <eos> <eos>	1.3167151500400955
+Et troisième est que leur leur ne ne pas avec avec avec avec avec avec avec . . .	2.6737739141846273
+C' est une une dans un qui qui qui de et et et et et .  <eos> <eos>	5.422719131058112
+Il a notre première de à , , , , , , que la que que que c' est de de de de de de de de de de et et ils et ils et de de de de  de  . <eos>  <eos> <eos> <eos> <eos>	1.9718137952005976
+Et aussi ce que cette idée de la la qui la de de . . .  <eos> <eos> <eos> <eos> <eos> <eos>	2.39104423757288
+Je ai pensé , c' est ce que je veux vraiment vraiment pas , pas un  .  <eos> <eos> <eos> <eos>	19.09898068668593
+Mais la question était était nous nous pourrions faire une , , avec ces avec ces . . . <eos>	7.207950246795946
+Le suivant était quand quand nous avons nous avons la , , , , , , , , , , de , , de de de ces ces qui qui dans les dans , , , ils , ils	1.5354700245037844
+Et c' est aussi deux deux de de ne n' pas pas pas de de de de . . . . <eos> <eos>	3.69081849996543
+Donc le premier chose nous avons a été une une de ces deux deux , , , , de de de  .  <eos> <eos> <eos> <eos> <eos>	4.069492121942782
+Et cette photo avec une une qui qui une de de de de dans dans de de de de de de de de de de de de la et la  .  . <eos> <eos> <eos>	3.4664278821519168
+Et cette façon dont nous avons cette idée de la avec avec avec la , , , , , de de de de de de de . .   . <eos>	4.676874191711316
+Je me aussi pensé , comment comment la la ? ?	4.065425428798724
+Je je veux vraiment une une une à pour à les . . . . .	3.468317761317914
+J' ai commencé à parler de la comme de de de de de qui qui de de de , , , , , , , , , , mais   .   <eos> <eos> <eos> <eos> <eos>	3.5890005310862154
+Et ensuite la dernière de ces ces de de de de femmes .   .	6.330984178784958
+Ce ils ont ont commencé à la et et et et et à la le . . .  <eos>	2.963913708082692
+Et nous sommes tellement ces ces ces ces qui qui qui qui les les la et et et et dans dans un un  .  .  <eos> <eos> <eos> <eos>	1.7117837248698375
+Et c' est ces ces ces qui qui qui les les la de de de de de de à à la à .  .  .	2.257394309242011
+Ce ces n' ont pas pas pas pas que les parce que parce parce qu' ils disent " , " n' est pas pas pas pas pas . pas . pas . pas . . . . . . <eos> <eos> <eos>	5.7941148052866
+Mais ensuite nous nous que cette idée idée de la capacité de être un plus de plus de de de de de de parce qu' il parce qu' ils avaient ils avaient  .  .	7.089120398844621
+Et ce qui le idée du monde était , , , , pas seulement seulement pas de de la de de , mais , mais mais , parce que nous n' nous pas besoin de nous  .  . <eos> <eos>	3.9468953359592094
+Nous avons avons créé de nous nous nous nous à la . . .  <eos> <eos> <eos> <eos> <eos>	1.688261229583053
+Et première première était était à réfléchir de nous nous nous nous nous construire de de de dans dans dans dans dans dans un dans un qui de de  .	1.758008810234855
+Nous avons créé un peu de à de de sur sur  .  .	4.065425428798724
+Et puis nous ces nous nous nous nous comme comme un un avec avec avec avec avec et et et qui cette cette cette . . . . <eos> . <eos> <eos> <eos>	2.6186318692675394
+Et ces sur les , , tous les ils sont les les pour pour pour pour le le  . .  <eos> <eos> <eos>	2.2889220145261246
+Au par la de de de de parce que nous nous sommes nous sommes sur la la . .  .  <eos>	2.4642063906154426
+Le deuxième exemple est une sorte de de de et et et dans dans la  .  . <eos>	10.948752265652928
+Et pour une fois un projet , j' ai été que je je je je , , , à la de de de , mais , mais , , et et et et et et . .  . <eos> <eos> <eos>	3.8410733299713073
+Si ce que que je que que que le que le la est est est est de de de de de de de de de , , , , , , , , , , , , , , , . . <eos>  <eos>	1.385791648223264
+Quand je suis allé allé le , , première , nous nous avons nous avons nous avons , , , , , , , , de et et et et et et et nous et nous et et et et et et ces ces ces ces   ces ces  <eos>  . <eos> <eos>	4.267698235282147
+Sur l' ADN , nous avons des milliards de cette de de de de et et et et et et et et et et et cette cette cette cette . . <eos>  . <eos>  <eos>	4.214371289742949
+Et le dernier était était à à la la , , , , , , , , , comme comme comme comme comme , une  de	3.9936381761886635
+Et pour que je pensais , , ce serait être être le monde dans le modèle pour ? ?      <eos>	4.724932626401583
+Et c' est un de , parce parce qu' il une une une de de de de et et et et et un	2.4642063906154426
+Nous avons donc une une qui que que que de de qui sont qui qui dans dans . . . <eos> <eos> <eos> <eos> <eos>	1.6182015605076465
+Et c' est le qui est est comme une une de de et et et et  .  <eos> <eos>	4.4502200915509125
+Il a ces ces avec de , et puis sur le de vous vous avez ces ces   .  . <eos>	6.001225217955052
+Et aussi aussi à la la qui qui a un un sur sur sur un et et un et un sur un  .	2.042946039568498
+Et c' aussi aussi cette idée de la .  <eos>	4.85851417160653
+Les enfants qui a cette qui qui qui avec avec avec trois trois de de et et et et de dans dans dans dans dans dans dans dans dans dans dans un dans un de de , , , , , un et un et un et une et une et de de de de de de de de de   .	2.46391427316464
+Le troisième , qui est mon mon espace de la est est est est à à à la le le le le le   .	12.920725243713852
+Et c' est tous les la , , ils peuvent peuvent , , et et et , , , , , , un un un un dans un dans un , , , , .  .	4.039568253149768
+Ces deux , , ils ont un dans dans dans . . . . <eos> <eos>	2.695984008681938
+Et aussi , ils sont dans dans où où où vous où le le  .  <eos>  <eos> <eos>	11.08062680870718
+Dans ces pays , la planète de personnes de personnes de personnes de la et et et et et et les et les les les les les les   . . . .  <eos>	3.3084403995549674
+Pour ce que je je je que je que à à faire de mais mais mais , mais qui les les les et et et et et et et et et et et et et et et et et et et et et et et et et	1.382212405645661
+Merci beaucoup .  <eos>	13.533528323661276
+Je vais vais parler parler , je vais vais vais vous vous vous vous de de gens gens gens gens gens gens    <eos> <eos>	3.7667979294958718
+Je pense que ces sont sont , ils ils ont de de de . . .  <eos> <eos> <eos> <eos> <eos>	2.9448420713070953
+Et je pense que il y a trois trois .	14.898573527259417
+Un est un un : il y a un une un de dans , très , très . . . <eos> <eos> <eos> <eos> <eos> <eos>	6.915132411024231
+La deuxième est un : : nous nous avons plus     <eos>	13.177929630227897
+Et la troisième est est : est nous nous nous .	8.516593018819643
+Je pense que les premiers , les les et les sont les sont  .  .  <eos>  <eos>	4.785196045370111
+Alors que je vais vais vous vous raconter vous raconter une histoire un un un un un un un un et et un un un un un un un un un un un     .   <eos>	5.796535933595857
+Tout les : : Pourquoi Pourquoi gens gens gens ? ? ? ? ? ? ? ? ? ?	2.846571974265989
+Et si je pense que je sur la de de mes mes , , je ne sais pas sais pas .	8.926817707080563
+Je vais parler de que de de de de de ou ou ou de et et et et et de . .    . <eos> <eos>	1.8151287907717766
+Je ne pas pas un . . .  <eos> <eos>	3.102160927976006
+Mais bien sûr , je peux peux , le la , et , , , , sont sont de de de de de qui qui  .  .  <eos> <eos>	6.550725224741785
+Quand vous voyez à votre temps , temps , n' il y a pas pas       <eos> <eos> <eos> <eos> <eos> <eos> <eos>	5.259184760414397
+C' est à dire , les gens gens gens étaient étaient 20 ans , années , , , , , , , . . <eos>  . <eos> <eos> <eos> <eos> <eos> <eos>	4.976029772903026
+Et les gens gens étaient étaient des millions 20 ans ans environ environ sont sont très très très . .  . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	2.0272998081404787
+Les de de nous sommes dans , , , , , , , la le le le le est est est est  . <eos> <eos> <eos> <eos> <eos> <eos> <eos>	2.681994844936155
+Mais est -ce que ? ? ?   ?  <eos>	15.270725349716185
+Ce est est est est , , , , , , . . <eos> <eos> <eos> <eos>	1.7035018586323527
+Que -ce qu' ils -ils -ils ?  <eos>	4.955725306405571
+Donc ils sont les la les que que gens gens quand quand vous quand vous . . . .	4.822160133970806
+Savez -vous ? ? ? ? -vous ? ? ? ? ? ? <eos>	3.3642024770782895
+Maintenant si vous dit dit , " Tu -vous tu ?  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.6275702609680285
+Vous voyez ?  ? ? <eos> <eos> <eos>	3.1795892263857453
+Vous -vous ? " ? ? ? ? <eos>  <eos> <eos> <eos> <eos>	1.1967346471330695
+Vous feriez à la nuit , " " " " " ? "  "  <eos>	2.2325174503683516
+Et ça serait un un . .    <eos> <eos>	3.6353588668522963
+Et vous vous vous quand quand vous , , , , , " , , je , je , mais , mais mais . . . . <eos> <eos> <eos> <eos> <eos> <eos>	2.492719809050275
+C' est une une chose . . .	6.916271812933183
+Dans un , , notre notre nous nous nous nous nous à à dans un . . .	3.217382075241698
+Nous ne ne pas une une de de de de que nous nous avons de de de de de de de de ou ou ou ou ou ou ou ou de .	3.281706213141615
+Je veux , exemple exemple , je pense que je suis un un un professeur , je suis je pour le pour pour , mais mais mais mais mais mais mais mais de de   . <eos>   <eos> <eos>	3.563191534709586
+Je veux , après après , , , n' était n' était pas	7.141816289329644
+Je veux dire mon ma que je je un un ne ne pas mais mais mais mais mais pas pas pas un	3.8229746997386345
+.  <eos> <eos> <eos>	2.6682865255867765
+Donc si nous avons ces ces dans nos nos de de de que que nous est nous nous nous nous nous nous nous nous nous nous nous nous nous nous nous nous ? ? ? ?  ? <eos> <eos>	1.3730694888417272
+Je pense que les gens sont très de de de de de de qui , , parce que , ils ils à la de de qui qui  .    . <eos> <eos> <eos> <eos> <eos> <eos> <eos>	4.382422120104281
+Est -ce que ce qui est le ? ?  <eos> <eos> <eos>	2.0857995854646623
+La réponse est est plus plus plus .  <eos> <eos>	3.4331054109918173
+Eh bien , je pense que c' est un une . .  <eos>	41.016750098594244
+Ce n' est pas ce que je je  .	53.7284965911771
+Je voudrais à avoir plus dans dans dans la mais mais mais dans la . . . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	2.723942029272359
+En fait , je je ai ne pas pas pas pas la  . .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	2.8309076209300543
+Et je pense que ces gens ces gens , , , , , , , , avec , , , , , , , , , , , , , et , et et , et je , , , , , , , , , , , , , ,	3.92501026178737
+Ce n' est pas pas une de de dans . vie vie . <eos> <eos>	7.992818352268786
+La est de la est est est est est est . .	4.521356896113449
+Eh bien une image qui , , , , , , , , , que ce que ce que ce que est ne n' est n' est pas pas pas pas pas    <eos> <eos> <eos>	5.182805652717694
+Il est en fait comment les gens sont sont dans . . . . <eos> <eos> <eos> <eos> <eos> <eos>	4.698691172959078
+Et je pense que ce que nous nous nous à trois choses choses choses choses	17.45832536535669
+Les -ils -ils -ils -ils -ils -ils -ils -ils -ils -ils ?  ? ? <eos> <eos>	2.588091788755261
+Et si nous avons une une une dans dans dans , et et et et et , , , nous avons nous avons nous devons pour pour pour , , parce qu' ils ,   .	3.261445761657491
+Mais si , les les les , , ils , , , ne ne pas pas pas  <eos> <eos> <eos> <eos>	3.271728202251467
+J' ai ai des des des et et , mais je ne je pas pas pas un un un un , , , , . .  .	11.002068284361833
+Je suis des gens qui sont très ils peuvent ils peuvent mais mais mais mais je , je leur ils leur propre . . . <eos> <eos>	7.6122327515731705
+Et je suis très très à , je je je pense que je suis beaucoup de de de et et et et et et . . <eos>	7.3374807639192845
+Si , je n' ai pas pas pas .  .  <eos> <eos> <eos> <eos>	4.623094510075543
+Mais ce que ce que nous nous nous pour . . .	4.02724819242185
+La est .    <eos> <eos>	5.70796903405875
+Ce est ce que nous nous devons . . . , , sûr , , <eos>	17.781797347497488
+Les la dernière dernières années , nous avons essayé à des centaines de des centaines de des centaines de des milliers et et et et et et et et pour pour pour pour pour nous pour nous leur	2.968155899432701
+Une fois de ces systèmes ont la la . .	28.46946938149361
+Ils ne font pas leur ils ils .  <eos>	5.367626065580593
+J' ai ai étais que avec un un un , " " " , , , , , , est est est est est de la    <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.5942989517198703
+Et tous notre notre notre notre , notre notre , , , nous nous nous , , , , , système système est de de de de de de de de de de la est est   . <eos>	1.5461571751573444
+C' est aussi gens qui qui à faire de , , comme , , , , , , , , , , , , , , , , , . . .  <eos>	3.7345847800340604
+Vous pouvez tous votre votre votre . . .	5.868924818816531
+Donc donc donc pour le . .	8.51528917838043
+Le , , je pense , c' est plus plus , et c' est que nous faire être nous nous nous nous nous et et et et et nous et nous et nous nous nous nous nous nous nous nous nous de nous de autres ou ou ou ou ou ou ou ou ou ou	12.862389378303465
+Ce n' est pas pas . C' est , , , , , , , , , , pas pas      <eos> <eos> <eos>	8.634256290528329
+Maintenant , , la la .  <eos> <eos> <eos> <eos>	3.7631114283600837
+La la de de , je pense , , , aussi . . .  .  <eos> <eos> <eos>	10.909080168436619
+Cela va ce que et je je je .  .  <eos>	4.091092899898373
+Eh bien , nous pouvons faire pour .   <eos> <eos> <eos> <eos>	4.158692987846551
+Nous pouvons un un un de .   <eos>	5.08764122072739
+Nous pouvons faire faire les gens les à pour améliorer . . .  <eos> <eos> <eos> <eos>	1.7757003991314684
+Mais , , dans , , , est est est est est est est est   gens  gens  <eos> <eos>	4.344284557993833
+Vous pouvez ne pas pas ce que gens gens gens . .  <eos> <eos>	5.406472082217333
+Vous devez à les les pour pour vous . . .   <eos> <eos> <eos>	2.549704254217688
+Donc vous devez , je pense , , .  <eos> <eos> <eos> <eos>	10.461191793182621
+Et bien sûr , sûr , parce que vous ne pouvez pas pas tous toutes sortes de toutes sortes de temps .  <eos> <eos> <eos>	16.27904450795404
+Mais vous devez avoir de vous de vous vous vous . .   <eos> <eos> <eos>	4.33173054551354
+Comment pour faire ?  <eos>	8.208499862389884
+Eh chaque année , tous tous les , , , , , , , , , , , , , , , , , , , , , ,	2.0936568681863004
+Laissez -moi vous donner un exemple .  <eos> <eos> <eos> <eos> <eos> <eos>	10.284209050639241
+Le bâtiment où j' ai mes mon mes je je je , je et et et ils ne ils ils ils . . . .	3.790021175805422
+Ils prennent les et et et et le le ou de la de de de de de de . . . . .  <eos>	4.207993129078362
+C' est un . Je je parce que parce qu' ils ils ils ils  . .  <eos> <eos> <eos> <eos> <eos>	5.624178604779831
+Je pense que il y a une une dans . . . . <eos> <eos> <eos>	10.7097884857392
+Si vous voulez faire les la de , , , , est est est que vous vous vous vous vous vous vous vous vous vous vous vous vous vous  <eos> <eos> <eos>	3.3312535024007404
+Donc dans la fin , je pense que ce que nous n' est pas pas très difficile difficile .  <eos> <eos>	18.545294671162576
+C' est que dans les personnes qui sont et et et et et et et et la la la est est . .	2.3497215931088395
+Donc la fin de cette est , nous nous devons besoin de plus de de , , , de de de de de de de de ou , , , , , , , , , , , , , , , , , , , , , et , et vous et vous et vous  <eos>  <eos>  <eos>  <eos> <eos> <eos> <eos>	1.8752995693487156
+Merci .  <eos>	1.8315638888734187
+Vous savez , ma partie de la un un est est que je je vais .   <eos>	5.098813553369431
+J' ai ai mon mon mon mes mon mon , , et mon mon mon mon père , , , nous nous nous avons de de de "  " .	4.759465490908452
+Elle a été ses mois mois .  <eos> <eos> <eos> <eos> <eos>	2.7973499776362445
+Il a environ environ était de , . . . <eos>	4.648378982882215
+Il a un son un un à un un un un et et et et .   <eos> <eos>	2.5850916337077003
+Mais vous vous cette , , , , vous vous vous vous vous comment  <eos>  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.7282426437682401
+Maintenant nous vivons aujourd'hui , et nous sommes notre nos enfants , , une une de de de de de	5.618923497225256
+Mais " Le de de de " . . .   <eos> <eos> <eos>	5.229965378768044
+Il n' a pas pas . .	26.269098944241588
+Il y a été ans quand quand la la , , , , , , , , une une une une une un un un un un un un un un de de de de    <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.143344026517772
+Savez -vous que ce que je parle ?	21.64910073203448
+Oui .  <eos>	1.8315638888734187
+Maintenant il y a une une de deux deux deux , de de de de de de de de de de de de et et et et et nous   <eos> <eos>	5.174135388923546
+Un est il y a de de " " " " " " " . " <eos> " <eos> <eos>	7.795982078163391
+Les autre sont sont des , , sont sont sont sont . .	4.100530090638892
+Mais je pense que si " " de " " " de , , , , , , , , , , , , , , de de la de la  . <eos> <eos> <eos>	11.55477033281032
+On votre plus de à la la la de la de la . . . . <eos> <eos>	5.824490753999933
+Mais ce n' est pas comment ça .   <eos>	8.400788786839632
+Une chose que c' est vraiment de " " " " " " est est est est est de de de plus et et et et et et et   . . . <eos>	1.923093756512437
+J' ai commencé à ce que je je j' ai " " " " mon père mon père , , , , , , , était était était . . . . . .	6.206299695366483
+A ce que j' ai trouvé un une .  .  <eos>	4.396165418527572
+Il était été trois trois trois . temps .  <eos> <eos>	2.910967817713898
+Il n' était pas pas le . . . était était était . .   <eos> <eos>	8.663107616949075
+Mais il était la deuxième de la et et de de de de . .	6.959578721753987
+Donc il , dans , et et et un comme un un de de , , , et je et je , je , je ce que ce que ce que , , est est est est est   .  . <eos>	5.068746168155617
+Et je ai ce qu' il c' est .   <eos> <eos>	3.805770825247019
+Est -ce qu' il a sur la de de et et et et et ?  ? <eos>	3.1820155742184126
+Est -ce qu' il a sur le jour qui est une nouvelle de de la ?	3.235537081118379
+Il a été sur la la qui il y a y a y a de dans les de de de de de , , , , , , , , , , , , , , , de qui qui qui de de de de de de de de de de de de de de de de de de de de de de de de la de la qui la la qui il le qui il a il a il a	1.9740859606264531
+Est -ce à avec avec avec " " " " . " "	4.100530090638892
+Comment est -ce -il ? ? ? ? ? ? ?	3.7968017775955714
+Les autres avec avec avec et et un . .  .  <eos> <eos>	3.1572564565455266
+C' est un de monde que j' ai j' ai mon dans ma dans -- -- -- -- -- -- -- -- -- -- le monde le monde , est est est nous nous nous   .	2.952464657861394
+Pourquoi est -ce il y a -- -- -- -- -- -- -- dans les nous nous nous et , , , , , , ? ? ? ?  ? <eos>  ? <eos> <eos>	6.814994671465896
+Il y a beaucoup beaucoup de la de cerveau la qui la de de de de de de de , , , , . . . . . . . . . . .	5.7358548938345475
+Je n' ai pas pas autant de sur comment sur ce sur ce sur . .	12.486657525198936
+Je sais que ma propre de de n' n' pas pas pas pas pas pas que que que que que je le dans le monde le monde le  .  .	5.34239235288033
+Je pense qu' il y a un premier premier premier quand quand quand quand je que je le premier que parce que le le le la la du  ?  ? <eos>  ? <eos>	2.975425160862802
+J' ai mon mon mon , , j' ai .   <eos> <eos>	10.06131214776086
+Pourquoi sont -vous ?  là ?	17.491650626361256
+Je ne sais pas ce que je je veux . faire	16.0529461904344
+Le deuxième sont très très très très sur la et et et et et et et et et et et et de de de de de autres autres autres autres autres autres autres autres autres autres	3.5549581778843327
+C' est que comme si si vous vous vous vous vous vous vous , vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous vous  .	1.5883027492953543
+Il y a des centaines de la , et je , la le de de de de . . . <eos>	8.9275746495808
+Mais ils ont ont un un à , , , ils ils ils , pas ne pas pas	3.04281210061706
+Ils sont une une de de de de de comment à à , , mais mais mais ils mais ils ils ils ils ils ils ils ils ils ils ils ils . . <eos> <eos> <eos>	2.2505291864593566
+Il n' y a pas de pour eux .  <eos> <eos>	30.64839277947431
+Et nous avons aussi des femmes femmes qui sont des enfants nos nos nos nos et , et et et et et et et et et et et et et , sont sont sont sont sont . .	11.465402610048532
+Et bien sûr , la plupart de la de de de de de à de de de , , , , , , , , , un un un , , ou ou ou ou ou ou ou ou ou ou ou ou ou ou ou ou ou ou ou ou ou ou ou ou ou , ou un  . .	4.174756311623182
+Les , , comme entre entre vous , , , , , , , , ils ont . " " " " "	5.717400011646488
+Je ai ai que vous vous . . . . . . . . .  <eos> <eos>	4.545545587941097
+Savez -vous -vous ce que le thème quand " " " " ? ? ? ?  ?	6.722636787666482
+" Oh , je ne peux pas pas un un un " " " " <eos> " <eos> <eos> <eos> <eos>	3.021786609950844
+C' est très très . . ne pas pas que vous  .	9.00746750211399
+Maintenant , de de ces ces de la de . .  <eos> <eos> <eos> <eos>	4.2173759422439066
+Je ne sais pas si vous avez de de . .	38.66252716278829
+Elle n' a pas pas pas sur et et et mais mais mais nous nous nous . . . .	2.8665548435542236
+C' est un un de de , et et et , , , elle elle elle elle elle a a avait un une une qui qui qui qu' ils .  .  .  <eos> <eos> <eos> <eos> <eos>	3.789503603698726
+Et c' est très simple . Il est : : : : : : il y a plus de dans dans dans est est est est qui qui ? ? ? ? ? ?  <eos> <eos> <eos> <eos> <eos>	12.02728087371008
+Alors donc donc ce que .  <eos> <eos>	3.550932348642477
+Et ces ces femmes à à à autres de de dans dans ? ? ? ? ? ? ? <eos>	4.285872859037679
+Et est leur est est quelque chose que les que les que ils ils ? ?   <eos> <eos> <eos> <eos>	3.318166118968713
+Merci , Merci .  <eos> <eos>	7.128373858810283
+Merci beaucoup .  <eos>	13.533528323661276
+Deux femmes qui qui a des de de de de de .	8.606119900909883
+C' est tellement . Je ai vu vu , et je je suis très le dans dans dans le que nous et . .   <eos>	5.272769259546556
+En fait , , je je suis allé un très très très de " " " " " " "	9.409234028361702
+D' accord , , , , , , , , , , , une idée une idée un un un un un	1.9011755113058346
+C' est le pire de la .  <eos> <eos> <eos> <eos>	2.561168646726282
+Et je ne pense pas que parce que parce que , , , je ne sais pas sais , sais si vous , mais mais mais de mais de de de de de de de de et les femmes et les femmes et    <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	7.88163599475434
+Nous avons avons une un de de de de de de de de , de de de de , , , , , de de de de de la et et et et et , " , , , ,  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.8192970695782809
+C' est pour pour vous .  <eos>	5.70796903405875
+Donc donc donc la la . . .	5.862502026550896
+Au , de la plus de plus , , combien de combien de vous de que vous de de ? ? ? ? <eos>	3.7674111489922755
+Non . Ça n' est pas pas .	13.83254362586636
+Ce n' est pas pas beaucoup de de de de nous nous nous nous nous , , , , ,	7.289334177359764
+Mais il y a une idée que c' est que que ce que va cette . .	10.878661088699644
+En année , , un New York Times une une grande qui .  <eos> .  <eos> <eos>	6.989776983726129
+Voici ce qui a dit .  <eos>	10.62372743739878
+Un de de cinq femmes dans les qu' ils ont ont ont été ont de leur propre leur vie vie	2.7162118995714084
+Maintenant , je ne pense pas que c' est la de de . . .  <eos> <eos>	37.934210806406135
+Je ne pas pas de de de de de faire faire . .    <eos>	3.2399023551226187
+Je ne sais pas que que que les ou ou ou sont sont vraiment , , mais , mais , mais , , , , , , , , , , , , , je pense que je pense que c' est c' est c' est beaucoup de	3.4130214752093244
+Qui sont ces ces ces -ils -ils -ils -ils -ils ?  <eos> <eos>	4.80771397503766
+Qu' sont -ils -ils ? ? ? <eos>  <eos> <eos> <eos> <eos>	1.2638455222950324
+Les gens ont dans une histoire un un un un est est est de de avec et et et et la et , , , est qui est qui qui n' est pas pas pas pas pas pas pas pas pas pas ? pas	4.021281364419751
+Est -ce que nous avons ? ? ? ?  <eos> <eos> <eos>	2.9048161683970806
+Vous savez , comme un un avec un un de un de de de de vous qui qui qui qui , , , nous nous et nous et et et et et nous et nous et nous  . <eos>	4.1225401215160735
+Nous avons avons nos nos nos comme " " " " " , et nous , nous , , , , , , , , , , , , , , , , , , , , , , , , , , , , , nous nous nous ? ? ? ? ? ? ? ? <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	5.417252586983241
+Je veux dire que je pense que le est est est est que nous nous quelque chose quelque chose , et je vais je vais à ici ici .	8.140685779233241
+Je pense que nous avons nous notre notre notre une une de de . . .  <eos>	8.910251805984952
+Le club de est est est est de . .   <eos> <eos> <eos>	2.6725598912586856
+Vous avez le de comment comment la la est la de de de de et et . .  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.805489951917215
+Ils sont le monde dans le	0.0
+Donc nos donc nous allons à à de de de de de , , , , , , , , , et , et nous et , , , , , , , , , , , , , , , , , , , et et et et et et et et et et , , , , , , , , , , , , , , qui qui les les qui qui	2.1634669740986983
+Et je pense que notre est dans la est est est pour pour pour pour pour pour pour la , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , , ils  <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	3.0335560655858105
+Quand j' ai demandé ma ma femme qui a dit dans mon livre " " " " " Vous savez ?  <eos> <eos> <eos> <eos>	5.934022315193972
+L' art .  <eos> <eos>	6.316906128202129
+L' art de la et et .  <eos>	4.789232204309912
+Qu' -ce ces ces deux ces dans ?	5.862502026550896
+Peut n' est pas pas pas la la . .  <eos> <eos> <eos> <eos>	1.7502348496399052
+Je pense que ces gens sont sont . .  <eos>	14.16667529041554
+Je pense que ces sont sont les les dans les qui plus plus plus plus de , , ils et leurs leurs leurs leurs leurs leurs gens leurs gens leurs gens leurs leurs leurs leurs leurs leurs leurs	3.033855232447163
+Maintenant , ils sont .  <eos>	6.988198185490689
+Je comme comme ça de mes trois mes mes , et je ai ai trouvé mes mes mes mes mes mes mes mes	3.6474335528289763
+Je veux plus que comme ça .  <eos> <eos>	15.564390138142427
+Je veux que ma où ma mon mon mon , , " , , et et et et et et et et il il il il a il a il a un , , , , , , , , , , , , , , , , , et , et , , , , , , , , , de .  .	1.6870307743461666
+Merci .  <eos>	1.8315638888734187
+Je voudrais comme parler parler vous raconter une histoire de un . .  <eos> <eos> <eos> <eos>	9.347812600345177
+Je ne sais pas pas , mais mais je mais je sais . .  <eos>	7.108278296228534
+Il vit dans dans un dans dans un . . .  <eos> <eos>	4.80771397503766
+Un autre est est . .  <eos> <eos>	4.736913377107212
+La plupart des les de de et et et de de de .  .  <eos> <eos> <eos> <eos> <eos> <eos>	1.3441189735366066
+Avec ce qui a été là là , il a été été la ville , dans cette région , , la police de la surface .  <eos> <eos> <eos>	4.3099855326278576
+Quand il il a , il y a pas , pas , , pas pas pas pas pas . . .	4.785196045370111
+Il a en dans dans un dans sur sur la de de .  . <eos> <eos> <eos>	4.680698585417679
+Peut un an , et , .  <eos> <eos>	3.3142882018868
+Un jour , il il est un une un qui qui à à pour à , , , , , , , ,  .  <eos> <eos> <eos> <eos>	2.6174500218503955
+Il a cette cette de de de personnes , ils ils ont un  . <eos> <eos> <eos>	3.41230718008433
+Il est une sorte de de de à nouveau de nouveaux , , , à à à à à son  <eos> <eos> <eos> <eos> <eos> <eos>	2.3109024060114525
+Il est à à cette ce . .  <eos>	4.410363736106611
+Il a aussi . . .	8.745825313180626
+Il commence cette vie .  <eos> <eos>	7.121297464907233
+Il a un une dans vie vie vie . <eos> <eos>	5.789419402078114
+Un jour dans dans dans un , un un un un un un un  .  <eos> <eos> <eos> <eos> <eos> <eos>	2.0540535989385864
+Cette petite fille avec la la de la le le le le le et , et et , de de de personnes de gens de de , , , , à  .   <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	2.594603853836054
+Alors comment comment la histoire de un de de de pour pour pour dans dans dans dans la de de de de ? ? ? ?	3.640269476826553
+Il était été .  <eos> <eos> <eos> <eos>	1.8231094563196564
+Il était été un une de , , , , , , , , , , , , , , , , , était était était était qui  .  <eos> <eos> <eos> <eos> <eos> <eos>	1.2079518179251998
+C' était le premier chose qui qui a de de ce que nous appelons .  <eos> <eos> <eos> <eos>	10.159693389102248
+Et sa histoire a dans dans dans dans le monde monde monde monde monde .	7.921066269168085
+C' est le histoire de la , , , qui qui qui en dans , , , , , , , , , , qui qui de de . . . . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	3.1802074900601798
+Pour les gens , la , du monde , la , , est est est de de , , , , , , mais mais mais mais mais mais pas sont pas sont les de de  <eos>  <eos> <eos> <eos> <eos> <eos>	2.930852119012481
+C' est c' est qui qui de de de . . . .  <eos> <eos> <eos> <eos>	1.7757003991314684
+D' , , trois trois de de personnes personnes personnes de dans dans les la de	5.42821064703297
+Si nous ne ne pas pas les gens dans les de de , nous nous nous pas nous , , , , , , , , , , , , , , , , , , , , , , de de de de de .     <eos> <eos>	2.8450328150277255
+Et dans mon de de , , , , % % % de personnes de personnes de	3.0235785635823293
+Les % ne ne pas pas pas pas pas pas .  <eos> <eos> <eos> <eos> <eos>	1.8021202415819362
+Ils ont des pas ne pas pas .  <eos> <eos>	3.102160927976006
+J' ai allé allé à de , , , je suis allé allé à , , , j' étais j' étais . .  .	3.9253456897493937
+Je me rappelle de de de de de de de de , , , , , je je n' avais jamais ?	4.303846266589083
+Qu' est -ce que j' avais que que que que de de de de ? ?	5.832991944906044
+Je suis ai une une un ? ?	6.9717291216921975
+Je ne suis pas vraiment de la . . . <eos> <eos>	16.947941763466044
+Mon raison pour la dans de qui était était était un une un un et et et et . .   <eos> <eos> <eos> <eos> <eos>	2.890374959680876
+Je ai vu les de de de de . . .	4.515183688171633
+Nous avons travaillé et et sur sur la de la de de leur leur . . . <eos>	2.5066346703158198
+Un de la le le dans le le a été . . .	4.100530090638892
+Il a allé à dans dans , , . . <eos> <eos> <eos>	2.4870972210467115
+Il n' avait pas pas , pas , . .    <eos> <eos>	7.595456438315031
+Je me souviens me souviens , parce qu' il était un un , , , , , , , , , était était , de pour pour et de et et , , , .  . <eos> <eos> <eos> <eos> <eos>	6.834320716226632
+Ils ont gens comme comme . .  <eos>	4.955725306405571
+Mais sa histoire histoire un peu de .  <eos>	4.880869806051147
+Dans la , , la de de de de de de à à la . . . . . <eos>  <eos> <eos> <eos>	1.6446030914820982
+Il a trois ans de de de de de de de de la et , , et et et peut être peut être . . .	4.1798820492168565
+Mais une fois un de et et .     <eos>	4.996872151825361
+Il a commencé un de . .  <eos> <eos>	4.571221768074353
+Il y a de de de de de ne ne ne pas pas pas . . . .  <eos> <eos> <eos> <eos>	1.5283112973810702
+Il a 10 ans , avec la de de de et et et et et et et est à à à de de de de années années années années années années années années années années années années	1.8149177336705886
+Comment est -ce différent ?  <eos> ? <eos> <eos> <eos> <eos> <eos>	2.290276453812799
+Qu' est -ce -il ?  ?     <eos> <eos>	7.603985612048923
+Je crois que c' est à pour pour et et et un un . . . .	16.56038459020854
+C' est , et et je je je peux être le le le la  .    <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	3.454113756808036
+Il ne a des gens de être la de de les de sont ils sont sont . . . . .	2.7247931978069366
+Et vous pouvez les jeunes gens être être .  <eos> <eos> <eos>	5.165574782208687
+Je veux parler parler à un un un un un de mes mon mon , , , , ,     <eos> <eos> <eos> <eos> <eos>	3.3168362425997198
+Il était été de moi de de de de les personnes les les dans et et et et et et comment et comment et de  .	1.432548017297354
+Il est le premier première de de de de dans années années années , , , , , , , , , , , , , si vous , votre vous , vous , de de  de   <eos>  <eos>  <eos> <eos>  <eos> <eos>  <eos> <eos> <eos> <eos>	4.652084115232206
+Si vous avez un , , «   «   » vous vous de " de " de de de de de de , , , , , , " " " " " <eos> " <eos> " <eos> " <eos>	2.3620911934761133
+Donc donc un une une .  <eos> <eos>	3.550932348642477
+Il a commencé un de et et de . .   <eos> <eos> <eos>	5.546271694289607
+Il a un une de de de de de et et et et et et et et , , il a il a a la  . . . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.3975725191516193
+Et il a été de de , , , , , , et et et et et et et et il et il sur sur sur la de de de . . . .    <eos>  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	2.000948462321275
+Il n' y a pas de de . . . .  <eos>	30.181358455294284
+Il veut à créer un endroit où où les gens , , , , , , , , , , , , , , , ,  .  .  <eos>	4.090688941829
+Et il n' ne pas pas parce qu' ils ils ils ils , , , , . .  . <eos>	2.5716061497971396
+Donc la première est est de de de gens , , , , , , , , est un un un un qui qui sur le   .  <eos>	2.1534550521310907
+Ils avaient eu vraiment vraiment de de . . . . .  <eos>	3.4286942462594507
+Ils ont a environ trois ans , , , , , , , mais mais , , , , , , , , , un     <eos> <eos> <eos> <eos>	2.689406016554787
+Il les les à à à leur comme un un une . . .	4.476681844403591
+Il ne se faire à ce qu' ils pourraient être être , ils pourraient être être .  . <eos> <eos> <eos>	1.5801667475108314
+Au la fin de la , ils ils ont ont de de de de de de de de de leur . . . <eos> <eos> <eos> <eos> <eos> <eos>	6.684447346977705
+Ils ont commencé avec des de à à . . . .	4.503733751056993
+Donc les autres personnes et et un une un un est un est , , mais mais mais mais gens gens gens gens de de de de <eos>   .	3.5527769567510448
+Ils ont des outils et et les et dans des et leurs leurs leurs leurs leurs . . . . <eos> <eos> <eos>	2.176329419883591
+Les jeunes personnes âgées avec les gens ont besoin , les gens ont les ont ont ils doivent à à à de , , , , de de pour .   .  .	5.558947744927456
+Pour moi , , c' est plus plus difficile de un peu .  <eos> <eos> <eos> <eos>	4.804924582072688
+C' est environ une une . . . <eos> <eos> <eos>	2.1320819468821623
+Il n' est pas pas . . .	6.770186228657864
+Je crois que c' est vraiment . .	5.815868174415823
+Les eau , la , et ce ce ce qu' il il il , , , , , , , , les les les les	1.9860695522999654
+Les enfants enfants enfants à à à de et et et et . . . .  .  <eos>	2.711020190038818
+Il les les les les de le le de de .   <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.1254195166774048
+Ces enfants sont sont sont un un de dans leurs . . .	3.696719741302181
+Donc mon père , c' est , , , , , et et et et et et et et et et et et de de de de et de de de de et et et .  <eos> <eos> <eos> <eos> <eos> <eos> <eos>	3.3081608456605274
+Merci .  <eos> <eos> <eos>	1.9119108411650758
+Quand j' étais un enfant de j' dans dans un mes mes mes mes , , pour pour pour pour pour pour pour pour pour de de mon , mon mon mon mon mon mon fils , je me suis	2.747904533593609
+Mais vous savez , ces ces , sont sont , à	16.14682615668325
+Ils sont les dans dans . Ils sont . . .  <eos> <eos>	9.18699132885987
+Cependant , , , j' ai ai à pour pour pour . . <eos> <eos> <eos>	2.034419869311294
+J' ai commencé des deux et et que et à à à . .  .  <eos> <eos>	4.894567591103194
+Cette année dans un un pour pour , , , , pour pour et et . .  <eos> <eos> <eos>	2.1552114333947485
+Et quand quand j' ai commencé commencé de , j' ai que j' avais avec ma ma ma n' avais n' était pas pas . .  <eos> <eos>	11.992708271863684
+Parce que tous la dans dans dans mon mon mon un une une un un un dans un dans à à à de de de à à à à et , , mon mon mon mon mon mon mon de de de de	1.4770182201120903
+C' est vraiment ce que que à à à  . .  <eos>  <eos>	3.395776631557144
+Pour les pour pour la , , je je je je je voir . .  <eos> <eos> <eos>	3.7303716847300374
+Je vais veux montrer montrer un point de nous voyons nous nous le la .	3.4857116957065437
+C' est un site dans le la de la la . . . <eos> <eos> <eos> <eos>	2.3678492583390818
+Et la dernière de la , , mais quand nous nous nous nous nous et nous nous , , , , , , , , , , , , , ,	3.017030250372393
+Ce que sont sont sont les les les la les la les les les les de et et de de . .  .  <eos> <eos>	2.2294186174237827
+Ce que je veux partager partager avec ce que nous nous nous nous nous à de de de de de , , , , , , de de .  .  <eos>  <eos> <eos> <eos> <eos>	7.3047556334691315
+C' était été de de de pour pour quatre ans ans ans ans , , , de de de de de de de 50 ans ans ans ans ans ans ans ans	3.281706213141615
+Le deuxième est la dans la de de et et est est est est le monde le monde il il y a a a de de de de , , , et . . .  <eos> <eos> <eos> <eos> <eos> <eos>	2.1738317079892324
+Les cerveau ont été de de de de la était la la du la du la de de de de de de , , , , , , , , , , , mais mais . . . .	1.1239503708631486
+C' est est est -- -- est est de de de trois de  <eos>	3.2399023551226187
+Les corbeaux utilisé à l' eau de la de de de de et et et et et et et et et et à à le le le le le le le le le  .  .	3.152612155448425
+Alors , comment vous avez un un un un un ? ?	4.069582841180382
+Il serait être être être de de de un un un un un , , .  .   <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.5713160374673347
+Alors ce que nous avons nous nous nous de de pour pour pour la la très très très . . . <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	0.9289691364684
+Nous avons commencé être voir voir où les le à  .  <eos>	2.853183878886449
+Mais vous pouvez voir dans -- -- -- et -- -- -- -- -- très le le le monde le monde le monde nous nous nous nous nous pourrions nous le le le  de   <eos>  <eos> <eos> <eos> <eos> <eos>	3.5002361556592674
+Nous avons donc avec les de de de à , , , vous vous vous voir ici .	5.32864224277779
+Quand je pense que c' est , comme comme comme , , mais de de de de de vous vous de vous de de de de de . . <eos> <eos> <eos>	3.93612852912784
+Et les histoires , , , un de de , , nous avons avons un      <eos> <eos> <eos>	2.2168425678308292
+Ce qui est que c' est cette cette de de de , , , , , de de de de de de de de de pour années de pour pour pour , , , , , de de de de nous nous	1.3024295746348018
+Nous avons aussi aussi , -- -- , et et et et cette qui il il y avait un     <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.3776378122399282
+Ces ne ne pas comme comme comme mais mais quand vous pensez les plus de plus de plus dans les dans les , , , , qui qui qui qui les  .  <eos> <eos> <eos> <eos> <eos>	6.822858941920663
+Donc , nous avons un un de de de à à la à cette . . <eos>	4.3978591389070845
+Nous avons aussi des centaines de un de , , qui qui était était était était était était très très  . . <eos> <eos> <eos> <eos> <eos> <eos> <eos>	1.3752540844604304
+Non , était ici , mais nous allons allons faire à la la dans la à la . . . .  <eos> <eos> <eos> <eos> <eos>	2.838292007671036
+Et même plus , nous nous nous nous à les à dans dans dans de de de de peuvent peuvent peuvent être les les les les . . . . . . .  <eos> <eos>	1.6773237615364773
+Je voulais donc avec mon mon mon de de -- -- -- -- était était était le de de de de de années ans	3.333744983027298
+" est le est est la de de . .   <eos>	6.8803707079889325
+Il n' a pas pas comme dans dans . . . . <eos>	3.3495035708457803
+Donc , ça marche , pas n' n' était pas pas dans .  .  <eos> <eos>	2.4781895402582057
+La plupart de en Afrique dans dans un un un de de de de de de de de de , , .  . <eos>  <eos>	1.924746316810329
+Il a été de de de la dans le . .  <eos> <eos> <eos>	2.2882399068641384
+Merci beaucoup .  <eos>	13.533528323661276
+Merci .  <eos>	1.8315638888734187
+Ces en termes dans la partie de une une de , , mon mon mon mon mon mon mère mère mère , , , , , et et et de de de .  . <eos>	1.727412613317669
+Le premier , j' étais , j' ai cette cette cette . .	13.215955651112736
+Mais pour un un , , , à être comme comme la de de de de  .	5.875148471810145
+Il le a années ans , j' ai ai j' ai si je peux je peux cette , , , , qui qui qui à de de de de de de de . .	4.010219277455057
+J' ai commencé à parler de nouveau , de l' art de la de .  .	9.083627868206413
+Depuis le âge de cinq , j' ai commencé commencé comment apprendre à chaque année pour pour pour la dans la dans la	7.838844848388664
+Je ai appris que les jours de la la la de dernières années ans dernières années ans .	5.4109701071446015
+Nous nous avons seulement le temps , il est est que nous nous un et et et	6.033104985460151
+Un autre a de à . . .  .	4.767707020457095
+Vous n' avez besoin à comprendre la la . . .  <eos> <eos> <eos>	2.458873800714905
+Les choses vont vont vous vous donner de % de la -- -- -- -- à , , , , , , , , , de de la de de la ou ou ou ou . ou <eos> <eos> <eos> <eos> <eos> <eos>	3.7529324056037607
+Aujourd'hui je vais vais vous montrer montrer montrer comment vous le voir .  <eos> <eos> <eos>	5.555408824748196
+Vous êtes ?  <eos> ?	9.138402379955025
+L' votre de de comme de pour elle . .    <eos> <eos> <eos> <eos>	1.9071414280313312
+Vous obtenez un peu .  <eos>	5.876350803261633
+C' est une personne de un un .	12.872632311973014
+.  <eos>	4.9787068367863965
+Si la fin de la est un de avec , de , , , , , , , , , , , , , , , , , je suis , , , , , de de de de de de , , je je je je je que je . . . . . .  <eos>	1.9303533495089176
+C' est une . .  <eos>	6.988198185490689
+.  <eos>	4.9787068367863965
+C' est une photo .  <eos>	13.006502375572222
+Le premier .  <eos>	6.7667641618306344
+La troisième .	30.326532985631665
+Le deuxième de la de comme comme une de de de de dans . . .	5.401157445454033
+J' ai ces ces . .  . <eos> <eos>	3.3142882018868
+Ils sont les enseignants pour vous vous à plus plus .	9.600960275119885
+Un fait .  <eos>	6.7667641618306344
+Si quelqu' un , , , " " " " " " " <eos> " <eos> <eos>	2.9970944654446545
+Comme la réponse , c' est deux , , est est est une . . <eos> <eos> <eos> <eos>	4.136274810417441
+Si un un de leurs leurs , , , , , , , " " " " " " " " <eos> " <eos> <eos>	1.3136337099095308
+Le autre est le la , , est est . .  <eos> <eos> <eos> <eos> <eos>	2.201520808125443
+Il est une une , comme comme comme la  . .	8.516593018819643
+Un est est est un . . , , , nous nous nous  .  <eos>	6.033104985460151
+Trois les arbres , nous avons le la .	32.66828640925501
+Mais un petit de , , nous avons avons  .   <eos>	7.431878014503621
+Le un de sur sur la de de la , , " " " " " <eos> <eos>	1.8383058700933634
+Il voulait , un , un un est est est  .  <eos> <eos>	3.1572564565455266
+Est -ce ?  <eos> <eos> <eos> <eos>	1.4456752008489664
+Deux , les , je je vraiment vraiment .  <eos> <eos>	2.910967817713898
+Trois , ensemble , c' est beaucoup de l' amour .	48.88290318657944
+Le le côté du Sud de la , , est est .	4.503733751056993
+Pour nous , la la est est la de .	10.729256185679601
+Deux , les , , .  <eos>	5.70796903405875
+Trois , , c' est .  <eos> <eos> <eos>	8.377387908310832
+Les la du et et la , , , , est  .	9.00746750211399
+C' aussi aussi , , , , un un et un . . <eos> <eos>	2.825888028840774
+Le premier est est le le . . . . . <eos> <eos> <eos>	1.9665244988381103
+Un homme . Il a un un le le , , , est une  .	3.9297193407553004
+Mais un de de , , , , . . .  <eos> <eos>	2.583112439191653
+D' accord ?  <eos> ? ? ? ? <eos> <eos>	3.0307561627463224
+Voici est est de de une une , , , , . <eos> <eos>	3.1443569925850237
+Sur le , , nous avons un une .	6.495032985064742
+Deux femmes , , ils ont un .  . <eos>	4.408194605881708
+Trois femmes , , , , , , est . . <eos>	4.206027236923763
+Nous avons donc avons de de de . . .	5.08764122072739
+A cette cette , , , la première de vous vous vous .  .  <eos> <eos>	2.6629879653210753
+Les suivant de de de de de un une . . .	4.062582855427254
+Donc avec très très , , vous vous être un un un un de , , est est est un de un de	5.36091700945855
+Donc après nous savons que nous nous nous nous . .  .	4.521356896113449
+Par exemple , la première et et , , nous avons avons avons . . . . . . .  <eos> <eos> <eos>	8.596293977778108
+Nous savons savons que le monde de la la .  .  <eos>	12.661968357569915
+Voici une photo de la avec , , parce que le le le de de de  . <eos>  <eos> <eos>	3.6864923171810835
+Donc un , , , , nous nous nous . . .  <eos> <eos>	5.165574782208687
+Un est , est , , , nous nous ? ? ?	4.062582855427254
+Un jour .  <eos>	6.7667641618306344
+Le cerveau sur gauche est est deux deux de de de de de .  <eos> <eos> <eos>	4.057939977131157
+Dans les , , , , , , , , , , , , , ils leur leurs leurs leurs de leurs . . . <eos>	2.1728949814734473
+En fait , les gens sont des . .	5.868924818816531
+Une idée qui vous vous vous à un un une  .	5.0243511979240845
+C' est une une à moi que je je que que et et et et de la la . . . . .	6.1342275989000115

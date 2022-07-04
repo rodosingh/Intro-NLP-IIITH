@@ -1,0 +1,500 @@
+disease	clinical finding	malady	illness	sickness	soft tissue lesion	disorder	body structure	pathological state	vascular disease	congenital malformation	procedure	respiratory disorder	anatomical structure	clinical diagnosis
+pathological state	disease	malady	disorder	clinical finding	illness	sickness	body structure	somatic cell	protein	growth	clinical symptom	metabolic disease	anatomical structure	degenerative disorder
+disease	clinical finding	illness	sickness	pathological state	malady	disorder	respiratory disorder	inflammatory disorder	disease of lung	liver disease	therapy	clinical diagnosis	medical diagnosis	medicine
+disease	clinical finding	congenital malformation	illness	malady	sickness	disorder	body structure	pathological state	cardiac finding	respiratory disorder	anomaly	congenital abnormality	procedure	soft tissue lesion
+disease	clinical finding	pathological state	procedure	illness	sickness	malady	vascular disease	respiratory disorder	clinical evaluation	disorder	clinical diagnosis	medical diagnosis	soft tissue lesion	liver disease
+disease	clinical finding	illness	pathological state	procedure	sickness	malady	intervention	vascular disease	respiratory disorder	disorder	introduction	therapy	embolism	cardiac finding
+disease	pathological state	disorder	illness	clinical finding	malady	metabolic disease	sickness	degenerative disorder	clinical diagnosis	neurological disease	peripheral nerve disease	medical diagnosis	clinical symptom	protein
+disease	clinical finding	malady	disease of lung	illness	respiratory disorder	sickness	inflammatory disorder	disorder	pathological state	malignant tumor	pneumonitis	cancer	malignancy	liver disease
+disease	clinical finding	illness	disorder	malady	inflammatory disorder	sickness	peripheral nerve disease	pathological state	neuropathy	respiratory disorder	disease of lung	syndrome	pathology	neurological lesion
+disease	malignant tumor	clinical finding	cancer	malady	tumor	sickness	medical diagnosis	malignancy	secondary tumor	pathological state	metastasis	illness	carcinoma	anatomical pathology
+disease	pathological state	malady	clinical finding	sickness	illness	protein	body structure	disorder	growth	somatic cell	macromolecule	cell	biopolymer	proliferation
+procedure	body fluid	intervention	disease	clinical finding	fluid	pathological state	blood	introduction	illness	humour	biofluid	drug	sickness	malady
+disease	clinical finding	liver disease	illness	pathological state	malady	disorder	metabolic disease	inflammatory disorder	sickness	respiratory disorder	protein	proliferation	microorganism	disease of lung
+disease	clinical finding	illness	malady	vascular disease	respiratory disorder	sickness	disorder	pathological state	soft tissue lesion	inflammatory disorder	congenital malformation	cardiac finding	disease of lung	body structure
+clinical finding	body structure	disease	malady	illness	sickness	disorder	pathological state	anatomical structure	procedure	practice of medicine	medical science	medical specialty	medicine	body region
+disease	clinical finding	illness	pathological state	sickness	intervention	malady	disorder	state	healthcare professional	therapy	disturbance	therapeutic procedure	clinical symptom	injury
+disease	clinical finding	illness	disorder	malady	pathological state	sickness	inflammatory disorder	peripheral nerve disease	neuropathy	respiratory disorder	neurological lesion	degenerative disorder	disease of lung	clinical symptom
+disease	clinical finding	pathological state	anatomical structure	malady	illness	body structure	sickness	procedure	disorder	vascular disease	state	cardiac finding	clinical symptom	clinical evaluation
+disease	clinical finding	procedure	soft tissue lesion	body structure	illness	malady	sickness	disease of lung	removal	anatomical structure	respiratory disorder	pathological state	inflammatory disorder	body region
+disease	clinical finding	pathological state	illness	sickness	malady	disorder	state	metabolic disease	respiratory disorder	body fluid	respiratory acidosis	acidosis	functions	clinical symptom
+disease	clinical finding	malady	inflammatory disorder	pathological state	illness	disorder	sickness	proliferation	pathology	disease of lung	peripheral nerve disease	degenerative disorder	neoplasm	clinical diagnosis
+disease	clinical finding	pathological state	illness	malady	disorder	sickness	clinical diagnosis	medical diagnosis	clinical evaluation	respiratory disorder	clinical symptom	metabolic disease	cell count	inflammatory disorder
+disease	clinical finding	illness	sickness	practice of medicine	medicine	medical specialty	malady	medical science	medical research	craniofacial pain	healthcare professional	disorder	pain	pathological state
+disease	clinical finding	illness	disorder	malady	pathological state	sickness	mental disorder	inflammatory disorder	metabolic disease	psychiatric condition	psychological disorder	mental illness	folie	clinical diagnosis
+disease	clinical finding	sickness	illness	malady	cancer	pathological state	malignant tumor	secondary tumor	tumor	growth	disorder	metastasis	metastatic tumor	body structure
+disease	pathological state	malady	clinical finding	illness	disorder	sickness	protein	macromolecule	body structure	cell	biopolymer	growth	biomolecule	metabolic disease
+disease	clinical finding	malady	disorder	illness	sickness	peripheral nerve disease	pathological state	familial disease	hereditary disease	neuropathy	metabolic disease	pathology	degenerative disorder	inflammatory disorder
+disease	malady	body structure	pathological state	clinical finding	sickness	illness	disorder	anatomical structure	growth	medicine	medical science	practice of medicine	medical specialty	medical research
+disease	clinical finding	procedure	removal	illness	malady	body structure	sickness	pathological state	soft tissue lesion	introduction	disorder	grafting procedure	clinical diagnosis	anatomical structure
+disease	illness	clinical finding	pathological state	sickness	disorder	malady	therapy	mental disorder	mental illness	psychiatric condition	treatment	disturbance	drug	clinical symptom
+disease	clinical finding	pathological state	sickness	illness	malady	injury	disorder	clinical symptom	state	damage	drug	body structure	function	anatomical structure
+procedure	intervention	introduction	clinical finding	disease	healthcare professional	removal	illness	sickness	therapy	medical procedure	therapeutic procedure	nurse	pathological state	clinical evaluation
+disease	clinical finding	sickness	illness	pathological state	disorder	malady	therapy	headache	craniofacial pain	mental disorder	treatment	intervention	pain	headache disorder
+disease	body structure	clinical finding	malady	pathological state	anatomical structure	disorder	sickness	illness	body region	pathology	neuropathy	growth	organ	clinical symptom
+illness	disease	disorder	clinical finding	sickness	mental disorder	malady	pathological state	mental illness	psychiatric condition	folie	psychological disorder	mental disturbance	disturbance	psychiatry
+disease	clinical finding	pathological state	sickness	malady	illness	disorder	body structure	clinical symptom	injury	state	anatomical structure	therapy	neurological lesion	metabolic disease
+removal	procedure	tumor	malignant tumor	disease	body structure	excision	growth	secondary tumor	clinical finding	surgical removal	neoplasm	cancer	metastatic tumor	surgical material
+disease	clinical finding	illness	sickness	pathological state	disorder	malady	disturbance	clinical symptom	mental disturbance	therapy	healthcare professional	mental disorder	state	medical research
+disease	clinical finding	disorder	illness	malady	pathological state	inflammatory disorder	peripheral nerve disease	neoplasm	sickness	neuropathy	clinical diagnosis	pathology	respiratory disorder	disease of lung
+disease	clinical finding	body structure	illness	malady	disorder	pathological state	sickness	anatomical structure	body region	clinical diagnosis	defect	malignant tumor	congenital malformation	pathology
+disease	clinical finding	illness	pathological state	disorder	sickness	malady	headache	neuropathy	peripheral nerve disease	clinical symptom	diagnosis	clinical diagnosis	neurological finding	craniofacial pain
+intervention	therapy	psychotherapy	treatment	health care	illness	care	healthcare professional	therapeutic procedure	disease	mental disorder	medical care	clinical finding	medical specialty	attention
+clinical finding	disease	illness	disorder	malady	sickness	pathological state	clinical symptom	neurological lesion	soft tissue lesion	injury	respiratory disorder	inflammatory disorder	body structure	congenital malformation
+body structure	body region	anatomical structure	disease	bone	organ	clinical finding	malady	growth	tumor	os	connective tissue	conjunctive tissue	animal tissue	pathological state
+disease	clinical finding	malady	illness	sickness	respiratory disorder	pathological state	inflammatory disorder	disorder	disease of lung	metabolic disease	microorganism	pneumonitis	interstitial lung disease	body structure
+disease	clinical finding	body structure	anatomical structure	malady	illness	body region	sickness	procedure	pathological state	tumor	disorder	removal	diagnosis	soft tissue lesion
+malady	disease	sickness	illness	body structure	growth	medicine	pathological state	medical research	disorder	medical science	clinical finding	practice of medicine	anatomical pathology	pathology
+pathological state	disease	malady	sickness	disorder	illness	clinical finding	body structure	nervous disorder	clinical symptom	state	functions	medical research	metabolic disease	protein
+disease	clinical finding	illness	malady	sickness	disorder	pathological state	inflammatory disorder	respiratory disorder	disease of lung	clinical diagnosis	medical diagnosis	metabolic disease	pathology	vascular disease
+disease	clinical finding	sickness	pathological state	illness	disorder	therapy	malady	disturbance	mental disorder	craniofacial pain	treatment	neurological disease	neurological disorder	headache
+disease	clinical finding	disease of lung	respiratory disorder	illness	malady	inflammatory disorder	pneumonia	sickness	soft tissue lesion	infection	pneumonitis	disorder	infectious disease	pathological state
+disease	clinical finding	pathological state	malady	sickness	illness	disorder	state	body structure	clinical symptom	metabolic disease	body fluid	functions	anatomical structure	vascular function
+disease	clinical finding	pathological state	illness	malady	procedure	sickness	intervention	body fluid	drug	disorder	medicine	blood	therapy	therapeutic procedure
+disease	clinical finding	procedure	sickness	illness	malady	clinical evaluation	soft tissue lesion	pathological state	body structure	anatomical structure	medical diagnosis	disorder	clinical diagnosis	body region
+disease	sickness	pathological state	injury	clinical finding	damage	malady	illness	disorder	body structure	trauma	anatomical structure	protein	clinical symptom	state
+disease	clinical finding	respiratory disorder	illness	malady	disorder	sickness	disease of lung	pathological state	inflammatory disorder	metabolic disease	infectious disease	infection	medicine	pneumonitis
+disease	clinical finding	illness	disorder	sickness	pathological state	malady	therapy	mental disorder	metabolic disease	liver disease	mental illness	respiratory disorder	treatment	drug
+disease	clinical finding	disorder	illness	pathological state	malady	sickness	degenerative disorder	inflammatory disorder	neuropathy	peripheral nerve disease	metabolic disease	neurological disorder	neurological disease	respiratory disorder
+disease	clinical finding	procedure	illness	malady	respiratory disorder	sickness	pathological state	soft tissue lesion	disorder	disease of lung	inflammatory disorder	removal	introduction	clinical diagnosis
+disease	clinical finding	pathological state	malady	illness	sickness	disorder	metabolic disease	inflammatory disorder	respiratory disorder	liver disease	body structure	diabetes	state	vascular disease
+clinical finding	body structure	disease	malady	disorder	illness	pathological state	defect	anatomical structure	sickness	lump	clinical symptom	body region	connective tissue	conjunctive tissue
+disease	pathological state	clinical finding	malady	sickness	body structure	illness	disorder	metabolic disease	anatomical structure	injury	state	pathology	growth	proliferation
+disease	clinical finding	body structure	sickness	malady	injury	anatomical structure	illness	pathological state	disorder	neurological lesion	trauma	neuropathy	peripheral nerve disease	body region
+disease	clinical finding	illness	disorder	sickness	pathological state	malady	disturbance	mental disorder	neurological disorder	nervous disorder	neurological disease	clinical symptom	mental disturbance	headache
+disease	clinical finding	illness	pathological state	sickness	disorder	malady	mental disorder	therapy	headache	psychological disorder	clinical symptom	nervous disorder	neurological disorder	craniofacial pain
+disease	clinical finding	illness	respiratory disorder	malady	disease of lung	sickness	inflammatory disorder	disorder	pathological state	clinical diagnosis	soft tissue lesion	pneumonitis	medical diagnosis	liver disease
+disease	clinical finding	malady	sickness	pathological state	illness	injury	body structure	anatomical structure	disorder	damage	state	procedure	clinical symptom	body region
+disease	protein	pathological state	malady	macromolecule	sickness	clinical finding	metabolic disease	illness	cell	somatic cell	enzyme	disorder	liver disease	growth
+disease	clinical finding	sickness	pathological state	illness	malady	disorder	metabolic disease	degenerative disorder	inflammatory disorder	injury	respiratory disorder	body structure	disease of lung	clinical symptom
+disease	pathological state	protein	malady	metabolic disease	macromolecule	clinical finding	disorder	sickness	illness	enzyme	biomolecule	hydrolase	biopolymer	simple sugar
+disease	clinical finding	malignancy	clinical diagnosis	malignant tumor	illness	malady	anatomical pathology	medical diagnosis	pathology	neoplasm	cancer	respiratory disorder	sickness	adenocarcinoma
+disease	clinical finding	neoplasm	illness	malady	malignant tumor	sickness	disorder	tumor	pathological state	body structure	clinical diagnosis	malignancy	pathology	proliferation
+disease	illness	clinical finding	disorder	sickness	malady	pathological state	mental disorder	mental illness	psychiatric condition	mental disturbance	folie	psychological disorder	disturbance	therapy
+disease	clinical finding	illness	respiratory disorder	sickness	malady	procedure	pathological state	disorder	vascular disease	cardiac finding	intervention	clinical symptom	embolism	state
+pathological state	disease	sickness	disorder	malady	illness	functions	clinical finding	protein	drug	metabolic disease	inhibition	neurochemical	degenerative disorder	macromolecule
+disease	clinical finding	disorder	illness	malady	pathological state	sickness	peripheral nerve disease	degenerative disorder	congenital malformation	neuropathy	clinical diagnosis	hereditary disease	clinical symptom	metabolic disease
+disease	clinical finding	malady	illness	vascular disease	pathological state	sickness	procedure	disorder	body structure	soft tissue lesion	cardiac finding	respiratory disorder	congenital malformation	clinical symptom
+disease	clinical finding	pathological state	illness	malady	sickness	vascular disease	cardiac finding	disorder	body structure	state	anatomical structure	procedure	respiratory disorder	clinical symptom
+healthcare professional	intervention	nurse	primary care provider	medical specialty	worker	health care	professional nurse	health professional	care	illness	disease	clinical finding	therapy	practice of medicine
+disease	clinical finding	pathological state	illness	drug	sickness	therapy	disorder	intervention	malady	treatment	pharmaceutical drug	state	clinical symptom	procedure
+clinical finding	disease	pathological state	body structure	state	sickness	anatomical structure	malady	illness	procedure	injury	disorder	clinical symptom	body region	fluid
+disease	clinical finding	malady	disorder	body structure	illness	pathological state	sickness	pathology	proliferation	inflammatory disorder	growth	neoplasm	peripheral nerve disease	anatomical pathology
+disease	clinical finding	malady	inflammatory disorder	illness	pathological state	sickness	disorder	infectious disease	helminth infection	respiratory disorder	periodontitis	liver disease	microorganism	disease of lung
+disease	clinical finding	malady	illness	sickness	pathological state	disorder	liver disease	inflammatory disorder	medical diagnosis	pathology	clinical diagnosis	cancer	malignant tumor	malignancy
+disease	clinical finding	illness	sickness	disorder	malady	pathological state	body structure	clinical diagnosis	clinical symptom	respiratory disorder	medical diagnosis	procedure	pathology	medical science
+disease	sickness	pathological state	clinical finding	illness	disorder	malady	metabolic disease	zinc	degenerative disorder	inflammatory disorder	liver disease	periodontitis	body structure	periodontal disease
+disease	body structure	clinical finding	malady	sickness	anatomical structure	disorder	illness	pathological state	growth	pathology	body region	neoplasm	clinical diagnosis	tumor
+disease	clinical finding	illness	sickness	pathological state	malady	disorder	therapy	medicine	medical diagnosis	cancer	medical science	pathology	body structure	practice of medicine
+disease	clinical finding	malady	cancer	neoplasm	growth	malignant tumor	proliferation	disorder	sickness	secondary tumor	illness	pathology	tumor	anatomical pathology
+disease	clinical finding	body structure	sickness	illness	pathological state	malady	disorder	anatomical structure	practice of medicine	specialisation	pathology	diagnosis	medical research	neurological lesion
+pathological state	disease	sickness	illness	disorder	clinical finding	malady	mental disorder	state	disturbance	therapy	psychiatric condition	mental illness	attention	metabolic disease
+clinical finding	disease	illness	disorder	vascular disease	pathological state	sickness	malady	cardiac finding	respiratory disorder	embolism	congenital malformation	clinical symptom	cardiomyopathy	cardiopathy
+disease	clinical finding	pathological state	illness	malady	disorder	sickness	vascular disease	neuropathy	metabolic disease	inflammatory disorder	respiratory disorder	peripheral nerve disease	clinical symptom	nervous disorder
+disease	clinical finding	malady	illness	disorder	pathological state	sickness	body structure	inflammatory disorder	periodontal disease	respiratory disorder	periodontitis	growth	congenital malformation	defect
+disease	clinical finding	pathological state	illness	sickness	malady	disorder	therapy	respiratory disorder	inflammatory disorder	drug	injury	clinical symptom	intervention	liver disease
+disease	illness	clinical finding	therapy	disorder	sickness	mental disorder	pathological state	treatment	mental illness	malady	psychiatric condition	intervention	disturbance	therapeutic procedure
+disease	clinical finding	malady	sickness	illness	inflammatory disorder	malignant tumor	pathology	cancer	anatomical pathology	malignancy	pathological state	infectious disease	disorder	disease of lung
+disease	clinical finding	malady	illness	disorder	pathological state	sickness	body structure	inflammatory disorder	pathology	respiratory disorder	neoplasm	disease of lung	clinical diagnosis	malignant tumor
+disease	clinical finding	sickness	malady	pathological state	illness	disorder	respiratory disorder	state	body structure	clinical symptom	disease of lung	inflammatory disorder	injury	anatomical structure
+disease	clinical finding	sickness	malady	illness	pathological state	disorder	respiratory disorder	inflammatory disorder	disease of lung	medicine	body structure	medical science	medical research	medical diagnosis
+clinical finding	disease	illness	pathological state	disorder	malady	sickness	clinical symptom	inflammatory disorder	nervous disorder	neurological finding	disturbance	neuropathy	peripheral nerve disease	state
+illness	disease	pathological state	therapy	clinical finding	sickness	disorder	treatment	mental disorder	malady	intervention	mental illness	drug	disturbance	therapeutic procedure
+disease	clinical finding	illness	disorder	pathological state	malady	sickness	inflammatory disorder	respiratory disorder	metabolic disease	disease of lung	peripheral nerve disease	liver disease	neuropathy	medical diagnosis
+disease	clinical finding	respiratory disorder	illness	pathological state	disease of lung	inflammatory disorder	malady	disorder	pneumonitis	sickness	infectious disease	metabolic disease	pneumonia	liver disease
+disease	clinical finding	illness	malady	sickness	pathological state	disorder	body structure	growth	medical diagnosis	cancer	clinical diagnosis	malignant tumor	pathology	malignancy
+disease	clinical finding	illness	malady	pathological state	disorder	inflammatory disorder	sickness	respiratory disorder	metabolic disease	liver disease	disease of lung	clinical diagnosis	peripheral nerve disease	medical diagnosis
+disease	clinical finding	pathological state	illness	disorder	sickness	malady	state	vascular disease	clinical symptom	respiratory disorder	metabolic disease	cardiac finding	procedure	embolism
+disease	clinical finding	disorder	illness	malady	pathological state	sickness	syndrome	respiratory disorder	metabolic disease	peripheral nerve disease	neuropathy	degenerative disorder	clinical symptom	congenital malformation
+disease	clinical finding	illness	pathological state	sickness	malady	disorder	intervention	treatment	therapeutic procedure	medical specialty	medicine	healthcare professional	practice of medicine	procedure
+clinical finding	disease	illness	respiratory disorder	pathological state	vascular disease	malady	cardiac finding	sickness	disorder	clinical symptom	soft tissue lesion	congenital malformation	disease of lung	embolism
+disease	clinical finding	illness	sickness	malady	pathological state	disorder	medicine	medical science	worker	intervention	medical research	therapy	medical diagnosis	practice of medicine
+pathological state	disease	biopolymer	malady	sickness	protein	macromolecule	illness	functions	disorder	clinical finding	drug	food additive	biomolecule	zinc
+clinical finding	disease	illness	disorder	malady	sickness	mental disorder	pathological state	disturbance	mental disturbance	psychiatric condition	psychological disorder	nervous disorder	mental illness	folie
+disease	clinical finding	illness	pathological state	sickness	respiratory disorder	disorder	malady	inflammatory disorder	disease of lung	healthcare professional	medicine	therapy	clinical symptom	intervention
+disease	clinical finding	malady	illness	pathological state	sickness	liver disease	periodontal disease	growth	disorder	periodontitis	body structure	proliferation	malignant tumor	cancer
+disease	clinical finding	neoplasm	malady	disorder	illness	hamartoma	congenital malformation	lump	sickness	clinical diagnosis	malignant tumor	pathology	soft tissue lesion	anatomical pathology
+medical specialty	healthcare professional	practice of medicine	worker	clinical finding	disease	illness	medical research	medicine	medical science	specialty	specialism	speciality	medical practitioner	sickness
+disease	clinical finding	disorder	illness	malady	pathological state	sickness	respiratory disorder	neuropathy	peripheral nerve disease	degenerative disorder	metabolic disease	inflammatory disorder	body structure	clinical symptom
+disease	clinical finding	malady	illness	disorder	pathological state	sickness	body structure	malignant tumor	pathology	tumor	neoplasm	clinical diagnosis	anatomical pathology	growth
+procedure	disease	clinical finding	anatomical structure	body structure	removal	sickness	body region	malady	illness	pathological state	growth	tumor	disorder	organ
+disease	clinical finding	illness	disorder	sickness	malady	pathological state	congenital malformation	respiratory disorder	cardiac finding	medical specialty	clinical diagnosis	procedure	medicine	healthcare professional
+disease	pathological state	clinical finding	sickness	malady	disorder	illness	body structure	anatomical structure	degenerative disorder	injury	neurological lesion	neuropathy	neuron	clinical symptom
+illness	disease	clinical finding	disorder	sickness	disturbance	pathological state	mental disorder	psychiatric condition	malady	mental disturbance	mental illness	psychological disorder	neurological disorder	nervous disorder
+disease	clinical finding	disorder	illness	malady	pathological state	sickness	peripheral nerve disease	clinical diagnosis	neuropathy	diagnosis	clinical symptom	congenital malformation	body structure	syndrome
+clinical finding	disease	illness	malady	pathological state	sickness	disorder	procedure	body structure	cardiac finding	respiratory disorder	vascular disease	soft tissue lesion	clinical symptom	state
+disease	clinical finding	pathological state	illness	sickness	malady	disorder	state	respiratory disorder	clinical symptom	inflammatory disorder	injury	metabolic disease	body structure	nervous disorder
+disease	clinical finding	malady	sickness	neuropathy	pathological state	illness	disorder	peripheral nerve disease	body structure	pain	somatosensory system	medical research	craniofacial pain	sensation
+disease	illness	clinical finding	malady	disorder	sickness	pathological state	specialisation	mental disorder	attention	medical research	specialization	psychiatry	practice of medicine	body structure
+disease	clinical finding	illness	sickness	malady	pathological state	disorder	respiratory disorder	inflammatory disorder	disease of lung	metabolic disease	medical diagnosis	state	clinical symptom	clinical diagnosis
+disease	clinical finding	pathological state	illness	sickness	malady	injury	disorder	drug	procedure	state	respiratory disorder	damage	therapy	clinical symptom
+body structure	disease	clinical finding	anatomical structure	pathological state	malady	body region	sickness	disorder	illness	organ	body part	injury	neurological lesion	conjunctive tissue
+disease	clinical finding	illness	malady	disorder	sickness	pathological state	inflammatory disorder	respiratory disorder	disease of lung	metabolic disease	clinical symptom	nervous disorder	mental disorder	state
+disease	clinical finding	illness	disorder	malady	sickness	body structure	pathological state	congenital malformation	diagnosis	clinical diagnosis	medical specialty	pathology	practice of medicine	medical diagnosis
+disease	pathological state	illness	clinical finding	disorder	sickness	malady	disturbance	mental disorder	neurological disorder	therapy	neurological disease	clinical symptom	psychiatric condition	mental illness
+clinical finding	disease	illness	pathological state	sickness	disorder	malady	respiratory disorder	state	clinical symptom	body structure	disease of lung	procedure	metabolic disease	injury
+disease	clinical finding	malady	illness	disorder	neoplasm	sickness	pathology	clinical diagnosis	anatomical pathology	malignant tumor	pathological state	inflammatory disorder	medical diagnosis	malignancy
+disease	clinical finding	disorder	pathological state	illness	sickness	malady	metabolic disease	clinical symptom	degenerative disorder	mental disorder	disturbance	nervous disorder	inflammatory disorder	medical diagnosis
+clinical finding	disease	illness	sickness	malady	disorder	pathological state	respiratory disorder	worker	mental disorder	intervention	healthcare professional	disease of lung	medical aid	pcp
+disease	clinical finding	illness	pathological state	disorder	malady	sickness	inflammatory disorder	respiratory disorder	clinical symptom	peripheral nerve disease	clinical diagnosis	neurological lesion	neuropathy	disease of lung
+disease	disorder	clinical finding	illness	pathological state	sickness	malady	body structure	clinical symptom	medical diagnosis	clinical diagnosis	diagnosis	mental disorder	disturbance	pathology
+disease	pathological state	malady	disorder	clinical finding	metabolic disease	degenerative disorder	illness	sickness	hereditary disease	protein	neuropathy	body structure	genetic abnormality	peripheral nerve disease
+clinical finding	disease	respiratory disorder	illness	disease of lung	pathological state	malady	sickness	soft tissue lesion	state	body structure	vascular disease	disorder	cardiac finding	clinical symptom
+disease	clinical finding	neoplasm	malady	disorder	illness	tumor	body structure	malignant tumor	lump	sickness	hamartoma	proliferation	growth	pathology
+disease	clinical finding	illness	malady	disorder	inflammatory disorder	pathological state	sickness	respiratory disorder	infectious disease	disease of lung	liver disease	medical diagnosis	medicine	pathology
+mental disorder	illness	mental illness	psychopathology	attention	folie	psychiatry	malady	pathological state	disease	sickness	psychiatric condition	psychotherapy	neurosis	disorder
+disease	clinical finding	body structure	malady	illness	disorder	sickness	anatomical structure	pathological state	clinical symptom	pathology	body region	diagnosis	neurological lesion	clinical diagnosis
+medicine	health care	medical science	medical specialty	specialism	illness	disease	psychotherapy	practice of medicine	psychiatry	care	medical research	mental illness	specialisation	specialty
+clinical finding	disease	body structure	illness	malady	disorder	sickness	diagnosis	pathological state	procedure	practice of medicine	clinical diagnosis	medical specialty	lump	pathology
+clinical finding	disease	respiratory disorder	illness	malady	disorder	pathological state	disease of lung	inflammatory disorder	sickness	vascular disease	soft tissue lesion	cardiac finding	congenital malformation	pneumonitis
+clinical finding	disease	illness	pathological state	malady	disorder	sickness	clinical symptom	body structure	procedure	clinical diagnosis	soft tissue lesion	diagnosis	anatomical structure	clinical evaluation
+disease	clinical finding	respiratory disorder	illness	disease of lung	malady	procedure	inflammatory disorder	pathological state	pneumonitis	liver disease	sickness	soft tissue lesion	infection	pneumonia
+disease	clinical finding	malady	pathological state	sickness	illness	disorder	body structure	medical diagnosis	medicine	procedure	medical science	clinical diagnosis	medical research	practice of medicine
+disease	malady	pathological state	illness	clinical finding	disorder	sickness	body structure	growth	degenerative disorder	metabolic disease	medical diagnosis	proliferation	malignant tumor	pathology
+disease	malady	clinical finding	illness	pathological state	sickness	disorder	medical diagnosis	protein	growth	medical research	cancer	pathology	clinical diagnosis	malignant tumor
+clinical finding	disease	illness	sickness	pathological state	malady	disorder	pain	craniofacial pain	body structure	clinical symptom	headache	neurological finding	hurting	neurological lesion
+disease	pathological state	sickness	clinical finding	malady	illness	disorder	metabolic disease	injury	inflammatory disorder	macromolecule	state	degenerative disorder	clinical symptom	damage
+disease	clinical finding	malady	disorder	sickness	pathological state	illness	body structure	injury	inflammatory disorder	clinical symptom	state	craniofacial pain	neurological lesion	anatomical structure
+disease	biopolymer	clinical finding	malady	procedure	pathological state	body structure	sickness	macromolecule	illness	introduction	anatomical structure	animal tissue	disorder	drug
+procedure	disease	clinical finding	intervention	body structure	illness	sickness	malady	anatomical structure	clinical evaluation	introduction	pathological state	removal	surgery	surgical procedure
+specialism	psychotherapy	research	practice of medicine	medicine	medical specialty	medical science	psychiatry	psychology	specialization	attention	psychopathology	specialty	specialisation	health care
+pathological state	disease	sickness	malady	clinical finding	illness	disorder	body structure	state	clinical symptom	nervous disorder	disturbance	injury	damage	metabolic disease
+disease	clinical finding	malady	illness	disorder	sickness	pathological state	body structure	congenital malformation	pathology	clinical diagnosis	clinical symptom	anatomical structure	diagnosis	vascular disease
+disease	clinical finding	pathological state	sickness	illness	vascular disease	malady	state	disorder	anatomical structure	procedure	embolism	body structure	respiratory disorder	clinical symptom
+disease	clinical finding	disorder	illness	malady	pathological state	sickness	body structure	diagnosis	clinical diagnosis	clinical symptom	neurological lesion	peripheral nerve disease	neuropathy	pathology
+disease	clinical finding	illness	disorder	malady	sickness	pathological state	clinical diagnosis	neurological disorder	peripheral nerve disease	clinical symptom	medical diagnosis	neuropathy	nervous disorder	mental disorder
+disease	pathological state	protein	malady	clinical finding	sickness	macromolecule	disorder	illness	metabolic disease	enzyme	biopolymer	somatic cell	body structure	biomolecule
+disease	clinical finding	illness	pathological state	sickness	malady	disorder	medical specialty	practice of medicine	medicine	healthcare professional	medical science	medical research	speciality	clinical diagnosis
+disease	clinical finding	illness	pathological state	sickness	malady	disorder	inflammatory disorder	respiratory disorder	infectious disease	therapy	clinical diagnosis	disease of lung	infection	liver disease
+disease	pathological state	clinical finding	illness	disorder	malady	sickness	drug	metabolic disease	therapy	clinical symptom	clinical diagnosis	mental disorder	medicine	medical research
+disease	clinical finding	body structure	malady	congenital malformation	illness	disorder	pathological state	sickness	anatomical structure	cardiac finding	congenital abnormality	anomaly	congenital anomaly	vascular disease
+disease	clinical finding	illness	malady	sickness	medical science	medicine	pathological state	therapy	practice of medicine	disorder	medical specialty	therapeutic procedure	medical research	intervention
+disease	clinical finding	disorder	illness	malady	neuropathy	peripheral nerve disease	sickness	pathological state	body structure	degenerative disorder	neurological lesion	syndrome	congenital malformation	inflammatory disorder
+body structure	anatomical structure	disease	sickness	clinical finding	malady	neurological lesion	pathological state	body region	body part	injury	illness	trauma	disorder	specialisation
+disease	clinical finding	soft tissue lesion	illness	inflammatory disorder	malady	disease of lung	respiratory disorder	sickness	disorder	clinical diagnosis	pathological state	lump	body structure	neoplasm
+disease	clinical finding	illness	malady	pathological state	sickness	practice of medicine	medicine	medical research	disorder	medical specialty	medical science	clinical diagnosis	medical diagnosis	speciality
+disease	clinical finding	pathological state	malady	metabolic disease	sickness	illness	disorder	respiratory disorder	drug	liver disease	inflammatory disorder	vascular disease	obesity	disease of lung
+disease	illness	clinical finding	pathological state	disorder	sickness	mental disorder	malady	mental illness	disturbance	psychiatric condition	mental disturbance	psychological disorder	therapy	nervous disorder
+body structure	disease	clinical finding	anatomical structure	malady	joint	sickness	body region	growth	organ	pathology	pathological state	bone	tumor	illness
+clinical finding	procedure	disease	illness	malady	sickness	pathological state	anatomical structure	clinical evaluation	body structure	disorder	intervention	clinical symptom	introduction	medical procedure
+disease	clinical finding	respiratory disorder	disease of lung	illness	inflammatory disorder	malady	soft tissue lesion	sickness	pneumonitis	disorder	pneumonia	pathological state	infection	lung consolidation
+disease	pathological state	malady	clinical finding	illness	sickness	disorder	macromolecule	body fluid	protein	body structure	drug	procedure	biomolecule	anatomical structure
+disease	clinical finding	illness	malady	neoplasm	malignant tumor	cancer	tumor	malignancy	sickness	clinical diagnosis	disorder	diagnosis	medical diagnosis	adenocarcinoma
+disease	neoplasm	tumor	malignant tumor	clinical finding	malignancy	cancer	secondary tumor	adenocarcinoma	metastasis	carcinoma	anatomical pathology	malignant neoplasm	clinical diagnosis	pathology
+disease	clinical finding	pathological state	illness	malady	inflammatory disorder	sickness	respiratory disorder	disorder	metabolic disease	liver disease	disease of lung	infectious disease	medical diagnosis	clinical diagnosis
+disease	clinical finding	illness	malady	pathological state	disorder	sickness	respiratory disorder	inflammatory disorder	medicine	liver disease	pathology	clinical diagnosis	medical diagnosis	metabolic disease
+body structure	disease	anatomical structure	malady	growth	animal tissue	tumor	clinical finding	organ	body region	defect	removal	connective tissue	bone	os
+disease	clinical finding	illness	sickness	malady	pathological state	disorder	medicine	medical science	medical research	practice of medicine	medical specialty	medical diagnosis	respiratory disorder	infectious disease
+disease	clinical finding	illness	malady	pathological state	disorder	vascular disease	respiratory disorder	sickness	cardiopathy	cardiac finding	cardiomyopathy	metabolic disease	inflammatory disorder	disease of lung
+disease	sickness	clinical finding	illness	malady	pathological state	cancer	disorder	medical diagnosis	clinical diagnosis	medical research	medicine	malignant tumor	therapy	secondary tumor
+disease	clinical finding	pathological state	malady	illness	metabolic disease	disorder	sickness	inflammatory disorder	liver disease	protein	pathology	degenerative disorder	respiratory disorder	body structure
+disease	clinical finding	respiratory disorder	illness	malady	inflammatory disorder	disorder	pathological state	sickness	disease of lung	clinical diagnosis	congenital malformation	medical diagnosis	pathology	pneumonitis
+disease	clinical finding	disorder	illness	malady	sickness	pathological state	neurological disorder	nervous disorder	neuropathy	peripheral nerve disease	neurological disease	degenerative disorder	folie	clinical symptom
+disease	illness	clinical finding	sickness	therapy	disorder	pathological state	malady	medicine	intervention	specialisation	psychotherapy	psychiatry	attention	mental illness
+disease	clinical finding	malady	disorder	illness	inflammatory disorder	pathological state	sickness	peripheral nerve disease	neuropathy	respiratory disorder	disease of lung	body structure	pathology	clinical diagnosis
+illness	disease	clinical finding	therapy	sickness	pathological state	sedation	treatment	intervention	mental disorder	disorder	mental illness	therapeutic procedure	medical aid	psychiatric condition
+disease	clinical finding	pathological state	illness	sickness	body structure	malady	state	disorder	anatomical structure	procedure	clinical symptom	body region	injury	intervention
+disease	clinical finding	malady	illness	pathological state	sickness	body structure	disorder	neoplasm	malignant tumor	disease of lung	lump	soft tissue lesion	respiratory disorder	clinical diagnosis
+disease	clinical finding	pathological state	sickness	illness	disorder	malady	therapy	headache	clinical symptom	state	craniofacial pain	disturbance	headache disorder	intervention
+disease	clinical finding	malady	illness	disorder	sickness	pathological state	body structure	pathology	clinical diagnosis	medical diagnosis	anatomical pathology	neoplasm	cancer	abdominal mass
+disease	clinical finding	pathological state	malady	sickness	illness	disorder	body structure	medical diagnosis	anatomical structure	procedure	clinical diagnosis	malignant tumor	respiratory disorder	clinical evaluation
+disease	clinical finding	illness	disorder	malady	pathological state	sickness	inflammatory disorder	respiratory disorder	peripheral nerve disease	metabolic disease	infectious disease	disease of lung	neuropathy	clinical symptom
+disease	clinical finding	body structure	malady	sickness	illness	pathological state	pathology	practice of medicine	procedure	clinical diagnosis	anatomical structure	disorder	medicine	medical science
+disease	clinical finding	sickness	illness	malady	pathological state	disorder	respiratory disorder	medicine	inflammatory disorder	medical science	medical research	therapy	disease of lung	clinical symptom
+medical specialty	practice of medicine	healthcare professional	disease	intervention	medicine	clinical finding	illness	therapeutic procedure	specialisation	health care	therapy	medical science	specialty	specialism
+disease	clinical finding	illness	disorder	malady	pathological state	sickness	peripheral nerve disease	inflammatory disorder	neuropathy	degenerative disorder	pathology	neurological disease	clinical diagnosis	medical diagnosis
+disease	clinical finding	disorder	illness	malady	neuropathy	peripheral nerve disease	pathological state	sickness	degenerative disorder	neurological lesion	clinical symptom	inflammatory disorder	syndrome	body structure
+disease	clinical finding	illness	disorder	malady	sickness	pathological state	inflammatory disorder	peripheral nerve disease	neuropathy	respiratory disorder	neurological disease	neurological disorder	clinical symptom	degenerative disorder
+disease	clinical finding	illness	vascular disease	sickness	respiratory disorder	pathological state	malady	cardiac finding	disorder	embolism	pulmonary embolism	state	procedure	cardiopathy
+disease	clinical finding	body structure	procedure	anatomical structure	malady	sickness	soft tissue lesion	illness	pathological state	vascular disease	body region	pathology	disorder	clinical evaluation
+disease	clinical finding	disorder	illness	malady	sickness	pathological state	body structure	mental disorder	neurological disease	neurological lesion	specialisation	neurological disorder	medical research	folie
+disease	clinical finding	malady	disease of lung	illness	neoplasm	disorder	inflammatory disorder	sickness	respiratory disorder	pathology	malignant tumor	clinical diagnosis	pathological state	anatomical pathology
+disease	clinical finding	illness	malady	disorder	sickness	pathological state	body structure	folie	clinical symptom	nervous disorder	neurological lesion	sentience	neurological disease	disturbance
+disease	clinical finding	illness	sickness	pathological state	malady	disorder	metabolic disease	liver disease	inflammatory disorder	body structure	respiratory disorder	growth	degenerative disorder	medical diagnosis
+disease	clinical finding	malady	pathological state	sickness	illness	cancer	malignant tumor	tumor	medical diagnosis	disorder	clinical diagnosis	secondary tumor	neoplasm	pathology
+clinical finding	disease	illness	sickness	pathological state	malady	disorder	respiratory disorder	clinical symptom	inflammatory disorder	medical diagnosis	disease of lung	body structure	clinical diagnosis	headache
+disease	clinical finding	disorder	malady	neoplasm	illness	clinical diagnosis	malignant tumor	malignancy	sickness	inflammatory disorder	pathological state	pathology	lump	disease of lung
+disease	clinical finding	pathological state	malady	illness	disorder	metabolic disease	sickness	inflammatory disorder	respiratory disorder	peripheral nerve disease	clinical diagnosis	clinical symptom	medical diagnosis	degenerative disorder
+body structure	disease	malady	clinical finding	sickness	anatomical structure	pathological state	illness	growth	disorder	pathology	body region	tumor	organ	malignant tumor
+disease	clinical finding	illness	disorder	malady	sickness	pathological state	peripheral nerve disease	neuropathy	respiratory disorder	clinical diagnosis	metabolic disease	clinical symptom	inflammatory disorder	medical diagnosis
+disease	clinical finding	body structure	anatomical structure	malady	illness	pathological state	sickness	soft tissue lesion	disorder	body region	clinical symptom	procedure	clinical diagnosis	state
+disease	clinical finding	pathological state	illness	procedure	intervention	sickness	malady	therapy	disorder	vascular disease	cardiac finding	clinical evaluation	introduction	clinical symptom
+disease	clinical finding	illness	malady	malignant tumor	malignancy	sickness	neoplasm	cancer	clinical diagnosis	tumor	disorder	secondary tumor	pathological state	medical diagnosis
+illness	mental disorder	mental illness	disease	psychopathology	practice of medicine	clinical finding	psychiatry	sickness	psychotherapy	medical research	disorder	folie	psychological medicine	malady
+disease	clinical finding	illness	body structure	procedure	malady	sickness	soft tissue lesion	anatomical structure	pathological state	injury	disorder	removal	clinical diagnosis	tumor
+disease	clinical finding	malady	illness	disorder	sickness	pathological state	inflammatory disorder	neoplasm	clinical diagnosis	pathology	malignant tumor	respiratory disorder	anatomical pathology	disease of lung
+disease	clinical finding	illness	sickness	disorder	pathological state	malady	disturbance	mental disorder	healthcare professional	medical specialty	psychiatric condition	mental disturbance	practice of medicine	headache
+disease	clinical finding	disorder	pathological state	illness	malady	sickness	metabolic disease	degenerative disorder	inflammatory disorder	respiratory disorder	congenital malformation	clinical symptom	syndrome	genetic abnormality
+disease	clinical finding	sickness	illness	malady	pathological state	disorder	periodontitis	periodontal disease	medical science	therapy	medicine	injury	inflammatory disorder	treatment
+disease	clinical finding	malady	illness	sickness	pathological state	disorder	periodontal disease	body structure	medicine	medical diagnosis	growth	malignant tumor	periodontitis	clinical diagnosis
+clinical finding	disease	pathological state	illness	sickness	disorder	malady	vascular disease	state	clinical symptom	respiratory disorder	therapy	headache	intervention	disturbance
+disease	clinical finding	malady	illness	sickness	pathological state	periodontal disease	periodontitis	disorder	medicine	medical science	body structure	respiratory disorder	inflammatory disorder	medical diagnosis
+disease	pathological state	clinical finding	protein	malady	illness	sickness	macromolecule	disorder	biopolymer	antigen	microorganism	medical diagnosis	metabolic disease	medicine
+disease	clinical finding	illness	malady	disorder	sickness	pathological state	respiratory disorder	inflammatory disorder	liver disease	disease of lung	infectious disease	medical diagnosis	clinical diagnosis	infection
+malady	disease	sickness	pathological state	clinical finding	illness	disorder	nervous disorder	mental disorder	state	hurting	mental illness	medicine	medical research	neurosis
+disease	growth	cancer	secondary tumor	malady	tumor	cancer of prostate	sickness	malignant tumor	clinical finding	prostate cancer	body structure	carcinoma	pathological state	illness
+disease	cancer	malady	secondary tumor	illness	pathological state	clinical finding	antigen	sickness	growth	malignant tumor	tumor-associated antigen	medical diagnosis	tumor	nucleic acid sequence
+body structure	clinical finding	disease	malady	anatomical structure	sickness	illness	body region	pathological state	body part	procedure	disorder	injury	fracture	head part
+disease	clinical finding	illness	malady	respiratory disorder	disorder	pathological state	sickness	inflammatory disorder	disease of lung	congenital malformation	vascular disease	pathology	cardiac finding	clinical diagnosis
+disease	clinical finding	illness	sickness	disorder	pathological state	malady	therapy	mental disorder	headache	inflammatory disorder	neurological disease	neuropathy	clinical symptom	neurological disorder
+disease	clinical finding	illness	sickness	disorder	malady	pathological state	body structure	diagnosis	procedure	clinical diagnosis	clinical symptom	medical diagnosis	injury	neurological lesion
+disease	clinical finding	sickness	pathological state	illness	disorder	malady	intervention	state	body structure	therapy	metabolic disease	clinical symptom	respiratory disorder	injury
+protein	disease	pathological state	macromolecule	antigen	malady	hydrolase	illness	biopolymer	enzyme	clinical finding	sickness	biomolecule	disorder	gene
+disease	clinical finding	illness	pathological state	liver disease	malady	sickness	disorder	inflammatory disorder	metabolic disease	infection	infectious disease	respiratory disorder	medical diagnosis	therapy
+disease	clinical finding	sickness	malady	illness	pathological state	disorder	medicine	body structure	therapy	medical diagnosis	pathology	clinical diagnosis	cancer	medical science
+disease	clinical finding	malignant tumor	tumor	clinical diagnosis	neoplasm	malignancy	metastasis	diagnosis	cancer	illness	adenocarcinoma	lump	pathology	anatomical pathology
+procedure	intervention	body structure	branch of science	practice of medicine	medicine	healthcare professional	therapeutic procedure	anatomical structure	specialisation	clinical finding	sickness	pathological state	medical science	medical specialty
+disease	clinical finding	illness	malady	sickness	disorder	pathological state	inflammatory disorder	respiratory disorder	peripheral nerve disease	pathology	clinical diagnosis	infectious disease	disease of lung	medical diagnosis
+headache	headache disorder	pain	clinical finding	disease	cephalalgia	craniofacial pain	neurological finding	disorder	illness	sickness	pathological state	malady	aching	nervous disorder
+disease	clinical finding	procedure	illness	malady	sickness	introduction	pathological state	medicine	intervention	medical diagnosis	medical science	removal	therapy	medical specialty
+disease	clinical finding	illness	malady	sickness	disorder	respiratory disorder	pathological state	malignant tumor	inflammatory disorder	medical diagnosis	disease of lung	malignancy	cancer	liver disease
+disease	pathological state	malady	protein	disorder	somatic cell	sickness	clinical finding	degenerative disorder	illness	cell	metabolic disease	growth	biopolymer	hydrolase
+disease	clinical finding	malady	pathological state	disorder	sickness	illness	body structure	pathology	congenital malformation	medicine	anatomical structure	clinical diagnosis	growth	vascular disease
+disease	pathological state	clinical finding	illness	sickness	disorder	malady	therapy	neurological disease	injury	clinical symptom	medical research	degenerative disorder	neurological lesion	neuropathy
+biopolymer	macromolecule	protein	biomolecule	drug	polymer	disease	antigen	pathological state	carrier protein	enzyme	food additive	hydrolase	malady	growth
+disease	malady	pathological state	illness	clinical finding	sickness	protein	disorder	macromolecule	growth	malignant tumor	somatic cell	cancer	proliferation	body structure
+disease	clinical finding	malady	disorder	illness	pathological state	familial disease	sickness	congenital malformation	respiratory disorder	metabolic disease	inflammatory disorder	hereditary disease	congenital disease	peripheral nerve disease
+disease	clinical finding	illness	pathological state	sickness	disorder	malady	respiratory disorder	therapy	clinical symptom	vascular disease	inflammatory disorder	intervention	state	medicine
+growth	tumor	body structure	bone	biopolymer	animal tissue	cancer	secondary tumor	os	disease	removal	malignant tumor	procedure	proliferation	anatomical structure
+malady	disease	medicine	pathological state	sickness	medical science	clinical finding	medical specialty	illness	practice of medicine	branch of science	procedure	body structure	intervention	specialism
+disease	clinical finding	clinical diagnosis	malignant tumor	neoplasm	malady	diagnosis	tumor	illness	malignancy	anatomical pathology	pathology	medical diagnosis	sickness	biopsy
+disease	clinical finding	illness	malady	disorder	pathological state	sickness	inflammatory disorder	infectious disease	medical diagnosis	clinical diagnosis	peripheral nerve disease	respiratory disorder	neuropathy	pathology
+disease	clinical finding	malady	pathological state	disorder	illness	sickness	growth	body structure	proliferation	metabolic disease	degenerative disorder	periodontal disease	pathology	periodontitis
+disease	pathological state	malady	clinical finding	illness	sickness	disorder	virus	microorganism	protein	nucleic acid sequence	infectious disease	medical diagnosis	somatic cell	medical research
+disease	clinical finding	neoplasm	malignant tumor	malady	tumor	clinical diagnosis	pathology	illness	malignancy	disorder	sickness	anatomical pathology	proliferation	body structure
+disease	clinical finding	malady	pathological state	inflammatory disorder	illness	disorder	sickness	body structure	respiratory disorder	disease of lung	peripheral nerve disease	neuropathy	injury	metabolic disease
+disease	clinical finding	malady	pathological state	illness	disorder	sickness	inflammatory disorder	pathology	body structure	injury	growth	proliferation	peripheral nerve disease	neuropathy
+clinical finding	disease	illness	sickness	disorder	pathological state	malady	clinical symptom	headache	pain	craniofacial pain	hurting	headache disorder	state	neurological finding
+clinical finding	disease	illness	malady	sickness	pathological state	disorder	inflammatory disorder	medical diagnosis	lump	clinical symptom	clinical diagnosis	body structure	respiratory disorder	diagnosis
+clinical finding	disease	procedure	illness	sickness	soft tissue lesion	removal	malady	clinical diagnosis	disorder	pathological state	medical diagnosis	tumor	diagnosis	respiratory disorder
+disease	clinical finding	illness	sickness	malady	medical specialty	medical science	medicine	pathological state	disorder	practice of medicine	procedure	medical diagnosis	intervention	speciality
+clinical finding	disease	body structure	illness	malady	sickness	pathological state	disorder	periodontal disease	procedure	anatomical structure	defect	practice of medicine	growth	clinical diagnosis
+disease	pathological state	illness	sickness	clinical finding	malady	disorder	metabolic disease	drug	injury	accidental injury	functions	medicine	therapy	body structure
+disease	clinical finding	procedure	malady	sickness	body structure	illness	pathological state	anatomical structure	medicine	disorder	intervention	practice of medicine	medical specialty	vascular disease
+disease	clinical finding	body structure	anatomical structure	malady	illness	body region	pathological state	sickness	procedure	soft tissue lesion	disorder	clinical symptom	injury	neurological lesion
+disease	clinical finding	illness	malady	disorder	sickness	pathological state	body structure	clinical symptom	peripheral nerve disease	neuropathy	clinical diagnosis	pathology	medical diagnosis	inflammatory disorder
+disease	clinical finding	illness	malady	sickness	cancer	malignant tumor	pathological state	disorder	malignancy	medical diagnosis	neoplasm	clinical diagnosis	respiratory disorder	tumor
+disease	clinical finding	pathological state	sickness	illness	malady	disorder	state	clinical symptom	respiratory disorder	injury	metabolic disease	vascular disease	therapy	body structure
+clinical finding	disease	disorder	illness	pathological state	malady	sickness	clinical symptom	disturbance	body structure	neurological finding	neurological lesion	state	neuropathy	neurological disorder
+disease	clinical finding	illness	respiratory disorder	sickness	malady	disorder	pathological state	disease of lung	inflammatory disorder	pneumonia	liver disease	metabolic disease	pneumonitis	medicine
+disease	clinical finding	malady	illness	disorder	liver disease	sickness	pathological state	inflammatory disorder	respiratory disorder	metabolic disease	disease of lung	pathology	degenerative disorder	clinical diagnosis
+disease	clinical finding	illness	disorder	pathological state	malady	sickness	metabolic disease	neurological disorder	degenerative disorder	clinical symptom	neurological disease	psychiatric condition	mental disorder	therapy
+disease	pathological state	sickness	clinical finding	malady	illness	disorder	body structure	injury	functions	biopolymer	protein	medicine	state	anatomical structure
+sickness	disease	pathological state	clinical finding	disorder	illness	malady	headache	injury	state	craniofacial pain	pain	disturbance	painful sensation	ache
+clinical finding	disease	respiratory disorder	illness	pathological state	vascular disease	malady	disorder	sickness	cardiac finding	disease of lung	soft tissue lesion	state	embolism	clinical symptom
+disease	clinical finding	illness	disorder	pathological state	malady	sickness	neurological disease	mental disorder	neurological disorder	dementia	neuropathy	psychiatry	medical research	mental illness
+disease	clinical finding	malady	illness	disorder	pathological state	sickness	pathology	inflammatory disorder	respiratory disorder	metabolic disease	clinical diagnosis	peripheral nerve disease	medical diagnosis	anatomical pathology
+disease	clinical finding	illness	respiratory disorder	inflammatory disorder	disease of lung	malady	infection	infectious disease	sickness	pneumonia	pneumonitis	pathological state	disorder	lung consolidation
+procedure	clinical finding	disease	pathological state	intervention	sickness	illness	body structure	anatomical structure	state	malady	introduction	injury	fluid	body region
+disease	clinical finding	respiratory disorder	illness	disease of lung	sickness	pneumonia	malady	pathological state	disorder	pneumonitis	inflammatory disorder	pulmonary disease	interstitial lung disease	vascular disease
+disease	illness	clinical finding	sickness	therapy	disorder	mental illness	mental disorder	medicine	malady	pathological state	practice of medicine	medical science	intervention	psychiatry
+disease	illness	clinical finding	pathological state	therapy	sickness	drug	disorder	treatment	malady	intervention	therapeutic procedure	mental disorder	pharmaceutical drug	psychotherapeutic agent
+clinical finding	disease	disorder	illness	malady	sickness	neuropathy	pathological state	peripheral nerve disease	body structure	clinical symptom	neurological lesion	inflammatory disorder	clinical diagnosis	neurological finding
+clinical finding	disease	malady	illness	sickness	pathological state	disorder	clinical symptom	state	body structure	hurting	disturbance	attention	intervention	therapy
+disease	clinical finding	illness	sickness	malady	disorder	pathological state	inflammatory disorder	metabolic disease	medical diagnosis	respiratory disorder	medicine	medical research	body structure	medical science
+mental disorder	illness	mental illness	disease	folie	disorder	disturbance	clinical finding	psychiatric condition	mental disturbance	sickness	psychological disorder	psychopathology	psychosis	pathological state
+disease	clinical finding	malady	illness	sickness	body structure	medical science	practice of medicine	pathological state	disorder	medical specialty	periodontal disease	medicine	specialty	dentistry
+disease	clinical finding	illness	malady	sickness	disorder	pathological state	inflammatory disorder	respiratory disorder	therapy	periodontitis	infection	periodontal disease	infectious disease	mental disorder
+clinical finding	disease	disorder	pathological state	illness	malady	sickness	clinical symptom	body structure	inflammatory disorder	respiratory disorder	neuropathy	metabolic disease	clinical diagnosis	degenerative disorder
+disease	pathological state	clinical finding	malady	sickness	illness	disorder	metabolic disease	body structure	proliferation	growth	degenerative disorder	protein	pathology	clinical diagnosis
+tumor	disease	body structure	secondary tumor	malignant tumor	clinical finding	metastasis	cancer	neoplasm	metastatic tumor	procedure	removal	pathology	clinical diagnosis	anatomical structure
+disease	clinical finding	pathological state	malady	illness	procedure	sickness	body structure	body fluid	macromolecule	disorder	introduction	functions	biopolymer	anatomical structure
+disease	clinical finding	illness	respiratory disorder	malady	disorder	sickness	inflammatory disorder	disease of lung	pathological state	infectious disease	medical diagnosis	clinical diagnosis	soft tissue lesion	pneumonitis
+disease	clinical finding	medicine	medical specialty	medical science	illness	surgical specialty	speciality	specialty	sickness	malady	practice of medicine	procedure	anatomical pathology	cancer
+disease	clinical finding	illness	pathological state	sickness	malady	disorder	liver disease	metabolic disease	inflammatory disorder	infectious disease	respiratory disorder	periodontitis	microorganism	medical diagnosis
+clinical finding	disease	malady	sickness	disorder	illness	pathological state	body structure	headache	neurological lesion	clinical symptom	pain	craniofacial pain	neurological finding	headache disorder
+disease	illness	clinical finding	sickness	disorder	pathological state	mental disorder	malady	therapy	mental illness	psychiatric condition	treatment	folie	psychotherapy	psychological disorder
+disease	clinical finding	malady	illness	neoplasm	sickness	malignant tumor	malignancy	disorder	inflammatory disorder	respiratory disorder	cancer	clinical diagnosis	anatomical pathology	pathology
+clinical finding	illness	disease	disorder	disturbance	pathological state	mental disorder	sickness	mental disturbance	malady	psychiatric condition	mental illness	nervous disorder	psychological disorder	hurting
+body structure	disease	anatomical structure	clinical finding	malady	pathological state	organ	growth	bone	sickness	conjunctive tissue	illness	connective tissue	body region	procedure
+disease	clinical finding	illness	body structure	malady	sickness	disorder	pathological state	medical diagnosis	clinical diagnosis	pathology	practice of medicine	medical specialty	anatomical structure	tumor
+illness	disease	clinical finding	disorder	sickness	mental disorder	pathological state	disturbance	malady	mental disturbance	mental illness	psychiatric condition	psychological disorder	therapy	neurological disorder
+clinical finding	disease	sickness	illness	malady	pathological state	disorder	body structure	clinical symptom	pain	state	neurological lesion	nervous disorder	neuropathy	sensation
+disease	clinical finding	illness	sickness	malady	respiratory disorder	disorder	pathological state	inflammatory disorder	disease of lung	medicine	medical science	medical diagnosis	therapy	healthcare professional
+clinical finding	disease	malady	illness	disorder	pathological state	sickness	neuropathy	peripheral nerve disease	clinical symptom	body structure	neurological finding	neurological lesion	pain	sensation
+disease	cancer	tumor	malignant tumor	clinical finding	metastasis	adenocarcinoma	carcinoma	secondary tumor	neoplasm	pathology	sickness	malignancy	pelvic mass	malady
+disease	clinical finding	illness	sickness	malady	disorder	pathological state	mental disorder	intervention	healthcare professional	therapy	worker	mental illness	medical science	respiratory disorder
+disease	pathological state	clinical finding	malady	sickness	illness	disorder	body structure	metabolic disease	protein	injury	inflammatory disorder	biopolymer	growth	proliferation
+disease	clinical finding	illness	sickness	malady	pathological state	disorder	liver disease	metabolic disease	respiratory disorder	medical diagnosis	intervention	procedure	medicine	cancer
+disease	clinical finding	illness	disorder	pathological state	sickness	malady	respiratory disorder	inflammatory disorder	metabolic disease	clinical symptom	injury	state	neurological lesion	neuropathy
+body structure	clinical finding	disease	sickness	anatomical structure	malady	procedure	illness	pathological state	practice of medicine	body region	disorder	medical specialty	body part	medicine
+sickness	pathological state	disease	illness	malady	clinical finding	disorder	body structure	craniofacial pain	neurosis	mental disorder	therapy	attention	specialisation	nervous disorder
+disease	clinical finding	illness	malady	inflammatory disorder	disorder	respiratory disorder	sickness	pathological state	disease of lung	infectious disease	clinical diagnosis	neoplasm	malignancy	medical diagnosis
+clinical finding	disease	illness	pathological state	disorder	sickness	malady	clinical symptom	metabolic disease	respiratory disorder	disturbance	inflammatory disorder	state	nervous disorder	mental disturbance
+medicine	medical specialty	medical science	disease	healthcare professional	clinical finding	specialty	practice of medicine	speciality	illness	physician	worker	health care	sickness	medical research
+clinical finding	disease	malady	illness	disorder	sickness	pathological state	peripheral nerve disease	neuropathy	body structure	neurological lesion	clinical diagnosis	clinical symptom	diagnosis	pathology
+disease	clinical finding	malady	illness	body structure	pathological state	disorder	sickness	soft tissue lesion	anatomical structure	clinical symptom	lump	inflammatory disorder	clinical diagnosis	diagnosis
+clinical finding	disease	procedure	malady	body structure	illness	sickness	pathological state	disorder	practice of medicine	medical science	anatomical structure	medicine	medical specialty	clinical evaluation
+disease	clinical finding	illness	malignancy	malignant tumor	malady	disorder	clinical diagnosis	tumor	inflammatory disorder	sickness	pathology	respiratory disorder	disease of lung	adenocarcinoma
+clinical finding	disease	illness	sickness	respiratory disorder	pathological state	disorder	malady	state	disease of lung	vascular disease	procedure	intervention	metabolic disease	clinical symptom
+disease	illness	clinical finding	therapy	sickness	intervention	pathological state	treatment	healthcare professional	disorder	malady	health care	medicine	medical specialty	therapeutic procedure
+procedure	clinical finding	disease	tube	perfusion pump	introduction	intervention	clinical evaluation	vas	fluid	anatomical structure	oxygenator	removal	sickness	blood
+disease	clinical finding	pathological state	illness	sickness	malady	disorder	respiratory disorder	body fluid	metabolic disease	drug	state	liver disease	vascular disease	procedure
+disease	clinical finding	disorder	malady	pathological state	illness	neuropathy	sickness	peripheral nerve disease	degenerative disorder	inflammatory disorder	polyneuropathy	metabolic disease	body structure	nervous disorder
+disease	clinical finding	illness	sickness	pathological state	vascular disease	respiratory disorder	malady	embolism	disorder	procedure	state	injury	cardiac finding	thrombosis
+clinical finding	disease	body structure	sickness	malady	anatomical structure	illness	pathological state	body region	disorder	procedure	neurological lesion	injury	tumor	diagnosis
+disease	clinical finding	illness	disorder	sickness	malady	pathological state	mental disorder	psychiatric condition	mental illness	psychological disorder	mental disturbance	disturbance	folie	medical diagnosis
+disease	sickness	clinical finding	pathological state	opiate	illness	drug	disorder	therapy	malady	withdrawal	treatment	drug withdrawal	intervention	pharmaceutical drug
+clinical finding	disease	body structure	malady	anatomical structure	sickness	illness	pathological state	injury	disorder	body region	neurological lesion	trauma	clinical symptom	procedure
+disease	clinical finding	pathological state	illness	sickness	therapy	malady	disorder	drug	treatment	medicine	therapeutic procedure	intervention	medical science	clinical symptom
+disease	clinical finding	vascular disease	respiratory disorder	illness	pathological state	sickness	malady	disorder	cardiac finding	pulmonary hypertension	disease of lung	embolism	inflammatory disorder	thromboembolic disease
+disease	clinical finding	illness	pathological state	sickness	malady	procedure	therapy	disorder	intervention	medicine	medical science	introduction	speciality	liver disease
+disease	drug	clinical finding	pathological state	fluid	procedure	sickness	body fluid	illness	blood	malady	intervention	state	therapy	introduction
+pathological state	disease	malady	sickness	clinical finding	protein	functions	disorder	illness	macromolecule	metabolic disease	enzyme	drug	zinc	biopolymer
+disease	pathological state	malady	clinical finding	protein	illness	biopolymer	macromolecule	disorder	periodontal disease	sickness	periodontitis	biomolecule	enzyme	antigen
+disease	clinical finding	neoplasm	tumor	body structure	malignant tumor	hamartoma	lump	soft tissue mass	malady	growth	pathology	diagnosis	proliferation	clinical diagnosis
+body structure	clinical finding	disease	anatomical structure	malady	body region	sickness	illness	pathological state	disorder	procedure	clinical symptom	soft tissue lesion	neurological lesion	injury
+disease	body structure	growth	malady	clinical finding	pathological state	bone	sickness	proliferation	disorder	organ	illness	anatomical structure	biopolymer	somatic cell
+disease	clinical finding	pathological state	malady	illness	sickness	disorder	body fluid	procedure	body structure	macromolecule	protein	liver disease	medical diagnosis	blood
+body structure	disease	malady	clinical finding	anatomical structure	sickness	injury	pathological state	illness	growth	trauma	conjunctive tissue	organ	disorder	fracture
+disease	illness	clinical finding	mental disorder	sickness	disorder	mental illness	pathological state	malady	medical research	healthcare professional	medical aid	psychiatric condition	medical science	disturbance
+disease	clinical finding	congenital malformation	malady	neoplasm	illness	pathology	sickness	disorder	soft tissue lesion	body structure	malignant tumor	clinical diagnosis	tumor	pathological state
+disease	clinical finding	pathological state	malady	sickness	illness	drug	disorder	metabolic disease	liver disease	body fluid	body structure	respiratory disorder	medicament	vascular disease
+disease	pathological state	protein	body structure	clinical finding	malady	disorder	sickness	cell	illness	growth	somatic cell	proliferation	pathology	anatomical structure
+clinical finding	disease	pathological state	illness	disorder	sickness	malady	clinical symptom	nervous disorder	headache	state	neurological lesion	body structure	clinical diagnosis	medicine
+clinical finding	disease	malady	soft tissue lesion	illness	sickness	disorder	procedure	pathological state	body structure	inflammatory disorder	respiratory disorder	congenital malformation	lump	neoplasm
+disease	clinical finding	malady	pathological state	sickness	illness	body structure	disorder	medicine	procedure	medical science	practice of medicine	periodontal disease	therapy	therapeutic procedure
+drug	pharmaceutical drug	pathological state	disease	medicament	sickness	illness	disorder	therapy	clinical finding	malady	amine	opiate	alcohol	psychotherapeutic agent
+disease	pathological state	sickness	malady	illness	medicine	clinical finding	macromolecule	protein	medical research	biopolymer	medical science	disorder	body fluid	practice of medicine
+disease	clinical finding	malady	illness	sickness	pathological state	disorder	pathology	malignant tumor	neoplasm	clinical diagnosis	anatomical pathology	medical diagnosis	tumor	inflammatory disorder
+disease	clinical finding	illness	malady	inflammatory disorder	respiratory disorder	disorder	sickness	pathological state	disease of lung	liver disease	infectious disease	peripheral nerve disease	infection	pathology
+disease	pathological state	clinical finding	sickness	illness	malady	disorder	drug	therapy	state	clinical symptom	nervous disorder	functions	pharmaceutical drug	metabolic disease
+disease	clinical finding	illness	malady	inflammatory disorder	pathological state	sickness	disorder	respiratory disorder	disease of lung	infectious disease	clinical diagnosis	medical diagnosis	liver disease	malignant tumor
+disease	clinical finding	neuropathy	disorder	malady	peripheral nerve disease	illness	sickness	pathological state	inflammatory disorder	neurological lesion	polyneuropathy	degenerative disorder	body structure	neurological disease
+disease	clinical finding	disorder	malady	illness	sickness	pathological state	body structure	pathology	neoplasm	clinical diagnosis	degenerative disorder	clinical symptom	growth	congenital abnormality
+disease	clinical finding	illness	pathological state	sickness	disorder	malady	clinical symptom	disturbance	state	therapy	nervous disorder	neurological disease	mental disturbance	mental disorder
+disease	clinical finding	disorder	illness	pathological state	malady	sickness	neuropathy	peripheral nerve disease	degenerative disorder	clinical symptom	neurological disease	clinical diagnosis	neurological lesion	neurological disorder
+disease	clinical finding	illness	pathological state	sickness	malady	disorder	therapy	intervention	therapeutic procedure	medicine	treatment	clinical symptom	practice of medicine	state
+disease	clinical finding	congenital malformation	illness	malady	cardiac finding	vascular disease	sickness	procedure	body structure	disorder	pathological state	respiratory disorder	soft tissue lesion	embolism
+disease	clinical finding	vascular disease	cardiac finding	illness	malady	pathological state	sickness	congenital malformation	procedure	embolism	disorder	respiratory disorder	cardiopathy	soft tissue lesion
+pathological state	disease	sickness	clinical finding	illness	intervention	malady	disorder	state	therapy	functions	attention	function	injury	medical aid
+body structure	disease	protein	pathological state	malady	anatomical structure	growth	cell	somatic cell	clinical finding	sickness	disorder	macromolecule	biopolymer	illness
+disease	clinical finding	illness	disorder	pathological state	disturbance	sickness	malady	mental disorder	mental disturbance	folie	psychiatric condition	nervous disorder	clinical symptom	mental illness
+disease	clinical finding	sickness	malady	illness	disorder	pathological state	headache	headache disorder	nervous disorder	craniofacial pain	mental disorder	pain	sentience	clinical symptom
+disease	clinical finding	drug	illness	therapy	pathological state	sickness	intervention	procedure	introduction	malady	treatment	disorder	healthcare professional	therapeutic procedure
+body fluid	pathological state	biopolymer	macromolecule	biomolecule	biofluid	disease	protein	fluid	drug	sugar	malady	sickness	blood	clinical finding
+mental illness	illness	disease	psychiatric condition	disorder	clinical finding	sickness	psychopathology	health care	mental disturbance	psychiatry	psychotherapy	psychological disorder	medical care	medical aid
+disease	clinical finding	malady	illness	disorder	sickness	periodontal disease	pathological state	periodontitis	body structure	inflammatory disorder	pathology	neoplasm	respiratory disorder	congenital malformation
+disease	clinical finding	pathological state	illness	disorder	malady	metabolic disease	sickness	neuropathy	peripheral nerve disease	degenerative disorder	inflammatory disorder	liver disease	respiratory disorder	diabetes
+disease	clinical finding	illness	sickness	malady	disorder	pathological state	clinical diagnosis	medical diagnosis	respiratory disorder	medicine	clinical symptom	practice of medicine	diagnosis	medical science
+disease	clinical finding	procedure	vascular disease	body structure	anatomical structure	malady	illness	cardiac finding	sickness	pathological state	congenital malformation	soft tissue lesion	embolism	disorder
+practice of medicine	medicine	specialism	medical science	medical specialty	malady	research	specialty	medical research	speciality	disease	specialization	specialisation	pathological state	career
+disease	clinical finding	neoplasm	malady	disorder	malignant tumor	illness	pathology	anatomical pathology	clinical diagnosis	tumor	sickness	malignancy	hamartoma	pathological state
+disease	illness	clinical finding	mental disorder	disorder	pathological state	sickness	healthcare professional	mental illness	malady	therapy	mental disturbance	worker	medical care	medical practitioner
+disease	clinical finding	malady	pathological state	sickness	illness	disorder	body structure	medicine	pathology	medical research	clinical symptom	medical diagnosis	medical science	clinical diagnosis
+disease	procedure	clinical finding	body fluid	blood	pathological state	illness	introduction	fluid	sickness	drug	oxygenator	intervention	malady	humour
+disease	clinical finding	body structure	malady	disorder	illness	sickness	pathological state	anatomical structure	neurological lesion	clinical symptom	injury	diagnosis	clinical diagnosis	state
+disease	illness	medicine	clinical finding	medical science	sickness	practice of medicine	medical specialty	healthcare professional	disorder	therapy	health care	malady	specialism	intervention
+clinical finding	disease	illness	pathological state	disorder	sickness	malady	clinical symptom	respiratory disorder	inflammatory disorder	disturbance	mental disorder	nervous disorder	headache	therapy
+disease	clinical finding	illness	disorder	pathological state	malady	sickness	neurological disorder	disturbance	mental disorder	neurological disease	clinical symptom	neurological finding	neurological lesion	body structure
+disease	clinical finding	illness	sickness	pathological state	malady	disorder	therapy	medical science	mental disorder	medicine	therapeutic procedure	treatment	medical research	practice of medicine
+disease	clinical finding	malady	sickness	malignant tumor	pathological state	secondary tumor	tumor	cancer	illness	growth	proliferation	body structure	disorder	pathology
+disease	clinical finding	procedure	pathological state	malady	illness	body fluid	sickness	introduction	blood	vascular disease	respiratory disorder	fluid	disorder	drug
+disease	clinical finding	malady	illness	pathological state	sickness	disorder	medical science	medicine	practice of medicine	medical research	mental disorder	therapy	periodontitis	periodontal disease
+disease	malady	clinical finding	pathological state	illness	sickness	disorder	pathology	body structure	medical research	medicine	growth	medical diagnosis	anatomical pathology	clinical diagnosis
+disease	pathological state	malady	clinical finding	sickness	metabolic disease	illness	disorder	body fluid	adiposity	functions	drug	obesity	fatness	carbohydrate
+disease	clinical finding	illness	pathological state	sickness	malady	disorder	respiratory disorder	liver disease	medical diagnosis	inflammatory disorder	clinical diagnosis	disease of lung	cancer	malignancy
+disease	clinical finding	respiratory disorder	illness	disease of lung	sickness	pneumonia	malady	pneumonitis	infection	disorder	infectious disease	medical diagnosis	clinical diagnosis	pathological state
+clinical finding	disease	respiratory disorder	disease of lung	illness	sickness	malady	disorder	pathological state	pneumonia	pneumonitis	vascular disease	pulmonary disease	inflammatory disorder	soft tissue lesion
+disease	clinical finding	illness	sickness	pathological state	respiratory disorder	malady	disorder	inflammatory disorder	disease of lung	metabolic disease	infection	pneumonia	pneumonitis	liver disease
+pathological state	drug	disease	sickness	malady	macromolecule	functions	clinical finding	body fluid	illness	metabolism	medicament	food additive	saccharide	fluid
+disease	clinical finding	disorder	illness	malady	pathological state	sickness	body structure	degenerative disorder	congenital malformation	peripheral nerve disease	congenital disorder	neuropathy	hereditary disease	pathology
+body structure	disease	clinical finding	sickness	pathological state	malady	anatomical structure	disorder	illness	neurological lesion	specialisation	practice of medicine	craniofacial pain	medicine	medical science
+disease	malady	pathological state	clinical finding	disorder	illness	sickness	metabolic disease	degenerative disorder	body structure	clinical diagnosis	medical diagnosis	pathology	somatic cell	hereditary disease
+disease	clinical finding	pathological state	illness	sickness	intervention	therapy	drug	malady	disorder	procedure	pharmaceutical drug	therapeutic procedure	state	clinical symptom
+disease	clinical finding	disorder	malady	illness	congenital malformation	neoplasm	congenital abnormality	congenital disorder	pathological state	sickness	congenital defect	congenital anomaly	clinical diagnosis	body structure
+disease	clinical finding	disorder	illness	malady	peripheral nerve disease	pathological state	neuropathy	degenerative disorder	sickness	hereditary disease	inflammatory disorder	metabolic disease	familial disease	genetic disease
+disease	clinical finding	pathological state	malady	sickness	illness	disorder	clinical symptom	state	therapy	injury	nervous disorder	pain	inflammatory disorder	headache
+disease	clinical finding	malady	body structure	illness	sickness	procedure	medical science	practice of medicine	pathological state	medical specialty	disorder	medicine	dentistry	specialty
+disease	clinical finding	soft tissue lesion	malady	illness	respiratory disorder	disease of lung	sickness	disorder	pathological state	clinical diagnosis	body structure	lump	inflammatory disorder	diagnosis
+disease	clinical finding	illness	procedure	malady	sickness	pathological state	disorder	soft tissue lesion	respiratory disorder	body structure	clinical diagnosis	inflammatory disorder	removal	clinical symptom
+disease	clinical finding	illness	sickness	malady	disorder	pathological state	pathology	clinical diagnosis	medical diagnosis	body structure	clinical symptom	diagnosis	medicine	injury
+therapy	illness	treatment	pathological state	disease	mental disorder	sickness	drug	psychotherapeutic agent	clinical finding	disorder	mental illness	psychotropic agent	anti-psychotic agent	psychiatric condition
+disease	clinical finding	pathological state	malady	illness	sickness	disorder	inflammatory disorder	respiratory disorder	pathology	clinical diagnosis	body structure	growth	metabolic disease	proliferation
+disease	malady	protein	pathological state	clinical finding	sickness	growth	illness	disorder	body structure	biopolymer	somatic cell	macromolecule	proliferation	pathology
+disease	illness	pathological state	malady	sickness	disorder	clinical finding	mental disorder	mental illness	drug	metabolic disease	medical research	medicine	psychiatric condition	medical science
+disease	clinical finding	malady	illness	pathological state	disorder	sickness	respiratory disorder	metabolic disease	inflammatory disorder	vascular disease	cardiopathy	cardiomyopathy	cardiac finding	disease of lung
+disease	pathological state	clinical finding	malady	disorder	illness	sickness	metabolic disease	drug	diabetes	body structure	protein	liver disease	polyol	body fluid
+clinical finding	disease	pathological state	illness	malady	disorder	sickness	inflammatory disorder	respiratory disorder	disease of lung	body structure	soft tissue lesion	clinical symptom	state	metabolic disease
+body structure	disease	pathological state	sickness	disorder	malady	neuron	clinical finding	anatomical structure	illness	growth	cell	somatic cell	protein	body region
+disease	pathological state	sickness	clinical finding	illness	malady	disorder	metabolic disease	injury	inflammatory disorder	degenerative disorder	body structure	respiratory disorder	damage	state
+disease	malady	protein	pathological state	disorder	somatic cell	clinical finding	illness	gene	growth	sickness	proliferation	degenerative disorder	metabolic disease	hereditary disease
+disease	clinical finding	vascular disease	cardiac finding	respiratory disorder	illness	embolism	pathological state	malady	pulmonary hypertension	sickness	cardiopathy	disorder	disease of lung	soft tissue lesion
+disease	clinical finding	malady	sickness	illness	pathological state	disorder	inflammatory disorder	metabolic disease	respiratory disorder	medicine	medical diagnosis	liver disease	disease of lung	infectious disease
+clinical finding	disease	illness	disorder	sickness	malady	pathological state	respiratory disorder	clinical symptom	injury	state	metabolic disease	neurological lesion	inflammatory disorder	disease of lung
+disease	clinical finding	illness	sickness	disorder	malady	pathological state	medical research	neurological disease	practice of medicine	neurological lesion	medicine	specialisation	attention	body structure
+disease	clinical finding	sickness	pathological state	illness	disorder	malady	mental disorder	therapy	drug	mental illness	state	metabolic disease	respiratory disorder	abuse
+clinical finding	disease	illness	malady	sickness	disorder	respiratory disorder	pathological state	disease of lung	inflammatory disorder	body structure	clinical symptom	soft tissue lesion	medical diagnosis	state
+disease	disorder	clinical finding	illness	malady	sickness	pathological state	mental disorder	body structure	medicine	medical research	medical science	practice of medicine	attention	psychiatry
+disease	clinical finding	periodontal disease	malady	periodontitis	pathological state	illness	sickness	disorder	medicine	medical science	medical diagnosis	medical research	body structure	practice of medicine
+body structure	disease	bone	clinical finding	malady	anatomical structure	sickness	illness	growth	injury	organ	pathological state	body region	os	disorder
+disease	clinical finding	neoplasm	body structure	hamartoma	malady	disorder	illness	lump	congenital malformation	sickness	pathology	clinical diagnosis	tumor	malignant tumor
+illness	disease	clinical finding	mental disorder	disorder	malady	sickness	mental illness	folie	pathological state	practice of medicine	psychiatric condition	medical specialty	medical science	mental disturbance
+cancer	disease	malignant tumor	carcinoma	adenocarcinoma	malignancy	tumor	neoplasm	secondary tumor	malady	cancer of prostate	pathology	pelvic mass	anatomical pathology	metastasis
+disease	clinical finding	illness	sickness	malady	pathological state	disorder	respiratory disorder	metabolic disease	inflammatory disorder	disease of lung	liver disease	clinical diagnosis	medical diagnosis	pathology
+disease	clinical finding	pathological state	illness	malady	sickness	microorganism	inflammatory disorder	infectious disease	disorder	biological agent	respiratory disorder	infection	antigen	liver disease
+disease	clinical finding	illness	pathological state	sickness	disorder	malady	therapy	headache	treatment	clinical symptom	pain	craniofacial pain	hurting	disturbance
+disease	clinical finding	illness	pathological state	sickness	malady	disorder	vascular disease	respiratory disorder	clinical symptom	state	procedure	cardiac finding	intervention	embolism
+disease	cancer	clinical finding	carcinoma	malady	illness	malignancy	tumor	sickness	malignant tumor	pelvic mass	metastasis	adenocarcinoma	secondary tumor	pathology
+disease	clinical finding	body structure	malady	sickness	illness	disorder	pathological state	pathology	tumor	diagnosis	clinical diagnosis	neoplasm	anatomical pathology	anatomical structure
+disease	clinical finding	illness	malady	disorder	sickness	inflammatory disorder	respiratory disorder	pathological state	disease of lung	infectious disease	congenital malformation	metabolic disease	clinical diagnosis	soft tissue lesion
+disease	clinical finding	illness	sickness	medical specialty	healthcare professional	disorder	practice of medicine	malady	care	health care	pathological state	medicine	medical science	medical research
+body structure	anatomical structure	disease	pathological state	malady	clinical finding	procedure	sickness	illness	medicine	body region	practice of medicine	growth	disorder	medical research
+clinical finding	disease	illness	disorder	malady	sickness	pathological state	respiratory disorder	vascular disease	clinical symptom	inflammatory disorder	state	clinical diagnosis	medical diagnosis	metabolic disease
+disease	tumor	clinical finding	cancer	secondary tumor	malignant tumor	illness	pathology	sickness	malady	neoplasm	metastasis	malignancy	medical diagnosis	anatomical pathology
+clinical finding	disease	illness	sickness	pathological state	respiratory disorder	malady	procedure	inflammatory disorder	disorder	introduction	disease of lung	soft tissue lesion	therapy	intervention
+disease	clinical finding	illness	inflammatory disorder	respiratory disorder	disease of lung	malady	disorder	pathological state	sickness	soft tissue lesion	clinical diagnosis	peripheral nerve disease	neuropathy	clinical symptom
+disease	clinical finding	malignant tumor	malady	illness	clinical diagnosis	pathological state	malignancy	neoplasm	pathology	tumor	medical diagnosis	inflammatory disorder	disorder	sickness
+clinical finding	disease	illness	healthcare professional	intervention	sickness	procedure	worker	medical specialty	malady	practice of medicine	nurse	disorder	speciality	medical aid
+disease	clinical finding	respiratory disorder	illness	disease of lung	inflammatory disorder	pathological state	disorder	pneumonitis	malady	infectious disease	sickness	pneumonia	infection	metabolic disease
+disease	pathological state	protein	malady	illness	clinical finding	sickness	biopolymer	disorder	macromolecule	body structure	growth	somatic cell	gene	nucleic acid sequence
+disease	illness	sickness	clinical finding	malady	disorder	mental disorder	medical specialty	mental illness	pathological state	practice of medicine	medical research	specialism	medicine	medical science
+disease	pathological state	clinical finding	illness	malady	sickness	cancer	disorder	growth	clinical diagnosis	medical diagnosis	medical research	medicine	tumor	secondary tumor
+disease	malady	clinical finding	illness	pathological state	disorder	body structure	sickness	proliferation	neoplasm	malignant tumor	growth	clinical diagnosis	pathology	protein
+disease	clinical finding	disorder	illness	malady	sickness	pathological state	body structure	neuropathy	peripheral nerve disease	neurological lesion	clinical diagnosis	neurological disease	pathology	clinical symptom
+disease	clinical finding	malady	pathological state	sickness	protein	macromolecule	body structure	biopolymer	animal tissue	illness	injury	zinc	disorder	functions
+disease	clinical finding	illness	medical specialty	sickness	malady	practice of medicine	healthcare professional	medicine	medical science	specialty	speciality	worker	procedure	physician
+illness	disease	clinical finding	sickness	disorder	mental disorder	mental illness	malady	pathological state	health care	psychiatric condition	psychopathology	attention	medical aid	psychological disorder
+disease	clinical finding	illness	disorder	sickness	malady	neurological disorder	pathological state	neurological disease	mental disorder	nervous disorder	neurological lesion	psychiatric condition	disturbance	mental illness
+disease	pathological state	clinical finding	malady	protein	illness	disorder	macromolecule	sickness	biopolymer	metabolic disease	enzyme	inflammatory disorder	biomolecule	hydrolase
+disease	clinical finding	body structure	malady	illness	sickness	disorder	pathological state	medical science	medicine	pathology	practice of medicine	growth	anatomical structure	medical specialty
+disease	malady	illness	pathological state	sickness	disorder	clinical finding	mental disorder	psychiatric condition	medical diagnosis	mental illness	body structure	folie	medical research	practice of medicine
+disease	body structure	malady	pathological state	clinical finding	anatomical structure	sickness	growth	disorder	illness	protein	somatic cell	organ	macromolecule	biopolymer
+disease	clinical finding	pathological state	sickness	illness	cancer	malady	malignant tumor	tumor	secondary tumor	disorder	malignancy	metastasis	medical diagnosis	carcinoma
+disease	pathological state	clinical finding	illness	malady	disorder	sickness	metabolic disease	drug	inflammatory disorder	respiratory disorder	liver disease	state	clinical symptom	therapy
+clinical finding	medical specialty	disease	medicine	illness	practice of medicine	medical science	healthcare professional	sickness	malady	speciality	worker	specialty	career	medical research
+disease	clinical finding	malady	pathological state	sickness	illness	macromolecule	biopolymer	disorder	body structure	protein	anatomical structure	medicine	injury	metabolic disease
+disease	procedure	clinical finding	body structure	malady	illness	sickness	removal	medical science	anatomical structure	introduction	pathological state	medicine	implant	grafting procedure
+disease	malady	pathological state	clinical finding	body structure	disorder	illness	protein	sickness	degenerative disorder	somatic cell	cell	growth	pathology	proliferation
+clinical finding	disease	malady	illness	medicine	medical science	sickness	disorder	pathological state	medical specialty	dentistry	dental medicine	practice of medicine	clinical diagnosis	body structure
+clinical finding	disease	malady	body structure	illness	sickness	disorder	pathological state	procedure	practice of medicine	defect	medical science	medical specialty	anatomical structure	medicine
+body structure	disease	anatomical structure	clinical finding	malady	procedure	bone	sickness	fracture	body region	conjunctive tissue	organ	growth	connective tissue	illness
+disease	clinical finding	malady	pathological state	illness	sickness	growth	proliferation	disorder	malignant tumor	inflammatory disorder	secondary tumor	pathology	cancer	body structure
+drug	pathological state	disease	functions	medicament	biopolymer	sickness	pharmaceutical drug	malady	amine	macromolecule	clinical finding	illness	protein	metabolism
+procedure	disease	clinical finding	malady	body structure	medicine	sickness	medical science	illness	dental medicine	dentistry	removal	practice of medicine	introduction	anatomical structure
+body structure	procedure	clinical finding	intervention	disease	practice of medicine	sickness	anatomical structure	medical specialty	illness	pathological state	healthcare professional	malady	therapy	body region
+disease	illness	clinical finding	sickness	pathological state	disorder	therapy	malady	craniofacial pain	treatment	headache	mental disorder	psychiatric condition	mental illness	medicine
+disease	clinical finding	malady	illness	pathological state	sickness	disorder	respiratory disorder	inflammatory disorder	medical diagnosis	metabolic disease	clinical diagnosis	pathology	liver disease	peripheral nerve disease
+cancer	medicine	disease	surgical specialty	medical science	anatomical pathology	pathology	clinical finding	tumor	medical specialty	abdominal mass	pelvic mass	carcinoma	malignancy	malady
+disease	clinical finding	malady	illness	sickness	disorder	pathological state	practice of medicine	medical specialty	medical research	medicine	specialism	medical science	folie	body structure
+disease	clinical finding	sickness	illness	pathological state	malady	disorder	headache	craniofacial pain	pain	therapy	headache disorder	clinical symptom	cephalalgia	ache
+disease	clinical finding	illness	sickness	malady	pathological state	disorder	procedure	medicine	clinical diagnosis	body structure	practice of medicine	medical diagnosis	therapy	pathology
+disease	illness	clinical finding	disorder	pathological state	sickness	mental disorder	malady	therapy	mental illness	disturbance	psychiatric condition	treatment	mental disturbance	psychological disorder
+disease	malady	body structure	disorder	clinical finding	growth	pathological state	illness	sickness	somatic cell	clinical diagnosis	pathology	proliferation	anatomical structure	hereditary disease
+clinical finding	illness	sickness	disorder	disease	malady	pathological state	disturbance	mental disorder	hurting	mental disturbance	psychiatric condition	psychological disorder	nervous disorder	neurosis
+disease	clinical finding	pathological state	illness	sickness	malady	disorder	respiratory disorder	vascular disease	liver disease	metabolic disease	medicine	medical diagnosis	inflammatory disorder	clinical diagnosis
+disease	clinical finding	inflammatory disorder	illness	respiratory disorder	pathological state	malady	disorder	disease of lung	sickness	liver disease	metabolic disease	infectious disease	pneumonitis	clinical diagnosis
+disease	clinical finding	illness	malady	sickness	pathological state	disorder	inflammatory disorder	respiratory disorder	liver disease	infectious disease	medicine	disease of lung	clinical diagnosis	medical diagnosis
+disease	clinical finding	disorder	malady	illness	pathological state	neuropathy	sickness	peripheral nerve disease	degenerative disorder	neurological disorder	nervous disorder	neurological disease	clinical symptom	metabolic disease
+disease	clinical finding	malady	illness	pathological state	disorder	sickness	inflammatory disorder	neuropathy	peripheral nerve disease	neurological lesion	respiratory disorder	body structure	clinical symptom	pathology
+body structure	disease	clinical finding	malady	sickness	pathological state	illness	disorder	anatomical structure	neurological lesion	body region	neuropathy	clinical symptom	peripheral nerve disease	injury
+disease	clinical finding	procedure	pathological state	sickness	illness	malady	body structure	anatomical structure	disorder	injury	state	intervention	vascular disease	clinical symptom
+disease	clinical finding	illness	pathological state	malady	sickness	disorder	clinical diagnosis	medical research	medical diagnosis	body structure	diagnosis	procedure	practice of medicine	medicine
+disease	clinical finding	malady	illness	pathological state	sickness	disorder	metabolic disease	liver disease	inflammatory disorder	body structure	injury	medical diagnosis	degenerative disorder	state
+disease	clinical finding	body structure	tumor	malady	sickness	neoplasm	pathology	illness	anatomical structure	pathological state	diagnosis	secondary tumor	disorder	anatomical pathology
+disease	clinical finding	illness	pathological state	sickness	disorder	malady	respiratory disorder	vascular disease	clinical symptom	clinical diagnosis	cardiac finding	medical diagnosis	state	inflammatory disorder
+disease	clinical finding	disorder	illness	sickness	pathological state	malady	metabolic disease	mental disorder	nervous disorder	psychiatric condition	disturbance	clinical symptom	headache	neurological disorder
+illness	clinical finding	disease	mental disorder	sickness	mental illness	disorder	health care	psychiatric condition	pathological state	healthcare professional	psychological disorder	mental disturbance	psychotherapy	therapy
+illness	disease	clinical finding	sickness	mental disorder	disorder	pathological state	malady	mental illness	therapy	psychotherapy	psychiatric condition	psychological disorder	mental disturbance	treatment
+body structure	clinical finding	anatomical structure	body region	disease	sickness	procedure	malady	pathological state	body part	illness	state	clinical symptom	injury	sensation
+disease	clinical finding	procedure	malady	illness	sickness	introduction	body structure	pathological state	medical science	medicine	grafting procedure	disorder	periodontal disease	practice of medicine

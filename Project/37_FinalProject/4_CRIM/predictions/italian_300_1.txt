@@ -1,0 +1,1000 @@
+dispositivo	macchina	configurazione	meccanismo	trasmissione	codifica	grado	mass media	risorsa	fenomeno fisico	automatismo	standard	produzione	multimedialità	pellicola
+dispositivo	configurazione	macchina	meccanismo	codifica	trasmissione	pacchetto	tecnologia	software	sborso	spazio	canale di trasmissione	notazione musicale	automatismo	composto
+persona	femmina	raffigurazione	borgo	tormenta	paese	tracheobionta	comune	corpo celeste	comunità	cibo	possesso	oggetto celeste	montagna	quadrumane
+spazio	borgo	appezzato	zona	estremità	valico	edificio	rivo	struttura architettonica	passo	fiume	comune	quartiere	paese	località
+comune	compagnia	azienda	acqua	macchina	appezzato	produzione	municipalità	sportivo	dispositivo	composto chimico	persona	grado	composto	comunità
+edificio	sito web	canale	comune	canale di trasmissione	borgo	quartiere	località	comunità	sede	paese	regione	struttura architettonica	infrastruttura	zona
+raffigurazione	struttura architettonica	sborso	comunità	appezzato	portata	coglioneria	persona	composto	comune	suppellettile	borgo	cibo	pregio	organo
+comune	comunità	cinema	pellicola	trasmissione	paese	canale di trasmissione	mass media	produzione	persona	borgo	municipalità	compagnia	organo	metropoli
+persona	intellettuale	accoramento	titolo	raffigurazione	grado	espressione	evidenza	coglioneria	coraggio	allocuzione	possesso	istrione	comunità	tracheobionta
+trasmissione	canale di trasmissione	programma televisivo	programma informatico	programma di computer	sborso	appezzato	canale	dispositivo	spazio	mass media	programma per computer	trasmissione televisiva	periodo	pellicola
+periodo	sborso	tempo	fenomeno naturale	possesso	imbecillaggine	fenomeno fisico	periodo di tempo	fenomeno	risorsa	spazio	passo	movimento	comune	grado
+azienda	comune	composto	dispositivo	compagnia	composto chimico	persona	trasmissione	macchina	sportivo	produzione	multinazionale	municipalità	pellicola	appezzato
+tempo	persona	periodo di tempo	paese	periodo	sborso	titolo	comune	imbecillaggine	comunità	metropoli	borgo	principale	regione	città
+trasmissione	dispositivo	software	pellicola	mass media	macchina	canale di trasmissione	codifica	programma informatico	persona	computer	notazione musicale	film	tecnologia	produzione
+persona	raffigurazione	animale	personaggio immaginario	comune	antroponimo	animale selvatico	tracheobionta	personaggio	vertebrato	paese	comunità	corpo celeste	mammifero	quadrumane
+persona	periodo	metropoli	sborso	comunità	appezzato	comune	paese	tempo	tracheobionta	regione	municipalità	coglioneria	periodo di tempo	imbecillaggine
+borgo	quartiere	comune	comunità	città	persona	paese	appezzato	municipalità	regione	località	metropoli	edificio	compagnia	zona
+possesso	appezzato	comune	imbecillaggine	contratto	continuamento	tempo	periodo	sborso	aggiustatura	documento	grado	accordo	acquisizione	pagamento
+cibo	composto	tracheobionta	piatto	persona	cibarie	acqua	flip-flop	animale	panneggiamento	indumento	vegetale	minerale	volatile	vertebrato
+persona	pellicola	film	raffigurazione	accoramento	coglioneria	allocuzione	film drammatico	appezzato	racconto	lungometraggio	comunità	opera letteraria	dramma	titolo
+spazio	sborso	struttura architettonica	passo	passaggio	appezzato	estremità	tempo	periodo	edificio	configurazione	linea	periodo di tempo	zona	limite
+comune	borgo	municipalità	città	località	regione	paese	quartiere	frazione	comune italiano	comunità	zona	metropoli	rivo	edificio
+tracheobionta	composto	acqua	cibo	indumento	flip-flop	persona	roccia	minerale	organo	raffigurazione	sasso	coglioneria	piatto	arnese
+cibo	cibarie	borgo	acqua	paese	comunità	pianta da fiore	comune	portata	pianta	composto	tracheobionta	sborso	persona	raffigurazione
+comune	persona	municipalità	borgo	principale	paese	comunità	comune italiano	appezzato	regione	città	artista	titolo	quartiere	sportivo
+persona	film	personaggio immaginario	comune	municipalità	personaggio	celebrità	metropoli	paese	pellicola	città	guru	artista	raffigurazione	titolo
+persona	artista	scrittore	attore	comune	film	pellicola	autore	sportivo	regista	appezzato	musicista	cantante	regista cinematografico	dotto
+possesso	comune	suddivisione amministrativa	ripristino	aggiustamento	riparazione	appezzato	incominciamento	aggiustatura	periodo	comunità	sborso	rettificazione	passo	scrematura
+persona	personaggio immaginario	tracheobionta	borgo	personaggio	animale	comune	vertebrato	volatile	raffigurazione	astro	rivo	montagna	paese	sasso
+municipalità	comune	regione	comunità	paese	stato federato	appezzato	nazione	città	persona	pellicola	metropoli	suddivisione amministrativa	movimento	areoplano
+istituto	comunità	comune	regione	municipalità	organo	struttura architettonica	appezzato	composto	persona	produzione	tracheobionta	imbecillaggine	grado	associazione
+persona	comunità	paese	intellettuale	comune	possesso	allocuzione	titolo	municipalità	borgo	discendenza	imbecillaggine	tempo	famiglia	raffigurazione
+appezzato	imbecillaggine	pellicola	film	aggiustatura	persona	sborso	comune	incominciamento	coglioneria	tempo	periodo	tracheobionta	lungometraggio	trasmissione
+comune	persona	municipalità	comunità	comune italiano	artista	sportivo	scrittore	aggiustatura	appezzato	direttore	politico	borgo	metropoli	paese
+grado	persona	appezzato	comune	pellicola	film	cinema	macchina	raffigurazione	municipalità	regione	trasmissione	lungometraggio	coglioneria	tracheobionta
+comunità	comune	paese	regione	municipalità	città	borgo	metropoli	nazione	struttura architettonica	persona	suddivisione amministrativa	località	comune italiano	quartiere
+comune	municipalità	borgo	comunità	città	comune italiano	quartiere	regione	paese	località	metropoli	frazione	suddivisione amministrativa	fiume	provincia
+composto	appezzato	comune	sborso	regione	spazio	comunità	configurazione	organo	produzione	fenomeno naturale	meccanismo	grado	fenomeno fisico	livello
+persona	male	cattivo	persona non grata	tempo	titolo	personaggio immaginario	reo	buono	antipatico	personaggio	delinquente	femmina	dotto	racconto
+pellicola	fenomeno	trasmissione	fenomeno fisico	tracheobionta	incominciamento	sborso	cretineria	film	raffigurazione	fenomeno naturale	imbecillaggine	rappresentazione	periodo	coglionaggine
+raffigurazione	persona	borgo	comune	oggetto celeste	comunità	organo	municipalità	paese	nome di battesimo	antroponimo	composto	copricapo	titolo	indumento
+fenomeno fisico	persona	disciplina	grado	intellettuale	funzione matematica	comunità	ricerca scientifica	fenomeno naturale	scienza	facoltà	comune	forbitezza	proprietà fisica	grandezza fisica
+municipalità	comune	persona	comunità	comune italiano	paese	regione	città	metropoli	suddivisione amministrativa	lingua	stato federato	borgo	città-stato	quartiere
+cibo	animale	composto	vertebrato	acqua	piatto	volatile	tracheobionta	persona	cibarie	flip-flop	arnese	indumento	macchina	panneggiamento
+miglioramento	appezzato	gestione	suddivisione amministrativa	aggiustamento	sborso	possesso	comunità	imbecillaggine	risorsa	controllo	chiarificazione	ripristino	integrazione	comune
+appezzato	tracheobionta	comune	paese	sborso	tempesta	borgo	rivo	vento	regione	municipalità	film	panneggiamento	persona	fenomeno atmosferico
+persona	personaggio immaginario	film	personaggio	appezzato	titolo	raffigurazione	antroponimo	sborso	film drammatico	comune	nome di battesimo	racconto	dramma	autore
+persona	comune	artista	raffigurazione	personaggio immaginario	celebrità	antroponimo	guru	comunità	nome di battesimo	personaggio	municipalità	tracheobionta	dotto	scrittore
+borgo	sede	comune	località	municipalità	quartiere	città	edificio	comunità	regione	frazione	paese	zona	struttura architettonica	suddivisione amministrativa
+persona	pena	sentenza	allocuzione	contestazione	imbecillaggine	male	possesso	verdetto	accoramento	posseditore	scontro	patto	violenza	continuamento
+animale	vertebrato	animale selvatico	mammifero	carnivoro	volatile	uccello	roditore	felino	persona	tracheobionta	personaggio immaginario	bipede	oviparo	topo
+comunità	autorità	persona	municipalità	comune	carica	suddivisione amministrativa	assemblea	grado	organo	possesso	regione	associazione	appezzato	aggiustatura
+acqua	comune	composto	municipalità	minerale	tracheobionta	comunità	borgo	cibo	regione	reggetta	composto chimico	appezzato	rivo	metropoli
+fenomeno	genere alimentare	fenomeno fisico	fenomeno naturale	caratteristica	genere musicale	comunità	persona	notazione musicale	raffigurazione	comune	meccanismo	composto	fenomeno atmosferico	tracheobionta
+sborso	raffigurazione	composto	persona	tempo	periodo	comune	spazio	caratteristica	portata	borgo	periodo di tempo	rivo	comunità	fenomeno naturale
+film	pellicola	lungometraggio	opera musicale	album studio	cinema	trasmissione	film drammatico	raccolta musicale	persona	personaggio immaginario	autore	artista	scrittore	romanzo
+ragionamento	espressione	documento	fenomeno	meccanismo	fenomeno naturale	fenomeno fisico	argomentazione	trattazione	scrittura	disciplina	configurazione	grado	persona	raffigurazione
+composto	carta	documento	pellicola	mistura	raffigurazione	cibo	organo	testo	produzione	possesso	suppellettile	appezzato	pasta	scrittura
+comune	città	municipalità	borgo	comunità	paese	comune italiano	persona	regione	quartiere	metropoli	appezzato	località	frazione	fiume
+aggiustatura	riattamento	ripristino	struttura architettonica	appezzato	suddivisione amministrativa	sborso	comunità	zona	comune	municipalità	borgo	edificio	riparazione	periodo
+persona	comune	borgo	paese	antroponimo	comunità	personaggio immaginario	tracheobionta	comune italiano	personaggio	animale	municipalità	titolo	artista	città
+borgo	comune	quartiere	municipalità	città	paese	persona	artista	comune italiano	rivo	comunità	località	metropoli	appezzato	frazione
+municipalità	paese	comune	città	regione	comunità	nazione	stato federato	persona	borgo	metropoli	suddivisione amministrativa	zona	fiume	località
+macchina	dispositivo	veicolo	fenomeno fisico	appezzato	meccanismo	configurazione	grado	sborso	movimento	fenomeno	spazio	automatismo	motoveicolo	fenomeno naturale
+sborso	comunità	appezzato	documento	evidenza	possesso	persona	periodo	merito	allocuzione	comune	scrittura	tempo	risorsa	indagazione
+tracheobionta	arnese	dispositivo	composto	pelle	panneggiamento	tessuto animale	fenomeno fisico	cibo	meccanismo	indumento	aggrovigliamento	estremità	annodamento	coglioneria
+comune	comunità	persona	municipalità	regione	paese	città	antroponimo	comune italiano	suddivisione amministrativa	metropoli	appezzato	borgo	raffigurazione	stato federato
+pietra	roccia	composto	acqua	metallo	struttura architettonica	estremità	sasso	suppellettile	roccia sedimentaria	copertura	minerale	mobilio	pianta da fiore	cibo
+persona	scrittore	artista	comune	borgo	paese	attore	autore	dotto	cantante	musicista	comune italiano	sportivo	rivo	municipalità
+primo ministro	persona	capo	capo del governo	leader	funzionario	direttore	carica	capintesta	comune	presidente	responsabile	autorità	segretario	politico
+comunità	comune	persona	municipalità	paese	regione	città	coglioneria	borgo	raffigurazione	metropoli	sborso	comune italiano	città-stato	quartiere
+tempo	periodo	periodo di tempo	persona	scontro	posseditore	imbecillaggine	titolo	film	sborso	appezzato	film drammatico	lungometraggio	pellicola	stagione
+spazio	appezzato	macchina	aggiustatura	comune	acqua	trasporto	zona	borgo	struttura architettonica	regione	municipalità	comunità	produzione	località
+dispositivo	fenomeno fisico	meccanismo	automatismo	fenomeno	appezzato	composto	pellicola	tracheobionta	macchina	fenomeno naturale	persona	fenomeno atmosferico	forbitezza	composto chimico
+acqua	fenomeno fisico	fenomeno naturale	energia	composto chimico	composto	risorsa	cibo	meccanismo	fenomeno atmosferico	processo chimico	vegetale	fenomeno	tracheobionta	processo naturale
+dispositivo	accessorio	piatto	metallo	macchina	tracheobionta	indumento	arnese	composto	cibo	estremità	pelle	acqua	organo	persona
+persona	comunità	allocuzione	autorità	municipalità	periodo	carica	accoramento	paese	nazione	assemblea	metropoli	contestazione	leader	comune
+comune	municipalità	comune italiano	comunità	borgo	città	regione	paese	metropoli	persona	quartiere	località	frazione	suddivisione amministrativa	appezzato
+comune	municipalità	paese	persona	metropoli	comunità	moneta	appezzato	moneta circolante	regione	città	borgo	comune italiano	nazione	pellicola
+persona	comune	artista	comune italiano	scrittore	dotto	sportivo	autore	politico	municipalità	attore	borgo	musicista	calciatore	letterato
+borgo	comune	municipalità	paese	regione	rivo	città	località	fiume	comunità	comune italiano	quartiere	acqua	frazione	zona
+persona	imbecillaggine	coglioneria	comune	tracheobionta	morbo	dotto	metropoli	malattia	municipalità	fenomeno fisico	stupidezza	appezzato	coglionaggine	cretineria
+dispositivo	macchina	meccanismo	acqua	composto	accessorio	organo	tubatura	veicolo	arnese	automatismo	apparecchio elettrico	estremità	configurazione	appezzato
+persona	male	sciocchezza	sventura	sentimento	fatalità	sborso	tormenta	ridicolaggine	imbecillaggine	film	afflizione	film drammatico	sfortuna	coglioneria
+composto	configurazione	grado	risorsa	espressione	grandezza	caratteristica	meccanismo	standard	sottoinsieme	livello	forbitezza	codifica	parametro	calcolo
+vertebrato	animale	persona	tracheobionta	femmina	oviparo	male	mammifero	animale selvatico	cibo	panneggiamento	carnivoro	corpo celeste	tormenta	cretineria
+sborso	fenomeno naturale	fenomeno fisico	fenomeno	limite	periodo	risorsa	evidenza	suddivisione amministrativa	comunità	possesso	aggiustamento	imbecillaggine	passo	regione
+dispositivo	regione	grado	fenomeno fisico	comune	fenomeno naturale	organo	movimento	meccanismo	configurazione	spazio	municipalità	composto	tecnologia	appezzato
+comunità	comune	regione	paese	produzione	struttura architettonica	borgo	municipalità	tracheobionta	acqua	zona	città	metropoli	cibo	suddivisione amministrativa
+persona	municipalità	comune	regione	città-stato	comunità	composto	titolo	paese	comune italiano	appezzato	tracheobionta	città	raffigurazione	borgo
+appezzato	comune	persona	pellicola	municipalità	film	trasmissione	artista	compagnia	cinema	sportivo	canale di trasmissione	mass media	città	regione
+fenomeno naturale	limite	sborso	passo	fenomeno	fenomeno fisico	aggiustamento	fenomeno atmosferico	estremità	appezzato	imbecillaggine	spazio	continuamento	tracheobionta	incominciamento
+evidenza	espressione	fenomeno	fenomeno fisico	comunità	fenomeno naturale	persona	concordanza	esperienza	periodo	accoramento	percezione	caratteristica	raffigurazione	sborso
+persona	criminale	ridicolaggine	male	tormenta	femmina	scontro	reo	persona non grata	delinquente	personaggio immaginario	imbecillaggine	disgrazia	intruso	omicida
+animale	vertebrato	tessuto animale	tracheobionta	cibo	animale selvatico	volatile	mammifero	pelle	composto	corpo celeste	indumento	carnivoro	piatto	minerale
+imbecillaggine	incominciamento	sborso	periodo	tempo	possesso	appezzato	raffigurazione	fenomeno fisico	periodo di tempo	fenomeno naturale	persona	coglioneria	chiarificazione	comunità
+dispositivo	trasmissione	documento	meccanismo	canale di trasmissione	programma informatico	software	codifica	tecnologia	sistema software	pacchetto	configurazione	appezzato	automatismo	canale
+persona	titolo	personaggio immaginario	personaggio	comune	guerriero	leader	appezzato	film	celebrità	paese	borgo	metropoli	artista	principale
+composto	fenomeno fisico	regione	fenomeno naturale	fenomeno	comune	produzione	composto chimico	miscela	tracheobionta	comunità	pellicola	acqua	municipalità	notazione musicale
+cibo	acqua	vegetale	piatto	composto	liquido	cibarie	pasta	tracheobionta	verdura	mistura	miscela	miscuglio	minerale	formaggio
+persona	imbecillaggine	possesso	sborso	appezzato	comunità	continuamento	titolo	tempo	comune	coglioneria	posseditore	grado	accoramento	contratto
+persona	animale	film	vertebrato	cibo	comune	femmina	personaggio immaginario	piatto	appezzato	tracheobionta	composto	panneggiamento	pellicola	volatile
+possesso	risorsa	comunità	sborso	spesa	continuamento	profitto	liquidità	regione	comune	denaro	guadagno	prezzo	tempo	introito
+acqua	tracheobionta	municipalità	composto	rivo	fenomeno atmosferico	appezzato	comune	panneggiamento	regione	paese	portata	comunità	borgo	tempesta
+cibo	composto	tracheobionta	dispositivo	macchina	acqua	minerale	tessuto animale	liquido	organo	appezzato	arnese	piatto	animale	cibarie
+fenomeno	fenomeno fisico	fenomeno naturale	percezione	spiegazione	raffigurazione	rappresentazione	fenomeno atmosferico	ragionamento	tracheobionta	notazione musicale	temporale	espressione	evidenza	meccanismo
+comunità	municipalità	metropoli	persona	regione	suddivisione amministrativa	nazione	appezzato	comune	sistema sociale	paese	economia	movimento	struttura architettonica	istituto
+dispositivo	meccanismo	macchina	automatismo	configurazione	apparecchio elettrico	acqua	liquido	composto	fenomeno fisico	tracheobionta	tecnologia	appezzato	organo	composto chimico
+tracheobionta	cibo	acqua	composto	liquido	persona	vertebrato	minerale	volatile	panneggiamento	composto chimico	coglioneria	vegetale	imbecillaggine	incominciamento
+persona	artista	comune	attore	personaggio immaginario	scrittore	film	celebrità	personaggio	autore	istrione	guru	municipalità	opera musicale	cantante
+fenomeno fisico	fenomeno	fenomeno naturale	tempo	periodo	imbecillaggine	sborso	possesso	periodo di tempo	appezzato	disfavore	grado	fenomeno atmosferico	temporale	evidenza
+fenomeno fisico	fenomeno	fenomeno naturale	fenomeno atmosferico	scontro	tempesta	appezzato	bufera	temporale	imbecillaggine	sborso	incominciamento	coglionaggine	tracheobionta	incidente
+persona	leader	comunità	titolo	guru	municipalità	allocuzione	intellettuale	comune	sopraffattore	paese	dotto	capintesta	accoramento	metropoli
+zona	regione	municipalità	comune	comunità	struttura architettonica	località	suddivisione amministrativa	spazio	borgo	città	metropoli	quartiere	isola	configurazione
+regione	paese	città	comune	borgo	municipalità	fiume	zona	comunità	metropoli	mare	quartiere	isola	località	rivo
+persona	film	male	racconto	coglioneria	film drammatico	pellicola	dramma	raffigurazione	romanzo	sciocchezza	appezzato	accoramento	tormenta	personaggio immaginario
+dispositivo	macchina	apparecchio elettrico	cellulare	trasmissione	telefono	meccanismo	automatismo	persona	organo	canale di trasmissione	telefono mobile	dispositivo mobile	appezzato	mobile
+sborso	persona	pellicola	appezzato	comune	periodo	film	municipalità	tempo	imbecillaggine	titolo	comunità	periodo di tempo	grado	mese
+appezzato	periodo	sborso	periodo di tempo	comunità	grado	comune	regione	tempo	possesso	paese	municipalità	disfavore	città	persona
+municipalità	isola	regione	comune	città	comunità	metropoli	paese	località	zona	borgo	arcipelago	fiume	suddivisione amministrativa	quartiere
+appezzato	grado	tempo	persona	carica	periodo	comune	periodo di tempo	titolo	sborso	mese	principale	paese	municipalità	regione
+estremità	raffigurazione	struttura architettonica	comune	organo	composto	appezzato	municipalità	borgo	macchina	persona	dispositivo	pellicola	comunità	regione
+tecnologia	trasmissione	ricerca scientifica	dispositivo	macchina	produzione	meccanismo	persona	appezzato	fenomeno fisico	tracheobionta	comunità	mass media	composto	programma informatico
+appezzato	persona	borgo	composto	tracheobionta	comune	sborso	paese	raffigurazione	coglioneria	pellicola	acqua	reggetta	municipalità	film
+persona	male	personaggio immaginario	tracheobionta	tormenta	film	femmina	cretineria	raffigurazione	personaggio	ridicolaggine	film drammatico	panneggiamento	pellicola	vertebrato
+indumento	raffigurazione	abito	vestito	composto	emblema	corpo celeste	oggetto celeste	arnese	accessorio	piatto	persona	gioiello	mantello	cibo
+astro	oggetto celeste	raffigurazione	corpo celeste	tracheobionta	stella	paese	composto	persona	borgo	comune	film	tempo	sborso	personaggio immaginario
+comune	paese	borgo	metropoli	persona	comunità	personaggio immaginario	città	film	municipalità	rivo	regione	titolo	tracheobionta	appezzato
+imbecillaggine	tempo	sborso	male	persona	periodo	periodo di tempo	coglionaggine	fenomeno fisico	coglioneria	cibo	portata	comunità	possesso	bufera
+titolo	comune	sborso	comunità	appezzato	regione	municipalità	grado	spazio	paese	possesso	periodo	compagnia	persona	suddivisione amministrativa
+persona	film	appezzato	raffigurazione	paese	film drammatico	periodo	pellicola	comune	tracheobionta	racconto	dramma	tempo	sborso	tempesta
+persona	raffigurazione	testo	espressione	male	fenomeno	sborso	incominciamento	allocuzione	panneggiamento	documento	comunità	composto	pellicola	film
+comunità	municipalità	comune	regione	partito	suddivisione amministrativa	assemblea	persona	leader	politico	nazione	partito politico	paese	stato federato	movimento
+cibo	vegetale	animale	cibarie	volatile	verdura	acqua	piatto	tracheobionta	composto	magnoliophyta	minerale	dessert	vertebrato	pasta
+persona	appezzato	difensore	sportivo	leader	calciatore	attaccante	aiutante	soldato	comune	dotto	grado	pellicola	artista	capo
+borgo	città	quartiere	paese	comunità	comune	zona	municipalità	regione	località	edificio	metropoli	struttura architettonica	frazione	rivo
+cibo	vegetale	pianta	tracheobionta	piatto	pianta da fiore	verdura	acqua	animale	pianta erbacea	magnoliophyta	minerale	vertebrato	volatile	composto
+cibo	cibarie	pasta	piatto	verdura	formaggio	composto	vegetale	acqua	dessert	torta	latticino	impasto	tracheobionta	cacio
+comune	borgo	persona	comune italiano	municipalità	artista	scrittore	comunità	paese	città	quartiere	musicista	sportivo	nome di battesimo	dotto
+comune	comune italiano	municipalità	persona	sportivo	artista	calciatore	dotto	regione	appezzato	tracheobionta	antroponimo	stato federato	comunità	borgo
+persona	attore	celebrità	artista	film	pellicola	comune	personaggio	cantante	appezzato	municipalità	personaggio immaginario	scrittore	star	sportivo
+film	pellicola	lungometraggio	trasmissione	album studio	persona	opera musicale	raccolta musicale	mass media	trasmissione televisiva	personaggio immaginario	programma televisivo	cinema	autore	personaggio
+comune	borgo	fiume	rivo	paese	municipalità	città	quartiere	località	comune italiano	regione	metropoli	frazione	torrente	comunità
+comunità	regione	municipalità	suddivisione amministrativa	comune	assemblea	possesso	capitale	appezzato	grado	controllo	carica	autorità	stato federato	unione
+grado	livello	grandezza	limite	configurazione	fenomeno naturale	fenomeno	fenomeno fisico	periodo	forbitezza	appezzato	suddivisione amministrativa	regione	sborso	meccanismo
+persona	verseggiatore	dotto	intellettuale	musico	artista	autore	scrittore	personaggio	guru	cantore	rimatore	personaggio immaginario	suonatore	antroponimo
+comune	persona	municipalità	comune italiano	borgo	comunità	paese	regione	città	artista	antroponimo	dotto	appezzato	titolo	composto
+imbecillaggine	sborso	appezzato	possesso	aggiustamento	operazione	aggiustatura	periodo	persona	allocuzione	ripristino	incominciamento	miglioramento	controllo	scontro
+comunità	accordo	associazione	unione	grado	imbecillaggine	municipalità	appezzato	regione	controllo	autorità	patto	comune	sistema sociale	possesso
+comune	persona	borgo	appezzato	aggiustatura	sborso	municipalità	comune italiano	comunità	paese	imbecillaggine	tempo	regione	frazione	possesso
+comune	persona	appezzato	metropoli	municipalità	areoplano	film	città	sborso	compagnia	paese	borgo	pellicola	regione	comunità
+male	persona	sentimento	imbecillaggine	pericolo	coglionaggine	afflizione	fenomeno fisico	sventura	film drammatico	tormenta	fatalità	fenomeno	avversità	dramma
+persona	vertebrato	animale	personaggio immaginario	tracheobionta	comune	personaggio	raffigurazione	astro	oggetto celeste	corpo celeste	volatile	film	quadrumane	mammifero
+trasmissione	canale di trasmissione	comune	canale	mass media	appezzato	software	comunità	dispositivo	programma informatico	tecnologia	pellicola	municipalità	app	persona
+cibo	acqua	composto	tracheobionta	vertebrato	composto chimico	vegetale	minerale	cibarie	piatto	animale	liquido	comune	volatile	verdura
+sispi	bauge	eurodesk	amministrazione di rete	federacciai	confconsumatori	govia	chiocciolina	consiglio aziendale	aerolinea	fluvi	impiombatura	drammaterapia	comitato aziendale europeo	mactel
+passaggio	possesso	periodo di tempo	tempo	periodo	riparazione	ripristino	controllo	accordo	miglioramento	scrematura	appezzato	scontro	operazione	acquisizione
+paese	città	borgo	municipalità	comune	comunità	fiume	regione	quartiere	località	metropoli	zona	persona	isola	rivo
+tracheobionta	organo	composto	composto chimico	estremità	incominciamento	vertebrato	tessuto animale	regione	fenomeno fisico	comune	coglioneria	fenomeno naturale	membrana	parte anatomica
+persona	comune	re	paese	personaggio immaginario	raffigurazione	titolo	tracheobionta	borgo	municipalità	astro	nome di battesimo	comunità	personaggio	tempo
+dispositivo	grado	macchina	comune	tracheobionta	appezzato	meccanismo	annodamento	composto	persona	incominciamento	veicolo	configurazione	organo	oggetto celeste
+canale di trasmissione	trasmissione	canale	dispositivo	pacchetto	pagamento	documento	compagnia	macchina	mass media	spazio	sborso	denaro	software	servizio
+persona	dispositivo	macchina	pellicola	spazio	trasmissione	appezzato	sborso	comunità	coglioneria	mass media	incominciamento	fenomeno fisico	comune	automatismo
+persona	nome di battesimo	antroponimo	comune	titolo	leader	personaggio immaginario	principale	parente	competitore	progenitore	personaggio	raffigurazione	discendenza	comunità
+persona	direttore	funzionario	capo	leader	presidente	amministratore	comune	carica	capintesta	primo ministro	politico	responsabile	municipalità	capo del governo
+estremità	struttura architettonica	comune	configurazione	organo	regione	dispositivo	borgo	appezzato	composto	spazio	zona	edificio	movimento	linea
+comune	persona	borgo	macchina	raffigurazione	rivo	pellicola	panneggiamento	composto	paese	dispositivo	municipalità	annodamento	regione	città
+persona	male	coglioneria	raffigurazione	film	pellicola	film drammatico	dramma	sborso	racconto	appezzato	tracheobionta	personaggio immaginario	romanzo	incominciamento
+pellicola	persona	film	mass media	comune	municipalità	metropoli	album studio	appezzato	trasmissione	artista	cinema	città	produzione	sportivo
+limite	grado	configurazione	sborso	spazio	appezzato	tempo	fenomeno fisico	passo	possesso	passaggio	svantaggio	meccanismo	livello	fenomeno
+macchina	dispositivo	appezzato	spazio	veicolo	pellicola	film	borgo	aggiustatura	edificio	apparecchio elettrico	persona	imbecillaggine	sborso	paese
+persona	scrittore	artista	autore	attore	musicista	comune	celebrità	film	intellettuale	cantante	pellicola	guru	opera musicale	regista
+comunità	municipalità	regione	comune	suddivisione amministrativa	associazione	nazione	assemblea	città	metropoli	struttura architettonica	capitale	organo	compagnia	movimento
+metropoli	municipalità	comunità	regione	paese	persona	comune	città	film	borgo	appezzato	movimento	grado	pellicola	nazione
+dispositivo	configurazione	tecnologia	fenomeno fisico	meccanismo	appezzato	composto chimico	comune	apparecchio elettrico	acqua	composto	fenomeno naturale	regione	grado	macchina
+comune	municipalità	regione	compagnia	persona	comunità	azienda	paese	borgo	città	comune italiano	suddivisione amministrativa	appezzato	metropoli	imbecillaggine
+struttura architettonica	raffigurazione	persona	edificio	comune	organo	comunità	municipalità	paese	borgo	suddivisione amministrativa	appezzato	regione	titolo	composto
+acqua	borgo	comune	roccia	rivo	regione	montagna	paese	roccia sedimentaria	minerale	composto	fiume	estremità	tracheobionta	sasso
+meccanismo	risorsa	forbitezza	continuamento	appezzato	imbecillaggine	possesso	composto	sborso	grado	configurazione	calcolo	comune	fenomeno fisico	tracheobionta
+persona	espressione	raffigurazione	ragionamento	intellettuale	evidenza	coglioneria	allocuzione	accoramento	sentimento	fenomeno fisico	istrione	verseggiatore	guru	titolo
+sentimento	male	fenomeno	ragionamento	persona	allocuzione	accoramento	fenomeno fisico	espressione	argomentazione	fenomeno naturale	contestazione	sborso	avversità	afflizione
+malattia	fenomeno fisico	coglionaggine	tracheobionta	disturbo	fenomeno naturale	fenomeno	imbecillaggine	cretineria	vertebrato	infiammazione	persona	male	fenomeno atmosferico	condizione fisiologica
+continuamento	persona	documento	pagamento	possesso	imbecillaggine	dispositivo	appezzato	denaro	automatismo	spesa	contratto	patto	sborso	liquidità
+cibo	acqua	composto	cibarie	tracheobionta	piatto	panneggiamento	macchina	sborso	appezzato	organo	arnese	indumento	portata	incominciamento
+spesa	possesso	imbecillaggine	corresponsione	pagamento	continuamento	denaro	danaro	sborso	tassa	contratto	liquidità	importo	persona	periodo
+comune	moneta circolante	moneta	paese	municipalità	comunità	comune italiano	borgo	cibo	suddivisione amministrativa	persona	regione	tracheobionta	composto	appezzato
+persona	artista	scrittore	personaggio immaginario	personaggio	film	comune	autore	paese	pellicola	borgo	celebrità	titolo	attore	dotto
+comunità	comune	persona	appezzato	municipalità	paese	regione	sborso	città	borgo	metropoli	principale	rivo	pellicola	tracheobionta
+municipalità	comune	città	paese	regione	metropoli	quartiere	borgo	località	comunità	appezzato	areoplano	fiume	persona	suddivisione amministrativa
+persona	parente	leader	governante	capo	figlio	protettore	dotto	guru	titolo	nome di battesimo	figlia	politico	funzionario	re
+fenomeno naturale	fenomeno fisico	acqua	fenomeno atmosferico	fenomeno	tracheobionta	reazione chimica	composto chimico	composto	miscela	processo naturale	processo chimico	precipitazione atmosferica	minerale	mistura
+borgo	paese	acqua	bastimento	rivo	fiume	imbarcazione	nave	comune	natante	veicolo	trasporto passeggeri	appezzato	mezzo di trasporto	città
+comune	persona	artista	sportivo	comune italiano	municipalità	attore	leader	politico	calciatore	principale	borgo	scrittore	appezzato	cantante
+scontro	tempesta	appezzato	fenomeno fisico	bufera	incominciamento	fenomeno atmosferico	disastro	fenomeno	colpo	collisione	sborso	incidente	movimento	fenomeno naturale
+municipalità	comune	comunità	appezzato	regione	città	periodo	suddivisione amministrativa	paese	metropoli	sborso	borgo	persona	spazio	imbecillaggine
+persona	personaggio	guru	dotto	parente	istrione	personaggio immaginario	leader	autore	scrittore	mestiere	nome di battesimo	titolo	artista	competitore
+raffigurazione	persona	coglioneria	tracheobionta	comunità	pellicola	comune	celebrità	appezzato	cretineria	sborso	film	portata	paese	annodamento
+comune	appezzato	composto	persona	municipalità	sborso	città	borgo	titolo	principale	coglioneria	regione	organo	grado	comunità
+imbecillaggine	sborso	periodo	possesso	appezzato	persona	comunità	tempo	grado	continuamento	allocuzione	coglionaggine	periodo di tempo	comune	aggiustamento
+comune	comunità	persona	municipalità	primo ministro	regione	carica	suddivisione amministrativa	leader	appezzato	principale	organo	capo	aggiustatura	autorità
+comune	persona	municipalità	borgo	comunità	paese	città	comune italiano	artista	metropoli	titolo	pellicola	quartiere	celebrità	regione
+animale	vertebrato	tracheobionta	mammifero	persona	animale selvatico	carnivoro	oviparo	personaggio immaginario	volatile	astro	felino	comune	flip-flop	annodamento
+appezzato	pellicola	persona	spazio	tracheobionta	sborso	comune	raffigurazione	organo	annodamento	coglioneria	panneggiamento	dispositivo	borgo	film
+comunità	nazione	regione	municipalità	assemblea	comune	paese	stato federato	autorità	suddivisione amministrativa	capitale	persona	città	sistema sociale	periodo
+municipalità	comune	regione	paese	comunità	città	nazione	stato federato	persona	metropoli	suddivisione amministrativa	borgo	composto	pellicola	appezzato
+persona	tracheobionta	imbecillaggine	malattia	coglioneria	fenomeno fisico	comune	municipalità	comunità	vertebrato	stupidezza	coglionaggine	regione	cretineria	fenomeno naturale
+comune	municipalità	comunità	persona	comune italiano	borgo	aggiustatura	regione	paese	appezzato	politico	capintesta	città	dotto	città-stato
+persona	municipalità	comune	lingua	comunità	comune italiano	metropoli	artista	città	paese	regione	borgo	titolo	sportivo	scrittore
+limite	spazio	configurazione	grandezza	passo	appezzato	estremità	grado	fenomeno fisico	fenomeno naturale	sborso	punto	livello	barriera	tempo
+comune	municipalità	comunità	città	borgo	persona	paese	comune italiano	metropoli	quartiere	regione	appezzato	suddivisione amministrativa	capintesta	località
+persona	governante	personaggio	guru	leader	femmina	capo	personaggio immaginario	dotto	istrione	persona non grata	parente	titolo	intellettuale	allocuzione
+film	opera musicale	pellicola	persona	orchestrale	film drammatico	lungometraggio	raccolta musicale	composizione musicale	trasmissione	artista	album studio	brano	spettacolo	cinema
+possesso	persona	comunità	sborso	accoramento	continuamento	allocuzione	appezzato	autorità	suddivisione amministrativa	documento	periodo	imbecillaggine	risorsa	aggiustatura
+possesso	periodo	sborso	scrematura	periodo di tempo	tempo	documento	allocuzione	imbecillaggine	suddivisione amministrativa	acquisizione	appezzato	risorsa	computo	operazione
+configurazione	dispositivo	meccanismo	automatismo	appezzato	limite	composto	macchina	sborso	spazio	tracheobionta	fenomeno fisico	estremità	risorsa	fenomeno naturale
+comune	municipalità	appezzato	borgo	metropoli	regione	paese	sportivo	comunità	mass media	città	quartiere	azienda	persona	comune italiano
+macchina	persona	veicolo	pellicola	dispositivo	film	imbarcazione	natante	tracheobionta	appezzato	borgo	acqua	comune	paese	bastimento
+film	persona	personaggio immaginario	personaggio	artista	pellicola	metropoli	compagnia	titolo	comune	municipalità	appezzato	sportivo	lungometraggio	borgo
+estremità	configurazione	dispositivo	composto	raffigurazione	appezzato	macchina	elemento architettonico	elemento strutturale	struttura architettonica	accessorio	pellicola	caratteristica	spazio	incominciamento
+struttura architettonica	comunità	livello	spazio	configurazione	grado	periodo	comune	disciplina	appezzato	standard	notazione musicale	regione	documento	espressione
+grado	disciplina	struttura architettonica	comunità	facoltà	possesso	tecnologia	risorsa	sborso	indagazione	imbecillaggine	persona	configurazione	ricerca scientifica	appezzato
+assemblea	comunità	carica	comune	municipalità	persona	capo del governo	autorità	radunata	capo	capintesta	amministrazione	edificio	organo	borgo
+acqua	composto	composto chimico	fenomeno fisico	fenomeno naturale	tracheobionta	fenomeno atmosferico	liquido	minerale	fenomeno	appezzato	comune	cibo	miscela	meccanismo
+persona	comune	paese	appezzato	città	municipalità	borgo	comunità	regione	tracheobionta	pellicola	coglioneria	quartiere	sborso	città-stato
+comune	coglioneria	comunità	persona	raffigurazione	tracheobionta	metropoli	municipalità	pellicola	periodo	appezzato	movimento	intellettuale	fenomeno	regione
+dispositivo	macchina	trasmissione	pellicola	appezzato	canale di trasmissione	film	mass media	codifica	automatismo	configurazione	cinema	apparecchio elettrico	meccanismo	tecnologia
+persona	male	espressione	sentimento	coglionaggine	sventura	avversità	afflizione	raffigurazione	grado	contrasto	allocuzione	scontro	ragionamento	fenomeno fisico
+persona	comune	municipalità	metropoli	comunità	scrittore	artista	mass media	autore	città	principale	pellicola	attore	album studio	opera musicale
+comune	municipalità	borgo	comunità	città	comune italiano	paese	località	regione	appezzato	rivo	quartiere	isola	frazione	metropoli
+cibo	acqua	composto	cibarie	dessert	vegetale	piatto	verdura	pasta	tracheobionta	minerale	liquido	pianta da fiore	animale	volatile
+persona	dispositivo	dotto	titolo	testo	personaggio immaginario	autore	documento	intellettuale	trasmissione	appezzato	istrione	personaggio	artista	scrittura
+persona	imbecillaggine	sborso	possesso	accoramento	male	continuamento	allocuzione	appezzato	comunità	coglioneria	tempo	periodo	incominciamento	radunata
+ragionamento	espressione	evidenza	persona	forbitezza	disciplina	argomentazione	grado	possesso	allocuzione	aggiustamento	trattazione	concordanza	verifica	documento
+tracheobionta	tessuto animale	composto	corpo celeste	indumento	animale	oggetto celeste	raffigurazione	cretineria	persona	incominciamento	annodamento	cibo	coglioneria	pellicola
+animale	animale selvatico	vertebrato	persona	mammifero	carnivoro	felino	personaggio immaginario	femmina	volatile	uccello	personaggio	bipede	cibo	tracheobionta
+persona	scontro	avversario	personaggio immaginario	intruso	appezzato	male	personaggio	ridicolaggine	raffigurazione	persona non grata	pericolo	grado	tormenta	leader
+comune	borgo	acqua	località	appezzato	municipalità	tracheobionta	macchina	aggiustatura	struttura architettonica	zona	comunità	trasporto	sborso	regione
+appezzato	dispositivo	spazio	meccanismo	estremità	movimento	fenomeno naturale	configurazione	struttura architettonica	composto	sborso	limite	automatismo	fenomeno fisico	regione
+fenomeno naturale	appezzato	sborso	fenomeno fisico	fenomeno	acqua	fenomeno atmosferico	passo	aggiustatura	limite	ripristino	riparazione	aggiustamento	riattamento	miglioramento
+composto	accessorio	minerale	oggetto celeste	comune	piatto	acqua	cibo	raffigurazione	macchina	dispositivo	sasso	tracheobionta	pianta da fiore	appezzato
+costellazione	municipalità	tracheobionta	grandezza	configurazione	oggetto celeste	appezzato	composto	grado	estremità	incominciamento	regione	raffigurazione	suddivisione amministrativa	minerale
+persona	personaggio	personaggio immaginario	film	pellicola	istrione	titolo	appezzato	tracheobionta	dotto	artista	guru	autore	sborso	trasmissione
+persona	istrione	personaggio	governante	ragazzo	signora	ragazza	femmina	personaggio immaginario	giovane	mestiere	bambina	delinquente	celebrità	lavoratore
+grado	persona	comune	possesso	organo	aggiustatura	municipalità	titolo	suddivisione amministrativa	comunità	appezzato	autorità	regione	leader	documento
+persona	dispositivo	macchina	grado	organo	carta	composto	appezzato	compagnia	possesso	raffigurazione	spazio	titolo	ridicolaggine	documento
+persona	raffigurazione	racconto	appezzato	resoconto	testo	allocuzione	documento	titolo	sborso	antroponimo	autore	messaggio	film	personaggio immaginario
+comunità	persona	allocuzione	espressione	accoramento	disciplina	sborso	appezzato	ragionamento	possesso	documento	grado	intellettuale	titolo	argomentazione
+borgo	paese	rivo	comune	quartiere	edificio	fiume	città	zona	località	municipalità	aggiustatura	regione	appezzato	valico
+comune	regione	municipalità	comunità	paese	città	borgo	stato federato	persona	suddivisione amministrativa	nazione	quartiere	metropoli	periodo	località
+persona	suonatore	tracheobionta	artista	organo	personaggio	strumentista	comune	personaggio immaginario	appezzato	raffigurazione	sonatore	composto	orchestrale	musicista
+raffigurazione	rappresentazione	struttura architettonica	espressione	caratteristica	comunità	persona	notazione musicale	configurazione	testo	coglioneria	disciplina	composto	comune	scrittura
+comune	municipalità	appezzato	città	persona	film	borgo	paese	metropoli	pellicola	artista	regione	compagnia	album studio	comunità
+macchina	persona	appezzato	veicolo	compagnia	imbecillaggine	imbarcazione	borgo	aggiustatura	cambista	municipalità	raffigurazione	comune	sborso	paese
+persona	artista	guru	titolo	nome di battesimo	cantore	dotto	autore	intellettuale	musico	comune	istrione	leader	personaggio	mestiere
+persona	allocuzione	possesso	documento	autorità	assemblea	disciplina	argomentazione	merito	espressione	accordo	comunità	accoramento	ragionamento	evidenza
+persona	autore	appezzato	pellicola	coglioneria	comune	organo	film	titolo	raffigurazione	intellettuale	testo	dotto	imbecillaggine	scrittore
+minerale	composto	composto chimico	acqua	liquido	silicato	miscela	tracheobionta	metallo	mistura	elemento chimico	vegetale	cibo	fenomeno fisico	misto
+comune	comunità	borgo	municipalità	paese	regione	località	fiume	città	metropoli	rivo	quartiere	comune italiano	zona	suddivisione amministrativa
+persona	scrittura	testo	trasmissione	disciplina	raffigurazione	intellettuale	pellicola	ragionamento	scienza	ricerca scientifica	album studio	documento	autore	comunità
+comune	borgo	municipalità	città	paese	regione	comunità	comune italiano	quartiere	metropoli	persona	località	rivo	fiume	appezzato
+dispositivo	macchina	meccanismo	persona	appezzato	automatismo	grado	imbecillaggine	configurazione	sborso	veicolo	forbitezza	possesso	incominciamento	organo
+scrittore	persona	attore	artista	autore	musicista	sceneggiatore	politico	regista	regista cinematografico	intellettuale	cantante	strumentista	sportivo	istrione
+film	pellicola	album studio	lungometraggio	persona	cinema	comune	opera musicale	trasmissione	metropoli	raccolta musicale	film drammatico	brano	artista	celebrità
+persona	raffigurazione	indumento	coglioneria	tracheobionta	composto	sborso	avviluppamento	incominciamento	aggrovigliamento	appezzato	coglionaggine	panneggiamento	pellicola	flip-flop
+persona	personaggio immaginario	personaggio	nome di battesimo	persona non grata	raffigurazione	dotto	femmina	titolo	istrione	protettore	buono	guru	antroponimo	dottore
+roccia sedimentaria	acqua	pietra	montagna	minerale	tracheobionta	roccia magmatica	composto	sasso	regione	calcare	zona	comunità	borgo	comune
+dispositivo	macchina	apparecchio elettrico	meccanismo	automatismo	veicolo	configurazione	composto	sborso	acqua	organo	accessorio	tracheobionta	appezzato	pellicola
+persona	raffigurazione	cibo	indumento	composto	cibarie	tracheobionta	appezzato	piatto	pellicola	acqua	portata	pasta	panneggiamento	coglioneria
+comune	appezzato	municipalità	borgo	macchina	città	paese	veicolo	persona	acqua	areoplano	regione	compagnia	località	motoveicolo
+produzione	borgo	comune	struttura architettonica	compagnia	aggiustatura	macchina	acqua	comunità	edificio	appezzato	composto	paese	municipalità	azienda
+comune	paese	regione	tracheobionta	municipalità	metropoli	borgo	città	comunità	costellazione	appezzato	oggetto celeste	zona	persona	vertebrato
+persona	scrittore	comune	artista	autore	appezzato	film	metropoli	attore	municipalità	cantante	opera musicale	pellicola	celebrità	sportivo
+comunità	comune	borgo	municipalità	edificio	persona	quartiere	paese	città	aggiustatura	comune italiano	regione	suddivisione amministrativa	appezzato	metropoli
+persona	tracheobionta	raffigurazione	annodamento	appezzato	fenomeno fisico	composto	grado	organo	corpo celeste	oggetto celeste	coglionaggine	quadrumane	incominciamento	aggrovigliamento
+borgo	rivo	quartiere	fiume	edificio	paese	zona	località	città	comune	aggiustatura	valico	struttura architettonica	metropoli	estremità
+comunità	municipalità	università	comune	città	regione	metropoli	persona	paese	struttura architettonica	borgo	quartiere	istituto	accademia	comune italiano
+tracheobionta	comune	borgo	paese	acqua	comunità	cibo	minerale	pianta da fiore	vegetale	montagna	regione	pianta	municipalità	roccia
+borgo	comunità	comune	edificio	struttura architettonica	città	località	regione	municipalità	paese	quartiere	zona	suddivisione amministrativa	punto geografico	metropoli
+tempo	periodo	persona	periodo di tempo	racconto	film	paese	lungometraggio	spettacolo	pellicola	imbecillaggine	appezzato	dramma	sborso	romanzo
+dispositivo	software	trasmissione	computer	tecnologia	sistema software	canale di trasmissione	console	mass media	macchina	programma per computer	persona	pc	pacchetto	programma di computer
+comune	borgo	comunità	municipalità	paese	regione	pianta da fiore	tracheobionta	composto	appezzato	pianta	rivo	acqua	montagna	minerale
+persona	imbecillaggine	male	posseditore	disgrazia	tempo	scontro	appezzato	possesso	titolo	sborso	litigio	periodo	allocuzione	fatalità
+fenomeno fisico	fenomeno naturale	fenomeno atmosferico	fenomeno	tracheobionta	grado	meccanismo	appezzato	acqua	composto	incominciamento	temporale	città-stato	oggetto celeste	dispositivo
+dispositivo	appezzato	documento	sborso	possesso	trasmissione	configurazione	software	grado	macchina	risorsa	contratto	persona	meccanismo	codifica
+persona	appezzato	sborso	imbecillaggine	possesso	denaro	titolo	pellicola	tempo	grado	forbitezza	comune	danaro	banconota	film
+raffigurazione	espressione	notazione musicale	percezione	tracheobionta	coglioneria	persona	testo	pellicola	composizione musicale	fenomeno	fenomeno fisico	rappresentazione	sentimento	caratteristica
+pellicola	persona	film	appezzato	artista	celebrità	trasmissione	coglioneria	comune	cantante	lungometraggio	album studio	cinema	municipalità	star
+spazio	sborso	comune	fenomeno fisico	tempo	grado	appezzato	coglioneria	persona	comunità	organo	struttura architettonica	raffigurazione	regione	fenomeno naturale
+sborso	meccanismo	persona	fenomeno	appezzato	automatismo	grado	possesso	dispositivo	fenomeno fisico	tempo	evidenza	forbitezza	fenomeno naturale	configurazione
+comunità	allocuzione	persona	raffigurazione	periodo	possesso	disciplina	nome di battesimo	orazione	radunata	sborso	comune	regione	tempo	periodo di tempo
+persona	comunità	comune	borgo	denaro	possesso	paese	mestiere	aggiustatura	titolo	compagnia	municipalità	professione	edificio	quartiere
+appezzato	pellicola	comune	municipalità	trasmissione	persona	film	coglioneria	sborso	titolo	comunità	mass media	produzione	regione	canale di trasmissione
+persona	trasmissione	artista	pellicola	allocuzione	scrittore	autore	appezzato	opera musicale	film	testo	album studio	lungometraggio	dotto	titolo
+sborso	configurazione	struttura architettonica	raffigurazione	estremità	caratteristica	incominciamento	fenomeno fisico	spazio	dispositivo	elemento architettonico	comune	persona	composto	appezzato
+persona	comunità	allocuzione	espressione	possesso	raffigurazione	comune	disciplina	intellettuale	coglioneria	accoramento	titolo	sborso	ragionamento	tempo
+raffigurazione	persona	oggetto celeste	corpo celeste	tracheobionta	panneggiamento	organo	astro	fenomeno	animale	fenomeno naturale	pellicola	incominciamento	fenomeno fisico	grado
+persona	comune	comune italiano	artista	scrittore	politico	sportivo	capintesta	municipalità	dotto	autore	comunità	leader	guru	borgo
+persona	appezzato	paese	grado	compagnia	veicolo	areoplano	comune	borgo	armato	macchina	tempo	combattimento	movimento	dispositivo
+persona	antipatico	personaggio	personaggio immaginario	animale	istrione	ragazzo	femmina	vertebrato	antroponimo	cattivo	film	dotto	delinquente	titolo
+animale	tracheobionta	vertebrato	persona	tessuto animale	fenomeno fisico	raffigurazione	corpo celeste	composto	incominciamento	cibo	fenomeno naturale	coglioneria	oggetto celeste	flip-flop
+comune	paese	persona	borgo	municipalità	appezzato	città	regione	comunità	areoplano	acqua	tracheobionta	metropoli	fiume	montagna
+comune	municipalità	persona	paese	città	borgo	comunità	comune italiano	metropoli	quartiere	appezzato	titolo	regione	scrittore	artista
+persona	comunità	municipalità	coglioneria	intellettuale	comune	allocuzione	movimento	metropoli	espressione	accoramento	regione	raffigurazione	associazione	fazione
+raffigurazione	persona	comunità	comune	paese	borgo	nome di battesimo	redentore	tracheobionta	appezzato	coglioneria	rivo	municipalità	aggiustatura	sborso
+persona	comunità	possesso	posseditore	titolo	allocuzione	comune	documento	municipalità	appezzato	suddivisione amministrativa	grado	nome di battesimo	disciplina	periodo
+possesso	dispositivo	gestione	servizio	grado	meccanismo	fenomeno fisico	configurazione	tempo	risorsa	automatismo	sborso	appezzato	miglioramento	aggiustamento
+documento	possesso	accordo	comune	contratto	persona	comunità	periodo	organo	appezzato	incominciamento	patto	evidenza	allocuzione	movimento
+persona	comune	organo	paese	comunità	raffigurazione	municipalità	borgo	appezzato	tempo	titolo	nome di battesimo	periodo	città	regione
+compagnia	persona	metropoli	comune	comunità	trasmissione	viaggio	appezzato	pellicola	titolo	municipalità	imbecillaggine	canale di trasmissione	paese	produzione
+persona	scrittore	attore	artista	leader	autore	sportivo	cantante	sceneggiatore	comune	musicista	direttore	principale	regista	star
+persona	tracheobionta	comune	municipalità	appezzato	regione	grado	arma	raffigurazione	areoplano	personaggio immaginario	città-stato	vertebrato	panneggiamento	città
+persona	parente	figlio	nome di battesimo	governante	dotto	titolo	guru	figlia	protettore	personaggio	mestiere	scrittore	personaggio immaginario	giovane
+ripristino	miglioramento	possesso	riparazione	aggiustamento	tempo	sborso	appezzato	periodo di tempo	fenomeno fisico	spazio	periodo	controllo	riattamento	imbecillaggine
+acqua	composto chimico	composto	liquido	miscela	mistura	minerale	tracheobionta	processo chimico	cibo	fenomeno fisico	reazione chimica	vegetale	fenomeno naturale	misto
+comune	municipalità	paese	regione	comunità	metropoli	città	borgo	persona	isola	quartiere	appezzato	località	comune italiano	suddivisione amministrativa
+attore	artista	scrittore	persona	sceneggiatore	regista	autore	cantante	musicista	regista cinematografico	produttore cinematografico	sportivo	strumentista	compositore	dotto
+borgo	paese	comune	città	fiume	municipalità	quartiere	zona	rivo	località	regione	isola	montagna	metropoli	comunità
+trasmissione	pellicola	notazione musicale	testo	configurazione	produzione	scrittura	brano	sborso	codifica	rappresentazione	dispositivo	film	raffigurazione	opera musicale
+municipalità	metropoli	comune	città	borgo	paese	regione	comunità	quartiere	persona	appezzato	località	film	titolo	principale
+moneta	moneta circolante	tracheobionta	comune	comunità	persona	raffigurazione	municipalità	banconota	composto	regione	organo	cibo	paese	reggetta
+dispositivo	automatismo	meccanismo	trasmissione	fenomeno fisico	macchina	fenomeno	fenomeno atmosferico	appezzato	sborso	fenomeno naturale	imbecillaggine	movimento	configurazione	spazio
+persona	dotto	raffigurazione	guru	allocuzione	intellettuale	nome di battesimo	persona non grata	titolo	professione	istrione	mestiere	personaggio	antroponimo	ridicolaggine
+borgo	montagna	rivo	roccia	fiume	barriera	annodamento	paese	zona	acqua	città	comune	quartiere	località	roccia sedimentaria
+persona	film	film drammatico	male	pellicola	racconto	personaggio immaginario	dramma	lungometraggio	appezzato	personaggio	intruso	romanzo	tormenta	ridicolaggine
+borgo	comune	zona	comunità	edificio	paese	quartiere	regione	località	città	municipalità	struttura architettonica	portata	periodo	tempo
+paese	borgo	fiume	rivo	acqua	comune	città	montagna	quartiere	metropoli	regione	zona	località	isola	municipalità
+comunità	persona	accoramento	paese	sborso	avversità	coglioneria	coglionaggine	imbecillaggine	violenza	allocuzione	indigenza	comune	metropoli	miseria
+canale di trasmissione	trasmissione televisiva	dispositivo	pellicola	macchina	mass media	canale	appezzato	meccanismo	produzione	codifica	automatismo	configurazione	registrazione	sborso
+sportivo	borgo	comune	quartiere	appezzato	municipalità	città	paese	edificio	regione	località	zona	struttura architettonica	impianto sportivo	comune italiano
+raffigurazione	rappresentazione	evidenza	struttura architettonica	comunità	comune	appezzato	spazio	persona	pellicola	municipalità	sborso	tracheobionta	coglioneria	imbecillaggine
+passo	appezzato	valico	passaggio	zona	limite	sborso	spazio	aggiustatura	borgo	località	regione	estremità	fiume	linea
+cibo	cibarie	dessert	piatto	pasta	verdura	tracheobionta	acqua	composto	animale	pellicola	flip-flop	vegetale	film	comune
+pellicola	macchina	dispositivo	documento	carta	appezzato	trasmissione	persona	composto	organo	film	imbecillaggine	incominciamento	meccanismo	mass media
+appezzato	trasmissione	canale di trasmissione	persona	comune	canale	regione	municipalità	spazio	comunità	paese	grado	composto	borgo	sborso
+persona	film	pellicola	imbecillaggine	accoramento	celebrità	appezzato	male	bufera	denaro	rompitore	ridicolaggine	comunità	titolo	metropoli
+comune	municipalità	città	comunità	borgo	comune italiano	paese	persona	quartiere	regione	metropoli	appezzato	aggiustatura	sportivo	artista
+dispositivo	apparecchio elettrico	macchina	meccanismo	automatismo	organo	composto	accessorio	fenomeno fisico	tracheobionta	appezzato	grado	configurazione	arnese	composto chimico
+persona	male	sentimento	immoralità	sventura	accoramento	afflizione	disapprovazione	espressione	violenza	coglionaggine	sciocchezza	empietà	vessazione	malcostume
+persona	comune	guru	municipalità	leader	metropoli	paese	comunità	titolo	artista	città	dotto	borgo	regione	politico
+scrittore	persona	artista	attore	autore	musicista	cantante	comune	politico	sceneggiatore	sportivo	strumentista	direttore	compositore	guru
+persona	guru	comunità	raffigurazione	comune	appezzato	artista	intellettuale	celebrità	dotto	municipalità	autore	tracheobionta	coglioneria	scrittore
+comunità	regione	composto	comune	municipalità	fenomeno naturale	sborso	struttura architettonica	raffigurazione	configurazione	denominazione	periodo	suddivisione amministrativa	unione	zona
+municipalità	comune	città	metropoli	regione	persona	comunità	sportivo	appezzato	paese	quartiere	comune italiano	borgo	artista	località
+composto	estremità	tracheobionta	fenomeno naturale	fenomeno fisico	appezzato	configurazione	composto chimico	elemento strutturale	elemento architettonico	raffigurazione	meccanismo	acqua	sasso	minerale
+dispositivo	comune	appezzato	macchina	persona	comunità	canale di trasmissione	incominciamento	trasmissione	sborso	canale	pellicola	software	configurazione	spazio
+composto	minerale	acqua	comune	pellicola	tracheobionta	roccia	composto chimico	persona	oggetto celeste	pietra	borgo	pianta da fiore	gemma	corpo celeste
+dispositivo	appezzato	macchina	trasmissione	canale di trasmissione	configurazione	canale	tecnologia	apparecchio elettrico	organo	automatismo	comune	grado	spazio	meccanismo
+persona	personaggio immaginario	appezzato	personaggio	comune	titolo	artista	raffigurazione	imbecillaggine	dotto	autore	animale	tracheobionta	film	antroponimo
+trasporto	trasporto passeggeri	mezzo di trasporto	trasporto dei passeggeri	veicolo	compagnia	macchina	trasporto fluviale	appezzato	cargo	comune	borgo	dispositivo	paese	veicolo a motore
+comune	municipalità	paese	borgo	città	regione	quartiere	comunità	comune italiano	metropoli	frazione	località	zona	persona	suddivisione amministrativa
+persona	comune	scrittore	artista	sportivo	comune italiano	autore	dotto	politico	attore	municipalità	intellettuale	borgo	coglioneria	istrione
+comune	persona	borgo	paese	comune italiano	comunità	municipalità	città	scrittore	dotto	metropoli	regione	artista	titolo	appezzato
+struttura architettonica	edificio	borgo	comunità	comune	zona	regione	quartiere	municipalità	elemento architettonico	spazio	località	paese	frazione	configurazione
+scrittore	persona	artista	direttore	intellettuale	dotto	titolo	istrione	verseggiatore	studioso	guru	personaggio	musico	attore	celebrità
+espressione	persona	comunità	ragionamento	risorsa	possesso	imbecillaggine	unione	evidenza	fenomeno	periodo	fenomeno naturale	documento	comune	fenomeno fisico
+comunità	scuola	persona	struttura architettonica	comune	indagazione	grado	municipalità	sborso	appezzato	imbecillaggine	compagnia	accademia	periodo	regione
+persona	possesso	titolo	carica	grado	comunità	organo	accoramento	tempo	municipalità	coglioneria	comune	raffigurazione	paese	controllo
+comune	municipalità	comunità	paese	borgo	città	regione	comune italiano	località	isola	quartiere	suddivisione amministrativa	frazione	persona	metropoli
+struttura architettonica	borgo	comune	edificio	regione	zona	quartiere	estremità	frazione	municipalità	suddivisione amministrativa	comunità	località	spazio	città
+persona	scrittore	autore	artista	film	appezzato	celebrità	pellicola	attore	coglioneria	cinema	opera musicale	personaggio immaginario	comune	lungometraggio
+fenomeno	fenomeno fisico	sborso	fenomeno naturale	evidenza	espressione	fenomeno atmosferico	male	ragionamento	aggiustamento	contestazione	periodo	tendenza	esperienza	incoerenza
+giocatore di calcio	comune	municipalità	sportivo	città	regione	paese	borgo	appezzato	comunità	quartiere	metropoli	comune italiano	acqua	persona
+persona	calamità	bufera	paese	tormenta	male	tracheobionta	tempesta	comunità	scontro	appezzato	imbecillaggine	stupidezza	sventura	cataclisma
+fenomeno	persona	fenomeno fisico	fenomeno naturale	tracheobionta	imbecillaggine	grado	meccanismo	coglioneria	pellicola	sborso	appezzato	composto	forbitezza	incominciamento
+persona	raffigurazione	racconto	testo	pellicola	personaggio immaginario	film	titolo	personaggio	appezzato	tracheobionta	istrione	antroponimo	coglioneria	ragionamento
+testo	resoconto	possesso	organo	comune	carta	appezzato	comunità	messaggio	accordo	affisso	allocuzione	persona	periodo	scrittura
+persona	film	film drammatico	appezzato	personaggio immaginario	pellicola	imbecillaggine	comune	coglioneria	sborso	dramma	raffigurazione	tracheobionta	racconto	lungometraggio
+persona	testo	allocuzione	raffigurazione	titolo	appezzato	comunità	espressione	sborso	messaggio	coglioneria	ragionamento	pellicola	scrittura	guru
+dispositivo	macchina	comune	composto	tecnologia	mobile	configurazione	canale	apparecchio elettrico	mass media	accessorio	organo	municipalità	canale di trasmissione	persona
+persona	sportivo	personaggio	difensore	artista	leader	personaggio immaginario	concorrente	ragazzo	titolo	rivale	soldato	appezzato	attaccante	autore
+persona	personaggio immaginario	film	personaggio	pellicola	guru	celebrità	artista	comune	attore	star	leader	dotto	istrione	album studio
+documento	persona	testo	trasmissione	movimento	allocuzione	pellicola	scrittura	messaggio	comune	appezzato	raffigurazione	organo	cinema	lungometraggio
+municipalità	comune	borgo	quartiere	città	metropoli	persona	paese	comunità	località	regione	compagnia	isola	imbecillaggine	suddivisione amministrativa
+fenomeno fisico	appezzato	grado	fenomeno	fenomeno naturale	persona	tracheobionta	imbecillaggine	dispositivo	possesso	sborso	movimento	aggiustatura	organo	coglionaggine
+denaro	possesso	contratto	imbecillaggine	documento	continuamento	pagamento	danaro	liquidità	spesa	moneta circolante	importo	sborso	risorsa	meccanismo
+dispositivo	acqua	composto	liquido	meccanismo	tracheobionta	appezzato	macchina	composto chimico	organo	minerale	tubatura	cibo	automatismo	fenomeno fisico
+persona	appezzato	comune	artista	sportivo	attore	scrittore	municipalità	borgo	personaggio	città	personaggio immaginario	cantante	celebrità	star
+dispositivo	estremità	tubatura	macchina	meccanismo	acqua	appezzato	configurazione	composto	copertura	tubazione	barriera	panneggiamento	sasso	spazio
+appezzato	spazio	fenomeno fisico	fenomeno naturale	acqua	tracheobionta	dispositivo	fenomeno	oggetto celeste	fenomeno atmosferico	composto	corpo celeste	temporale	borgo	paese
+regione	paese	città	comune	borgo	municipalità	zona	fiume	località	quartiere	comunità	isola	metropoli	rivo	suddivisione amministrativa
+fenomeno naturale	fenomeno fisico	passo	estremità	fenomeno	sborso	composto	configurazione	acqua	limite	meccanismo	tracheobionta	incominciamento	spazio	appezzato
+appezzato	trasmissione	comune	compagnia	film	paese	titolo	borgo	produzione	persona	metropoli	canale di trasmissione	pellicola	municipalità	mass media
+municipalità	comune	persona	regione	comunità	paese	moneta circolante	comune italiano	nazione	suddivisione amministrativa	metropoli	lingua	moneta	composto	appezzato
+dispositivo	tecnologia	configurazione	meccanismo	fenomeno fisico	codifica	automatismo	macchina	fenomeno	grado	fenomeno naturale	trasmissione	standard	struttura architettonica	mass media
+fenomeno naturale	tracheobionta	fenomeno fisico	sborso	fenomeno atmosferico	roccia	fenomeno	acqua	annodamento	estremità	spazio	cretineria	appezzato	incominciamento	bufera
+laureato	persona	titolo	comune	imbecillaggine	municipalità	comunità	posseditore	facoltà	appezzato	aggiustatura	professione	possesso	carica	indagazione
+tracheobionta	persona	sborso	panneggiamento	cibo	fenomeno fisico	male	cretineria	acqua	composto	fenomeno naturale	appezzato	fenomeno	imbecillaggine	coglioneria
+configurazione	spazio	sborso	fenomeno fisico	peso	automatismo	meccanismo	limite	passo	dispositivo	fenomeno naturale	grandezza	elemento strutturale	estremità	fenomeno
+persona	titolo	periodo	sborso	nome di battesimo	periodo di tempo	tempo	appezzato	imbecillaggine	film	allocuzione	paese	comune	pellicola	posseditore
+documento	scrittura	pubblicazione	trattazione	aggiustamento	possesso	scrematura	miglioramento	allocuzione	registrazione	chiarificazione	sborso	suddivisione amministrativa	ragionamento	periodo
+persona	scrittore	intellettuale	istrione	dotto	artista	autore	comune	guru	allocuzione	film	poeta	pellicola	scrittrice	celebrità
+composto	meccanismo	organo	raffigurazione	tracheobionta	mistura	dispositivo	incominciamento	fenomeno naturale	appezzato	fenomeno	fenomeno fisico	miscela	coglioneria	spazio
+persona	comune	appezzato	grado	giocatore di calcio	municipalità	sportivo	titolo	artista	borgo	personaggio	principale	personaggio immaginario	attaccante	dotto
+comunità	municipalità	suddivisione amministrativa	regione	comune	possesso	autorità	borgo	zona	struttura architettonica	paese	sede	controllo	località	città
+possesso	denaro	paese	continuamento	tempo	comune	comunità	sborso	borgo	aggiustatura	imbecillaggine	persona	appezzato	prezzo	periodo
+metodica	coglioneria	imbecillaggine	fenomeno fisico	trasmissione	disciplina	persona	ricerca scientifica	tracheobionta	pellicola	incominciamento	fenomeno	produzione	sborso	fenomeno naturale
+male	persona	tormenta	imbecillaggine	film	film drammatico	bufera	tracheobionta	pellicola	coglioneria	tempesta	coglionaggine	pericolo	cretineria	sentimento
+sborso	trasmissione	appezzato	scrittura	incominciamento	aggiustamento	configurazione	testo	codifica	evidenza	fenomeno fisico	automatismo	spazio	meccanismo	fenomeno
+persona	raffigurazione	artista	dotto	nome di battesimo	comune	appezzato	borgo	autore	guru	titolo	musico	scrittore	personaggio immaginario	personaggio
+metropoli	persona	comunità	film	pellicola	municipalità	comune	paese	celebrità	città	personaggio immaginario	appezzato	regione	tracheobionta	criminale
+persona	artista	scrittore	soldato	sportivo	attore	direttore	regista	giornalista	politico	funzionario	leader	comune	calciatore	sceneggiatore
+persona	mestiere	professione	aggiustatura	assistente	guru	aiutante	titolo	compagnia	personaggio	artista	dottore	leader	soldato	borgo
+comune	borgo	aggiustatura	persona	quartiere	municipalità	appezzato	paese	principale	fiume	città	rivo	località	comune italiano	comunità
+canale	canale di trasmissione	appezzato	trasmissione	dispositivo	comune	mass media	sborso	cavo	tracheobionta	borgo	pellicola	regione	acqua	spazio
+allocuzione	persona	raffigurazione	ragionamento	sborso	documento	appezzato	imbecillaggine	tempo	periodo	titolo	possesso	resoconto	pellicola	sentenza
+dispositivo	macchina	trasmissione	meccanismo	automatismo	apparecchio elettrico	software	appezzato	tecnologia	computer	pacchetto	sistema software	calcolatore elettronico	codifica	calcolatore
+composto	mistura	minerale	carta	metallo	acqua	pasta	liquido	organo	composto chimico	tracheobionta	accessorio	miscela	dispositivo	cibo
+tracheobionta	persona	appezzato	comune	organo	raffigurazione	pellicola	coglioneria	arnese	incominciamento	oggetto celeste	film	dispositivo	corpo celeste	personaggio immaginario
+cibo	cibarie	composto	acqua	tracheobionta	persona	minerale	volatile	liquido	animale	piatto	vegetale	appezzato	vertebrato	cretineria
+borgo	paese	rivo	zona	località	comune	regione	fiume	città	comunità	quartiere	montagna	municipalità	metropoli	frazione
+persona	comune	appezzato	sportivo	areoplano	grado	dispositivo	veicolo	artista	macchina	attore	borgo	concorrente	attaccante	municipalità
+appezzato	titolo	municipalità	pellicola	comune	grado	persona	film	tempo	giocata	sborso	stagione	periodo	periodo di tempo	spazio
+tracheobionta	composto	cibo	vegetale	magnoliophyta	acqua	comune	panneggiamento	mistura	composto chimico	incominciamento	comunità	miscela	minerale	cretineria
+sportivo	persona	artista	comune	scrittore	comune italiano	autore	istrione	dotto	appezzato	direttore	attore	calciatore	cantore	musicista
+comune	persona	artista	comune italiano	borgo	sportivo	scrittore	politico	municipalità	aggiustatura	dotto	appezzato	paese	principale	comunità
+persona	male	disturbo	fenomeno fisico	tormenta	fenomeno	violenza	coglioneria	afflizione	sentimento	cretineria	fatalità	imbecillaggine	coglionaggine	dramma
+borgo	edificio	quartiere	paese	località	comunità	comune	rivo	città	zona	edificio pubblico	municipalità	struttura architettonica	regione	fiume
+persona	raffigurazione	comune	comunità	titolo	paese	nome di battesimo	personaggio immaginario	guru	personaggio	appezzato	antroponimo	borgo	tracheobionta	municipalità
+persona	sborso	imbecillaggine	appezzato	tempo	periodo	incominciamento	pellicola	raffigurazione	male	periodo di tempo	portata	indagazione	spazio	tracheobionta
+comune	municipalità	città	regione	metropoli	comunità	borgo	paese	località	quartiere	appezzato	fiume	isola	zona	comune italiano
+produzione	composto	trasmissione	pellicola	film	composto chimico	appezzato	prodotto alimentare	comune	mass media	fenomeno fisico	album studio	tracheobionta	prodotto caseario	canale di trasmissione
+ricerca scientifica	ragionamento	metodica	trattazione	disciplina	evidenza	spiegazione	persona	argomentazione	scrittura	chiarificazione	allocuzione	investigazione	documento	fenomeno fisico
+dispositivo	pellicola	appezzato	trasmissione	canale di trasmissione	circuito elettronico	canale	comune	macchina	composto	sborso	spazio	mass media	cinema	produzione
+persona	artista	scrittore	attore	film	regista	regista cinematografico	autore	comune	sceneggiatore	pellicola	musicista	cantante	sportivo	appezzato
+tempesta	tormenta	bufera	persona	tracheobionta	appezzato	raffigurazione	film	cretineria	paese	quadrumane	panneggiamento	personaggio immaginario	temporale	astro
+persona	comune	titolo	aggiustatura	appezzato	comunità	principale	possesso	municipalità	sede	difensore	borgo	grado	dotto	ausiliare
+veicolo	macchina	persona	imbarcazione	compagnia	pellicola	film	appezzato	imbecillaggine	sborso	motoveicolo	nave	trasporto	trasporto passeggeri	dispositivo
+comune	borgo	municipalità	paese	città	quartiere	comunità	comune italiano	regione	località	frazione	persona	rivo	edificio	metropoli
+meccanismo	fenomeno fisico	fenomeno naturale	dispositivo	fenomeno	membrana	organo	tracheobionta	composto	liquido	tessuto animale	fenomeno atmosferico	automatismo	incominciamento	processo naturale
+comunità	metropoli	persona	municipalità	paese	città	comune	film	pellicola	titolo	regione	borgo	nazione	opera musicale	comune italiano
+persona	assemblea	carica	allocuzione	periodo	municipalità	imbecillaggine	comunità	appezzato	suddivisione amministrativa	possesso	comune	autorità	aggiustatura	documento
+persona	composto	appezzato	grado	comune	pellicola	corpo celeste	tracheobionta	borgo	città-stato	annodamento	acqua	panneggiamento	sportivo	organo
+persona	male	fenomeno fisico	coglioneria	sentimento	raffigurazione	fenomeno	intellettuale	coglionaggine	racconto	psicopatia	disturbo	tracheobionta	ragionamento	allocuzione
+pellicola	raffigurazione	appezzato	film	metropoli	tracheobionta	comune	municipalità	coglioneria	mass media	cinema	sborso	borgo	incominciamento	persona
+comunità	municipalità	persona	regione	metropoli	comune	città	associazione	paese	raffigurazione	nazione	allocuzione	suddivisione amministrativa	intellettuale	fazione
+persona	assistente	intellettuale	direttore	titolo	professione	leader	guru	laureato	comunità	imbecillaggine	comune	autore	aggiustatura	mestiere
+comune	borgo	municipalità	città	paese	comunità	quartiere	regione	località	comune italiano	fiume	metropoli	appezzato	suddivisione amministrativa	persona
+opera musicale	film	raccolta musicale	pellicola	metropoli	cinema	comune	composizione musicale	album studio	lungometraggio	trasmissione	appezzato	brano	gruppo musicale	celebrità
+fenomeno	fenomeno naturale	fenomeno fisico	fenomeno atmosferico	movimento	comunità	periodo	regione	temporale	paese	comune	municipalità	imbecillaggine	male	disturbo
+persona	documento	titolo	raffigurazione	municipalità	comune	allocuzione	comunità	organo	grado	carica	associazione	merito	appezzato	città-stato
+persona	istrione	artista	intellettuale	mestiere	verseggiatore	dotto	studioso	autore	guru	professione	comune	strumentista	scrittore	suonatore
+persona	assemblea	allocuzione	titolo	carica	radunata	documento	appezzato	imbecillaggine	possesso	sborso	raffigurazione	periodo	tempo	comunità
+pubblicazione	appezzato	scrittura	possesso	sborso	produzione	periodo	trasmissione	comunità	suddivisione amministrativa	registrazione	risorsa	acquisizione	municipalità	configurazione
+possesso	continuamento	sborso	imbecillaggine	appezzato	denaro	importo	spesa	liquidità	vantaggio	contratto	pagamento	aggiustatura	comune	accordo
+borgo	paese	comune	sportivo	quartiere	veicolo	città	compagnia	municipalità	appezzato	località	persona	macchina	edificio	canale
+persona	comune	artista	dotto	sportivo	borgo	comunità	comune italiano	municipalità	autore	guru	scrittore	appezzato	principale	istrione
+persona	comune	possesso	dotto	comunità	cibo	documento	paese	produzione	organo	borgo	composto	appezzato	mestiere	incominciamento
+software	trasmissione	dispositivo	programma informatico	mass media	tecnologia	compagnia	appezzato	sistema software	azienda	macchina	persona	software open-source	canale di trasmissione	pacchetto
+persona	titolo	male	imbecillaggine	film	intellettuale	ridicolaggine	sentimento	coglioneria	sborso	sciocchezza	pellicola	personaggio immaginario	celebrità	guru
+sborso	persona	film	imbecillaggine	appezzato	pellicola	film drammatico	tracheobionta	comune	portata	incominciamento	cretineria	coglioneria	raffigurazione	tempo
+scontro	male	persona	pericolo	sventura	disgrazia	litigio	bufera	tormenta	violenza	calamità	avversità	tempo	fatalità	malefatta
+persona	fenomeno fisico	tracheobionta	male	coglionaggine	coglioneria	percezione	fenomeno naturale	cretineria	raffigurazione	fenomeno	animale	panneggiamento	stupidezza	incominciamento
+comune	persona	comune italiano	appezzato	comunità	municipalità	dotto	borgo	artista	città-stato	scrittore	intellettuale	autore	principale	sportivo
+comunità	comune	sborso	paese	appezzato	periodo	spazio	borgo	regione	periodo di tempo	tempo	produzione	municipalità	imbecillaggine	aggiustatura
+comunità	regione	municipalità	comune	metropoli	produzione	acqua	appezzato	azienda	paese	compagnia	suddivisione amministrativa	città-stato	città	tracheobionta
+persona	artista	attore	scrittore	autore	cantante	musicista	celebrità	regista	personaggio	film	sceneggiatore	appezzato	sportivo	regista cinematografico
+persona	città	comune	borgo	municipalità	quartiere	paese	appezzato	sportivo	metropoli	scrittore	artista	autore	principale	comunità
+male	espressione	evidenza	coglionaggine	fenomeno fisico	fenomeno	fenomeno naturale	afflizione	persona	caratteristica	accoramento	condizione fisiologica	sintomo	incapacità	possesso
+comune	appezzato	imbecillaggine	tracheobionta	struttura architettonica	comunità	aggiustatura	municipalità	regione	suddivisione amministrativa	grado	raffigurazione	persona	sborso	periodo
+composto chimico	composto	tracheobionta	liquido	fenomeno fisico	minerale	elemento chimico	meccanismo	persona	dispositivo	organo	appezzato	fenomeno naturale	processo chimico	comune
+moneta circolante	risorsa	continuamento	meccanismo	possesso	denaro	acqua	comunità	spesa	composto	sborso	liquidità	mistura	tassa	automatismo
+persona	scrittore	artista	autore	musicista	opera musicale	strumentista	orchestrale	attore	istrione	dotto	cantante	direttore	intellettuale	docente
+comunità	persona	comune	fenomeno fisico	struttura architettonica	municipalità	raffigurazione	disciplina	appezzato	forbitezza	metropoli	fenomeno naturale	coglioneria	scienza	ricerca scientifica
+comune	municipalità	comune italiano	comunità	città	regione	paese	persona	borgo	artista	appezzato	metropoli	quartiere	città-stato	scrittore
+municipalità	comune	comune italiano	comunità	persona	regione	lingua	idioma	paese	città	borgo	suddivisione amministrativa	quartiere	metropoli	indoeuropeo
+comune	municipalità	città	metropoli	borgo	paese	persona	quartiere	comunità	regione	comune italiano	appezzato	sportivo	coglioneria	artista
+persona	possesso	imbecillaggine	tempo	titolo	appezzato	comune	comunità	ridicolaggine	aggiustatura	sborso	paese	grado	allocuzione	municipalità
+persona	borgo	comune	personaggio immaginario	paese	artista	scrittore	titolo	celebrità	autore	personaggio	guru	principale	antroponimo	nome di battesimo
+persona	raffigurazione	coglioneria	comunità	pellicola	sborso	appezzato	tracheobionta	imbecillaggine	racconto	celebrità	evidenza	film	personaggio immaginario	intellettuale
+dispositivo	macchina	metallo	meccanismo	composto	accessorio	arnese	configurazione	estremità	acqua	copertura	tracheobionta	apparecchio elettrico	organo	liquido
+persona	film	metropoli	paese	comune	pellicola	titolo	personaggio immaginario	municipalità	celebrità	borgo	film drammatico	comunità	personaggio	intellettuale
+animale	tracheobionta	persona	vertebrato	animale selvatico	raffigurazione	corpo celeste	oggetto celeste	montagna	personaggio immaginario	borgo	femmina	mammifero	pianta da fiore	felino
+aggiustamento	configurazione	meccanismo	miglioramento	fenomeno naturale	fenomeno fisico	fenomeno	processo naturale	controllo	verifica	ripristino	operazione	riparazione	suddivisione amministrativa	integrazione
+persona	giocatore di calcio	attaccante	comune	sportivo	personaggio	grado	appezzato	artista	concorrente	dispositivo	personaggio immaginario	difensore	dotto	leader
+comune	borgo	municipalità	paese	comunità	città	località	quartiere	frazione	comune italiano	regione	aggiustatura	suddivisione amministrativa	zona	persona
+cibo	persona	tracheobionta	composto	pellicola	volatile	cibarie	acqua	cretineria	film	liquido	raffigurazione	animale	male	femmina
+macchina	dispositivo	persona	denaro	appezzato	possesso	pellicola	composto	arnese	titolo	banconota	cibo	cambista	cibarie	veicolo
+persona	comune	municipalità	paese	comunità	borgo	regione	comune italiano	metropoli	città	appezzato	quartiere	leader	principale	politico
+raffigurazione	struttura architettonica	sborso	grandezza	imbecillaggine	espressione	portata	coglioneria	persona	periodo	fenomeno fisico	comunità	evidenza	fenomeno naturale	appezzato
+piatto	cibo	macchina	tracheobionta	acqua	arnese	dispositivo	composto	indumento	organo	vertebrato	cibarie	animale	accessorio	comune
+possesso	verifica	meccanismo	aggiustamento	fenomeno fisico	imbecillaggine	ragionamento	calcolo	forbitezza	grado	miglioramento	configurazione	computo	automatismo	risorsa
+natante	autovettura	stoviglia	aerofono	stoviglie	carrozzeria	asciugatrice	percussione	prodotto caseario	motocicletta	prodotto tessile	autocaravan	magnoliophyta	automobile	metallo
+cibo	acqua	composto	cibarie	comune	pellicola	paese	produzione	verdura	film	dessert	pasta	vegetale	metropoli	borgo
+regione	comune	municipalità	paese	città	borgo	comunità	zona	località	comune italiano	quartiere	metropoli	provincia	persona	suddivisione amministrativa
+comune	appezzato	titolo	persona	municipalità	comunità	sborso	borgo	artista	città-stato	imbecillaggine	paese	aggiustatura	autore	pellicola
+dispositivo	macchina	meccanismo	estremità	configurazione	tracheobionta	composto	accessorio	organo	arnese	acqua	metallo	grado	automatismo	appezzato
+regione	comune	comunità	municipalità	borgo	paese	città	comune italiano	provincia	metropoli	località	zona	quartiere	suddivisione amministrativa	frazione
+fenomeno fisico	fenomeno naturale	acqua	fenomeno	fenomeno atmosferico	tracheobionta	composto	meccanismo	liquido	cibo	composto chimico	incominciamento	vegetale	processo naturale	cretineria
+persona	comune	artista	municipalità	scrittore	comune italiano	dotto	comunità	sportivo	guru	autore	direttore	intellettuale	appezzato	politico
+struttura architettonica	borgo	raffigurazione	pietra	comune	estremità	elemento architettonico	composto	appezzato	roccia	città-stato	sasso	municipalità	tracheobionta	edificio
+comune	persona	municipalità	artista	borgo	comunità	comune italiano	appezzato	sportivo	dotto	scrittore	pellicola	quartiere	autore	aggiustatura
+struttura architettonica	spazio	organo	comune	configurazione	sborso	appezzato	borgo	suddivisione amministrativa	edificio	regione	comunità	zona	raffigurazione	aggiustatura
+composto	composto chimico	liquido	miscela	acqua	minerale	tracheobionta	cibo	mistura	meccanismo	vegetale	fenomeno fisico	molecola	processo chimico	fenomeno naturale
+documento	comune	testo	database	comunità	codifica	sborso	appezzato	trasmissione	indagazione	resoconto	scrittura	computo	organo	struttura architettonica
+comunità	possesso	autorità	suddivisione amministrativa	municipalità	controllo	comune	assemblea	persona	regione	documento	patto	nazione	capitale	titolo
+dispositivo	appezzato	configurazione	macchina	composto	acqua	meccanismo	estremità	tracheobionta	incominciamento	comune	panneggiamento	sborso	forbitezza	organo
+tracheobionta	cibo	acqua	minerale	composto	comune	vegetale	vino	miscela	verdura	composto chimico	liquido	pasta	pianta	formaggio
+persona	tracheobionta	animale	raffigurazione	comune	vertebrato	personaggio immaginario	deità	antroponimo	comunità	cretineria	appezzato	personaggio	cibo	paese
+persona	vertebrato	animale	comune	paese	personaggio immaginario	borgo	mammifero	animale selvatico	tracheobionta	felino	personaggio	municipalità	carnivoro	antroponimo
+comune	appezzato	persona	tracheobionta	comune italiano	dotto	aggiustatura	borgo	annodamento	città-stato	comunità	incominciamento	antroponimo	artista	sportivo
+sborso	risorsa	comunità	miglioramento	fenomeno fisico	fenomeno naturale	periodo	fenomeno	grado	espressione	movimento	progresso	accoramento	imbecillaggine	tempo
+persona	laureato	docente	dottore	studioso	direttore	autore	dotto	ricercatore	istrione	scrittore	guru	professione	artista	intellettuale
+persona	male	tormenta	sfortuna	racconto	raffigurazione	sentimento	afflizione	persona non grata	fatalità	avversità	dramma	sciocchezza	pericolo	coglionaggine
+fenomeno fisico	meccanismo	tracheobionta	fenomeno naturale	fenomeno	coglioneria	processo chimico	appezzato	dispositivo	processo naturale	fenomeno atmosferico	reazione chimica	coglionaggine	imbecillaggine	persona
+documento	appezzato	persona	radunata	messaggio	titolo	sborso	comune	allocuzione	possesso	municipalità	imbecillaggine	organo	borgo	tempo
+trasmissione	tracheobionta	film	appezzato	pellicola	canale di trasmissione	sborso	mass media	comune	persona	incominciamento	cinema	cretineria	panneggiamento	coglioneria
+persona	trasmissione	autore	celebrità	artista	direttore	principale	dotto	comune	titolo	posseditore	leader	personaggio immaginario	attore	personaggio
+comune	comune italiano	persona	municipalità	sportivo	calciatore	artista	comunità	appezzato	dotto	paese	attore	tracheobionta	antroponimo	regione
+persona	artista	scrittore	autore	comune	pittore	intellettuale	attore	istrione	dotto	studioso	letterato	poeta	politico	musicista
+possesso	continuamento	denaro	sborso	appezzato	compenso	tempo	servizio	importo	corresponsione	spesa	contratto	prezzo	imbecillaggine	documento
+dispositivo	sborso	automatismo	appezzato	continuamento	macchina	denaro	imbecillaggine	prezzo	moneta circolante	meccanismo	veicolo	pagamento	possesso	banconota
+vertebrato	animale	comune	tracheobionta	persona	mammifero	oggetto celeste	animale selvatico	corpo celeste	raffigurazione	municipalità	carnivoro	volatile	felino	regione
+fenomeno fisico	male	persona	sborso	tempo	fenomeno	imbecillaggine	fenomeno naturale	grado	coglioneria	avversità	coglionaggine	cretineria	spazio	sentimento
+trasmissione	canale di trasmissione	comune	pellicola	film	appezzato	municipalità	mass media	trasmissione televisiva	regione	canale	cinema	metropoli	compagnia	comunità
+borgo	rivo	quartiere	paese	località	comune	edificio	montagna	fiume	città	zona	comunità	municipalità	acqua	torrente
+dispositivo	raffigurazione	macchina	spazio	persona	organo	appezzato	finestra temporale	sborso	pellicola	incominciamento	coglioneria	borgo	estremità	struttura architettonica
+possesso	periodo	sborso	tempo	periodo di tempo	imbecillaggine	appezzato	comunità	comune	grado	documento	persona	fenomeno	spazio	patto
+persona	appezzato	imbecillaggine	coglioneria	aggiustatura	comune	tracheobionta	posseditore	paese	panneggiamento	comunità	accoramento	borgo	annodamento	male
+persona	scrittore	artista	direttore	autore	laureato	comune	dotto	attore	sportivo	docente	musicista	comune italiano	strumentista	istrione
+scontro	incidente	bufera	tempesta	appezzato	colpo	imbecillaggine	disastro	tormenta	fenomeno fisico	male	sborso	sciagura	fenomeno atmosferico	temporale
+comune	persona	comune italiano	artista	scrittore	dotto	borgo	municipalità	comunità	sportivo	calciatore	politico	antroponimo	paese	autore
+persona	comune	comune italiano	sportivo	dotto	municipalità	leader	politico	appezzato	artista	direttore	aggiustatura	comunità	principale	regione
+persona	comune	municipalità	regione	comunità	metropoli	città	paese	tracheobionta	titolo	isola	pellicola	appezzato	mass media	raffigurazione
+borgo	comune	municipalità	quartiere	città	paese	località	comune italiano	comunità	rivo	persona	frazione	regione	artista	nome di battesimo
+raffigurazione	appezzato	aggiustatura	struttura architettonica	imbecillaggine	spazio	composto	comune	organo	evidenza	sborso	portata	affisso	comunità	municipalità
+borgo	comune	paese	municipalità	città	comunità	regione	località	quartiere	rivo	comune italiano	frazione	fiume	persona	zona
+appezzato	comune	municipalità	sborso	composto	periodo	regione	spazio	città	comunità	periodo di tempo	tempo	grado	paese	imbecillaggine
+comune	municipalità	persona	città	comunità	regione	borgo	paese	comune italiano	suddivisione amministrativa	quartiere	titolo	metropoli	stato federato	località
+canale	comune	canale di trasmissione	regione	borgo	paese	municipalità	fiume	rivo	appezzato	zona	città	quartiere	metropoli	comunità
+raffigurazione	persona	borgo	nome di battesimo	comune	rivo	tracheobionta	paese	appezzato	comunità	corpo celeste	oggetto celeste	pellicola	panneggiamento	città
+punto	spazio	punto geografico	sborso	punto di riferimento	limite	comune	appezzato	tempo	fenomeno fisico	passo	comunità	periodo	periodo di tempo	fenomeno naturale
+persona	allocuzione	sentimento	coglioneria	accoramento	espressione	falsità	raffigurazione	afflizione	male	intellettuale	immoralità	pellicola	film	imbecillaggine
+comune	borgo	municipalità	persona	comune italiano	comunità	città	paese	quartiere	località	regione	frazione	aggiustatura	rivo	suddivisione amministrativa
+tracheobionta	vertebrato	estremità	animale	fenomeno naturale	tessuto animale	caratteristica	corpo celeste	oggetto celeste	acqua	piatto	annodamento	barriera	panneggiamento	sasso
+lingua	indoeuropeo	raffigurazione	composto	persona	tracheobionta	pianta	idioma	antroponimo	pianta da fiore	cibo	oggetto celeste	comunità	regione	magnoliophyta
+movimento	fenomeno naturale	fenomeno	fenomeno fisico	configurazione	dispositivo	risorsa	acqua	comunità	grado	appezzato	automatismo	meccanismo	comune	regione
+persona	grado	comune	sborso	comunità	possesso	appezzato	titolo	risorsa	coglioneria	carica	tempo	imbecillaggine	periodo	raffigurazione
+comune	borgo	persona	municipalità	edificio	quartiere	rivo	appezzato	paese	città	pellicola	metropoli	raffigurazione	artista	struttura architettonica
+software	dispositivo	tecnologia	trasmissione	sistema software	programma informatico	mass media	macchina	comunità	appezzato	codifica	composto	comune	software open-source	canale di trasmissione
+borgo	quartiere	municipalità	paese	zona	comune	città	comunità	località	regione	edificio	metropoli	frazione	struttura architettonica	suddivisione amministrativa
+meccanismo	composto	dispositivo	composto chimico	fenomeno fisico	codifica	configurazione	forbitezza	processo chimico	tracheobionta	membrana	reazione chimica	liquido	automatismo	tecnologia
+persona	artista	attore	cantante	scrittore	musicista	comune	autore	guru	celebrità	leader	personaggio	dotto	istrione	regista
+documento	testo	ragionamento	scrittura	appezzato	sborso	allocuzione	messaggio	trasmissione	periodo	incominciamento	codifica	persona	trattazione	notazione musicale
+comune	sportivo	persona	borgo	municipalità	giocatore di calcio	attaccante	appezzato	fiume	paese	quartiere	dotto	calciatore	comune italiano	città
+comunità	municipalità	regione	comune	metropoli	nazione	città	suddivisione amministrativa	persona	paese	compagnia	capitale	stato federato	associazione	struttura architettonica
+tempesta	bufera	tormenta	scontro	appezzato	fenomeno atmosferico	cataclisma	temporale	disastro	colpo	fenomeno	incidente	calamità	fenomeno fisico	imbecillaggine
+paese	borgo	regione	comune	città	zona	fiume	municipalità	località	quartiere	metropoli	comunità	mare	isola	rivo
+fenomeno fisico	movimento	fenomeno naturale	grado	comunità	comune	regione	municipalità	fenomeno	persona	appezzato	evidenza	grandezza	coglioneria	periodo
+comune	paese	persona	comunità	città	borgo	metropoli	municipalità	regione	comune italiano	quartiere	isola	personaggio immaginario	posseditore	località
+verifica	ragionamento	risorsa	metodica	evidenza	ricerca scientifica	miglioramento	trattazione	gestione	disciplina	calcolo	aggiustamento	possesso	controllo	documento
+persona	borgo	nome di battesimo	comune	comunità	paese	antroponimo	dotto	titolo	personaggio	rivo	personaggio immaginario	municipalità	artista	principale
+risorsa	possesso	evidenza	espressione	sborso	imbecillaggine	ragionamento	persona	grado	forbitezza	comunità	documento	appezzato	coglioneria	disciplina
+persona	comunità	paese	comune	città	metropoli	municipalità	regione	titolo	borgo	stato federato	nazione	pellicola	principale	comune italiano
+comune	borgo	municipalità	paese	città	comunità	regione	quartiere	appezzato	edificio	persona	struttura architettonica	comune italiano	metropoli	città-stato
+documento	persona	possesso	appezzato	imbecillaggine	evidenza	accordo	allocuzione	grado	carica	titolo	periodo	merito	comune	sborso
+composto	comune	minerale	tracheobionta	acqua	appezzato	borgo	composto chimico	pellicola	coglioneria	municipalità	panneggiamento	roccia	reggetta	città-stato
+fenomeno fisico	meccanismo	fenomeno	ragionamento	trasmissione	dispositivo	fenomeno naturale	metodica	scrittura	verifica	automatismo	codifica	risorsa	incominciamento	evidenza
+appezzato	pellicola	periodo	sborso	stagione	competizione	tempo	periodo di tempo	gara	spazio	comune	grado	persona	partita	manifestazione
+municipalità	comune	appezzato	città	metropoli	persona	film	quartiere	borgo	regione	comunità	sportivo	pellicola	paese	artista
+persona	sborso	appezzato	allocuzione	titolo	periodo	raffigurazione	imbecillaggine	tempo	documento	comunità	comune	periodo di tempo	coglioneria	possesso
+raffigurazione	borgo	comune	emblema	municipalità	edificio	documento	organo	composto	comunità	persona	appezzato	struttura architettonica	paese	antroponimo
+cibo	vegetale	composto	pasta	verdura	animale	tracheobionta	dessert	minerale	acqua	piatto	vertebrato	genere alimentare	cibarie	magnoliophyta
+coglioneria	struttura architettonica	sborso	raffigurazione	appezzato	configurazione	composto	annodamento	incominciamento	meccanismo	tracheobionta	fenomeno fisico	aggiustatura	spazio	organo
+persona	personaggio	personaggio immaginario	film	film drammatico	titolo	pellicola	femmina	lungometraggio	cattivo	intruso	guerriero	soldato	raffigurazione	celebrità
+edificio	struttura architettonica	raffigurazione	municipalità	borgo	comune	edificio pubblico	spazio	comunità	organo	appezzato	isola	zona	quartiere	località
+persona	figlia	femmina	governante	nome di battesimo	bambina	titolo	parente	signora	persona non grata	figlio	discendenza	giovane	famigliare	personaggio immaginario
+opera musicale	opera letteraria	raffigurazione	persona	pellicola	appezzato	rappresentazione	testo	autore	allocuzione	comunità	sborso	raccolta musicale	struttura architettonica	composizione musicale
+vertebrato	animale	uccello	animale selvatico	comune	mammifero	tracheobionta	volatile	borgo	persona	carnivoro	oviparo	roditore	felino	astro
+persona	scrittore	artista	istrione	guru	dotto	attore	autore	comune	film	celebrità	poeta	regista	pellicola	musicista
+chiarificazione	codifica	scrittura	notazione musicale	meccanismo	fenomeno fisico	trasmissione	metodica	composto	trattazione	configurazione	ragionamento	processo chimico	produzione	espressione
+persona	attore	artista	scrittore	celebrità	cantante	istrione	autore	musicista	personaggio	dotto	film	sportivo	personaggio immaginario	star
+persona	comune	comune italiano	comunità	scrittore	autore	artista	borgo	municipalità	paese	intellettuale	dotto	guru	capintesta	politico
+persona	raffigurazione	indumento	pellicola	tracheobionta	film	corpo celeste	personaggio immaginario	pelle	personaggio	coglioneria	copricapo	femmina	oggetto celeste	composto
+comune	borgo	paese	appezzato	municipalità	persona	città	regione	fiume	tracheobionta	pellicola	comunità	film	quartiere	comune italiano
+comune	persona	borgo	comune italiano	paese	comunità	artista	municipalità	appezzato	raffigurazione	città	rivo	quartiere	scrittore	metropoli
+persona	paese	comune	capintesta	titolo	leader	borgo	municipalità	appezzato	città	comunità	comune italiano	nome di battesimo	capo	film
+comunità	possesso	documento	persona	istituto	associazione	amministrazione	suddivisione amministrativa	sistema sociale	comune	continuamento	autorità	appezzato	assemblea	disciplina
+comune	municipalità	comunità	paese	città	borgo	appezzato	regione	comune italiano	suddivisione amministrativa	quartiere	frazione	località	persona	metropoli
+persona	comune	artista	borgo	comune italiano	paese	dotto	scrittore	mestiere	suonatore	sportivo	principale	autore	municipalità	politico
+persona	municipalità	assemblea	comunità	comune	carica	organo	leader	imbecillaggine	appezzato	pellicola	regione	stato federato	metropoli	autorità
+carica	persona	servizio	possesso	aggiustatura	periodo	tempo	titolo	sborso	documento	contratto	appezzato	comunità	comune	periodo di tempo
+persona	lavoratore	mestiere	imbecillaggine	possesso	tempo	titolo	professione	appezzato	intellettuale	paese	grado	rompitore	portata	comune
+persona	comune	artista	borgo	comune italiano	scrittore	municipalità	nome di battesimo	comunità	autore	dotto	musicista	titolo	paese	cantante
+mese civile	comunità	municipalità	comune	paese	persona	città	metropoli	regione	autorità	suddivisione amministrativa	borgo	capitale	struttura architettonica	periodo
+persona	scrittore	artista	autore	film	comune	pellicola	personaggio immaginario	personaggio	attore	appezzato	cantante	sportivo	opera musicale	titolo
+borgo	edificio	struttura architettonica	comune	rivo	paese	raffigurazione	estremità	quartiere	aggiustatura	appezzato	zona	comunità	regione	elemento architettonico
+cibarie	cibo	piatto	indumento	acqua	gioiello	arnese	mobilio	composto	copricapo	bigiotteria	portata	raffigurazione	accessorio	suppellettile
+persona	appezzato	comune	grado	tempo	paese	combattimento	borgo	acqua	tracheobionta	sborso	comunità	areoplano	regione	vertebrato
+macchina	appezzato	comune	persona	compagnia	veicolo	azienda	municipalità	dispositivo	trasmissione	areoplano	sportivo	configurazione	mass media	motoveicolo
+ragionamento	calcolo	possesso	verifica	forbitezza	disciplina	aggiustamento	meccanismo	espressione	risorsa	computo	fenomeno fisico	grado	evidenza	trattazione
+persona	femmina	personaggio	raffigurazione	personaggio immaginario	animale	nome di battesimo	giovane	ragazza	bambina	ragazzo	titolo	tracheobionta	persona non grata	borgo
+periodo	giorno	tempo	periodo di tempo	mese	sborso	paese	imbecillaggine	appezzato	comune	persona	pellicola	giorno feriale	stagione	comunità
+trasmissione	comunità	appezzato	allocuzione	pellicola	coglioneria	cinema	rassegna	persona	spettacolo	metropoli	mass media	manifestazione	sborso	film
+persona	artista	attore	scrittore	comune	appezzato	sportivo	musicista	autore	cantante	regista	film	sceneggiatore	regista cinematografico	pellicola
+veicolo	trasporto passeggeri	trasporto	dispositivo	macchina	mezzo di trasporto	trasporto dei passeggeri	areoplano	appezzato	veicolo a motore	imbarcazione	nave	aeroplano	spazio	grado
+appezzato	possesso	sborso	comune	comunità	tempo	periodo	periodo di tempo	spazio	imbecillaggine	persona	titolo	regione	grado	passaggio
+fenomeno fisico	meccanismo	fenomeno naturale	composto	miscela	composto chimico	fenomeno	appezzato	acqua	processo chimico	fenomeno atmosferico	liquido	tracheobionta	dispositivo	processo naturale
+comune	regione	borgo	municipalità	grado	dispositivo	persona	appezzato	tracheobionta	paese	città	macchina	annodamento	comunità	compagnia
+persona	male	raffigurazione	film	sborso	coglioneria	racconto	pellicola	film drammatico	ridicolaggine	appezzato	accoramento	rompitore	fenomeno	romanzo
+cibo	pellicola	composto	cibarie	film	dessert	persona	acqua	comune	pasta	tracheobionta	piatto	paese	appezzato	lungometraggio
+persona	comune	appezzato	grado	borgo	tempo	raffigurazione	municipalità	spazio	paese	portata	organo	città	sborso	periodo
+elemento architettonico	borgo	estremità	struttura architettonica	raffigurazione	edificio	paese	comune	comunità	sasso	regione	elemento strutturale	rivo	quartiere	passo
+persona	animale	personaggio	personaggio immaginario	vertebrato	antipatico	volatile	femmina	animale selvatico	mammifero	carnivoro	istrione	oviparo	raffigurazione	antroponimo
+periodo	periodo di tempo	borgo	comune	manifestazione	municipalità	sborso	appezzato	quartiere	paese	aggiustatura	edificio	tempo	imbecillaggine	città
+paese	regione	comunità	comune	municipalità	metropoli	borgo	tracheobionta	persona	città	montagna	raffigurazione	composto	pellicola	suddivisione amministrativa
+sborso	caratteristica	raffigurazione	appezzato	fenomeno	tempo	risorsa	meccanismo	persona	periodo	evidenza	composto	espressione	indizio	fenomeno naturale
+composto	acqua	pianta da fiore	tracheobionta	minerale	cibo	composto chimico	raffigurazione	pianta	vegetale	oggetto celeste	comune	persona	liquido	corpo celeste
+persona	raffigurazione	male	espressione	coglionaggine	coglioneria	ragionamento	fenomeno fisico	fenomeno	tracheobionta	percezione	sciocchezza	cretineria	falsità	accoramento
+persona	appezzato	possesso	imbecillaggine	comune	tempo	documento	sborso	titolo	periodo	municipalità	aggiustatura	periodo di tempo	incominciamento	comunità
+comune	borgo	comunità	paese	tracheobionta	vertebrato	animale	regione	acqua	municipalità	rivo	metropoli	città	comune italiano	fiume
+pellicola	sborso	film	trasmissione	imbecillaggine	appezzato	lungometraggio	periodo	cinema	canale di trasmissione	mass media	tempo	produzione	spazio	incominciamento
+dispositivo	macchina	meccanismo	configurazione	acqua	fenomeno fisico	motore	composto	appezzato	automatismo	apparecchio elettrico	veicolo	fenomeno naturale	organo	tubatura
+municipalità	regione	comune	borgo	paese	acqua	città	minerale	località	isola	metropoli	composto	roccia	comunità	zona
+possesso	tempo	aggiustatura	zona	paese	periodo di tempo	regione	comunità	grado	comune	carica	borgo	risorsa	conduzione	periodo
+persona	comune	capo	funzionario	borgo	carica	direttore	municipalità	leader	capintesta	aiutante	comunità	amministratore	comune italiano	principale
+persona	allocuzione	possesso	forbitezza	documento	disciplina	appezzato	raffigurazione	comunità	indagazione	codifica	grado	ragionamento	imbecillaggine	argomentazione
+comune	persona	borgo	municipalità	comunità	paese	grado	aggiustatura	principale	organo	comune italiano	regione	capo	carica	titolo
+paese	borgo	comune	municipalità	città	rivo	acqua	quartiere	regione	metropoli	fiume	comunità	località	zona	persona
+composto chimico	composto	liquido	minerale	acqua	miscela	meccanismo	elemento chimico	mistura	tracheobionta	dispositivo	silicato	metallo	vegetale	cibo
+sportivo	comune	giocatore di calcio	comune italiano	persona	artista	attore	dotto	municipalità	scrittore	attaccante	borgo	ciclista	difensore	atleta
+appezzato	persona	tracheobionta	aggiustatura	imbecillaggine	comune	coglionaggine	coglioneria	sborso	panneggiamento	incominciamento	cibo	borgo	dispositivo	organo
+paese	borgo	fiume	città	regione	zona	comune	municipalità	quartiere	località	isola	metropoli	rivo	mare	comunità
+composto	acqua	dispositivo	liquido	indumento	copertura	tessuto animale	meccanismo	metallo	minerale	tracheobionta	composto chimico	appezzato	accessorio	macchina
+persona	femmina	personaggio	personaggio immaginario	titolo	comune	nome di battesimo	figlia	municipalità	governante	antroponimo	artista	raffigurazione	borgo	guru
+dispositivo	appezzato	composto	comune	organo	macchina	meccanismo	sborso	configurazione	documento	grado	municipalità	automatismo	acqua	estremità
+comune	persona	comune italiano	politico	municipalità	dotto	sportivo	artista	direttore	scrittore	comunità	leader	borgo	principale	intellettuale
+persona	film	pellicola	metropoli	lungometraggio	celebrità	artista	personaggio immaginario	cinema	trasmissione	mass media	opera musicale	titolo	personaggio	album studio
+comune	municipalità	borgo	comunità	città	comune italiano	regione	paese	persona	metropoli	quartiere	suddivisione amministrativa	località	appezzato	fiume
+borgo	acqua	comune	persona	paese	rivo	cibo	città	composto	quartiere	municipalità	tracheobionta	regione	minerale	fiume
+veicolo	macchina	trasporto	trasporto passeggeri	mezzo di trasporto	motoveicolo	dispositivo	trasporto dei passeggeri	veicolo a motore	appezzato	natante	imbarcazione	bastimento	paese	compagnia
+film	pellicola	film drammatico	lungometraggio	persona	cinema	personaggio immaginario	romanzo	album studio	personaggio	dramma	opera musicale	artista	autore	coglioneria
+persona	cretineria	accoramento	tracheobionta	coglionaggine	male	appezzato	imbecillaggine	raffigurazione	fenomeno naturale	sborso	incominciamento	tempo	fenomeno fisico	tormenta
+comune	municipalità	composto	borgo	regione	pellicola	comunità	città	metropoli	appezzato	rivo	comune italiano	quartiere	sborso	persona
+persona	suonatore	strumentista	artista	orchestrale	organo	comune	film	pellicola	attore	sportivo	musicista	autore	sonatore	tracheobionta
+spazio	appezzato	sborso	struttura architettonica	passo	configurazione	passaggio	zona	risorsa	tempo	dispositivo	controllo	possesso	estremità	comunità
+persona	delinquente	personaggio immaginario	personaggio	ragazzo	antipatico	istrione	film	femmina	intellettuale	ridicolaggine	male	guru	dramma	titolo
+documento	possesso	comunità	persona	raffigurazione	risorsa	allocuzione	comune	periodo	evidenza	espressione	sborso	associazione	struttura architettonica	scrittura
+persona	autore	sportivo	leader	comune	artista	assistente	responsabile	capo	principale	scrittore	funzionario	dirigente	docente	amministratore
+borgo	fiume	paese	rivo	comune	regione	zona	municipalità	città	località	comunità	quartiere	torrente	frazione	acqua
+pianta da fiore	pianta erbacea	pianta legnosa	composto	tracheobionta	vegetale	acqua	struttura architettonica	pianta perenne	raffigurazione	roccia	estremità	composto chimico	fenomeno naturale	magnoliophyta
+configurazione	suddivisione amministrativa	sborso	struttura architettonica	comunità	spazio	raffigurazione	appezzato	possesso	comune	passo	denominazione	incominciamento	regione	evidenza
+persona	tempo	imbecillaggine	sborso	possesso	periodo	appezzato	male	allocuzione	raffigurazione	titolo	periodo di tempo	carica	aggiustatura	dovere
+dispositivo	macchina	veicolo	configurazione	accessorio	acqua	estremità	meccanismo	motoveicolo	metallo	composto	automatismo	apparecchio elettrico	copertura	sborso
+acqua	roccia	roccia sedimentaria	composto	minerale	tracheobionta	rivo	sasso	cibo	annodamento	appezzato	calcare	composto chimico	pietra	panneggiamento
+allocuzione	persona	appezzato	raffigurazione	documento	titolo	comune	sborso	resoconto	coglioneria	organo	imbecillaggine	periodo	accoramento	testo
+fiume	bufera	rivo	paese	acqua	borgo	appezzato	tempesta	comune	sborso	tracheobionta	fenomeno naturale	fenomeno atmosferico	periodo	municipalità
+appezzato	comune	persona	organo	municipalità	composto	tracheobionta	sportivo	regione	comunità	pellicola	borgo	grado	coglioneria	paese
+mese	periodo	tempo	periodo di tempo	persona	comune	mese civile	imbecillaggine	paese	sborso	titolo	appezzato	comunità	municipalità	giorno
+testo	persona	allocuzione	autore	documento	resoconto	scrittura	raffigurazione	trasmissione	messaggio	appezzato	pellicola	scritto	resoconto scritto	racconto
+imbecillaggine	persona	appezzato	tempo	sborso	male	fenomeno	scontro	incominciamento	fenomeno fisico	tracheobionta	tormenta	temporale	film	tempesta
+regione	paese	comune	città	fiume	municipalità	borgo	mare	comunità	rivo	isola	metropoli	acqua	zona	quartiere
+dispositivo	composto	macchina	acqua	comune	veicolo	composto chimico	appezzato	municipalità	apparecchio elettrico	organo	minerale	comunità	tracheobionta	spazio
+carta	moneta	moneta circolante	composto	comune	denaro	sborso	appezzato	documento	reggetta	organo	banconota	aggiustatura	possesso	continuamento
+comunità	regione	struttura architettonica	municipalità	suddivisione amministrativa	configurazione	fenomeno fisico	sborso	periodo	composto	fenomeno naturale	indagazione	selezione	disciplina	appezzato
+cibo	piatto	pasta	cibarie	verdura	composto	dessert	acqua	vegetale	impasto	formaggio	tracheobionta	cacio	minerale	mistura
+zona	borgo	regione	comune	località	rivo	paese	isola	sborso	montagna	città	roccia	barriera	fiume	municipalità
+dispositivo	meccanismo	fenomeno fisico	automatismo	tracheobionta	appezzato	organo	grado	fenomeno naturale	membrana	fenomeno	configurazione	codifica	incominciamento	trasmissione
+composto	acqua	minerale	tracheobionta	roccia	cibo	piatto	vegetale	pianta	indumento	mistura	pianta da fiore	roccia sedimentaria	regione	municipalità
+comune	municipalità	comune italiano	borgo	città	comunità	regione	persona	paese	quartiere	località	frazione	suddivisione amministrativa	appezzato	sportivo
+denaro	cibo	moneta circolante	moneta	acqua	comune	paese	cibarie	possesso	reggetta	sborso	borgo	danaro	tempo	comunità
+fenomeno fisico	disciplina	fenomeno	fenomeno naturale	ricerca scientifica	risorsa	miglioramento	controllo	trasmissione	comunità	gestione	metodica	investigazione	evidenza	conduzione
+acqua	cibo	composto	liquido	minerale	vegetale	miscela	tracheobionta	composto chimico	mistura	cibarie	pasta	piatto	verdura	silicato
+comunità	comune	borgo	paese	regione	municipalità	struttura architettonica	periodo	edificio	quartiere	città	raffigurazione	persona	suddivisione amministrativa	località
+comunità	municipalità	comune	regione	struttura architettonica	unione	suddivisione amministrativa	istituto	accademia	borgo	documento	città	edificio	trasmissione	metropoli
+persona	personaggio immaginario	animale	personaggio	film	vertebrato	tracheobionta	volatile	dispositivo	cibo	composto	appezzato	lungometraggio	pellicola	macchina
+fenomeno naturale	fenomeno	portata	passo	acqua	fenomeno fisico	tubatura	annodamento	fenomeno atmosferico	appezzato	sborso	bufera	spazio	aggrovigliamento	borgo
+comune	borgo	municipalità	comune italiano	paese	comunità	città	regione	località	frazione	quartiere	rivo	montagna	fiume	zona
+composto	estremità	elemento strutturale	configurazione	struttura architettonica	copertura	tracheobionta	acqua	elemento architettonico	metallo	minerale	composto chimico	meccanismo	dispositivo	liquido
+borgo	comune	paese	municipalità	appezzato	raffigurazione	titolo	persona	regione	città-stato	indumento	città	emblema	composto	grado
+persona	male	coglioneria	film	sborso	film drammatico	appezzato	racconto	pellicola	sentimento	imbecillaggine	tracheobionta	accoramento	raffigurazione	dramma
+persona	appezzato	possesso	imbecillaggine	coglioneria	allocuzione	tracheobionta	panneggiamento	incominciamento	grado	manicaretto	documento	coglionaggine	sborso	accoramento
+regione	paese	municipalità	comune	città	comunità	zona	metropoli	località	borgo	stato federato	fiume	quartiere	tracheobionta	nazione
+documento	allocuzione	assemblea	persona	accordo	possesso	contratto	patto	periodo	sentenza	comunità	discussione	ragionamento	argomentazione	imbecillaggine
+struttura architettonica	configurazione	regione	comunità	grandezza	suddivisione amministrativa	comune	spazio	composto	municipalità	appezzato	livello	estremità	grado	risorsa
+fenomeno	tempesta	fenomeno naturale	calamità	fenomeno atmosferico	fenomeno fisico	bufera	male	tormenta	cretineria	temporale	sborso	scontro	disastro	paese
+municipalità	regione	paese	comune	comunità	città	stato federato	metropoli	nazione	isola	borgo	capitale	località	zona	suddivisione amministrativa
+comune	borgo	persona	rivo	vertebrato	personaggio immaginario	paese	tracheobionta	municipalità	appezzato	città	animale	metropoli	fiume	montagna
+fenomeno fisico	acqua	meccanismo	dispositivo	grado	fenomeno naturale	fenomeno	automatismo	risorsa	fenomeno atmosferico	tecnologia	composto	calore	macchina	spazio
+scuola	comunità	municipalità	persona	struttura architettonica	comune	compagnia	borgo	regione	edificio	città	istituto	paese	quartiere	accademia
+fenomeno fisico	fenomeno	sborso	tempo	fenomeno naturale	periodo	movimento	spazio	passo	imbecillaggine	ragionamento	grado	portata	limite	risorsa
+comunità	persona	allocuzione	municipalità	capintesta	assemblea	organizzazione politica	suddivisione amministrativa	intellettuale	autorità	comune	politico	carica	economia	posseditore
+sborso	periodo	fenomeno	manifestazione	appezzato	periodo di tempo	tempo	imbecillaggine	trasmissione	film	indagazione	fenomeno fisico	fenomeno naturale	spazio	pellicola
+persona	coglioneria	raffigurazione	intellettuale	accoramento	sentimento	tracheobionta	brama	coglionaggine	titolo	cretineria	personaggio immaginario	espressione	male	sborso
+struttura architettonica	raffigurazione	estremità	copertura	borgo	sasso	composto	elemento architettonico	edificio	suppellettile	spazio	pietra	appezzato	mobilio	portata
+persona	comune	comunità	dotto	artista	scrittore	comune italiano	raffigurazione	antroponimo	istrione	intellettuale	autore	guru	coglioneria	municipalità
+sborso	tempo	risorsa	possesso	spazio	grado	periodo	documento	periodo di tempo	dispositivo	meccanismo	compito	messaggio	controllo	movimento
+fenomeno fisico	fenomeno naturale	fenomeno	fenomeno atmosferico	meccanismo	grandezza	processo naturale	temporale	condizione fisiologica	incominciamento	configurazione	automatismo	tracheobionta	limite	appezzato
+persona	comune	tempo	imbecillaggine	incominciamento	grado	appezzato	sborso	raffigurazione	titolo	municipalità	periodo	periodo di tempo	tracheobionta	portata
+persona	scrittore	autore	attore	artista	intellettuale	musicista	istrione	cantante	guru	poeta	regista	personaggio	sceneggiatore	dotto
+persona	violenza	male	calamità	avversità	allocuzione	scontro	pericolo	sventura	crudeltà	contestazione	barbarità	maltrattamento	disgrazia	malcostume
+persona	tracheobionta	fenomeno fisico	vertebrato	male	animale	fenomeno	coglionaggine	fenomeno naturale	meccanismo	coglioneria	cretineria	disturbo	composto	incominciamento
+comune	borgo	municipalità	regione	città	paese	località	comunità	appezzato	frazione	zona	comune italiano	quartiere	suddivisione amministrativa	fiume
+film	persona	pellicola	film drammatico	lungometraggio	cibo	appezzato	racconto	dramma	raffigurazione	composto	cibarie	personaggio immaginario	spettacolo	piatto
+sborso	fenomeno fisico	appezzato	fenomeno	fenomeno naturale	grado	configurazione	limite	meccanismo	periodo	spazio	tempo	parametro	livello	passo
+configurazione	codifica	tecnologia	dispositivo	scrittura	meccanismo	evidenza	risorsa	calcolo	documento	trattazione	trasmissione	chiarificazione	ragionamento	verifica
+appezzato	sborso	denaro	cibo	dispositivo	acqua	comune	portata	possesso	composto	meccanismo	imbecillaggine	reggetta	grado	aggiustatura
+persona	scrittore	artista	attore	cantante	musicista	autore	regista	celebrità	personaggio	scrittrice	film	sceneggiatore	comune	dotto
+cibo	piatto	tracheobionta	verdura	comune	cibarie	vegetale	dessert	composto	pianta da fiore	vino	borgo	paese	pianta	animale
+vertebrato	animale	tracheobionta	mammifero	animale selvatico	persona	comune	uccello	oviparo	volatile	carnivoro	femmina	flip-flop	roditore	borgo
+municipalità	paese	comune	comunità	regione	città	stato federato	metropoli	nazione	borgo	capitale	quartiere	persona	suddivisione amministrativa	appezzato
+appezzato	borgo	comune	paese	sborso	edificio	spazio	rivo	quartiere	aggiustatura	estremità	regione	raffigurazione	municipalità	struttura architettonica
+persona	capo	leader	primo ministro	funzionario	capo del governo	carica	direttore	titolo	capintesta	comune	presidente	capo di stato	amministratore	principale
+notazione musicale	opera musicale	composizione musicale	raccolta musicale	trasmissione	pellicola	persona	raffigurazione	strumento musicale	testo	nota musicale	orchestrale	rappresentazione	appezzato	coglioneria
+lirica	gaiezza	ricordanza	misantropia	burlesco	maltrattamento	poesia lirica	autobiograficamente	irriverenza	irrisione	opera teatrale	fabliau	genere letterario	cronaca	licenziosità
+lingua	idioma	comunità	municipalità	comune	regione	persona	paese	antroponimo	metropoli	composto	indoeuropeo	raffigurazione	suddivisione amministrativa	struttura architettonica
+comune	borgo	città	paese	comunità	regione	municipalità	zona	quartiere	località	comune italiano	metropoli	frazione	fiume	provincia
+municipalità	comune	comunità	leader	persona	partito politico	carica	paese	assemblea	regione	stato federato	appezzato	movimento	politico	suddivisione amministrativa
+persona	titolo	film	personaggio immaginario	lungometraggio	appezzato	racconto	sborso	comune	paese	personaggio	film drammatico	coglioneria	pellicola	borgo
+fiume	rivo	borgo	torrente	comune	acqua	paese	località	appezzato	regione	quartiere	municipalità	zona	aggiustatura	frazione
+resoconto scritto	documento	racconto	testo	allocuzione	messaggio	persona	periodo	sborso	ragionamento	raffigurazione	evidenza	tempo	appezzato	scrittura
+borgo	comune	città	quartiere	comunità	rivo	municipalità	persona	paese	regione	comune italiano	località	frazione	metropoli	coglioneria
+persona	male	coglionaggine	imbecillaggine	tracheobionta	fenomeno	tormenta	sborso	cretineria	scontro	avversità	fenomeno fisico	coglioneria	ridicolaggine	appezzato
+comune	municipalità	comunità	persona	regione	metropoli	città	comune italiano	paese	appezzato	quartiere	borgo	artista	suddivisione amministrativa	stato federato
+persona	artista	comune	scrittore	attore	cantante	dotto	comune italiano	municipalità	musicista	leader	autore	guru	celebrità	politico
+meccanismo	tracheobionta	dispositivo	fenomeno fisico	incominciamento	appezzato	composto	fenomeno naturale	metodica	processo chimico	fenomeno	processo naturale	imbecillaggine	forbitezza	sborso
+bufera	tempesta	tormenta	periodo	tempo	sborso	appezzato	imbecillaggine	scontro	periodo di tempo	fenomeno atmosferico	temporale	film	incidente	fenomeno fisico
+raffigurazione	notazione musicale	persona	testo	rappresentazione	sborso	scrittura	comune	composto	configurazione	composizione musicale	caratteristica	espressione	pellicola	opera musicale
+documento	comune	testo	comunità	composto	appezzato	persona	municipalità	sborso	incominciamento	scrittura	forbitezza	coglioneria	raffigurazione	organo
+roccia	tracheobionta	composto	roccia sedimentaria	acqua	estremità	minerale	pietra	sasso	piatto	metallo	composto chimico	elemento architettonico	fenomeno fisico	raffigurazione
+persona	tracheobionta	vertebrato	animale	malattia	imbecillaggine	flip-flop	coglionaggine	fenomeno fisico	cretineria	coglioneria	panneggiamento	cibo	grado	oviparo
+comune	municipalità	persona	comunità	borgo	paese	città	regione	comune italiano	quartiere	metropoli	leader	principale	titolo	capo
+comunità	assemblea	municipalità	persona	associazione	autorità	suddivisione amministrativa	comune	documento	carica	appezzato	amministrazione	organo	regione	struttura architettonica
+vertebrato	tracheobionta	animale	carnivoro	mammifero	persona	film	animale selvatico	oviparo	incominciamento	panneggiamento	pellicola	volatile	appezzato	trasmissione
+animale	vertebrato	animale selvatico	borgo	comune	mammifero	paese	montagna	municipalità	tracheobionta	felino	regione	uccello	comunità	carnivoro
+testo	documento	resoconto	trasmissione	allocuzione	resoconto scritto	ragionamento	persona	scrittura	racconto	messaggio	indagazione	scritto	appezzato	sborso
+trasmissione	registrazione	produzione	scrittura	appezzato	codifica	canale di trasmissione	gestione	mass media	tecnologia	documento	conduzione	pubblicazione	scrematura	riproduzione
+acqua	mobilio	borgo	struttura architettonica	appezzato	suppellettile	composto	pietra	raffigurazione	rivo	organo	comune	sasso	edificio	minerale
+possesso	persona	comunità	continuamento	accoramento	imbecillaggine	appezzato	comune	risorsa	municipalità	allocuzione	autorità	aggiustatura	suddivisione amministrativa	sborso
+regione	zona	struttura architettonica	paese	spazio	comune	comunità	borgo	quartiere	municipalità	edificio	località	punto geografico	appezzato	città
+fenomeno naturale	fenomeno fisico	fenomeno	configurazione	caratteristica	tracheobionta	percezione	grandezza	espressione	fenomeno atmosferico	processo naturale	meccanismo	evidenza	limite	aggiustamento
+persona	comune	comune italiano	politico	borgo	scrittore	municipalità	artista	sportivo	dotto	comunità	capintesta	nome di battesimo	titolo	leader
+persona	amministratore	direttore	leader	comune	aggiustatura	carica	capo	presidente	funzionario	municipalità	compagnia	sede	principale	responsabile
+comune	municipalità	politico	persona	comune italiano	comunità	leader	paese	capintesta	socialista	regione	partito politico	metropoli	borgo	appezzato
+comunità	comune	allocuzione	meeting	manifestazione	rassegna	municipalità	associazione	borgo	paese	struttura architettonica	assemblea	periodo	documento	persona
+persona	guerriero	borgo	personaggio	titolo	soldato	personaggio immaginario	comune	paese	artista	protettore	raffigurazione	antroponimo	municipalità	governante
+vertebrato	animale	animale selvatico	tracheobionta	mammifero	volatile	oviparo	carnivoro	comune	felino	persona	specie autoctona	tessuto animale	uccello	roditore
+comunità	comune	assemblea	persona	municipalità	carica	capo del governo	autorità	primo ministro	paese	regione	leader	suddivisione amministrativa	principale	organo legislativo
+persona	appezzato	artista	comune	sportivo	pellicola	dotto	coglioneria	attore	film	titolo	autore	municipalità	tracheobionta	celebrità
+persona	lavoratore	femmina	governante	professione	cibo	mestiere	compagnia	titolo	imbecillaggine	nome di battesimo	dottore	animale	guru	istrione
+spazio	comunità	struttura architettonica	fenomeno naturale	composto	fenomeno fisico	configurazione	acqua	sborso	regione	fenomeno	appezzato	comune	fenomeno atmosferico	meccanismo
+persona	composto	acqua	tracheobionta	macchina	cibo	pellicola	dispositivo	liquido	composto chimico	panneggiamento	arnese	minerale	corpo celeste	raffigurazione
+comune	borgo	municipalità	paese	città	comune italiano	comunità	località	regione	quartiere	frazione	persona	metropoli	suddivisione amministrativa	fiume
+macchina	veicolo	imbarcazione	dispositivo	mezzo di trasporto	motoveicolo	trasporto passeggeri	trasporto	natante	acqua	appezzato	motocicletta	spazio	viaggio	compagnia
+persona	allocuzione	raffigurazione	rappresentazione	sborso	pellicola	testo	coglioneria	espressione	periodo	tempo	ragionamento	imbecillaggine	appezzato	titolo
+espressione	evidenza	persona	comunità	allocuzione	raffigurazione	possesso	accoramento	ragionamento	fenomeno naturale	imbecillaggine	sborso	argomentazione	risorsa	tracheobionta
+scrittore	persona	film	autore	artista	attore	comune	pellicola	regista	appezzato	sceneggiatore	regista cinematografico	cinema	sportivo	metropoli
+sborso	imbecillaggine	tempo	periodo	cibo	appezzato	guadagno	fenomeno	automatismo	meccanismo	fenomeno fisico	composto	risorsa	continuamento	portata
+persona	governante	dotto	titolo	professione	mestiere	dottore	possesso	capo	parente	protettore	guru	persona non grata	aiutante	benefattore
+pellicola	appezzato	film	raffigurazione	testo	trasmissione	sborso	spettacolo	cinema	produzione	persona	racconto	composto	lungometraggio	coglioneria
+persona	allocuzione	imbecillaggine	accoramento	possesso	ragionamento	sborso	incominciamento	evidenza	appezzato	espressione	documento	male	argomentazione	coglioneria
+pellicola	trasmissione	film	canale di trasmissione	appezzato	produzione	sborso	mass media	lungometraggio	trasmissione televisiva	comune	titolo	cinema	grado	spazio
+persona	artista	cantante	opera musicale	film	comune	orchestrale	attore	sportivo	municipalità	autore	pellicola	musicista	scrittore	celebrità
+indumento	arnese	raffigurazione	copricapo	oggetto celeste	corpo celeste	persona	gioiello	coltello	organo	accessorio	composto	arma	piatto	emblema
+idioma	comunità	persona	regione	municipalità	comune	notazione musicale	raffigurazione	testo	scrittura	paese	metropoli	antroponimo	composto	struttura architettonica
+comunità	possesso	persona	assemblea	allocuzione	municipalità	documento	radunata	capintesta	associazione	carica	accoramento	appezzato	periodo	servizio
+comunità	comune	produzione	municipalità	regione	struttura architettonica	azienda	metropoli	suddivisione amministrativa	appezzato	borgo	città-stato	paese	composto	edificio
+documento	possesso	appezzato	sborso	persona	comunità	contratto	continuamento	comune	controllo	autorità	accordo	organo	risorsa	carta
+dispositivo	software	trasmissione	macchina	tecnologia	meccanismo	automatismo	programma informatico	codifica	sistema software	pacchetto	computer	mass media	hardware	calcolatore elettronico
+trasmissione	tracheobionta	persona	meccanismo	imbecillaggine	appezzato	coglioneria	incominciamento	pellicola	sborso	organo	cibo	produzione	metodica	dispositivo
+compagnia	aggiustatura	appezzato	comune	macchina	possesso	azienda	imbecillaggine	trasporto	grado	produzione	dispositivo	persona	servizio	borgo
+dispositivo	macchina	configurazione	comune	estremità	composto	grado	meccanismo	organo	coglioneria	acqua	sborso	tracheobionta	persona	incominciamento
+cibo	acqua	pasta	composto	tracheobionta	comune	piatto	verdura	cibarie	minerale	mistura	vegetale	dessert	composto chimico	miscela
+quartiere	paese	località	comune	città	frazione	zona	edificio	comunità	municipalità	rivo	regione	comune italiano	fiume	struttura architettonica
+persona	comune	municipalità	borgo	comunità	paese	città	metropoli	celebrità	artista	scrittore	comune italiano	personaggio immaginario	titolo	personaggio
+comune	persona	municipalità	comunità	appezzato	metropoli	regione	pellicola	album studio	mass media	compagnia	opera musicale	città	trasmissione	film
+acqua	composto	comune	spazio	minerale	appezzato	misto	fenomeno atmosferico	fenomeno naturale	sborso	municipalità	reggetta	veicolo	imbecillaggine	regione
+persona	allocuzione	imbecillaggine	comunità	coglioneria	sborso	pellicola	appezzato	disciplina	incominciamento	accoramento	continuamento	metodica	periodo	trasmissione
+persona	scrittore	artista	comunità	metropoli	comune	autore	intellettuale	città	poeta	paese	celebrità	municipalità	personaggio immaginario	opera musicale
+appezzato	composto	imbecillaggine	tracheobionta	forbitezza	organo	persona	meccanismo	fenomeno fisico	comune	grado	incominciamento	possesso	coglioneria	trasmissione
+persona	animale	comunità	raffigurazione	vertebrato	tracheobionta	grado	personaggio immaginario	femmina	animale selvatico	comune	regione	metropoli	antroponimo	etnia
+persona	male	film	raffigurazione	film drammatico	pellicola	coglioneria	titolo	tracheobionta	accoramento	racconto	appezzato	sborso	dramma	personaggio immaginario
+comune	borgo	comunità	municipalità	persona	paese	regione	raffigurazione	città	comune italiano	quartiere	aggiustatura	città-stato	struttura architettonica	località
+persona	film	male	imbecillaggine	pellicola	film drammatico	titolo	accoramento	appezzato	possesso	denaro	ridicolaggine	criminale	dramma	bufera
+persona	appezzato	grado	soldato	comune	personaggio	armato	personaggio immaginario	titolo	guerriero	leader	borgo	aiutante	antroponimo	guru
+paese	montagna	regione	appezzato	metropoli	tracheobionta	comunità	acqua	borgo	città	zona	comune	municipalità	fiume	roccia
+borgo	comune	municipalità	quartiere	città	comunità	paese	comune italiano	persona	regione	appezzato	località	edificio	metropoli	frazione
+fenomeno fisico	fenomeno	appezzato	sborso	fenomeno naturale	scontro	movimento	dispositivo	colpo	incominciamento	meccanismo	grado	temporale	automatismo	coglionaggine
+dispositivo	macchina	persona	arnese	tracheobionta	meccanismo	animale	arma	panneggiamento	apparecchio elettrico	vertebrato	organo	automatismo	autoscafo	tessuto animale
+persona	comune	titolo	municipalità	comunità	possesso	documento	paese	borgo	appezzato	imbecillaggine	compagnia	periodo	aggiustatura	laureato
+persona	scontro	comunità	appezzato	sborso	periodo	grado	possesso	allocuzione	movimento	municipalità	metropoli	raffigurazione	combattimento	imbecillaggine
+città	comunità	paese	municipalità	regione	borgo	quartiere	comune	film	località	pellicola	capitale	persona	cinema	zona
+nave	imbarcazione	città	municipalità	paese	appezzato	borgo	areoplano	persona	fiume	comune	regione	metropoli	bastimento	comunità
+dispositivo	meccanismo	tracheobionta	composto	organo	appezzato	trasmissione	macchina	fenomeno fisico	automatismo	pellicola	sborso	mass media	notazione musicale	film
+persona	imbecillaggine	male	sborso	incominciamento	fenomeno	tracheobionta	coglioneria	fenomeno naturale	fenomeno fisico	posseditore	cretineria	stupidezza	appezzato	pellicola
+comunità	comune	compagnia	appezzato	regione	municipalità	sborso	spazio	metropoli	possesso	struttura architettonica	suddivisione amministrativa	paese	risorsa	documento
+acqua	liquido	composto	dispositivo	cibo	tracheobionta	mistura	organo	minerale	metallo	meccanismo	estremità	miscela	macchina	accessorio
+testo	documento	pellicola	trasmissione	comune	canale di trasmissione	registrazione	raccolta musicale	appezzato	organo	composto	canale	carta	dispositivo	album studio
+compagnia	comune	trasmissione	album studio	opera musicale	appezzato	persona	film	spettacolo	pellicola	municipalità	mass media	raccolta musicale	cinema	orchestrale
+persona	comunità	comune	municipalità	paese	regione	appezzato	allocuzione	possesso	coglioneria	aggiustatura	carica	imbecillaggine	titolo	borgo
+oceano	fiume	comune	paese	regione	città	mare	metropoli	isola	borgo	acqua	municipalità	comunità	rivo	zona
+documento	allocuzione	persona	comunità	assemblea	possesso	risorsa	argomentazione	associazione	autorità	suddivisione amministrativa	sborso	accordo	ragionamento	comune
+composto	configurazione	composto chimico	spazio	comune	struttura architettonica	municipalità	organo	dispositivo	codifica	notazione musicale	regione	sborso	canale di trasmissione	canale
+persona	comune	scrittore	dotto	borgo	sportivo	autore	cantore	titolo	appezzato	principale	artista	posseditore	direttore	paese
+configurazione	risorsa	sborso	spazio	forbitezza	appezzato	evidenza	incominciamento	possesso	imbecillaggine	codifica	dispositivo	standard	trasmissione	tecnologia
+raffigurazione	fenomeno naturale	rappresentazione	comunità	testo	persona	fenomeno	fenomeno fisico	tracheobionta	pellicola	incominciamento	coglioneria	notazione musicale	composto	appezzato
+comune	persona	comune italiano	borgo	municipalità	paese	politico	comunità	dotto	artista	quartiere	sportivo	città	scrittore	capintesta
+servizio	possesso	comune	tempo	periodo di tempo	compagnia	periodo	edificio	imbecillaggine	comunità	appezzato	spazio	borgo	sborso	paese
+paese	persona	borgo	città	comunità	metropoli	municipalità	comune	compagnia	regione	quartiere	aggiustatura	fiume	appezzato	rivo
+comune	municipalità	comunità	paese	città	persona	regione	borgo	metropoli	appezzato	comune italiano	quartiere	suddivisione amministrativa	edificio	compagnia
+borgo	municipalità	comune	paese	città	comunità	quartiere	regione	località	metropoli	zona	edificio	persona	comune italiano	appezzato
+comune	municipalità	regione	comunità	paese	borgo	città	comune italiano	persona	metropoli	tracheobionta	quartiere	appezzato	città-stato	frazione
+borgo	comune	struttura architettonica	valico	paese	regione	zona	aggiustatura	municipalità	passo	edificio	quartiere	comunità	località	appezzato
+assemblea	documento	sborso	appezzato	imbecillaggine	periodo	allocuzione	accordo	carica	radunata	manifestazione	possesso	scrematura	comunità	persona
+dispositivo	macchina	automatismo	apparecchio elettrico	veicolo	tracheobionta	meccanismo	organo	arnese	pellicola	persona	composto	appezzato	trasmissione	fenomeno fisico
+macchina	acqua	veicolo	imbarcazione	cibo	composto	natante	minerale	motoveicolo	piatto	pellicola	tracheobionta	dispositivo	incominciamento	cibarie
+acqua	composto chimico	minerale	composto	processo chimico	produzione	miscela	fenomeno naturale	vegetale	cibo	processo naturale	liquido	regione	tracheobionta	fenomeno fisico
+composto	tracheobionta	acqua	volatile	minerale	cibo	piatto	vertebrato	animale	pellicola	composto chimico	comune	liquido	flip-flop	vegetale
+appezzato	grado	sborso	configurazione	spazio	comune	macchina	dispositivo	incominciamento	pellicola	mass media	imbecillaggine	tempo	fenomeno fisico	forbitezza
+persona	composto	cibo	tracheobionta	acqua	pellicola	vertebrato	animale	volatile	liquido	minerale	imbecillaggine	composto chimico	dotto	femmina
+registrazione	trasmissione	scrittura	pellicola	raccolta musicale	album studio	testo	produzione	documento	rassegna	opera musicale	presentazione	periodo	sborso	allocuzione
+energia	fenomeno fisico	fenomeno naturale	meccanismo	grado	dispositivo	fenomeno	risorsa	automatismo	fenomeno atmosferico	grandezza	configurazione	acqua	coglionaggine	spazio
+comunità	comune	persona	municipalità	raffigurazione	periodo	borgo	sborso	struttura architettonica	città	regione	paese	periodo di tempo	metropoli	tempo
+persona	leader	competitore	scontro	appezzato	contendente	grado	titolo	personaggio	rivale	carica	ridicolaggine	personaggio immaginario	raffigurazione	difensore
+comune	municipalità	appezzato	titolo	sborso	regione	periodo	borgo	paese	tempo	città	comunità	spazio	persona	grado
+municipalità	comune	regione	comunità	persona	città	paese	metropoli	comune italiano	appezzato	quartiere	borgo	suddivisione amministrativa	sportivo	città-stato
+persona	dotto	comune	aggiustatura	scrittore	guru	appezzato	borgo	coglioneria	sborso	artista	imbecillaggine	posseditore	autore	paese
+vertebrato	animale	uccello	mammifero	animale selvatico	tracheobionta	comune	volatile	carnivoro	municipalità	roditore	persona	borgo	oviparo	felino
+comune	borgo	paese	appezzato	municipalità	persona	città	regione	fuoco	quartiere	grado	comunità	sborso	metropoli	movimento
+persona	appezzato	comune	titolo	comunità	sborso	documento	allocuzione	municipalità	raffigurazione	dotto	testo	principale	organo	autore
+comune	fiume	municipalità	città	borgo	paese	metropoli	regione	rivo	località	comunità	quartiere	appezzato	comune italiano	zona
+testo	ragionamento	documento	scrittura	resoconto	trattazione	notazione musicale	appezzato	messaggio	raffigurazione	evidenza	sborso	racconto	trasmissione	allocuzione
+dispositivo	veicolo	macchina	configurazione	appezzato	grado	apparecchio elettrico	spazio	automatismo	trasporto	trasporto passeggeri	areoplano	comune	movimento	veicolo a motore
+appezzato	sborso	spazio	fenomeno naturale	trasporto	trasporto passeggeri	fenomeno fisico	fenomeno	comune	fenomeno atmosferico	comunità	regione	infrastruttura	movimento	metropoli
+estremità	dispositivo	organo	accessorio	configurazione	struttura architettonica	composto	macchina	elemento architettonico	meccanismo	tracheobionta	elemento strutturale	arnese	metallo	raffigurazione
+allocuzione	assemblea	autorità	contestazione	persona	argomentazione	espressione	periodo	accordo	contrasto	comunità	evidenza	conciliazione	suddivisione amministrativa	possesso
+borgo	comune	paese	città	municipalità	quartiere	comunità	frazione	località	regione	comune italiano	zona	edificio	rivo	metropoli
+comune	borgo	paese	municipalità	comunità	regione	città	comune italiano	quartiere	fiume	località	metropoli	zona	rivo	montagna
+strada	borgo	via maestra	quartiere	comune	paese	località	città	fiume	rivo	persona	comunità	municipalità	strada principale	superstrada
+sentimento	persona	male	disapprovazione	allocuzione	biasimo	dissenso	afflizione	odio	espressione	immoralità	dovere	sventura	contestazione	pericolo
+persona	leader	comune	capo di stato	borgo	municipalità	principale	capo del governo	aiutante	paese	aggiustatura	carica	quartiere	comunità	comandante
+borgo	paese	comunità	edificio	quartiere	municipalità	comune	persona	possesso	radunata	servizio	appezzato	posseditore	autorità	città
+indumento	tracheobionta	animale	raffigurazione	persona	copricapo	composto	animale selvatico	vestito	corpo celeste	femmina	oggetto celeste	borgo	panneggiamento	abito
+raffigurazione	pellicola	macchina	sborso	appezzato	rappresentazione	film	coglioneria	persona	dispositivo	configurazione	traccia	incominciamento	imbecillaggine	spazio
+persona	criminale	soldato	personaggio	personaggio immaginario	malvivente	delinquente	ragazzo	paese	titolo	armato	appezzato	leader	guerriero	reo
+persona	comune	paese	borgo	comunità	aggiustatura	cibo	imbecillaggine	tracheobionta	municipalità	regione	compagnia	dotto	animale	appezzato
+appezzato	sborso	comune	comunità	struttura architettonica	borgo	produzione	trasmissione	edificio	documento	persona	municipalità	aggiustatura	periodo	paese
+quartiere	borgo	comune	municipalità	città	comunità	regione	paese	metropoli	località	comune italiano	zona	appezzato	frazione	fiume
+persona	allocuzione	intellettuale	raffigurazione	autore	titolo	racconto	dotto	testo	scrittore	istrione	resoconto	guru	verseggiatore	nome di battesimo
+comunità	regione	municipalità	comune	persona	paese	città	nazione	metropoli	suddivisione amministrativa	zona	borgo	raffigurazione	possesso	grado
+persona	aggiustatura	comune	appezzato	dotto	mestiere	titolo	leader	lavoratore	film	imbecillaggine	professione	pellicola	organo	guru
+municipalità	paese	comune	città	regione	comunità	metropoli	persona	stato federato	nazione	capitale	borgo	suddivisione amministrativa	quartiere	comune italiano
+compagnia	veicolo	trasporto passeggeri	municipalità	macchina	comune	azienda	trasporto dei passeggeri	trasporto	pellicola	appezzato	film	dispositivo	regione	areoplano
+borgo	aggiustatura	appezzato	edificio	comune	paese	quartiere	sborso	estremità	spazio	persona	rivo	imbecillaggine	organo	raffigurazione
+comune	appezzato	paese	municipalità	regione	comunità	grado	persona	città	periodo	campionato	borgo	competizione	metropoli	stato federato
+persona	pellicola	cibo	cibarie	macchina	composto	film	carta	piatto	trasmissione	incominciamento	tracheobionta	appezzato	paese	personaggio
+comune	persona	comune italiano	borgo	politico	paese	municipalità	capintesta	comunità	leader	aggiustatura	dotto	città	principale	sportivo
+ragionamento	espressione	percezione	persona	evidenza	disciplina	esperienza	coglioneria	sentimento	fenomeno fisico	sborso	male	argomentazione	comunità	fenomeno
+persona	scrittore	artista	autore	attore	cantante	celebrità	musicista	personaggio	regista	sceneggiatore	personaggio immaginario	regista cinematografico	istrione	star
+comune	persona	comune italiano	artista	municipalità	scrittore	sportivo	comunità	borgo	appezzato	dotto	autore	politico	calciatore	aggiustatura
+animale	tracheobionta	vertebrato	annodamento	cibo	macchina	dispositivo	tessuto animale	acqua	arnese	volatile	panneggiamento	veicolo	tubatura	fenomeno fisico
+raffigurazione	persona	allocuzione	rappresentazione	pellicola	testo	espressione	scrittura	ragionamento	evidenza	film	coglioneria	titolo	opera musicale	racconto
+fenomeno fisico	pellicola	persona	fenomeno	dispositivo	appezzato	tracheobionta	film	fenomeno naturale	composto	fenomeno atmosferico	macchina	grado	organo	meccanismo
+indumento	bigiotteria	copricapo	arnese	accessorio	persona	gioiello	macchina	corpo celeste	dispositivo	organo	raffigurazione	cerchietto	oggetto celeste	composto
+persona	parente	figlio	leader	dotto	governante	nome di battesimo	guru	personaggio	titolo	capo	antroponimo	aiutante	protettore	giovane
+persona	professione	comune	direttore	comunità	titolo	dotto	possesso	guru	laureato	funzionario	dottore	municipalità	compagnia	mestiere
+comune	municipalità	persona	borgo	comunità	paese	città	regione	metropoli	comune italiano	quartiere	località	suddivisione amministrativa	township	fiume
+appezzato	imbecillaggine	spazio	sborso	comune	reggetta	aggiustatura	persona	possesso	continuamento	tempo	composto	paese	denaro	tracheobionta
+composto	tracheobionta	minerale	comune	oggetto celeste	acqua	corpo celeste	pianta da fiore	borgo	raffigurazione	volatile	astro	regione	pianta	municipalità
+tempo	giorno	periodo di tempo	periodo	imbecillaggine	mese	sborso	persona	appezzato	momento	paese	possesso	mese civile	titolo	spazio
+comune	persona	comunità	borgo	raffigurazione	paese	comune italiano	coglioneria	tracheobionta	artista	municipalità	città	regione	nome di battesimo	appezzato
+persona	comune	comune italiano	borgo	dotto	municipalità	paese	politico	comunità	artista	nome di battesimo	sportivo	scrittore	città	capintesta
+organo	persona	suonatore	tracheobionta	composto	comune	raffigurazione	appezzato	animale	piatto	vertebrato	artista	comunità	cibo	dotto
+pellicola	film	appezzato	macchina	raffigurazione	dispositivo	organo	comune	brano	opera musicale	persona	composto	personaggio immaginario	spettacolo	borgo
+ragionamento	espressione	codifica	trattazione	configurazione	scrittura	documento	spiegazione	risorsa	disciplina	evidenza	calcolo	standard	notazione musicale	verifica
+evidenza	espressione	raffigurazione	ragionamento	caratteristica	argomentazione	scrittura	trattazione	notazione musicale	spiegazione	rappresentazione	concordanza	disciplina	intonazione	percezione
+regione	paese	comunità	città	comune	metropoli	municipalità	nazione	periodo	zona	quartiere	borgo	persona	stato federato	periodo di tempo
+persona	raffigurazione	male	espressione	sentimento	accoramento	falsità	coglioneria	allocuzione	afflizione	immoralità	persona non grata	ragionamento	sventura	argomentazione
+album studio	comunità	comune	persona	imbecillaggine	appezzato	possesso	municipalità	compagnia	professione	documento	produzione	periodo	tempo	titolo
+fenomeno fisico	fenomeno	incominciamento	fenomeno naturale	automatismo	raffigurazione	appezzato	meccanismo	dispositivo	configurazione	sborso	coglioneria	rappresentazione	spazio	composto
+persona	imbecillaggine	film	appezzato	tempo	sborso	pellicola	tormenta	film drammatico	male	macchina	ridicolaggine	coglioneria	tracheobionta	bufera
+grado	comunità	municipalità	configurazione	comune	regione	suddivisione amministrativa	struttura architettonica	appezzato	risorsa	sborso	dispositivo	unità di misura	fenomeno fisico	spazio
+persona	male	accoramento	film	dramma	imbecillaggine	film drammatico	allocuzione	racconto	titolo	coglioneria	pellicola	violenza	sborso	sentimento
+persona	film	male	pellicola	imbecillaggine	film drammatico	tormenta	lungometraggio	appezzato	stupidaggine	fenomeno	ridicolaggine	personaggio immaginario	bugia	sciocchezza
+dispositivo	software	programma informatico	sistema software	macchina	computer	trasmissione	programma di computer	pacchetto	canale di trasmissione	programma per computer	software open-source	software applicativo	appezzato	tecnologia
+possesso	documento	accordo	persona	allocuzione	patto	evidenza	appezzato	risorsa	argomentazione	discussione	contratto	imbecillaggine	verifica	continuamento
+male	fenomeno	fenomeno naturale	fenomeno fisico	accoramento	percezione	coglioneria	espressione	persona	coglionaggine	avversità	sentimento	afflizione	raffigurazione	cretineria
+caratteristica	raffigurazione	sborso	fenomeno	fenomeno naturale	espressione	fenomeno fisico	spazio	persona	evidenza	configurazione	comunità	senso	tono	composto
+dispositivo	meccanismo	grado	automatismo	macchina	fenomeno fisico	movimento	configurazione	arma	veicolo	fenomeno	persona	appezzato	spazio	colpo
+borgo	edificio	quartiere	comune	municipalità	paese	comunità	città	località	comune italiano	struttura architettonica	regione	sede	aggiustatura	zona
+composto	acqua	fenomeno fisico	fenomeno naturale	composto chimico	comune	dispositivo	fenomeno	organo	appezzato	movimento	sasso	tracheobionta	configurazione	misto
+operazione	riparazione	operazione militare	possesso	sborso	fenomeno fisico	imbecillaggine	scontro	periodo	ripristino	controllo	miglioramento	aggiustamento	movimento	riattamento
+comune	comunità	regione	appezzato	paese	municipalità	metropoli	sborso	produzione	grado	periodo	compagnia	capitale	moneta circolante	borgo
+acqua	tracheobionta	composto	cibo	liquido	minerale	fenomeno naturale	miscela	vegetale	fenomeno atmosferico	fenomeno fisico	cretineria	composto chimico	mistura	fenomeno
+macchina	dispositivo	cibo	acqua	liquido	cibarie	meccanismo	composto	automatismo	apparecchio elettrico	appezzato	tracheobionta	veicolo	fenomeno fisico	minerale
+comune	borgo	persona	comune italiano	dotto	paese	comunità	quartiere	aggiustatura	municipalità	rivo	nome di battesimo	artista	edificio	scrittore
+comune	borgo	persona	comunità	paese	comune italiano	municipalità	quartiere	dotto	tracheobionta	regione	rivo	città	artista	nome di battesimo
+comunità	borgo	comune	municipalità	quartiere	paese	persona	edificio	città	regione	istituto	scuola	accademia	comune italiano	dotto
+dispositivo	spazio	macchina	configurazione	grado	appezzato	fenomeno fisico	meccanismo	veicolo	sborso	incominciamento	acqua	composto	fenomeno naturale	oggetto celeste
+persona	comune	appezzato	titolo	principale	paese	organo	dotto	guru	personaggio immaginario	municipalità	comunità	nome di battesimo	regione	borgo
+possesso	controllo	comunità	appezzato	persona	grado	autorità	comune	suddivisione amministrativa	radunata	organo	carica	periodo	municipalità	tempo
+persona	allocuzione	possesso	accoramento	imbecillaggine	appezzato	comunità	sborso	pena	continuamento	documento	contestazione	patto	carica	coglioneria
+comune	comunità	struttura architettonica	municipalità	comune italiano	vegetale	regione	magnoliophyta	borgo	composto	appezzato	suddivisione amministrativa	tracheobionta	organo	aggiustatura
+compagnia	persona	comune	macchina	dispositivo	servizio	appezzato	trasmissione	possesso	trasporto	borgo	comunità	azienda	aggiustatura	paese
+comunità	movimento	periodo	ripristino	appezzato	miglioramento	comune	sborso	municipalità	suddivisione amministrativa	aggiustatura	struttura architettonica	imbecillaggine	periodo di tempo	regione
+raffigurazione	persona	sborso	tracheobionta	titolo	coglioneria	corpo celeste	personaggio immaginario	personaggio	oggetto celeste	imbecillaggine	film	incominciamento	panneggiamento	portata
+paese	comunità	comune	municipalità	regione	metropoli	borgo	città	persona	nazione	quartiere	edificio	periodo	appezzato	titolo
+comune	borgo	vertebrato	animale	paese	persona	tracheobionta	municipalità	animale selvatico	regione	cibo	comunità	rivo	comune italiano	città
+persona	dotto	professione	laureato	comune	mestiere	dottore	direttore	lavoratore	sportivo	docente	scrittore	funzionario	leader	politico
+appezzato	persona	sborso	imbecillaggine	comunità	tempo	periodo	periodo di tempo	comune	incominciamento	film	possesso	paese	pellicola	metropoli
+raffigurazione	rappresentazione	persona	configurazione	coglioneria	sborso	evidenza	documento	comunità	struttura architettonica	macchina	espressione	dispositivo	incominciamento	testo
+cinema	star	film	persona	celebrità	pellicola	municipalità	comune	metropoli	artista	lungometraggio	attore	appezzato	paese	città
+comune	persona	macchina	borgo	raffigurazione	tracheobionta	aggiustatura	acqua	appezzato	grado	arma	dispositivo	città-stato	annodamento	composto
+fenomeno fisico	percezione	fenomeno naturale	tracheobionta	meccanismo	condizione fisiologica	fenomeno	coglionaggine	dispositivo	membrana	incominciamento	infiammazione	automatismo	fenomeno atmosferico	coglioneria
+dispositivo	composto	acqua	meccanismo	cibo	tracheobionta	arnese	macchina	organo	composto chimico	arma	appezzato	minerale	piatto	comune
+tempo	comune	periodo di tempo	sborso	grado	comunità	periodo	spazio	appezzato	persona	imbecillaggine	municipalità	regione	possesso	paese
+persona	raffigurazione	pellicola	film	appezzato	personaggio immaginario	personaggio	coglioneria	artista	cinema	spettacolo	film drammatico	intellettuale	celebrità	scrittore
+persona	raffigurazione	personaggio immaginario	incominciamento	pellicola	film	personaggio	appezzato	annodamento	tracheobionta	comune	coglioneria	titolo	borgo	paese
+scrittore	persona	attore	artista	autore	comune	musicista	cantante	politico	sportivo	principale	municipalità	dotto	orchestrale	intellettuale
+persona	personaggio	personaggio immaginario	guerriero	soldato	scrittore	criminale	artista	viaggiatore	titolo	borgo	comune	paese	politico	intellettuale
+estremità	struttura architettonica	dispositivo	elemento architettonico	configurazione	tubatura	borgo	copertura	pietra	raffigurazione	barriera	roccia	sasso	acqua	elemento strutturale
+scrittura	trasmissione	registrazione	codifica	rappresentazione	notazione musicale	ragionamento	testo	produzione	trattazione	chiarificazione	evidenza	sborso	configurazione	ricerca scientifica
+persona	possesso	pellicola	continuamento	risorsa	accoramento	appezzato	carta	tracheobionta	fenomeno	cretineria	denaro	produzione	comunità	moneta circolante
+dispositivo	meccanismo	automatismo	macchina	composto	liquido	apparecchio elettrico	organo	tracheobionta	acqua	composto chimico	fenomeno fisico	configurazione	accessorio	cibo
+tracheobionta	comune	vertebrato	persona	animale	municipalità	appezzato	mammifero	borgo	quadrumane	annodamento	città-stato	pellicola	oviparo	composto
+persona	comunità	intellettuale	municipalità	politico	leader	capintesta	comune	allocuzione	metropoli	regione	autorità	movimento	carica	associazione
+composto	acqua	minerale	composto chimico	comune	vegetale	pasta	pellicola	tracheobionta	cibo	pianta da fiore	miscela	produzione	liquido	municipalità
+comune italiano	borgo	frazione	paese	quartiere	municipalità	comunità	località	comune francese	regione	zona	edificio	città	distretto	suddivisione amministrativa
+persona	possesso	imbecillaggine	servizio	compagnia	titolo	comunità	sborso	appezzato	comune	carica	borgo	paese	tempo	professione
+pellicola	metropoli	comune	mass media	persona	film	città	municipalità	dispositivo	opera musicale	appezzato	album studio	trasmissione	cinema	canale di trasmissione
+composto	minerale	tracheobionta	cibo	acqua	vegetale	composto chimico	oggetto celeste	pianta da fiore	comune	volatile	corpo celeste	pianta	mistura	organo
+acqua	composto	roccia	roccia sedimentaria	minerale	tracheobionta	calcare	comune	pellicola	borgo	appezzato	paese	regione	incominciamento	sborso
+comune	appezzato	municipalità	comunità	periodo	borgo	paese	spazio	tempo	periodo di tempo	città	persona	regione	grado	metropoli
+persona	possesso	compagnia	comune	borgo	gestore	aggiustatura	sportivo	direttore	appezzato	lavoratore	principale	titolo	concorrente	amministratore
+possesso	documento	continuamento	contratto	risorsa	accordo	patto	controllo	imbecillaggine	pagamento	denaro	compensazione	liquidità	corresponsione	persona
+persona	appezzato	imbecillaggine	sborso	film	tempo	titolo	posseditore	pellicola	coglioneria	paese	periodo	radunata	rivo	racconto
+azienda	compagnia	produzione	comunità	persona	comune	azienda privata	ditta	trasmissione	mass media	appezzato	municipalità	imbecillaggine	metropoli	paese
+persona	male	accoramento	coglioneria	coglionaggine	sborso	possesso	imbecillaggine	appezzato	ridicolaggine	fenomeno fisico	manicaretto	grado	incominciamento	aggrovigliamento
+possesso	allocuzione	documento	persona	imbecillaggine	appezzato	comunità	trasmissione	assemblea	periodo	sborso	pellicola	suddivisione amministrativa	manifestazione	risorsa
+borgo	persona	comune	città	municipalità	paese	raffigurazione	vertebrato	montagna	uccello	oggetto celeste	animale	regione	astro	comunità
+comune	municipalità	città	fiume	paese	metropoli	regione	quartiere	borgo	comunità	persona	appezzato	stato federato	località	township
+edificio	struttura architettonica	municipalità	località	zona	comune	borgo	comunità	regione	quartiere	suddivisione amministrativa	città	frazione	stazione	edificio pubblico
+comunità	municipalità	comune	paese	regione	città	metropoli	borgo	persona	suddivisione amministrativa	stato federato	comune italiano	quartiere	nazione	capitale
+configurazione	evidenza	grado	fenomeno fisico	controllo	incominciamento	periodo	spazio	appezzato	dispositivo	possesso	sborso	periodo di tempo	tempo	risorsa
+comune	persona	artista	comune italiano	scrittore	municipalità	borgo	comunità	politico	autore	sportivo	paese	calciatore	dotto	città
+fenomeno fisico	fenomeno	configurazione	fenomeno naturale	grandezza	aggiustamento	notazione musicale	meccanismo	codifica	verifica	incominciamento	caratteristica	sborso	fenomeno atmosferico	automatismo
+persona	scrittore	artista	autore	dotto	attore	sportivo	leader	appezzato	calciatore	comune	guru	musicista	politico	direttore
+brano	trasmissione	sborso	film	notazione musicale	pellicola	lungometraggio	album studio	traccia	testo	persona	disco	canale di trasmissione	coglioneria	mass media
+borgo	comune	paese	comune italiano	municipalità	quartiere	città	rivo	località	frazione	comunità	regione	persona	edificio	fiume
+persona	comunità	regione	comune	municipalità	possesso	città	paese	suddivisione amministrativa	aggiustatura	appezzato	operazione militare	areoplano	periodo	borgo
+documento	testo	persona	sborso	raffigurazione	comune	notazione musicale	scrittura	allocuzione	messaggio	appezzato	incominciamento	periodo	titolo	comunità
+raffigurazione	struttura architettonica	elemento architettonico	copertura	roccia	estremità	pietra	borgo	sasso	composto	annodamento	comune	edificio	appezzato	tracheobionta
+comune	borgo	persona	comune italiano	municipalità	paese	santo	comunità	rivo	nome di battesimo	città	sportivo	quartiere	artista	appezzato
+estremità	composto	acqua	fenomeno naturale	fenomeno fisico	tracheobionta	liquido	tessuto animale	orifizio	fenomeno	dispositivo	meccanismo	elemento strutturale	piatto	roccia
+macchina	dispositivo	appezzato	acqua	sborso	persona	aggiustatura	composto	imbecillaggine	veicolo	tracheobionta	meccanismo	pellicola	comune	incominciamento
+fenomeno fisico	comunità	fenomeno naturale	comune	fenomeno	tracheobionta	regione	sborso	persona	coglionaggine	fenomeno atmosferico	municipalità	paese	periodo	forbitezza
+pellicola	trasmissione	film	trasmissione televisiva	cinema	canale di trasmissione	persona	celebrità	lungometraggio	album studio	appezzato	mass media	programma televisivo	opera musicale	raccolta musicale
+comune	persona	sportivo	artista	comune italiano	scrittore	autore	municipalità	calciatore	appezzato	dotto	cantante	musicista	borgo	attore
+fenomeno naturale	fenomeno	fenomeno fisico	sborso	limite	fenomeno atmosferico	configurazione	passo	grandezza	estremità	caratteristica	struttura architettonica	periodo	appezzato	tracheobionta
+lingua	regione	comunità	idioma	comune	municipalità	persona	paese	città	tracheobionta	metropoli	suddivisione amministrativa	composto	borgo	sborso
+espressione	evidenza	ragionamento	argomentazione	concordanza	raffigurazione	disciplina	trattazione	documento	caratteristica	allocuzione	persona	spiegazione	sborso	fenomeno fisico
+struttura architettonica	edificio	istituto	edificio pubblico	accademia	organo	macchina	installazione	sistema sociale	infrastruttura	canale	configurazione	dispositivo	comune	azienda
+composizione musicale	notazione musicale	composto	rappresentazione	raffigurazione	appezzato	produzione	testo	scrittura	arrangiamento	struttura architettonica	forbitezza	pellicola	trasmissione	opera musicale
+tracheobionta	comune	raffigurazione	persona	pellicola	macchina	coglioneria	borgo	composto	città-stato	incominciamento	comunità	acqua	sborso	produzione
+raffigurazione	caratteristica	struttura architettonica	comunità	composto	appezzato	grado	elemento architettonico	comune	regione	organo	elemento strutturale	fenomeno naturale	sborso	movimento
+persona	male	disgrazia	scontro	pericolo	sventura	reo	litigio	ridicolaggine	accoramento	persona non grata	titolo	intruso	criminale	tormenta
+appezzato	comune	persona	sportivo	areoplano	borgo	sborso	aggiustatura	comunità	grado	dispositivo	municipalità	artista	trasmissione	quartiere
+evidenza	fenomeno	fenomeno naturale	fenomeno fisico	sborso	imbecillaggine	raffigurazione	espressione	grado	periodo	appezzato	incominciamento	accordo	persona	possesso
+persona	dotto	comune	lavoratore	professione	titolo	funzionario	capo	principale	direttore	artista	autore	leader	borgo	posseditore
+struttura architettonica	pietra	estremità	roccia	copertura	composto	roccia sedimentaria	elemento architettonico	raffigurazione	appezzato	acqua	suppellettile	comune	mobilio	minerale
+persona	artista	comune	istrione	dotto	raffigurazione	tracheobionta	città-stato	musico	suonatore	personaggio immaginario	personaggio	municipalità	guru	cantante
+fenomeno fisico	fenomeno naturale	fenomeno	imbecillaggine	sborso	coglionaggine	appezzato	fenomeno atmosferico	tracheobionta	temporale	coglioneria	male	composto	meccanismo	aggrovigliamento
+persona	male	espressione	comunità	fenomeno naturale	accoramento	allocuzione	fenomeno	fenomeno fisico	possesso	sborso	avversità	raffigurazione	percezione	evidenza
+dispositivo	accessorio	composto	oggetto celeste	arnese	corpo celeste	persona	indumento	macchina	tracheobionta	appezzato	bigiotteria	raffigurazione	gioiello	organo
+persona	male	sciocchezza	raffigurazione	sentimento	sventura	titolo	stupidaggine	ridicolaggine	tormenta	personaggio	personaggio immaginario	antipatico	sfortuna	persona non grata
+fenomeno fisico	fenomeno naturale	fenomeno	meccanismo	ragionamento	sborso	spazio	percezione	tracheobionta	configurazione	fenomeno atmosferico	espressione	forbitezza	grado	automatismo
+persona	pellicola	comune	film	appezzato	testo	sborso	raffigurazione	titolo	opera musicale	mass media	album studio	comunità	paese	composto
+dispositivo	fenomeno fisico	configurazione	meccanismo	fenomeno	automatismo	controllo	fenomeno naturale	tecnologia	trasmissione	macchina	appezzato	fenomeno atmosferico	grado	spazio
+municipalità	comune	città	metropoli	comunità	borgo	paese	quartiere	regione	persona	township	comune italiano	appezzato	compagnia	località
+composto	raffigurazione	tracheobionta	oggetto celeste	astro	comune	estremità	organo	dispositivo	corpo celeste	piatto	fenomeno fisico	fenomeno naturale	elemento architettonico	arnese
+persona	artista	attore	film	scrittore	pellicola	istrione	personaggio	celebrità	autore	personaggio immaginario	comune	appezzato	dotto	musico
+composto	caratteristica	raffigurazione	antroponimo	portata	fenomeno naturale	persona	fenomeno fisico	comunità	fenomeno	espressione	comune	configurazione	cibo	tracheobionta
+capo	persona	leader	comandante	comune	aiutante	municipalità	principale	grado	capo di stato	appezzato	carica	borgo	paese	titolo
+dispositivo	estremità	accessorio	composto	macchina	organo	incominciamento	meccanismo	arnese	automatismo	configurazione	appezzato	indumento	copertura	acqua
+persona	personaggio	vertebrato	animale	comune	personaggio immaginario	borgo	femmina	artista	paese	ragazzo	dotto	rivo	appezzato	suonatore
+film	film drammatico	pellicola	lungometraggio	dramma	opera musicale	brano	cinema	composizione musicale	racconto	spettacolo	raccolta musicale	persona	appezzato	orchestrale
+persona	comune	metropoli	comunità	paese	pellicola	film	municipalità	artista	tracheobionta	coglioneria	regione	città	borgo	raffigurazione
+borgo	comune	paese	comune italiano	città	quartiere	municipalità	comunità	rivo	località	persona	frazione	regione	edificio	metropoli
+persona	dotto	studioso	scrittore	dottore	istrione	professione	intellettuale	guru	laureato	autore	mestiere	ricercatore	artista	direttore
+fiume	rivo	borgo	comune	paese	regione	città	quartiere	località	municipalità	torrente	zona	appezzato	comunità	sborso
+comune	borgo	municipalità	città	comune italiano	paese	quartiere	comunità	metropoli	località	regione	persona	frazione	edificio	appezzato
+documento	organo	dispositivo	comune	comunità	carta	appezzato	possesso	persona	continuamento	struttura architettonica	paese	municipalità	macchina	edificio
+borgo	comune	paese	fiume	città	rivo	località	regione	comunità	zona	quartiere	municipalità	frazione	metropoli	comune italiano
+persona	figlia	nome di battesimo	governante	femmina	titolo	regnante	parente	discendenza	guru	re	comune	antroponimo	municipalità	raffigurazione
+persona	veicolo	macchina	grado	dispositivo	appezzato	comune	tracheobionta	municipalità	compagnia	areoplano	imbarcazione	borgo	pellicola	paese
+assemblea	persona	carica	municipalità	autorità	capo del governo	comunità	capintesta	comune	politico	leader	capo	primo ministro	aggiustatura	presidente
+municipalità	persona	partito	comune	comunità	leader	politico	partito politico	assemblea	carica	capintesta	paese	socialista	capo del governo	primo ministro
+comunità	regione	metropoli	municipalità	città	paese	comune	borgo	persona	nazione	località	zona	quartiere	suddivisione amministrativa	comune italiano
+persona	comune	dotto	artista	sportivo	autore	scrittore	borgo	appezzato	comune italiano	titolo	calciatore	municipalità	comunità	celebrità
+raffigurazione	grandezza	caratteristica	struttura architettonica	sborso	portata	borgo	estremità	annodamento	elemento architettonico	passo	comune	comunità	configurazione	evidenza
+raffigurazione	persona	comunità	appezzato	comune	nome di battesimo	imbecillaggine	aggiustatura	incominciamento	rappresentazione	allocuzione	municipalità	coglioneria	tracheobionta	borgo
+dispositivo	moneta circolante	composto	meccanismo	appezzato	macchina	carta	moneta	acqua	banconota	forbitezza	configurazione	sborso	documento	automatismo
+minerale	composto	acqua	metallo	comune	composto chimico	tracheobionta	oro nero	municipalità	regione	pellicola	appezzato	roccia	reggetta	oggetto celeste
+municipalità	paese	comune	comunità	nazione	regione	persona	stato federato	città	borgo	metropoli	titolo	quartiere	suddivisione amministrativa	comune italiano
+cibo	piatto	acqua	comunità	cibarie	composto	appezzato	comune	paese	vegetale	regione	dessert	verdura	metropoli	municipalità
+possesso	servizio	continuamento	appezzato	imbecillaggine	sborso	pagamento	contratto	gestione	spesa	accordo	controllo	aggiustatura	comunità	risorsa
+dispositivo	configurazione	meccanismo	codifica	automatismo	fenomeno fisico	tecnologia	trasmissione	calcolo	macchina	scrittura	fenomeno	verifica	riproduzione	notazione musicale
+persona	dotto	imbecillaggine	sborso	aggiustatura	coglioneria	appezzato	tracheobionta	borgo	posseditore	comune	guru	tempo	periodo	paese
+municipalità	comune	regione	comune italiano	persona	comunità	paese	metropoli	appezzato	città	stato federato	borgo	suddivisione amministrativa	sportivo	politico
+comune	comunità	borgo	edificio	municipalità	quartiere	struttura architettonica	aggiustatura	comune italiano	appezzato	paese	istituto	regione	città	località
+periodo	periodo di tempo	tempo	sborso	possesso	grado	risorsa	suddivisione amministrativa	imbecillaggine	aggiustamento	documento	computo	regione	comunità	evidenza

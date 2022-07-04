@@ -1,0 +1,14 @@
+Assignments/**/.ipynb_checkpoints/
+Assignments/**/.vscode/
+Assignments/Assignment-1/[!2]*
+Assignments/Assignment-2/[!2c]*
+Assignments/Assignment-3/[!2c]*
+# Assignments/Assignment-2/2021701010_assignment2/models/*.npz
+Assignments/**/*.npz
+Assignments/**/*.pth
+Assignments/Assignment-2/2021701010_assignment2/models/train_data.txt
+Assignments/Assignment-2/2021701010_assignment2/models/word_embeddings.txt
+Course Slides/
+Project/[^37_]*
+CSE-Manish Shrivastava-Introduction to NLP.docx
+CSE-Manish Shrivastava-Introduction to NLP.pdf

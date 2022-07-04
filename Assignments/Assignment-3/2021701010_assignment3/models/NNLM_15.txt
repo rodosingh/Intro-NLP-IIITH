@@ -1,0 +1,13 @@
+Language = ENGLISH
+Batch Size = 256
+n (no. of grams) = 5
+Learning Rate = 0.001
+Patience to Early Stop the Model = 10
+Vocab Size = 16062
+Embedding Dimension = 512
+Encoding Hidden Dimension = 256
+No. of Stacked Layers in GRU = 3
+Dropout = 0.3
+Early Stopping happened at Step = 15
+Number of Epochs = 100
+

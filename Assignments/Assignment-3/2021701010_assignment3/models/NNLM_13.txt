@@ -1,0 +1,21 @@
+Language = ENGLISH
+Batch Size = 256
+n (no. of grams) = 5
+Learning Rate = 0.1
+Patience to Early Stop the Model = 12
+Vocab Size = 16062
+Embedding Dimension = 512
+Encoding Hidden Dimension = 256
+No. of Stacked Layers in GRU = 2
+Dropout = 0
+Early Stopping happened at Step = 51
+Number of Epochs = 100
+Epoch: 51/100 | Time: 0m 11s
+        Train Loss: 5.588257571 | Train Accuracy: 12.589055061
+         Val. Loss: 6.129607707 | Val Accuracy: 11.512206078
+
+
+
+103it [00:00, 850.92it/s]
+| Test Loss: 6.117 | Test Accuracy:  12.369
+

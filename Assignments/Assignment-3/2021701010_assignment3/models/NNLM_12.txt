@@ -1,0 +1,13 @@
+Language = FRENCH
+Batch Size = 256
+n (no. of grams) = 5
+Learning Rate = 0.1
+Patience to Early Stop the Model = 15
+Vocab Size = 39003
+Embedding Dimension = 512
+Encoding Hidden Dimension = 1024
+No. of Stacked Layers in GRU = 3
+Dropout = 0.05
+Early Stopping happened at Step = 17
+Number of Epochs = 100
+

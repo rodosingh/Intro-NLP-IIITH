@@ -1,0 +1,1000 @@
+persona	hábitat	medio	máquina	vecindad	movimiento	entidad territorial	fenómeno	político	fluido	capital	substancia	estructura arquitectónica	ciudad	tiempo
+persona	metrópolis	entidad territorial	estudioso	comunidad	pueblo	indoario	población urbana	urbe	municipio	erudito	ciudad	metrópoli	vecindad	aglomeración urbana
+vertebrado	animal	prenda	ropa	vestimenta	fenómeno	ave	pájaro	borrasca	hilo	condición atmosférica	planta	tempestad	tracheobionta	vestuario
+máquina	estructura arquitectónica	hábitat	vecindad	persona	entidad territorial	medio	edificación	edificio	escena	fenómeno	ciudad	moneda	aglomeración urbana	municipio
+hábitat	estructura arquitectónica	vecindad	máquina	medio	edificio	entidad territorial	persona	aglomeración urbana	escena	edificación	área urbana	municipio	fenómeno	tiempo
+persona	álbum de estudio	entidad territorial	autor	político	zona metropolitana	urbe	ciudad	metrópolis	metrópoli	honorífico	escritor	comunidad	pueblo	dueña
+político	persona	líder	jefe	mandatario	dirigente	jefe de estado	autoridad	escritor	estudioso	poeta	pueblo	autor	gobernador	cabeza
+bantú	lenguaje	persona	lengua	indoario	entidad territorial	comunidad	lengua natural	spermatophyta	movimiento	vecindad	pueblo	tracheobionta	municipio	población urbana
+persona	álbum de estudio	obra musical	instrumentista	músico	álbum	compositor	cantante	personaje	indumentaria	vestido	vestuario	escritor	poeta	actor
+estudioso	indagación	erudito	intelectual	lenguaje	docto	persona	filósofo	contenido mental	inquisición	sabio	autor	investigación	escritor	figura retórica
+persona	planta	tracheobionta	indumentaria	músico	álbum de estudio	prenda	álbum	ropa	compositor	trago	instrumentista	vestuario	bebida	obra musical
+entidad territorial	persona	medio	vecindad	unidad monetaria	comunidad	máquina	moneda	municipio	ciudad	aglomeración urbana	movimiento	pueblo	población urbana	hábitat
+río	accidente geográfico	formación geológica	velero	transporte fluvial	medio de transporte	estructura arquitectónica	extensión de agua	vecindad	transporte	hábitat	masa de agua	balandra	nave	máquina
+persona	escritor	autor	honorífico	instrumentista	poeta	cantor	estudioso	erudito	instrumentalista	político	personaje	dramaturgo	dueña	compositor
+máquina	medio	variable	movimiento	instrumento de medida	instrumento de medición	compuesto	persona	substancia	signo	magnitud adimensional	fenómeno	base	partícula subatómica	compuesto químico
+aldehuela	persona	pueblo	entidad territorial	municipio	escena	área urbana	gobernador	risco	autoridad	político	población urbana	líder	hábitat	mandatario
+software	programa de computación	persona	programa de ordenador	máquina	variable	equipo	juego de mesa	programa informático	producción	compañía	instrumentalista	urbe	metrópoli	entidad territorial
+persona	escritor	autor	poeta	político	deidad	dirigente	mandatario	dueña	clérigo	dueño	honorífico	sabio	estudioso	monarca
+estudioso	erudito	persona	político	autor	estadista	escritor	intelectual	honorífico	docto	economista	sabio	filósofo	autoridad	profesionista
+persona	político	escritor	comediante	poeta	dueña	deidad	autor	sirviente	adversario	personaje	vertebrado	amo	maldad	dramaturgo
+persona	máquina	entidad territorial	político	jefe de estado	vecindad	ciudad	metrópolis	líder	aglomeración urbana	municipio	unidad monetaria	urbe	compuesto	autoridad
+planta	spermatophyta	tracheobionta	compuesto	angiosperma	planta vascular	compuesto químico	fluido	líquido	arbusto	planta leñosa	substancia	condimento	planta perenne	bebida
+persona	escritor	instrumentista	autor	político	instrumentalista	honorífico	cantor	metrópoli	estudioso	urbe	dramaturgo	estadista	compositor	metrópolis
+persona	animal	vertebrado	deidad	indumentaria	prenda	ropa	vestimenta	tracheobionta	luz	tempestad	fenómeno	personaje	monstruo	escritor
+urbe	persona	entidad territorial	ciudad	estudioso	zona metropolitana	comunidad	municipio	aglomeración urbana	centro urbano	área metropolitana	pueblo	político	metrópolis	metrópoli
+persona	autoridad	propietario	tracheobionta	dirigente	trabajador	entidad territorial	edificación	dueño	vecindad	órgano	estructura arquitectónica	hábitat	cofradía	político
+afección	enfermedad	patología	morbilidad	dolencia	mal	fármaco	tracheobionta	síntoma	condición	inflamación	medicina	parte del cuerpo	órgano	parte corporal
+estructura arquitectónica	escena	hábitat	formación geológica	tracheobionta	pueblo	suburbio	vecindad	persona	metrópolis	urbe	movimiento	área urbana	entidad territorial	comunidad
+persona	político	honorífico	ciudad	urbe	entidad territorial	estadista	autor	escritor	autoridad	dirigente	metrópolis	comunidad	metrópoli	estudioso
+persona	escritor	compositor	autor	instrumentista	poeta	músico	honorífico	escritora	autora	personaje	dueña	cantante	álbum de estudio	cantor
+máquina	medio	compuesto	instrumento de medición	persona	signo	instrumento de medida	variable	movimiento	fenómeno	compuesto químico	base	entidad territorial	tiempo	medio de transporte
+substancia	máquina	compuesto	compuesto químico	medio	persona	fluido	líquido	tracheobionta	moneda	planta	fármaco	spermatophyta	fenómeno	hábitat
+vehículo	escuadrón	escuadra	bajel	nave	máquina	persona	marinero	embarcación	accidente geográfico	tempestad	balandra	tripulante	villa	medio de transporte
+persona	máquina	fluido	fenómeno	narcótico	líquido	substancia	fármaco	tracheobionta	droga	juguete	parte corporal	compuesto químico	compuesto	medio
+río	hábitat	formación geológica	vecindad	accidente geográfico	municipio	arroyo	estructura arquitectónica	movimiento	curso de agua	área urbana	parcela	población urbana	entidad territorial	pueblo
+compuesto	substancia	compuesto químico	óxido	polímero	biomolécula	óxido metálico	nesosilicato	inosilicato	sustancia química	sílice	gas	cristal	facies	oxácido
+río	máquina	medio	extensión de agua	medio de transporte	masa de agua	transporte	movimiento	curso de agua	corriente	energía	hábitat	formación geológica	fenómeno	transporte de pasajeros
+afección	dolencia	morbilidad	enfermedad	síntoma	patología	mal	inflamación	condición	parte del cuerpo	parte corporal	signo clínico	neoplasia	medicina	cardiopatía
+máquina	medio	compuesto	substancia	compuesto químico	fluido	transporte	líquido	fenómeno	medio de transporte	estructura arquitectónica	moneda	hábitat	droga	tracheobionta
+persona	político	ciudad	entidad territorial	metrópoli	villa	zona metropolitana	urbe	metrópolis	líder	municipio	aglomeración urbana	pueblo	área metropolitana	vecindad
+persona	metrópolis	comediante	película	escuadrón	deidad	átomo	criatura mítica	tempestad	planemo	político	luz	personaje	monstruo	videojuego
+persona	máquina	medio	vecindad	entidad territorial	asociación	movimiento	tiempo	capital	comunidad	hábitat	aglomeración urbana	moneda	municipio	estructura arquitectónica
+medio	movimiento	agua	hábitat	río	curso de agua	masa de agua	angiosperma	extensión de agua	biocenosis	planta	tracheobionta	comunidad	spermatophyta	fenómeno
+máquina	fenómeno	compuesto	medio	persona	movimiento	dolencia	compuesto químico	tiempo	hábitat	síntoma	mal	afección	tracheobionta	substancia
+máquina	variable	medio	software	programa de computación	programa de ordenador	programa informático	substancia	compuesto	compañía	canal	persona	instrumento de medida	código informático	signo
+persona	animal	fluido	planta	tracheobionta	vertebrado	spermatophyta	bebida	trago	líquido	fármaco	planta vascular	arbusto	hueso	narcótico
+persona	escritor	autor	instrumentista	político	compositor	metrópoli	entidad territorial	zona metropolitana	poeta	honorífico	cantor	dueña	urbe	ciudad
+persona	político	autoridad	dirigente	estadista	jefe	jefe de estado	mandatario	autor	líder	escritor	lenguaje	entidad territorial	presidente	dueño
+persona	máquina	entidad territorial	vecindad	ciudad	aglomeración urbana	hábitat	metrópoli	municipio	metrópolis	área urbana	pueblo	movimiento	comunidad	zona metropolitana
+persona	escritor	honorífico	mandatario	gobernador	autor	dueño	dirigente	clérigo	jefe de estado	autoridad	gobernante	título nobiliario	sabio	propietario
+máquina	persona	medio	software	movimiento	substancia	asociación	compuesto	entidad territorial	vecindad	programa de computación	tiempo	moneda	fenómeno	extensión
+persona	medio	máquina	hábitat	movimiento	autoridad	moneda	entidad territorial	unión	estructura arquitectónica	vecindad	substancia	edificación	parte corporal	propietario
+asociación	persona	metrópoli	entidad territorial	comunidad	urbe	vecindad	ciudad	zona metropolitana	aglomeración urbana	estructura arquitectónica	metrópolis	máquina	medio	hábitat
+persona	movimiento	estructura arquitectónica	hábitat	medio	vecindad	edificación	edificio	entidad territorial	capital	fenómeno	escena	unión	asociación	cofradía
+entidad territorial	persona	vecindad	hábitat	municipio	ciudad	pueblo	aglomeración urbana	comunidad	área urbana	movimiento	autoridad	estructura arquitectónica	población urbana	metrópoli
+persona	escritor	sirviente	animal	personaje	álbum de estudio	dueña	álbum	indumentaria	autor	poeta	deidad	comediante	vertebrado	competidor
+medio	persona	moneda	movimiento	máquina	capital	unión	hábitat	asociación	unidad monetaria	estructura arquitectónica	entidad territorial	dinero	vecindad	edificación
+persona	político	metrópolis	escritor	deidad	autor	entidad territorial	dueña	personaje	honorífico	urbe	poeta	amo	metrópoli	comunidad
+planta	repostería	producto alimenticio	condimento	plato	receta	verdura	salsa	bebida	producto agrícola	indumentaria	receta de cocina	tarta	aderezo	tracheobionta
+medio	máquina	hábitat	estructura arquitectónica	vecindad	fluido	fenómeno	transporte	edificio	líquido	edificación	compuesto	entidad territorial	tracheobionta	moneda
+persona	escritor	autor	honorífico	poeta	estudioso	urbe	discípulo	erudito	zona metropolitana	ciudad	metrópolis	entidad territorial	político	compositor
+persona	lenguaje	escritor	autor	poeta	estudioso	amo	intelectual	tratamiento	sabio	dueño	lengua	movimiento	honorífico	dueña
+género musical	músico	persona	obra musical	planta	tracheobionta	compositor	instrumentista	baile	estilo literario	danza	evento social	baile de salón	escritor	teatro
+planta	spermatophyta	fluido	tracheobionta	animal	persona	arbusto	bebida	planta vascular	substancia	líquido	compuesto químico	vertebrado	compuesto	trago
+tracheobionta	planta	persona	indumentaria	fenómeno	escena	accidente geográfico	prenda	formación geológica	ropa	máquina	frutal	vecindad	h2o	vertebrado
+bebida	planta	angiosperma	planta vascular	tracheobionta	bebida alcohólica	trago	spermatophyta	condimento	planta perenne	plato	árbol	legumbre	alcohol	arbusto
+máquina	urbe	tiempo	período	metrópolis	movimiento	metrópoli	variable	etapa	persona	ciudad	medio	entidad territorial	canal	zona metropolitana
+vertebrado	animal	spermatophyta	planta vascular	angiosperma	planta	artiodactyla	tracheobionta	árbol	artiodáctilo	arbusto	bóvido	caudata	planta leñosa	pájaro
+máquina	medio de transporte	transporte	medio	escuadrón	transporte de pasajeros	escuadra	moneda	persona	vehículo	nave	entidad territorial	divisa	conductor	tiempo
+película	álbum de estudio	zona metropolitana	urbe	metrópoli	persona	ciudad	grupo de rock	álbum	instrumentista	instrumentalista	equipo	banda de rock	metrópolis	competidor
+persona	entidad territorial	vecindad	hábitat	máquina	estructura arquitectónica	edificación	tracheobionta	medio	moneda	ciudad	municipio	asociación	autoridad	capital
+persona	autor	escritor	álbum de estudio	político	personaje	dueña	honorífico	instrumentalista	poeta	compositor	cantor	autoridad	entidad territorial	mandatario
+máquina	estructura arquitectónica	medio	vecindad	hábitat	edificio	persona	edificación	entidad territorial	moneda	fenómeno	fluido	compuesto	planta	movimiento
+máquina	estructura arquitectónica	medio	hábitat	edificación	compuesto	vecindad	fluido	fenómeno	edificio	persona	substancia	compuesto químico	tracheobionta	entidad territorial
+persona	metrópolis	líder	entidad territorial	pueblo	político	aglomeración urbana	jefe de estado	urbe	zona metropolitana	vecindad	área urbana	turki	ciudad	centro urbano
+deidad	vertebrado	persona	tracheobionta	escena	ave	animal	poeta	pájaro	planta	trago	árbol	planta vascular	planta perenne	dueña
+fluido	bebida	planta	substancia	tracheobionta	spermatophyta	fármaco	droga	animal	líquido	trago	compuesto químico	compuesto	condimento	planta vascular
+máquina	persona	equipo	compañía	metrópoli	urbe	entidad territorial	software	metrópolis	escuadrón	tiempo	político	medio	ciudad	aglomeración urbana
+persona	instrumentista	escritor	instrumentalista	álbum de estudio	autor	honorífico	competidor	cantor	personaje	contendiente	compositor	músico	película	dramaturgo
+máquina	persona	equipo	conductor	signo	compuesto	software	programa de computación	moneda	compuesto químico	producción	programa de ordenador	juego de mesa	representación	tiempo
+borough	ciudad	villa	vehículo	aglomeración urbana	escuadrón	municipio	río	área urbana	entidad territorial	pueblo	urbe	zona metropolitana	centro urbano	líder
+persona	vecindad	hábitat	estructura arquitectónica	entidad territorial	ciudad	municipio	escena	edificación	suburbio	edificio	aglomeración urbana	máquina	área urbana	pueblo
+entidad territorial	municipio	pueblo	ciudad	comunidad	persona	vecindad	aglomeración urbana	metrópoli	área urbana	hábitat	población urbana	autoridad	estructura arquitectónica	capital
+movimiento	entidad territorial	hábitat	comunidad	aglomeración urbana	población urbana	área urbana	municipio	vecindad	centro urbano	pueblo	ciudad	capital	medio	estructura arquitectónica
+condimento	bebida	planta	producto alimenticio	aliño	aderezo	bebida alcohólica	repostería	trago	alcohol	aromatizante	receta	líquido	plato	sazonador
+spermatophyta	angiosperma	tracheobionta	planta	planta vascular	planta perenne	arbusto	compuesto	indumento	planta leñosa	compuesto químico	fluido	substancia	indumentaria	líquido
+río	hábitat	municipio	entidad territorial	población urbana	vecindad	pueblo	área urbana	comunidad	arroyo	formación geológica	accidente geográfico	movimiento	aldehuela	curso de agua
+persona	fluido	máquina	tracheobionta	substancia	compuesto	líquido	compuesto químico	fármaco	planta	animal	fenómeno	medio	órgano	bebida
+entidad territorial	municipio	vecindad	ciudad	aglomeración urbana	área urbana	pueblo	comunidad	hábitat	población urbana	persona	estructura arquitectónica	zona metropolitana	urbe	área metropolitana
+persona	escritor	autor	político	poeta	escritora	intelectual	compositor	dueña	contenido mental	movimiento social	músico	autora	erudito	estilo literario
+persona	animal	escritor	planta	tracheobionta	spermatophyta	bebida	vertebrado	álbum de estudio	planta vascular	trago	dueña	personaje	autor	poeta
+máquina	instrumento de medición	instrumento de medida	semiconductor	conductor	energía	compuesto	átomo	variable	substancia	compuesto químico	dínamo	partícula subatómica	programa de computación	programa de ordenador
+vecindad	estructura arquitectónica	hábitat	edificio	municipio	escena	ciudad	accidente geográfico	entidad territorial	área urbana	aglomeración urbana	formación geológica	máquina	suburbio	pueblo
+compuesto	máquina	compuesto químico	substancia	biomolécula	medio	movimiento	tracheobionta	fenómeno	hábitat	base	signo	persona	fluido	cristal
+persona	político	cantor	honorífico	autor	urbe	metrópolis	líder	escritor	villa	dueña	ciudad	metrópoli	escuadrón	estadista
+compuesto	compuesto químico	substancia	fenómeno	microambiente	formación geológica	óxido	tracheobionta	medio	cristal	máquina	biocenosis	sustancia química	dolencia	fluido
+estructura arquitectónica	máquina	edificio	hábitat	edificación	vecindad	medio	escena	fenómeno	entidad territorial	persona	transporte	accidente geográfico	municipio	tiempo
+edificio	suburbio	ciudad	vecindad	estructura arquitectónica	accidente geográfico	hábitat	aglomeración urbana	centro urbano	municipio	río	entidad territorial	área urbana	arroyo	edificación
+persona	vecindad	máquina	hábitat	entidad territorial	estructura arquitectónica	municipio	ciudad	aglomeración urbana	escena	área urbana	edificación	fenómeno	edificio	medio
+entidad territorial	centro urbano	municipio	área urbana	aglomeración urbana	ciudad	pueblo	vecindad	zona metropolitana	líder	villa	área metropolitana	población urbana	metrópoli	autoridad
+persona	político	líder	dirigente	autoridad	jefe	jefe de estado	honorífico	entidad territorial	mandatario	propietario	estadista	dueño	dueña	autor
+persona	entidad territorial	autoridad	municipio	vecindad	dueño	asociación	pueblo	propietario	comunidad	metrópoli	ciudad	político	autor	dirigente
+estructura arquitectónica	edificación	entidad territorial	asociación	hábitat	edificio	corporación	comunidad	medio	municipio	movimiento	instituto	aglomeración urbana	capital	ciudad
+persona	político	dirigente	autoridad	metrópoli	movimiento	pueblo	entidad territorial	líder	municipio	cuadrilla	metrópolis	comunidad	aglomeración urbana	cabeza
+planta	tracheobionta	animal	planta vascular	frutal	líquido	indumentaria	persona	árbol	bebida	vertebrado	hortaliza	arbusto	prenda	fluido
+persona	metrópolis	entidad territorial	metrópoli	zona metropolitana	ciudad	pueblo	urbe	vecindad	municipio	aglomeración urbana	comunidad	área metropolitana	área urbana	autor
+persona	planta	tracheobionta	indumentaria	planta vascular	líquido	bebida	vecindad	angiosperma	escritor	vertebrado	prenda	fluido	ropa	álbum de estudio
+persona	político	dirigente	autoridad	líder	trabajador	entidad territorial	propietario	dueño	jefe	municipio	ciudad	vecindad	jefe de estado	dueña
+estudioso	indagación	intelectual	ciencia natural	investigación	erudito	persona	asignatura	lenguaje	contenido mental	filósofo	político	autor	escritor	movimiento social
+fluido	planta	máquina	líquido	persona	estructura arquitectónica	vecindad	edificación	hábitat	tracheobionta	medio	compuesto	spermatophyta	edificio	arbusto
+a'ad	estratovolcán	río	dolina	campo de aviación	losa	cráter de impacto	plaza de mercado	malpaís	lago	material de construcción	clástica	alud de nieve	gualliguaica	clástico
+persona	autoridad	capital	político	moneda	entidad territorial	municipio	unión	cofradía	líder	asociación	dinero	pueblo	vecindad	comunidad
+máquina	persona	compuesto	planta	líquido	compuesto químico	tracheobionta	fluido	vecindad	indumentaria	cristal	entidad territorial	medio	fenómeno	metrópoli
+estructura arquitectónica	vecindad	hábitat	máquina	medio	moneda	entidad territorial	edificio	edificación	capital	fenómeno	municipio	transporte	movimiento	medio de transporte
+bebida	planta	trago	tracheobionta	condimento	bebida alcohólica	producto alimenticio	líquido	hortaliza	producto agrícola	aliño	verdura	planta vascular	fruto	indumentaria
+persona	planta	indumentaria	estructura arquitectónica	escena	municipio	pueblo	cofradía	edificación	entidad territorial	vecindad	tracheobionta	edificio	ropa	trabajador
+persona	máquina	competidor	metrópoli	metrópolis	lámpara	contendiente	indumentaria	político	película	concursante	honorífico	tiempo	dueña	h2o
+municipio	pueblo	estructura arquitectónica	entidad territorial	aldehuela	persona	tracheobionta	edificio	edificación	planta	comunidad	población urbana	escena	caserío	hábitat
+variable	software	programa de computación	máquina	programa de ordenador	movimiento	medio	compañía	biblioteconomía	programa informático	persona jurídica	persona	canal	energía	código informático
+persona	pueblo	comunidad	entidad territorial	metrópoli	metrópolis	urbe	zona metropolitana	municipio	autor	ciudad	área urbana	político	centro urbano	área metropolitana
+cráter	río	astroblema	formación geológica	accidente geográfico	vecindad	cráter de impacto	centro urbano	precipicio	acantilado	urbe	zona metropolitana	ciudad	hábitat	área urbana
+planemo	astroblema	movimiento	persona	máquina	partícula subatómica	objeto astronómico	fenómeno	partícula	cráter	deidad	bosón	tiempo	formación geológica	átomo
+persona	compositor	álbum de estudio	instrumentista	músico	cantante	obra musical	escritor	álbum	personaje	actor	película	escritora	autor	actor dramático
+máquina	medio	compuesto	substancia	persona	compuesto químico	fluido	fenómeno	líquido	tracheobionta	moneda	hábitat	vecindad	movimiento	entidad territorial
+indumentaria	máquina	formación geológica	tracheobionta	accidente geográfico	blindaje	planta	fenómeno	escena	estructura arquitectónica	frutal	prenda	líquido	ropa	depresión
+persona	entidad territorial	vecindad	municipio	ciudad	hábitat	planta	tracheobionta	pueblo	área urbana	zona metropolitana	aglomeración urbana	comunidad	área metropolitana	metrópoli
+persona	escritor	autor	político	entidad territorial	metrópolis	zona metropolitana	urbe	pueblo	comunidad	ciudad	aglomeración urbana	metrópoli	municipio	vecindad
+escuadrón	máquina	accidente geográfico	escena	nave	zona metropolitana	vehículo	velero	área urbana	vecindad	aglomeración urbana	medio de transporte	ciudad	suburbio	escuadra
+planta	spermatophyta	tracheobionta	arbusto	fluido	angiosperma	líquido	planta vascular	compuesto	compuesto químico	planta leñosa	substancia	condimento	hábitat	persona
+afección	patología	dolencia	morbilidad	enfermedad	mal	compuesto	parte del cuerpo	fármaco	parte corporal	compuesto químico	máquina	estructura anatómica	tracheobionta	cavidad
+persona	entidad territorial	municipio	autoridad	ciudad	autor	pueblo	honorífico	dirigente	vecindad	urbe	metrópoli	dueño	escritor	área metropolitana
+spermatophyta	planta	angiosperma	tracheobionta	arbusto	planta vascular	planta leñosa	árido	árbol	planta perenne	mineral	hortaliza	fluido	líquido	compuesto
+persona	metrópoli	zona metropolitana	urbe	ciudad	villa	político	metrópolis	equipo	centro urbano	área metropolitana	líder	entidad territorial	instrumentalista	comunidad
+a+	productor	repostería	producción audiovisual	productor de cine	serie cinematográfica	artista musical	productor de televisión	director musical	instrumentista	serie	guionista	instrumentalista	director de cine	música popular
+comunidad	entidad territorial	estructura arquitectónica	vecindad	persona	pueblo	zona metropolitana	metrópoli	biblioteconomía	metrópolis	municipio	urbe	área urbana	población urbana	deporte
+persona	presbítero	tracheobionta	curato	párroco	clérigo	deidad	aldehuela	vertebrado	entidad territorial	dirigente	municipio	pueblo	cura	obispado
+persona	político	honorífico	autor	escritor	metrópoli	líder	urbe	metrópolis	ciudad	entidad territorial	autoridad	cantor	zona metropolitana	dirigente
+escena	luz	vecindad	máquina	zona	tiempo	estructura arquitectónica	obra de arte	pueblo	accidente geográfico	fenómeno	formación geológica	indumentaria	h2o	hábitat
+persona	máquina	fluido	fenómeno	tracheobionta	fármaco	substancia	medio	compuesto	compuesto químico	juguete	vecindad	mal	animal	líquido
+persona	entidad territorial	comunidad	urbe	movimiento	máquina	metrópoli	vecindad	ciudad	medio	metrópolis	zona metropolitana	pueblo	aglomeración urbana	municipio
+astroblema	planemo	movimiento	objeto astronómico	cráter	cráter de impacto	persona	dáctilo	tiempo	formación geológica	entidad territorial	comunidad	bosón	fenómeno	metrópolis
+astroblema	cráter	máquina	planemo	metrópolis	formación geológica	cráter de impacto	urbe	metrópoli	objeto astronómico	movimiento	centro urbano	escuadrón	cráter lunar	átomo
+medio	substancia	máquina	compuesto	compuesto químico	fenómeno	movimiento	fluido	fármaco	hábitat	tracheobionta	persona	narcótico	líquido	parte corporal
+fármaco	morbilidad	enfermedad	afección	mal	tracheobionta	patología	fluido	compuesto	persona	fenómeno	compuesto químico	droga	dolencia	máquina
+lenguaje	contenido mental	figura retórica	estudioso	persona	escritor	intelectual	lengua	lengua natural	indoeuropeo	indagación	indoario	erudito	antropomorfismo	filósofo
+máquina	líquido	compuesto	fenómeno	cristal	compuesto químico	fluido	conductor	tracheobionta	h2o	planta	condición atmosférica	recipiente	medio de transporte	tiempo
+persona	barman	escritor	bebida	álbum de estudio	cantor	político	plato	condimento	instrumentista	autor	bebida alcohólica	dramaturgo	músico	cantante
+asignatura	movimiento	persona	investigación	ciencia natural	investigación médica	máquina	variable	biblioteconomía	función	medio	contenido mental	indagación	lenguaje	comunidad
+software	máquina	programa de computación	programa de ordenador	variable	compañía	programa informático	semiconductor	equipo	conductor	referencia	juego de mesa	persona	firma	medio de comunicación
+persona	autor	escritor	instrumentista	dramaturgo	honorífico	cantor	instrumentalista	compositor	poeta	actor dramático	personaje	dueña	músico	escritora
+máquina	medio	hábitat	vecindad	tiempo	estructura arquitectónica	compuesto	extensión	fenómeno	movimiento	entidad territorial	canal	aglomeración urbana	urbe	metrópoli
+máquina	medio	medio de transporte	extensión de agua	transporte	hábitat	masa de agua	entidad territorial	transporte de pasajeros	vecindad	curso de agua	moneda	río	movimiento	fenómeno
+persona	entidad territorial	ciudad	urbe	metrópoli	comunidad	zona metropolitana	municipio	aglomeración urbana	pueblo	vecindad	metrópolis	máquina	área metropolitana	área urbana
+vertebrado	spermatophyta	animal	angiosperma	invertebrado	arthropoda	artrópodo	planta vascular	tracheobionta	planta	compuesto químico	compuesto	fluido	arbusto	pinidae
+planta	condimento	bebida	persona	producto alimenticio	repostería	compañía	líquido	moneda	metrópoli	aliño	zona metropolitana	entidad territorial	tracheobionta	plato
+máquina	medio	transporte	estructura arquitectónica	medio de transporte	moneda	vehículo	edificio	fenómeno	persona	hábitat	tiempo	vecindad	desplazamiento	edificación
+tracheobionta	persona	planta	fluido	máquina	líquido	fenómeno	compuesto	hábitat	estructura arquitectónica	vecindad	medio	compuesto químico	entidad territorial	edificio
+persona	político	dirigente	jefe de estado	mandatario	autoridad	jefe	líder	autor	dueño	escritor	estadista	honorífico	clérigo	gobernador
+substancia	persona	compuesto químico	compuesto	fluido	líquido	moneda	bebida	psicotrópico	máquina	órgano	planta	condimento	droga	mezcla
+persona	escritor	autor	poeta	estudioso	erudito	honorífico	dueña	tracheobionta	compositor	entidad territorial	instrumentista	deidad	pueblo	urbe
+persona	deidad	monstruo	lámpara	arma	destello	comediante	personaje	criatura mitológica	sirviente	luz	álbum	guante	álbum de estudio	tempestad
+ciudad	vecindad	entidad territorial	hábitat	municipio	máquina	aglomeración urbana	metrópoli	zona metropolitana	área urbana	centro urbano	comunidad	metrópolis	urbe	persona
+afección	síntoma	patología	persona	dolencia	enfermedad	mal	parte del cuerpo	personaje	tracheobionta	parte corporal	escritor	morbilidad	compositor	representación
+persona	entidad territorial	ciudad	urbe	municipio	zona metropolitana	aglomeración urbana	vecindad	pueblo	metrópolis	área urbana	área metropolitana	metrópoli	centro urbano	comunidad
+substancia	fluido	compuesto	compuesto químico	líquido	droga	planta	fármaco	tracheobionta	narcótico	máquina	medio	alcaloide	psicotrópico	spermatophyta
+político	líder	dirigente	jefe de estado	persona	estadista	autoridad	jefe	pueblo	entidad territorial	turki	presidente	municipio	jefe de gobierno	mandatario
+substancia	compuesto	biomolécula	compuesto químico	fármaco	dolencia	afección	sustancia química	polímero	patología	mal	morbilidad	gas	antimetabolito	inflamación
+persona	dirigente	autoridad	jefe de estado	jefe	político	estadista	mandatario	líder	togado	clérigo	entidad territorial	dueño	aristócrata	presidente
+máquina	estructura arquitectónica	vecindad	persona	hábitat	edificio	edificación	fenómeno	escena	entidad territorial	medio	tracheobionta	fluido	planta	aglomeración urbana
+persona	personaje	instrumentista	deidad	indumentaria	músico	escritor	compositor	álbum de estudio	obra musical	poeta	tracheobionta	álbum	representación	vertebrado
+persona	escena	pueblo	vecindad	tracheobionta	entidad territorial	municipio	zona metropolitana	planta	escritor	área urbana	metrópolis	comunidad	área metropolitana	vertebrado
+estructura arquitectónica	hábitat	medio	transporte	máquina	vecindad	medio de transporte	accidente geográfico	edificación	edificio	superficie	desplazamiento	fenómeno	entidad territorial	formación geológica
+persona	entidad territorial	municipio	pueblo	ciudad	metrópoli	vecindad	comunidad	zona metropolitana	urbe	área urbana	área metropolitana	aglomeración urbana	escena	población urbana
+máquina	centro urbano	zona metropolitana	aglomeración urbana	medio de transporte	metrópolis	área urbana	corriente	extensión de agua	edificio	urbe	formación geológica	masa de agua	estructura arquitectónica	transporte
+formación geológica	máquina	depresión	accidente geográfico	fenómeno	líquido	facies	roca	depresión natural	cristal	piedra	planta	compuesto	receptáculo	superficie
+persona	escritor	entidad territorial	autor	pueblo	metrópolis	poeta	político	vecindad	municipio	metrópoli	zona metropolitana	comunidad	ciudad	urbe
+persona	político	cantor	autor	metrópolis	honorífico	escritor	comediante	dramaturgo	metrópoli	instrumentalista	dueña	urbe	película	escuadrón
+persona	trabajador	animal	juguete	máquina	fenómeno	parte corporal	opiato	vertebrado	fluido	parte del cuerpo	agresión	tracheobionta	faz	maldad
+persona	político	honorífico	autor	cantor	escritor	instrumentalista	metrópolis	estadista	estudioso	urbe	economista	profesionista	líder	erudito
+persona	urbe	entidad territorial	vecindad	ciudad	comunidad	metrópoli	zona metropolitana	máquina	metrópolis	pueblo	hábitat	área metropolitana	aglomeración urbana	movimiento
+persona	álbum de estudio	urbe	equipo	instrumentalista	instrumentista	máquina	entidad territorial	metrópoli	ciudad	zona metropolitana	honorífico	autor	metrópolis	personaje
+persona	político	metrópoli	entidad territorial	urbe	metrópolis	autor	honorífico	ciudad	escritor	líder	autoridad	zona metropolitana	comunidad	dueña
+persona	entidad territorial	máquina	vecindad	estructura arquitectónica	hábitat	municipio	medio	moneda	movimiento	edificación	pueblo	comunidad	unidad monetaria	ciudad
+persona	escena	pueblo	hábitat	tracheobionta	entidad territorial	estructura arquitectónica	vecindad	municipio	planta	área urbana	trabajador	movimiento	edificación	tiempo
+persona	cofradía	autoridad	propietario	trabajador	entidad territorial	estructura arquitectónica	edificación	vecindad	político	dirigente	asociación	dueño	hábitat	máquina
+persona	entidad territorial	tracheobionta	vecindad	planta	zona metropolitana	metrópolis	municipio	ciudad	pueblo	aglomeración urbana	área urbana	área metropolitana	metrópoli	político
+persona	planta	tracheobionta	escritor	instrumentista	músico	autor	bebida	planta vascular	indumentaria	compositor	poeta	metrópoli	zona metropolitana	álbum de estudio
+persona	autoridad	entidad territorial	propietario	vecindad	dueño	unidad monetaria	edificación	comunidad	moneda	estructura arquitectónica	municipio	dirigente	asociación	hábitat
+accidente geográfico	escena	estructura arquitectónica	edificio	vecindad	formación geológica	blindaje	zona	arroyo	área urbana	infraestructura urbana	infraestructura	recinto	suburbio	hábitat
+máquina	persona	líquido	planta	fluido	vecindad	h2o	bebida	tiempo	medio	compuesto	tracheobionta	trago	indumentaria	fenómeno
+persona	vertebrado	escritor	autor	político	honorífico	spermatophyta	tracheobionta	animal	metrópolis	angiosperma	entidad territorial	dueño	instrumentista	dirigente
+substancia	compuesto químico	compuesto	fármaco	droga	psicotrópico	fluido	biomolécula	tracheobionta	polímero	sustancia química	microorganismo	líquido	óxido	mal
+afección	patología	parte corporal	dolencia	parte del cuerpo	enfermedad	mal	morbilidad	cavidad	compuesto	tracheobionta	fenómeno	órgano	máquina	síntoma
+persona	entidad territorial	movimiento	comunidad	autoridad	hábitat	medio	municipio	político	población urbana	pueblo	vecindad	aglomeración urbana	metrópolis	capital
+municipio	área urbana	entidad territorial	ciudad	pueblo	aglomeración urbana	hábitat	población urbana	centro urbano	vecindad	edificio	zona metropolitana	área metropolitana	arroyo	suburbio
+spermatophyta	angiosperma	arbusto	vitaceae	planta	planta vascular	tracheobionta	planta leñosa	planta perenne	gimnospermas	conífera	vertebrado	árbol	pinidae	escandente
+substancia	fármaco	compuesto	compuesto químico	condimento	bebida	droga	producto alimenticio	líquido	fluido	plato	psicotrópico	aliño	alcohol	planta
+planta	bebida	líquido	trago	tracheobionta	compuesto químico	compuesto	plato	indumentaria	planta vascular	bebida alcohólica	fluido	aromatizante	producto alimenticio	animal
+compuesto	planta	fluido	máquina	compuesto químico	líquido	substancia	estructura arquitectónica	tracheobionta	medio	droga	fenómeno	espacio	edificio	hábitat
+formación geológica	líquido	piedra	mineral	planta	tracheobionta	compuesto	roca	agua	fenómeno	máquina	facies	compuesto químico	depresión	accidente geográfico
+vecindad	municipio	hábitat	accidente geográfico	área urbana	pueblo	entidad territorial	escena	aglomeración urbana	formación geológica	población urbana	persona	ciudad	suburbio	h2o
+hábitat	vecindad	entidad territorial	municipio	ciudad	persona	estructura arquitectónica	pueblo	aglomeración urbana	área urbana	comunidad	medio	población urbana	centro urbano	escena
+autoridad	persona	dinero	moneda	unidad monetaria	unión	capital	entidad territorial	dirigente	asociación	medio	propietario	jefe	requisitoria	oficial
+máquina	planta	líquido	compuesto	tracheobionta	compuesto químico	fluido	cristal	recipiente	mineral	planta vascular	fenómeno	indumentaria	arbusto	roca
+movimiento	urbe	entidad territorial	metrópoli	comunidad	ciudad	máquina	canal	vecindad	hábitat	pueblo	metrópolis	municipio	aglomeración urbana	persona
+persona	substancia	fluido	tracheobionta	compuesto	máquina	compuesto químico	planta	líquido	fármaco	spermatophyta	medio	hábitat	droga	vecindad
+afección	dolencia	enfermedad	síntoma	patología	morbilidad	mal	hematoma	parte corporal	inflamación	parte del cuerpo	condición	aneurisma	fármaco	cardiopatía
+persona	entidad territorial	vecindad	hábitat	municipio	ciudad	pueblo	comunidad	político	aglomeración urbana	autoridad	tracheobionta	estructura arquitectónica	área urbana	metrópolis
+entidad territorial	vecindad	urbe	aglomeración urbana	zona metropolitana	área urbana	ciudad	comunidad	hábitat	municipio	centro urbano	población urbana	pueblo	área metropolitana	metrópolis
+persona	urbe	entidad territorial	zona metropolitana	álbum de estudio	metrópolis	máquina	comunidad	ciudad	pueblo	metrópoli	vecindad	instrumentalista	área metropolitana	honorífico
+persona	máquina	metrópolis	metrópoli	urbe	equipo	zona metropolitana	ciudad	álbum de estudio	entidad territorial	escuadrón	vecindad	aglomeración urbana	comunidad	área metropolitana
+vecindad	ciudad	entidad territorial	municipio	aglomeración urbana	centro urbano	zona metropolitana	persona	área urbana	suburbio	edificio	área metropolitana	escena	pueblo	hábitat
+persona	película	personaje	escritor	autor	comediante	cantor	metrópolis	álbum de estudio	deidad	dramaturgo	honorífico	instrumentista	poeta	filme
+planta	tracheobionta	planta vascular	spermatophyta	árbol	arbusto	planta leñosa	hábitat	persona	angiosperma	estructura arquitectónica	municipio	entidad territorial	líquido	vecindad
+municipio	río	área urbana	hábitat	accidente geográfico	pueblo	entidad territorial	aglomeración urbana	vecindad	estructura arquitectónica	formación geológica	ciudad	centro urbano	arroyo	edificio
+estructura arquitectónica	edificio	vecindad	edificación	hábitat	escena	suburbio	municipio	entidad territorial	planta	accidente geográfico	área urbana	tracheobionta	máquina	aglomeración urbana
+persona	álbum de estudio	entidad territorial	instrumentalista	metrópoli	urbe	instrumentista	autor	equipo	comunidad	zona metropolitana	honorífico	metrópolis	producción	político
+compuesto	máquina	formación geológica	compuesto químico	fenómeno	medio	cristal	facies	curso de agua	río	movimiento	tracheobionta	hábitat	substancia	extensión de agua
+planta	planta vascular	hortaliza	angiosperma	árbol	spermatophyta	frutal	tracheobionta	arbusto	planta leñosa	árbol frutal	planta perenne	tela	mineral	vertebrado
+caserío	municipio	ciudad	centro urbano	río	área urbana	aldehuela	entidad territorial	hábitat	población urbana	comuna	aglomeración urbana	suburbio	pueblo	metrópoli
+vehículo	máquina	transporte	medio	medio de transporte	fenómeno	hábitat	transporte de pasajeros	accidente geográfico	vecindad	embarcación	nave	fluido	persona	líquido
+escritor	estudioso	autor	poeta	persona	erudito	compositor	escritora	dramaturgo	político	discípulo	honorífico	seguidor	autora	instrumentista
+persona	entidad territorial	ciudad	autoridad	municipio	comunidad	metrópoli	vecindad	metrópolis	aglomeración urbana	zona metropolitana	área urbana	pueblo	hábitat	área metropolitana
+máquina	escena	persona	indumentaria	estructura arquitectónica	planta	tracheobionta	fenómeno	líquido	juguete	vertebrado	h2o	ropa	animal	prenda
+máquina	persona	fenómeno	juguete	compuesto	tiempo	conductor	compuesto químico	luz	fluido	tracheobionta	líquido	cristal	h2o	condición atmosférica
+persona	substancia	fluido	compuesto	tracheobionta	compuesto químico	fármaco	máquina	líquido	planta	droga	narcótico	spermatophyta	medio	psicotrópico
+persona	político	escritor	autor	instrumentista	instrumentalista	metrópolis	cantor	honorífico	dramaturgo	urbe	comediante	estadista	letrista	metrópoli
+máquina	compuesto	conductor	compuesto químico	signo	cristal	instrumento de medición	instrumento de medida	señal	medio	semiconductor	fenómeno	substancia	base	líquido
+persona	escritor	instrumentista	compositor	autor	músico	escritora	dramaturgo	personaje	comediante	actor dramático	dueña	autora	cantante	actor
+persona	entidad territorial	político	pueblo	municipio	vecindad	metrópolis	comunidad	área urbana	ciudad	población urbana	zona metropolitana	aglomeración urbana	área metropolitana	líder
+medio	unión	movimiento	hábitat	estructura arquitectónica	moneda	asociación	persona	capital	transporte	máquina	edificación	dinero	entidad territorial	autoridad
+villa	ciudad	urbe	municipio	centro urbano	pueblo	entidad territorial	área urbana	zona metropolitana	aglomeración urbana	metrópoli	área metropolitana	comuna	líder	población urbana
+persona	villa	municipio	ciudad	comuna	entidad territorial	zona metropolitana	área urbana	pueblo	escena	vecindad	urbe	área metropolitana	metrópoli	aristócrata
+persona	urbe	escritor	autor	honorífico	entidad territorial	metrópolis	político	ciudad	zona metropolitana	comunidad	metrópoli	estadista	autoridad	área metropolitana
+persona	deidad	vertebrado	átomo	animal	personaje	escritor	síntoma	mal	adversario	tratamiento	metrópolis	autor	partícula subatómica	parte del cuerpo
+entidad territorial	ciudad	municipio	aglomeración urbana	área urbana	pueblo	vecindad	urbe	centro urbano	población urbana	zona metropolitana	área metropolitana	comunidad	metrópoli	hábitat
+persona	escritor	autor	poeta	deidad	dueña	personaje	honorífico	compositor	político	autora	dueño	tracheobionta	álbum de estudio	amo
+persona	hábitat	vecindad	máquina	medio	entidad territorial	fluido	fenómeno	movimiento	estructura arquitectónica	autoridad	tracheobionta	edificación	moneda	capital
+persona	comediante	película	personaje	álbum de estudio	contendiente	competidor	álbum	animal	arma	deidad	videojuego	animal legendario	monstruo	escritor
+partícula subatómica	substancia	partícula	biomolécula	gas	átomo	clivaje	asignatura	compuesto	bosón	dolencia	cambio químico	variable	compuesto químico	sinecología
+persona	máquina	estructura arquitectónica	vecindad	hábitat	edificio	edificación	cofradía	fenómeno	juguete	escena	entidad territorial	asociación	fluido	movimiento
+persona	instrumentista	instrumentalista	autor	escritor	cantor	honorífico	compositor	álbum de estudio	político	músico	personaje	dramaturgo	película	álbum
+estructura arquitectónica	edificio	hábitat	edificación	vecindad	persona	escena	entidad territorial	máquina	cofradía	emblema	municipio	suburbio	área urbana	aglomeración urbana
+político	líder	persona	dirigente	autoridad	entidad territorial	ciudad	jefe	comunidad	capital	municipio	pueblo	vecindad	jefe de estado	movimiento
+persona	urbe	villa	ciudad	zona metropolitana	metrópoli	honorífico	líder	político	escuadrón	aglomeración urbana	metrópolis	entidad territorial	área metropolitana	centro urbano
+afección	mal	fármaco	dolencia	patología	morbilidad	síntoma	parte corporal	enfermedad	parte del cuerpo	órgano	substancia	condición	compuesto químico	compuesto
+estudioso	erudito	persona	político	autor	docto	escritor	intelectual	honorífico	sabio	autoridad	filósofo	estadista	metrópolis	indagación
+máquina	persona	substancia	compuesto	compuesto químico	medio	entidad territorial	movimiento	fluido	tracheobionta	vecindad	asociación	fármaco	fenómeno	moneda
+tracheobionta	vertebrado	planta	angiosperma	animal	planta vascular	spermatophyta	persona	fluido	bebida	plato	compuesto	compuesto químico	líquido	arbusto
+afección	dolencia	enfermedad	síntoma	mal	patología	morbilidad	hipersomnio	condición	hipersomnia	hinchazón	parte del cuerpo	parte corporal	desorden	neoplasia
+urbe	persona	honorífico	metrópolis	ciudad	estadista	político	estudioso	metrópoli	zona metropolitana	autor	pueblo	entidad territorial	comunidad	líder
+persona	animal	máquina	vertebrado	vecindad	tracheobionta	fluido	juguete	parte corporal	trabajador	hábitat	órgano	fenómeno	estructura arquitectónica	entidad territorial
+máquina	compuesto	substancia	compuesto químico	fluido	medio	tracheobionta	líquido	persona	fenómeno	órgano	parte corporal	fármaco	estructura arquitectónica	droga
+formación geológica	máquina	accidente geográfico	fenómeno	hábitat	agua	depresión	arroyo	corriente	estructura arquitectónica	tracheobionta	h2o	río	vecindad	curso de agua
+indumentaria	planta	trapo	paño	obra de arte	emblema	tracheobionta	vecindad	planta vascular	pueblo	tela	angiosperma	metrópolis	formación geológica	escena
+estructura arquitectónica	hábitat	edificio	vecindad	máquina	edificación	medio	fenómeno	accidente geográfico	entidad territorial	escena	transporte	suburbio	superficie	municipio
+substancia	fármaco	psicotrópico	compuesto químico	compuesto	droga	biomolécula	polímero	condimento	estatina	sustancia química	óxido	narcótico	fluido	polialcohol
+máquina	medio	moneda	compuesto	substancia	persona	compuesto químico	unidad monetaria	transporte	fluido	fenómeno	movimiento	medio de transporte	líquido	estructura arquitectónica
+animal	vertebrado	indumentaria	prenda	ropa	vestimenta	tracheobionta	planta	planta vascular	borrasca	fenómeno	máquina	trapo	vestuario	arma
+escena	municipio	pueblo	estructura arquitectónica	edificio	vecindad	área urbana	palacete	comuna	entidad territorial	centro urbano	suburbio	ciudad	población urbana	zona
+indumentaria	persona	metrópoli	escena	obra de arte	trapo	evento social	paño	zona metropolitana	librería	representación	metrópolis	tracheobionta	zona	deporte
+máquina	medio	moneda	medio de transporte	entidad territorial	transporte	hábitat	estructura arquitectónica	vecindad	unidad monetaria	divisa	extensión de agua	aglomeración urbana	movimiento	corporación
+persona	político	honorífico	autor	escritor	cantor	dueña	instrumentista	instrumentalista	líder	metrópolis	álbum de estudio	autoridad	compositor	urbe
+substancia	biomolécula	compuesto	compuesto químico	fármaco	polímero	sustancia química	dolencia	óxido	gas	cambio químico	microorganismo	afección	patología	morbilidad
+máquina	persona	medio	substancia	fluido	fenómeno	hábitat	compuesto	movimiento	compuesto químico	vecindad	tracheobionta	líquido	fármaco	entidad territorial
+máquina	estructura arquitectónica	vecindad	entidad territorial	hábitat	medio	municipio	edificio	persona	ciudad	aglomeración urbana	área urbana	moneda	fenómeno	movimiento
+persona	trabajador	agresión	autoridad	felonía	político	dirigente	comerciante	líder	vecindad	máquina	crimen	maldad	entidad territorial	opiato
+persona	entidad territorial	autoridad	jefe de estado	político	ciudad	municipio	metrópoli	líder	metrópolis	urbe	honorífico	pueblo	comunidad	vecindad
+dirigente	persona	autoridad	entidad territorial	jefe	propietario	municipio	trabajador	curato	pueblo	aldehuela	ciudad	dueño	hábitat	cofradía
+persona	entidad territorial	urbe	comunidad	metrópoli	ciudad	autoridad	zona metropolitana	municipio	pueblo	aglomeración urbana	metrópolis	área metropolitana	vecindad	área urbana
+estructura arquitectónica	edificio	edificación	hábitat	planta	vecindad	máquina	tracheobionta	cofradía	medio	moneda	líquido	fluido	persona	escena
+persona	movimiento	morbilidad	asignatura	lenguaje	contenido mental	político	comunidad	investigación	entidad territorial	dolencia	afección	hábitat	asociación	tratamiento
+entidad territorial	municipio	ciudad	vecindad	aglomeración urbana	área urbana	pueblo	persona	población urbana	hábitat	metrópoli	comunidad	zona metropolitana	metrópolis	centro urbano
+estructura arquitectónica	edificio	hábitat	municipio	edificación	suburbio	área urbana	vecindad	aglomeración urbana	entidad territorial	población urbana	ciudad	pueblo	infraestructura	centro urbano
+persona	máquina	software	compañía	entidad territorial	programa de computación	equipo	moneda	medio	urbe	programa de ordenador	corporación	ciudad	vecindad	producción
+máquina	software	persona	compañía	programa de computación	programa de ordenador	variable	urbe	canal	equipo	entidad territorial	medio	programa informático	metrópoli	juego de mesa
+persona	político	escritor	honorífico	autor	dramaturgo	metrópolis	cantor	estadista	líder	poeta	comediante	urbe	dirigente	escuadra
+investigación	persona	contenido mental	asignatura	lenguaje	zoología	ciencia natural	estudioso	intelectual	filología	investigación médica	indagación	neurociencia	autor	biblioteconomía
+persona	escritor	autor	poeta	político	dueña	escritora	honorífico	compositor	dirigente	amo	dueño	metrópolis	trabajador	entidad territorial
+medio	entidad territorial	máquina	movimiento	persona	estructura arquitectónica	comunidad	moneda	unidad monetaria	hábitat	vecindad	asociación	edificación	municipio	capital
+videojuego	película	equipo	álbum de estudio	persona	juego de video	juego de ordenador	juego de mesa	juego de computadora	software	álbum	surname	programa de ordenador	compañía	instrumentalista
+átomo	máquina	partícula subatómica	partícula	dínamo	energía	objeto astronómico	vehículo	cráter lunar	variable	planemo	escalar	semiconductor	medio	bosón de gauge
+tempestad	deidad	disturbio	cráter	vertebrado	monstruo	reptil	cataclismo	persona	objeto astronómico	astroblema	borrasca	criatura mítica	fenómeno	accidente geográfico
+persona	máquina	político	entidad territorial	vecindad	medio	autoridad	moneda	tiempo	metrópolis	metrópoli	ciudad	asociación	aglomeración urbana	comunidad
+persona	pueblo	centro urbano	área urbana	entidad territorial	aglomeración urbana	comunidad	movimiento	metrópolis	población urbana	municipio	vecindad	zona metropolitana	área metropolitana	hábitat
+persona	político	líder	autor	escritor	metrópolis	honorífico	autoridad	zona metropolitana	urbe	metrópoli	ciudad	dueña	entidad territorial	dirigente
+persona	álbum de estudio	álbum	obra musical	músico	instrumentista	película	compositor	personaje	instrumentalista	zona metropolitana	metrópolis	equipo	escritor	producción
+substancia	compuesto	compuesto químico	biomolécula	fármaco	dolencia	máquina	medio	mal	sustancia química	afección	gas	morbilidad	polímero	patología
+autoridad	capital	dinero	unión	moneda	entidad territorial	oficial	comunidad	unidad monetaria	político	líder	pueblo	persona	municipio	jefe
+asignatura	ciencia natural	persona	indagación	investigación médica	investigación	biblioteconomía	contenido mental	economista	lenguaje	movimiento	inquisición	estudioso	variable	función
+persona	político	escritor	autor	entidad territorial	dirigente	autoridad	dueño	propietario	dueña	honorífico	mandatario	vecindad	tracheobionta	comunidad
+medio	unión	dinero	moneda	capital	autoridad	unidad monetaria	asociación	entidad territorial	movimiento	comunidad	hábitat	persona	estructura social	persona jurídica
+persona	máquina	substancia	fluido	compuesto	tracheobionta	compuesto químico	medio	fármaco	fenómeno	vecindad	hábitat	líquido	planta	órgano
+líquido	planta	tracheobionta	bebida	fluido	planta vascular	indumentaria	trago	animal	compuesto	ropa	máquina	prenda	bebida alcohólica	fenómeno
+persona	máquina	medio	tracheobionta	fluido	compuesto	fenómeno	movimiento	substancia	entidad territorial	compuesto químico	vecindad	hábitat	tiempo	órgano
+persona	político	vertebrado	deidad	animal	mal	síntoma	tracheobionta	dolencia	afección	parte del cuerpo	cánido	maldad	tratamiento	fenómeno
+máquina	persona	moneda	medio	substancia	estructura arquitectónica	entidad territorial	compuesto	unidad monetaria	asociación	compañía	firma	vecindad	corporación	compuesto químico
+persona	compositor	músico	personaje	álbum de estudio	instrumentista	obra musical	álbum	escritor	estilo literario	indumentaria	cantante	vestuario	poeta	escritora
+accidente geográfico	río	formación geológica	aglomeración urbana	caserío	municipio	entidad territorial	área urbana	ciudad	vecindad	hábitat	pueblo	arroyo	zona metropolitana	población urbana
+persona	entidad territorial	autor	político	escritor	urbe	honorífico	ciudad	metrópoli	zona metropolitana	comunidad	metrópolis	dueño	mandatario	área metropolitana
+máquina	medio	programa de computación	software	programa de ordenador	compañía	canal	compuesto	programa informático	juego de mesa	producción	medio de comunicación	energía	semiconductor	compuesto químico
+planta	tracheobionta	compuesto	líquido	compuesto químico	fluido	bebida	planta vascular	condimento	producto alimenticio	substancia	spermatophyta	máquina	mineral	droga
+formación geológica	estructura arquitectónica	accidente geográfico	hábitat	máquina	extensión de agua	superficie	corriente	curso de agua	masa de agua	piedra	río	roca	depresión natural	vecindad
+máquina	átomo	metrópolis	persona	conductor	videojuego	arma	metrópoli	escuadrón	película	equipo	zona metropolitana	tiempo	álbum de estudio	urbe
+persona	máquina	estructura arquitectónica	hábitat	vecindad	entidad territorial	edificación	asociación	medio	tracheobionta	movimiento	fluido	autoridad	comunidad	cofradía
+persona	substancia	fármaco	fluido	medio	compuesto	máquina	compuesto químico	droga	líquido	tracheobionta	planta	bebida	narcótico	psicotrópico
+máquina	medio	persona	vecindad	estructura arquitectónica	moneda	hábitat	compuesto	entidad territorial	fluido	líquido	fenómeno	edificación	planta	edificio
+persona	escritor	autor	honorífico	político	poeta	dirigente	dueña	estudioso	metrópolis	dueño	compositor	erudito	líder	autoridad
+persona	máquina	planta	fluido	líquido	tracheobionta	vecindad	compuesto	estructura arquitectónica	hábitat	compuesto químico	medio	arbusto	entidad territorial	spermatophyta
+persona	escritor	estudioso	autor	erudito	poeta	lenguaje	deidad	honorífico	intelectual	sabio	vertebrado	contenido mental	filósofo	tracheobionta
+estudioso	persona	intelectual	escritor	autor	erudito	contenido mental	filósofo	sabio	lenguaje	poeta	docto	escritora	biblioteconomía	instrumentista
+estudioso	escritor	autor	poeta	persona	intelectual	docto	sabio	filósofo	lenguaje	librería	lengua	historiadora	lingüista	honorífico
+persona	máquina	vertebrado	animal	vecindad	fenómeno	tracheobionta	fluido	juguete	hábitat	trabajador	entidad territorial	estructura arquitectónica	medio	político
+estructura arquitectónica	vecindad	emblema	planta	edificación	edificio	persona	municipio	entidad territorial	escena	moneda	hábitat	pueblo	indumentaria	área urbana
+persona	lenguaje	escritor	deidad	estudioso	autor	mandatario	poeta	dueño	gobernante	sabio	lengua	erudito	entidad territorial	intelectual
+contenido mental	lenguaje	morbilidad	investigación	persona	síntoma	asignatura	condición	afección	dolencia	hipersomnia	intelectual	lengua	comportamiento sexual humano	enfermedad
+metrópoli	comunidad	entidad territorial	urbe	movimiento	asociación	pueblo	ciudad	metrópolis	zona metropolitana	persona	municipio	población urbana	centro urbano	aglomeración urbana
+persona	lenguaje	movimiento	tracheobionta	estudioso	escritor	tratamiento	dolencia	político	autor	lengua	síntoma	fármaco	afección	mal
+instrumentalista	persona	instrumentista	letrista	cantor	álbum de estudio	músico	escritor	autor	metrópolis	compositor	vocalista	político	producción	dramaturgo
+asignatura	biblioteconomía	investigación	ciencia natural	filología	lenguaje	indagación	biociencia	investigación médica	zoología	contenido mental	función	estudioso	movimiento	paleografía
+substancia	compuesto	máquina	líquido	compuesto químico	medio	fluido	planta	tracheobionta	moneda	droga	fármaco	narcótico	persona	estructura arquitectónica
+emblema	persona	municipio	indumentaria	pueblo	paño	bandera	escena	entidad territorial	estructura arquitectónica	título nobiliario	vecindad	heráldica	comunidad	obra de arte
+persona	personaje	álbum de estudio	álbum	película	comediante	escritor	videojuego	compositor	instrumentista	obra musical	máquina	autor	filme	instrumentalista
+persona	músico	compositor	obra musical	álbum de estudio	personaje	indumentaria	instrumentista	escritor	álbum	tracheobionta	histrión	escritora	planta	autor
+formación geológica	facies	karst	caliza	árido	malpaís	piedra	depresión natural	roca	depresión	cráter	bioma	accidente geográfico	roca sedimentaria	mineral
+compuesto	substancia	compuesto químico	polímero	óxido	líquido	fluido	droga	fármaco	ácido	planta	óxido metálico	tracheobionta	mineral	sustancia química
+persona	escritor	tracheobionta	instrumentista	autor	músico	compositor	personaje	álbum de estudio	poeta	obra musical	animal	vertebrado	álbum	planta
+máquina	entidad territorial	ciudad	persona	vecindad	aglomeración urbana	municipio	hábitat	zona metropolitana	área urbana	medio	urbe	metrópolis	tiempo	centro urbano
+persona	máquina	político	entidad territorial	movimiento	pueblo	medio	metrópolis	vecindad	fenómeno	hábitat	vehículo	tiempo	comunidad	metrópoli
+persona	escritor	autor	poeta	cantor	honorífico	metrópoli	metrópolis	dramaturgo	zona metropolitana	dueña	urbe	político	ciudad	álbum de estudio
+hábitat	estructura arquitectónica	vecindad	edificación	edificio	entidad territorial	accidente geográfico	fenómeno	agua	planta	medio	tracheobionta	municipio	superficie	movimiento
+persona	medio	máquina	movimiento	tracheobionta	substancia	compuesto	fenómeno	compuesto químico	entidad territorial	comunidad	vecindad	hábitat	tiempo	político
+vecindad	escena	pueblo	hábitat	estructura arquitectónica	persona	máquina	entidad territorial	edificio	aglomeración urbana	movimiento	área urbana	tiempo	municipio	ciudad
+planta	compuesto	líquido	tracheobionta	compuesto químico	cristal	máquina	recipiente	mineral	indumentaria	fluido	planta vascular	textil	piedra	tela
+planta	líquido	fluido	máquina	droga	compuesto	medio	fármaco	substancia	tracheobionta	compuesto químico	estructura arquitectónica	narcótico	electrodoméstico	edificio
+entidad territorial	persona	municipio	aldehuela	pueblo	población urbana	comunidad	área urbana	autoridad	vecindad	gobernador	aglomeración urbana	germánico	área metropolitana	autor
+persona	entidad territorial	pueblo	comunidad	vecindad	metrópolis	metrópoli	municipio	político	ciudad	aglomeración urbana	área urbana	población urbana	vertebrado	máquina
+persona	vecindad	entidad territorial	ciudad	hábitat	municipio	máquina	aglomeración urbana	metrópoli	político	metrópolis	comunidad	área urbana	zona metropolitana	área metropolitana
+substancia	compuesto	compuesto químico	biomolécula	dolencia	asignatura	máquina	cambio químico	tracheobionta	sustancia química	afección	movimiento	patología	morbilidad	fármaco
+planta	angiosperma	planta vascular	tracheobionta	spermatophyta	planta perenne	árbol	bebida	planta leñosa	animal	arbusto	vertebrado	trago	líquido	aromatizante
+persona	fluido	spermatophyta	tracheobionta	planta	fármaco	animal	substancia	compuesto	líquido	hábitat	edificación	compuesto químico	máquina	medio
+persona	autor	escritor	político	cantor	dramaturgo	honorífico	poeta	estadista	compositor	instrumentista	comediante	escritora	instrumentalista	líder
+entidad territorial	municipio	persona	pueblo	población urbana	comunidad	vecindad	urbe	área urbana	aglomeración urbana	hábitat	ciudad	área metropolitana	bantú	movimiento
+persona	entidad territorial	político	autor	escritor	autoridad	comunidad	honorífico	dueño	propietario	amo	metrópolis	movimiento	metrópoli	máquina
+persona	deidad	político	escritor	metrópolis	autor	dueña	poeta	vertebrado	honorífico	sirviente	barman	animal	personaje	líder
+persona	vecindad	máquina	estructura arquitectónica	indumentaria	escena	hábitat	planta	entidad territorial	trabajador	ciudad	juguete	tracheobionta	edificación	emblema
+substancia	compuesto	compuesto químico	fármaco	fluido	droga	líquido	psicotrópico	tracheobionta	ácido	planta	spermatophyta	narcótico	bebida	polímero
+centro urbano	ciudad	urbe	municipio	pueblo	zona metropolitana	suburbio	vecindad	comuna	área urbana	metrópolis	entidad territorial	escena	área metropolitana	aglomeración urbana
+zona metropolitana	urbe	centro urbano	metrópolis	aglomeración urbana	pueblo	entidad territorial	área urbana	ciudad	área metropolitana	municipio	población urbana	comunidad	vecindad	metrópoli
+fluido	tracheobionta	planta	spermatophyta	substancia	compuesto	líquido	fármaco	droga	compuesto químico	persona	animal	bebida	planta vascular	narcótico
+persona	máquina	moneda	medio	entidad territorial	estructura arquitectónica	vecindad	unidad monetaria	autoridad	edificación	edificio	dinero	capital	corporación	hábitat
+lenguaje	lengua	bantú	indoario	lengua natural	deidad	indoeuropeo	persona	estudioso	indo-ario	afroasiático	filosofía del lenguaje	lenguas indoeuropeas	tracheobionta	intelectual
+máquina	conductor	persona	signo	compuesto	cristal	señal	representación	producción	compuesto químico	software	equipo	instrumento de medida	base	programa de computación
+persona	escritor	álbum de estudio	autor	honorífico	político	instrumentista	dueña	entidad territorial	compositor	personaje	instrumentalista	músico	máquina	zona metropolitana
+biblioteconomía	programa de computación	asignatura	software	programa de ordenador	función	variable	programa informático	ciencia natural	función matemática	canal	canal de comunicación	movimiento	investigación	correspondencia
+persona	estructura arquitectónica	edificación	vecindad	edificio	planta	entidad territorial	hábitat	tracheobionta	municipio	escena	cofradía	pueblo	fluido	área urbana
+metrópoli	ciudad	persona	político	municipio	entidad territorial	comunidad	pueblo	población urbana	aglomeración urbana	metrópolis	hábitat	área urbana	urbe	vecindad
+planta	tracheobionta	compuesto	líquido	compuesto químico	fluido	máquina	producto alimenticio	bebida	condimento	persona	substancia	planta vascular	plato	spermatophyta
+moneda	máquina	estructura arquitectónica	vecindad	entidad territorial	persona	emblema	unidad monetaria	planta	edificación	medio	líquido	edificio	municipio	divisa
+persona	escritor	metrópolis	personaje	autor	tracheobionta	indumentaria	álbum de estudio	metrópoli	máquina	vertebrado	poeta	deidad	escena	dueña
+medio	transporte	medio de transporte	moneda	máquina	hábitat	estructura arquitectónica	servicio	movimiento	capital	vecindad	desplazamiento	transporte de pasajeros	entidad territorial	edificación
+fenómeno	máquina	tracheobionta	cavidad	condición atmosférica	afección	compuesto	formación geológica	planta	cristal	depresión	fluido	líquido	compuesto químico	h2o
+vehículo	máquina	medio de transporte	río	accidente geográfico	transporte	escuadrón	h2o	transporte de pasajeros	escuadra	nave	aglomeración urbana	formación geológica	medio	persona
+persona	escritor	honorífico	autor	poeta	metrópolis	político	urbe	instrumentista	estudioso	estadista	líder	dramaturgo	zona metropolitana	erudito
+persona	entidad territorial	municipio	escena	vecindad	cofradía	estructura arquitectónica	pueblo	edificio	político	autoridad	hábitat	ciudad	líder	edificación
+cavidad	afección	dolencia	síntoma	fenómeno	máquina	compuesto	estructura anatómica	parte del cuerpo	tracheobionta	patología	formación geológica	mal	superficie	orificio
+entidad territorial	persona	municipio	comunidad	pueblo	ciudad	vecindad	metrópoli	máquina	área urbana	aglomeración urbana	zona metropolitana	población urbana	urbe	área metropolitana
+máquina	persona	substancia	medio	compuesto	fluido	estructura arquitectónica	compuesto químico	fenómeno	moneda	órgano	hábitat	parte corporal	movimiento	vecindad
+persona	político	autoridad	dirigente	líder	movimiento	trabajador	capital	entidad territorial	unión	propietario	jefe	asociación	medio	cofradía
+accidente geográfico	máquina	formación geológica	medio de transporte	vehículo	nave	bajel	embarcación	transporte	agua	barco	buque	río	arroyo	transporte de pasajeros
+persona	entidad territorial	comunidad	metrópoli	urbe	movimiento	pueblo	ciudad	municipio	vecindad	metrópolis	máquina	autor	autoridad	aglomeración urbana
+estructura arquitectónica	edificio	escena	hábitat	vecindad	edificación	entidad territorial	persona	emblema	municipio	pueblo	planta	tracheobionta	suburbio	área urbana
+persona	político	dirigente	líder	autoridad	estadista	jefe	villa	autor	urbe	ciudad	entidad territorial	metrópolis	escritor	jefe de estado
+máquina	compuesto	persona	tracheobionta	medio	compuesto químico	signo	entidad territorial	fenómeno	planta	vecindad	movimiento	líquido	fluido	hábitat
+persona	zona metropolitana	máquina	álbum de estudio	entidad territorial	álbum	metrópolis	urbe	aglomeración urbana	vecindad	área metropolitana	tiempo	pueblo	área urbana	metrópoli
+variable	programa de ordenador	programa de computación	software	máquina	instrumento de medición	energía	instrumento de medida	broadcasting	canal	semiconductor	programa informático	canal de comunicación	medio de comunicación	telecomunicación
+persona	estructura arquitectónica	edificación	vecindad	entidad territorial	hábitat	edificio	cofradía	autoridad	municipio	trabajador	escena	ciudad	suburbio	tracheobionta
+persona	entidad territorial	máquina	vecindad	hábitat	medio	movimiento	autoridad	estructura arquitectónica	comunidad	ciudad	político	aglomeración urbana	municipio	asociación
+persona	instrumentista	urbe	biblioteconomía	entidad territorial	comunidad	zona metropolitana	autor	honorífico	metrópolis	metrópoli	escritor	ciudad	estudioso	área metropolitana
+máquina	medio	movimiento	persona	compuesto	substancia	compuesto químico	entidad territorial	hábitat	tiempo	fenómeno	comunidad	vecindad	tracheobionta	metrópoli
+persona	máquina	medio	entidad territorial	vecindad	hábitat	moneda	movimiento	autoridad	asociación	estructura arquitectónica	capital	fenómeno	substancia	fluido
+tracheobionta	angiosperma	compuesto	planta	compuesto químico	spermatophyta	plato	substancia	fluido	fármaco	dolencia	afección	planta vascular	líquido	persona
+substancia	compuesto	compuesto químico	polímero	óxido	fármaco	droga	ácido	fluido	líquido	psicotrópico	biomolécula	sustancia química	tracheobionta	ácido carboxílico
+persona	máquina	entidad territorial	urbe	ciudad	metrópoli	político	metrópolis	aglomeración urbana	autoridad	movimiento	comunidad	zona metropolitana	medio	persona jurídica
+formación geológica	escena	trapo	accidente geográfico	hábitat	tempestad	caverna	vecindad	falda	pueblo	suburbio	elemento arquitectónico	obra de arte	cráter	maroma
+persona	político	entidad territorial	escritor	tracheobionta	autor	metrópolis	autoridad	comunidad	vecindad	líder	metrópoli	dueño	dirigente	pueblo
+dolencia	afección	morbilidad	enfermedad	mal	patología	síntoma	inflamación	exéresis	condición	parte del cuerpo	fármaco	asignatura	ablación	parte corporal
+máquina	compuesto	medio	substancia	fluido	compuesto químico	líquido	fenómeno	estructura arquitectónica	persona	transporte	moneda	hábitat	tracheobionta	fármaco
+máquina	compuesto	conductor	líquido	medio	medio de transporte	cristal	compuesto químico	moneda	transporte	electrodoméstico	compañía	planta	fluido	transporte de pasajeros
+medio	máquina	hábitat	fluido	compuesto	substancia	vecindad	estructura arquitectónica	persona	tracheobionta	compuesto químico	fenómeno	planta	movimiento	líquido
+persona	entidad territorial	pueblo	autoridad	jefe de estado	municipio	escena	gobernador	área urbana	político	deidad	dirigente	mandatario	hábitat	líder
+formación geológica	accidente geográfico	río	hábitat	arroyo	estructura arquitectónica	karst	agua	corriente	edificio	escena	malpaís	vecindad	caserío	curso de agua
+movimiento	lenguaje	político	movimiento social	comunidad	medio	autarquía	persona	asignatura	autoridad	estudioso	entidad territorial	contenido mental	ciencia natural	lengua
+persona	indumentaria	deidad	personaje	luz	máquina	emblema	objeto astronómico	escena	álbum de estudio	representación	obra de arte	metrópolis	trapo	animal
+persona	político	metrópolis	metrópoli	ciudad	zona metropolitana	entidad territorial	líder	aglomeración urbana	urbe	vecindad	pueblo	municipio	comunidad	villa
+persona	vecindad	tracheobionta	planta	municipio	pueblo	zona metropolitana	metrópoli	líquido	entidad territorial	h2o	área urbana	área metropolitana	indumentaria	escena
+persona	máquina	h2o	tracheobionta	fenómeno	metrópolis	metrópoli	tiempo	indumentaria	zona metropolitana	álbum	álbum de estudio	líquido	vecindad	planta
+máquina	semiconductor	programa de ordenador	software	programa de computación	energía	variable	instrumento de medición	compañía	instrumento de medida	programa informático	medio	canal	medio de comunicación	equipo
+persona	medio	máquina	movimiento	entidad territorial	vecindad	comunidad	asociación	hábitat	tracheobionta	tiempo	metrópoli	substancia	fenómeno	metrópolis
+persona	trabajador	cofradía	estructura arquitectónica	vecindad	tracheobionta	hábitat	escena	entidad territorial	autoridad	máquina	edificio	edificación	moneda	pueblo
+producto alimenticio	condimento	aliño	bebida	planta	aderezo	repostería	bebida alcohólica	alcohol	producto agrícola	aromatizante	trago	hortaliza	receta	tracheobionta
+máquina	estructura arquitectónica	club	persona	vecindad	escena	liga	edificio	edificación	equipo	suburbio	indumentaria	asociación	ciudad	emblema
+tracheobionta	planta	estructura arquitectónica	planta vascular	persona	indumentaria	vertebrado	escena	pájaro	formación geológica	prenda	animal	frutal	árbol	edificación
+persona	entidad territorial	ciudad	municipio	vecindad	comunidad	pueblo	área urbana	urbe	metrópoli	área metropolitana	zona metropolitana	aglomeración urbana	hábitat	estructura arquitectónica
+persona	escritor	escena	autor	indumentaria	metrópolis	tracheobionta	personaje	poeta	metrópoli	representación	pueblo	comunidad	tiempo	movimiento
+persona	político	líder	jefe de estado	mandatario	dirigente	jefe	autoridad	estadista	gobernante	entidad territorial	honorífico	gobernador	dueño	escritor
+concelho	formación geológica	accidente geográfico	río	arroyo	hábitat	municipio	caserío	vecindad	área urbana	estructura arquitectónica	edificio	entidad territorial	población urbana	ciudad
+persona	autor	escritor	instrumentista	honorífico	urbe	entidad territorial	metrópoli	comunidad	metrópolis	estudioso	político	ciudad	biblioteconomía	zona metropolitana
+persona	máquina	metrópoli	ciudad	urbe	metrópolis	zona metropolitana	entidad territorial	escuadrón	político	escuadra	equipo	aglomeración urbana	pueblo	comunidad
+planta	hortaliza	tracheobionta	bebida	planta vascular	árbol	trago	producto agrícola	angiosperma	planta perenne	producto alimenticio	bebida alcohólica	indumentaria	fruto	líquido
+movimiento	entidad territorial	urbe	ciudad	comunidad	medio	biblioteconomía	hábitat	metrópoli	metrópolis	persona jurídica	persona	corporación	asignatura	aglomeración urbana
+persona	entidad territorial	vecindad	hábitat	municipio	comunidad	ciudad	pueblo	aglomeración urbana	movimiento	área urbana	tracheobionta	estructura arquitectónica	máquina	metrópoli
+persona	municipio	entidad territorial	pueblo	escena	área urbana	ciudad	dirigente	comuna	vecindad	autoridad	área metropolitana	zona metropolitana	población urbana	comunidad
+persona	honorífico	autor	entidad territorial	comunidad	título nobiliario	autoridad	estudioso	pueblo	metrópoli	jefe de estado	escritor	municipio	ciudad	mandatario
+persona	autoridad	entidad territorial	moneda	máquina	vecindad	unidad monetaria	propietario	asociación	estructura arquitectónica	edificación	medio	capital	comunidad	municipio
+persona	moneda	máquina	unidad monetaria	medio	autoridad	entidad territorial	asociación	estructura arquitectónica	dinero	cofradía	vecindad	edificación	capital	divisa
+municipio	centro urbano	hábitat	ciudad	área urbana	vecindad	aglomeración urbana	entidad territorial	arroyo	zona metropolitana	pueblo	suburbio	comuna	río	edificio
+persona	político	estadista	escritor	autor	honorífico	erudito	dirigente	poeta	líder	dueña	estudioso	autoridad	administradora	aristócrata
+medio	máquina	substancia	compuesto	movimiento	fenómeno	compuesto químico	hábitat	fluido	fármaco	transporte	superficie	tracheobionta	mal	estructura arquitectónica
+persona	instrumentista	escritor	compositor	personaje	álbum de estudio	músico	cantante	autor	poeta	álbum	honorífico	obra musical	histrión	cantor
+persona	vertebrado	escritor	deidad	poeta	metrópolis	pueblo	entidad territorial	vecindad	municipio	escena	animal	tracheobionta	político	autor
+persona	máquina	equipo	ciudad	vecindad	metrópolis	metrópoli	entidad territorial	escuadrón	zona metropolitana	político	álbum de estudio	urbe	aglomeración urbana	contendiente
+máquina	persona	medio	compañía	equipo	vecindad	metrópolis	moneda	entidad territorial	tiempo	software	movimiento	escuadrón	compuesto	medio de transporte
+fármaco	substancia	psicotrópico	compuesto químico	compuesto	droga	fluido	estatina	bebida	polímero	condimento	producto alimenticio	narcótico	medicamento	mezcla
+fenómeno	síntoma	máquina	movimiento	objeto astronómico	partícula subatómica	planemo	dolencia	luz	partícula	cráter	tiempo	formación geológica	nube	astroblema
+formación geológica	depresión	karst	depresión natural	accidente geográfico	cráter	malpaís	facies	planta	falda	frutal	tracheobionta	astroblema	caverna	piedra
+estructura arquitectónica	escena	persona	municipio	suburbio	vecindad	pueblo	hábitat	edificación	entidad territorial	comuna	indumentaria	edificio	área urbana	tracheobionta
+máquina	medio	persona	fenómeno	vecindad	hábitat	compuesto	movimiento	fluido	substancia	estructura arquitectónica	compuesto químico	entidad territorial	tiempo	moneda
+persona	político	escritor	autor	honorífico	entidad territorial	dirigente	líder	poeta	dueña	metrópolis	comunidad	autoridad	metrópoli	estadista
+aldehuela	municipio	pueblo	persona	caserío	entidad territorial	población urbana	área urbana	comunidad	obispado	escena	curato	estructura arquitectónica	párroco	hábitat
+hábitat	entidad territorial	vecindad	comunidad	ciudad	pueblo	movimiento	municipio	área urbana	aglomeración urbana	población urbana	metrópolis	metrópoli	estructura arquitectónica	máquina
+persona	unión	medio	asociación	movimiento	autoridad	capital	dinero	comunidad	hábitat	entidad territorial	moneda	estructura arquitectónica	unidad monetaria	vecindad
+persona	entidad territorial	metrópoli	municipio	comunidad	pueblo	zona metropolitana	urbe	vecindad	ciudad	área metropolitana	área urbana	metrópolis	aglomeración urbana	población urbana
+máquina	planta	líquido	medio	fluido	edificio	estructura arquitectónica	compuesto	moneda	edificación	electrodoméstico	vecindad	compuesto químico	pisto	recipiente
+persona	escritor	clérigo	autor	autoridad	dirigente	reverendo	párroco	dueño	poeta	trabajador	presbítero	cura	jefe	pastor
+persona	trabajador	escritor	político	autoridad	autor	entidad territorial	amo	dueño	comunidad	dirigente	empleado	metrópolis	propietario	pueblo
+substancia	compuesto	compuesto químico	droga	fármaco	polímero	tracheobionta	fluido	líquido	planta	spermatophyta	psicotrópico	condimento	bebida	ácido
+emblema	entidad territorial	municipio	pueblo	moneda	vecindad	unidad monetaria	divisa	estructura arquitectónica	ciudad	comunidad	bandera	población urbana	hábitat	área urbana
+persona	entidad territorial	medio	autoridad	movimiento	unidad monetaria	máquina	moneda	municipio	comunidad	vecindad	hábitat	ciudad	capital	pueblo
+persona	máquina	álbum	álbum de estudio	obra musical	fenómeno	tiempo	tracheobionta	banda	vecindad	producción	líquido	fluido	banda de rock	planta
+máquina	persona	medio	moneda	vecindad	entidad territorial	estructura arquitectónica	hábitat	fenómeno	unidad monetaria	fluido	compuesto	transporte	movimiento	edificación
+persona	dirigente	político	municipio	entidad territorial	líder	pueblo	autoridad	ciudad	vecindad	jefe	jefe de estado	área metropolitana	área urbana	urbe
+persona	medio	máquina	fluido	hábitat	moneda	vecindad	estructura arquitectónica	fenómeno	tracheobionta	entidad territorial	substancia	edificación	compuesto	narcótico
+persona	personaje	álbum de estudio	indumentaria	máquina	luz	álbum	obra musical	película	lámpara	plato	escritor	tracheobionta	instrumento musical	músico
+persona	entidad territorial	lenguaje	comunidad	urbe	movimiento	vecindad	hábitat	ciudad	estructura arquitectónica	biblioteconomía	área metropolitana	estudioso	asignatura	área urbana
+máquina	software	programa de computación	programa de ordenador	semiconductor	variable	instrumento de medición	energía	instrumento de medida	programa informático	broadcasting	canal	conductor	medio de comunicación	rtd
+persona	película	álbum de estudio	instrumentista	equipo	álbum	personaje	máquina	cantor	instrumentalista	metrópolis	obra musical	comediante	filme	concursante
+grava	máquina	vehículo	villa	medio de transporte	corriente	ciudad	extensión de agua	vecindad	formación geológica	hábitat	accidente geográfico	curso de agua	río	h2o
+persona	urbe	instrumentista	instrumentalista	álbum de estudio	metrópolis	metrópoli	zona metropolitana	película	autor	entidad territorial	comunidad	equipo	álbum	personaje
+programa de computación	programa de ordenador	variable	software	máquina	instrumento de medición	instrumento de medida	programa informático	canal	semiconductor	canal de comunicación	broadcasting	energía	signo	unidad de trabajo
+persona	zona metropolitana	instrumentista	metrópolis	músico	instrumentalista	compositor	pueblo	cantante	autor	obra musical	metrópoli	escritor	compositora	cantor
+persona	máquina	tracheobionta	animal	fluido	vertebrado	fármaco	planta	fenómeno	compuesto químico	líquido	compuesto	substancia	juguete	bebida
+película	persona	álbum de estudio	personaje	instrumentista	álbum	obra musical	representación	instrumentalista	cantor	máquina	producción	escritor	comediante	filme
+persona	fluido	spermatophyta	tracheobionta	planta	substancia	compuesto	líquido	compuesto químico	fármaco	animal	droga	arbusto	planta vascular	bebida
+vehículo	máquina	transporte	medio	medio de transporte	moneda	persona	líquido	estructura arquitectónica	transporte de pasajeros	narcótico	vecindad	fenómeno	hábitat	fluido
+medio	moneda	máquina	movimiento	asociación	unidad monetaria	estructura arquitectónica	substancia	dinero	transporte	capital	entidad territorial	hábitat	servicio	especificación técnica
+formación geológica	accidente geográfico	animal	depresión	vertebrado	máquina	depresión natural	karst	fenómeno	cráter	planta	líquido	agua	medio de transporte	condición atmosférica
+persona	indumentaria	escena	evento social	municipio	pueblo	vecindad	entidad territorial	estructura arquitectónica	zona metropolitana	planta	emblema	área urbana	ropa	prenda
+accidente geográfico	río	estructura arquitectónica	infraestructura	arroyo	edificio	corriente	infraestructura urbana	autovía	formación geológica	masa de agua	hábitat	curso de agua	carretera	camino
+compuesto	máquina	compuesto químico	instrumento de medición	instrumento de medida	substancia	medio	fenómeno	base	sustancia química	escalar	sistema termodinámico	gas	magnitud adimensional	cavidad
+persona	medio	máquina	moneda	vecindad	entidad territorial	movimiento	hábitat	autoridad	unidad monetaria	capital	estructura arquitectónica	fenómeno	substancia	fluido
+persona	deidad	vertebrado	animal	tracheobionta	personaje	escritor	planta	indumentaria	planta vascular	representación	frase	autor	poeta	angiosperma
+morbilidad	lenguaje	asignatura	contenido mental	investigación	ciencia natural	afección	movimiento	síntoma	enfermedad	dolencia	investigación médica	persona	condición	mal
+persona	deidad	poeta	escritor	autor	vertebrado	personaje	músico	dueña	compositor	tracheobionta	escritora	álbum de estudio	obra musical	instrumentista
+máquina	líquido	compuesto	fluido	substancia	compuesto químico	moneda	medio	planta	persona	narcótico	droga	tracheobionta	fármaco	bebida
+persona	máquina	trabajador	juguete	fluido	cofradía	vecindad	planta	bebida	líquido	tracheobionta	moneda	estructura arquitectónica	fármaco	trago
+entidad territorial	hábitat	vecindad	aglomeración urbana	municipio	ciudad	movimiento	área urbana	comunidad	medio	población urbana	pueblo	río	estructura arquitectónica	máquina
+máquina	medio	compañía	extensión	líquido	compuesto	plato	planta	moneda	electrodoméstico	vecindad	producto alimenticio	persona	hábitat	software
+persona	máquina	metrópoli	tracheobionta	movimiento	compuesto	fenómeno	tiempo	metrópolis	entidad territorial	político	vecindad	h2o	medio	compuesto químico
+indumentaria	instrumentista	vestido	evento social	planta	obra de arte	deporte	zona metropolitana	manufactura	trabajo	persona	zona	obra musical	trapo	género musical
+máquina	variable	partícula subatómica	instrumento de medición	partícula	signo	instrumento de medida	escalar	programa de computación	átomo	persona	programa de ordenador	movimiento	magnitud adimensional	tensor
+persona	tracheobionta	lenguaje	escritor	contenido mental	dueño	planta	autor	entidad territorial	vertebrado	órgano	deidad	honorífico	planta vascular	propietario
+compuesto	formación geológica	máquina	compuesto químico	tracheobionta	líquido	planta	fenómeno	mineral	cristal	facies	piedra	roca	fluido	árido
+formación geológica	zoología	biociencia	movimiento	bioma	hábitat	ciencia natural	medio	biocenosis	cráter	río	depresión natural	curso de agua	estructura arquitectónica	urbe
+vertebrado	tracheobionta	bantú	fenómeno	animal	vecindad	angiosperma	medio	movimiento	entidad territorial	persona	spermatophyta	río	hábitat	comunidad
+bioma	formación geológica	movimiento	depresión natural	biocenosis	hábitat	superficie	facies	estructura arquitectónica	curso de agua	extensión de agua	río	afroasiático	vecindad	indoario
+persona	medio	máquina	estructura arquitectónica	hábitat	vecindad	edificación	fluido	entidad territorial	tracheobionta	substancia	movimiento	asociación	moneda	edificio
+vehículo	transporte	bajel	medio de transporte	embarcación	nave	transporte de pasajeros	accidente geográfico	máquina	transporte naval	buque	transporte fluvial	medio	hábitat	vecindad
+compuesto	máquina	compuesto químico	substancia	líquido	tracheobionta	fluido	persona	planta	juguete	grava	polímero	fenómeno	cristal	afección
+indumentaria	trapo	persona	paño	prenda	candil	luz	ropa	lámpara	álbum	vestuario	obra de arte	vestimenta	escena	álbum de estudio
+substancia	compuesto	compuesto químico	fármaco	biomolécula	polímero	óxido	sustancia química	glúcido	gas	droga	fluido	dolencia	psicotrópico	monosacárido
+persona	escritor	político	autor	metrópolis	honorífico	dueña	cantor	dramaturgo	poeta	metrópoli	amo	comediante	competidor	escuadrón
+movimiento	lenguaje	persona	movimiento social	comunidad	político	hábitat	entidad territorial	asignatura	medio	contenido mental	metrópolis	pueblo	vecindad	estudioso
+persona	instrumentista	escritor	compositor	autor	músico	zona metropolitana	metrópolis	urbe	honorífico	álbum de estudio	personaje	obra musical	metrópoli	poeta
+persona	estructura arquitectónica	vecindad	edificación	máquina	fluido	hábitat	medio	planta	tracheobionta	moneda	líquido	edificio	entidad territorial	fenómeno
+persona	autoridad	entidad territorial	metrópoli	municipio	ciudad	propietario	pueblo	comunidad	dirigente	político	dueño	autor	vecindad	jefe de estado
+persona	político	entidad territorial	autoridad	ciudad	municipio	dirigente	líder	comunidad	vecindad	pueblo	metrópoli	aglomeración urbana	asociación	capital
+persona	película	comediante	dramaturgo	cantor	autor	escritor	actor dramático	instrumentista	político	metrópolis	actor	honorífico	instrumentalista	histrión
+persona	fluido	medio	substancia	máquina	tracheobionta	fenómeno	compuesto	hábitat	compuesto químico	órgano	fármaco	vecindad	líquido	movimiento
+hábitat	área urbana	aglomeración urbana	población urbana	entidad territorial	edificio	municipio	formación geológica	vecindad	centro urbano	accidente geográfico	pueblo	comunidad	estructura arquitectónica	ciudad
+persona	tracheobionta	planta	máquina	entidad territorial	vecindad	fluido	estructura arquitectónica	moneda	líquido	autoridad	emblema	animal	edificación	hábitat
+tracheobionta	persona	compuesto	planta	compuesto químico	líquido	máquina	substancia	fluido	fármaco	droga	plato	planta vascular	bebida	cristal
+persona	indumentaria	escena	metrópolis	trapo	máquina	luz	planta	vecindad	prenda	tiempo	tracheobionta	zona	ropa	vertebrado
+escritor	deidad	persona	autor	estudioso	erudito	poeta	escritora	personaje	compositor	autora	intelectual	cantor	comediante	teller
+bebida	trago	planta	bebida alcohólica	animal	planta vascular	tracheobionta	líquido	angiosperma	vertebrado	plato	condimento	árbol	fluido	verdura
+persona	animal	fluido	vecindad	máquina	vertebrado	fenómeno	tracheobionta	planta	hábitat	juguete	entidad territorial	trabajador	estructura arquitectónica	spermatophyta
+persona	fármaco	mal	medio	parte corporal	máquina	patología	parte del cuerpo	dolencia	órgano	fenómeno	tracheobionta	afección	hábitat	fluido
+persona	dirigente	autoridad	propietario	requisitoria	político	jefe	líder	trabajador	felonía	sentencia	entidad territorial	veredicto condenatorio	agresión	juez
+formación geológica	tracheobionta	indumentaria	escena	accidente geográfico	fenómeno	planta	vertebrado	vecindad	falda	persona	depresión	máquina	frutal	hábitat
+persona	escritor	autor	instrumentista	compositor	honorífico	cantor	músico	álbum de estudio	personaje	instrumentalista	urbe	dramaturgo	zona metropolitana	poeta
+hábitat	río	vecindad	entidad territorial	formación geológica	pueblo	municipio	área urbana	población urbana	agua	comunidad	aglomeración urbana	accidente geográfico	ciudad	caserío
+persona	político	escritor	estudioso	autor	intelectual	erudito	lenguaje	poeta	sabio	docto	estadista	honorífico	mandatario	lengua
+río	vehículo	embarcación	nave	accidente geográfico	medio de transporte	bajel	villa	centro urbano	ciudad	aglomeración urbana	área urbana	transporte de pasajeros	municipio	barco
+persona	político	entidad territorial	líder	autoridad	ciudad	dirigente	jefe de estado	municipio	honorífico	zona metropolitana	urbe	pueblo	metrópolis	aglomeración urbana
+cráter	deidad	astroblema	aldehuela	río	metrópolis	accidente geográfico	vertebrado	pueblo	acantilado	formación geológica	entidad territorial	vecindad	precipicio	persona
+máquina	persona	urbe	tiempo	conductor	equipo	zona metropolitana	metrópolis	ciudad	unidad de tiempo	metrópoli	aglomeración urbana	escuadrón	videojuego	canal
+instrumentista	persona	tracheobionta	representación	músico	planta	indumentaria	obra de arte	evento social	estructura arquitectónica	escena	compositor	género musical	obra musical	vecindad
+substancia	compuesto	compuesto químico	óxido	polímero	óxido metálico	líquido	oxácido	ácido	biomolécula	droga	fluido	sustancia química	cristal	mineral
+zona	escena	indumentaria	h2o	vecindad	trapo	metrópoli	tracheobionta	planta	zona metropolitana	pueblo	suburbio	estructura arquitectónica	municipio	tiempo
+persona	contenido mental	escritor	autor	político	intelectual	lenguaje	dueña	poeta	inquisición	erudito	tracheobionta	estudioso	escritora	tratamiento
+político	dirigente	autoridad	líder	jefe	jefe de estado	persona	turki	estadista	presidente	mandatario	jefe de gobierno	jurista	togado	estudioso
+persona	entidad territorial	municipio	zona metropolitana	escena	trabajador	dueño	pueblo	escritor	área metropolitana	autoridad	área urbana	vecindad	dirigente	autor
+protoctista	spermatophyta	filogenia	arthropoda	angiosperma	pinidae	microorganismo	biomolécula	substancia	indoario	pluricelular	vertebrado	bantú	invertebrado	lenguaje
+persona	entidad territorial	municipio	ciudad	autoridad	pueblo	aglomeración urbana	área urbana	edificio	comunidad	población urbana	vecindad	villa	dirigente	área metropolitana
+persona	entidad territorial	movimiento	tracheobionta	vecindad	político	medio	comunidad	máquina	hábitat	fenómeno	autoridad	vertebrado	municipio	pueblo
+máquina	compuesto	líquido	animal	compuesto químico	anfibio	fluido	cristal	planta	vertebrado	fenómeno	medio de transporte	tracheobionta	planta vascular	transporte
+planta	tracheobionta	bebida	líquido	planta vascular	hortaliza	bebida alcohólica	producto alimenticio	fluido	trago	frutal	angiosperma	condimento	producto agrícola	verdura
+vertebrado	spermatophyta	animal	artiodáctilo	persona	tracheobionta	angiosperma	invertebrado	artiodactyla	planta	fluido	planta vascular	arbusto	artrópodo	compuesto químico
+planta	tracheobionta	planta vascular	angiosperma	arbusto	spermatophyta	árbol	planta perenne	planta leñosa	legumbre	hortaliza	líquido	bebida	fluido	vertebrado
+estructura arquitectónica	máquina	edificio	vecindad	hábitat	medio	edificación	escena	transporte	medio de transporte	tiempo	suburbio	aglomeración urbana	espacio	fenómeno
+máquina	compuesto	compuesto químico	cristal	substancia	instrumento de medición	óxido	instrumento de medida	conductor	signo	polímero	sustancia química	biomolécula	base	líquido
+político	persona	estadista	escritor	dirigente	autor	líder	erudito	poeta	dueña	jefe	honorífico	estudioso	autoridad	presidente
+planta	plato	indumentaria	bebida	álbum de estudio	persona	líquido	relish	bebida alcohólica	álbum	trago	condimento	máquina	obra musical	tracheobionta
+vecindad	estructura arquitectónica	edificio	persona	escena	máquina	hábitat	edificación	entidad territorial	municipio	aglomeración urbana	suburbio	área urbana	moneda	ciudad
+ciudad	zona metropolitana	metrópoli	centro urbano	urbe	entidad territorial	municipio	aglomeración urbana	área metropolitana	metrópolis	comunidad	pueblo	área urbana	villa	vecindad
+persona	deidad	escritor	personaje	autor	álbum de estudio	dueña	poeta	político	película	vertebrado	sirviente	comediante	honorífico	animal
+planta	animal	planta vascular	árbol	tracheobionta	vertebrado	frutal	arbusto	angiosperma	planta leñosa	pájaro	planta perenne	árbol frutal	hortaliza	ave
+persona	escritor	autor	poeta	honorífico	estudioso	vertebrado	tracheobionta	spermatophyta	entidad territorial	erudito	instrumentista	comunidad	metrópolis	dramaturgo
+estructura arquitectónica	edificio	hábitat	infraestructura	aglomeración urbana	edificación	vecindad	máquina	entidad territorial	medio	área urbana	infraestructura urbana	municipio	ciudad	centro urbano
+persona	personaje	álbum de estudio	álbum	película	animal	monstruo	vertebrado	comediante	metrópolis	máquina	obra musical	luz	indumentaria	deidad
+persona	instrumentista	tracheobionta	planta	músico	indumentaria	compositor	obra musical	escritor	álbum de estudio	planta vascular	personaje	álbum	representación	animal
+máquina	medio de transporte	medio	transporte	transporte de pasajeros	vehículo	moneda	persona	conductor	entidad territorial	compañía	divisa	aglomeración urbana	unidad monetaria	equipo
+formación geológica	accidente geográfico	agua	río	tracheobionta	hábitat	planta	estructura arquitectónica	superficie	fenómeno	depresión natural	depresión	vecindad	curso de agua	piedra
+persona	metrópolis	metrópoli	político	autor	urbe	escritor	zona metropolitana	entidad territorial	comunidad	ciudad	honorífico	pueblo	cantor	álbum de estudio
+persona	político	autor	escritor	estudioso	estadista	poeta	dirigente	erudito	líder	honorífico	autoridad	mandatario	jefe	jefe de estado
+río	vehículo	accidente geográfico	medio de transporte	máquina	transporte	transporte de pasajeros	masa de agua	extensión de agua	corriente	formación geológica	fenómeno	medio	vía expresa	curso de agua
+película	persona	comediante	personaje	álbum de estudio	filme	álbum	videojuego	actor	cantor	escritor	obra musical	instrumentalista	instrumentista	dramaturgo
+político	persona	estadista	líder	dirigente	escritor	autor	autoridad	jefe	honorífico	administradora	urbe	cabeza	pueblo	metrópolis
+persona	trabajo	cofradía	asociación	moneda	medio	líquido	máquina	autoridad	bebida	pisto	planta	tracheobionta	estructura arquitectónica	producción
+máquina	persona	medio	tiempo	fenómeno	movimiento	moneda	hábitat	compuesto	vecindad	estructura arquitectónica	líquido	transporte	entidad territorial	tracheobionta
+vecindad	escena	hábitat	entidad territorial	pueblo	estructura arquitectónica	municipio	área urbana	edificio	ciudad	población urbana	aglomeración urbana	persona	comunidad	centro urbano
+persona	político	estadista	líder	urbe	dirigente	metrópolis	honorífico	metrópoli	ciudad	entidad territorial	autor	comunidad	autoridad	escritor
+deidad	bantú	lengua	lenguaje	indoario	persona	vertebrado	lengua natural	estudioso	escritor	poeta	indo-ario	autor	afroasiático	gobernante
+compuesto	compuesto químico	líquido	planta	substancia	mineral	fluido	tracheobionta	óxido	cristal	polímero	planta vascular	droga	spermatophyta	aromatizante
+persona	entidad territorial	vecindad	hábitat	municipio	ciudad	estructura arquitectónica	autoridad	máquina	escena	tracheobionta	pueblo	comunidad	aglomeración urbana	edificación
+afección	dolencia	patología	enfermedad	morbilidad	síntoma	mal	inflamación	parte corporal	parte del cuerpo	condición	fármaco	órgano	medicina	signo clínico
+máquina	persona	h2o	tiempo	entidad territorial	fenómeno	vecindad	medio	hábitat	metrópoli	tracheobionta	movimiento	pueblo	ciudad	municipio
+moneda	divisa	unidad monetaria	entidad territorial	máquina	comunidad	medio	movimiento	ciudad	metrópoli	compañía	persona	autoridad	aglomeración urbana	persona jurídica
+persona	máquina	entidad territorial	ciudad	vecindad	municipio	político	zona metropolitana	metrópolis	metrópoli	equipo	aglomeración urbana	moneda	autoridad	medio
+metrópolis	municipio	centro urbano	pueblo	metrópoli	ciudad	hábitat	cráter	entidad territorial	caserío	urbe	población urbana	vecindad	aglomeración urbana	comunidad
+persona	tracheobionta	planta	vecindad	comunidad	entidad territorial	lengua	pueblo	representación	lenguaje	personaje	máquina	animal	movimiento	fenómeno
+persona	escritor	político	autor	dueña	escritora	poeta	intelectualidad	comediante	intelectual	estudioso	personaje	deidad	estilo literario	sandeces
+accidente geográfico	formación geológica	frutal	escena	estructura arquitectónica	falda	vecindad	hábitat	edificio	caserío	área urbana	tracheobionta	municipio	suburbio	planta
+entidad territorial	municipio	vecindad	hábitat	estructura arquitectónica	pueblo	área urbana	ciudad	población urbana	edificio	aglomeración urbana	edificación	comunidad	capital	persona
+persona	vecindad	entidad territorial	hábitat	edificación	estructura arquitectónica	autoridad	municipio	cofradía	trabajador	edificio	pueblo	capital	tracheobionta	comunidad
+hábitat	estructura arquitectónica	ciudad	vecindad	pueblo	edificio	entidad territorial	aglomeración urbana	área urbana	formación geológica	urbe	escena	centro urbano	municipio	corriente
+persona	álbum de estudio	instrumentalista	película	instrumentista	máquina	producción	personaje	álbum	equipo	obra musical	escritor	serie	software	músico
+planta	tracheobionta	arbusto	spermatophyta	vertebrado	fluido	animal	persona	líquido	planta vascular	estructura arquitectónica	bebida	hábitat	planta perenne	vecindad
+estudioso	erudito	escritor	persona	discípulo	intelectual	autor	dirigente	sabio	político	poeta	filósofo	docto	lenguaje	clérigo
+máquina	medio	persona	compuesto	substancia	fenómeno	compuesto químico	fluido	hábitat	estructura arquitectónica	movimiento	vecindad	moneda	entidad territorial	tracheobionta
+instrumento musical	aerófono	plato	cordófono	instrumento	tracheobionta	compuesto	planta	persona	compuesto químico	instrumentista	instrumento de percusión	idiófono	fluido	líquido
+persona	político	entidad territorial	ciudad	metrópolis	zona metropolitana	aglomeración urbana	urbe	máquina	líder	autoridad	metrópoli	pueblo	área urbana	villa
+persona	compositor	escritor	instrumentista	autor	músico	poeta	álbum de estudio	obra musical	álbum	dramaturgo	escritora	dueña	personaje	cantante
+narcótico	persona	máquina	moneda	medio	fluido	líquido	opiato	tracheobionta	hábitat	fenómeno	alcaloide	compuesto	substancia	droga
+municipio	vecindad	entidad territorial	aldehuela	área urbana	población urbana	pueblo	planta	persona	comuna	centro urbano	aglomeración urbana	zona metropolitana	área metropolitana	ciudad
+persona	máquina	medio	hábitat	estructura arquitectónica	fluido	fármaco	vecindad	compuesto	substancia	tracheobionta	edificación	moneda	entidad territorial	líquido
+hábitat	vecindad	entidad territorial	ciudad	pueblo	persona	centro urbano	movimiento	municipio	aglomeración urbana	comunidad	área urbana	metrópolis	suburbio	estructura arquitectónica
+substancia	compuesto	compuesto químico	fluido	máquina	líquido	medio	droga	fármaco	tracheobionta	planta	persona	narcótico	psicotrópico	fenómeno
+pueblo	municipio	área urbana	hábitat	río	arroyo	escena	entidad territorial	accidente geográfico	vecindad	población urbana	aglomeración urbana	ciudad	formación geológica	centro urbano
+persona	político	entidad territorial	metrópolis	ciudad	metrópoli	urbe	máquina	líder	zona metropolitana	vecindad	aglomeración urbana	pueblo	municipio	comunidad
+dolencia	exéresis	afección	ablación	morbilidad	asignatura	síntoma	enfermedad	tumor	cirugía	estructura neurológica	intervención	patología	neoplasia	neoplasma
+persona	máquina	medio	entidad territorial	movimiento	vecindad	moneda	hábitat	estructura arquitectónica	autoridad	fenómeno	unidad monetaria	fluido	substancia	tiempo
+río	karst	accidente geográfico	malpaís	hábitat	vecindad	formación geológica	arroyo	municipio	entidad territorial	población urbana	curso de agua	área urbana	pueblo	corriente
+persona	máquina	tracheobionta	substancia	fluido	compuesto	compuesto químico	planta	medio	vecindad	entidad territorial	líquido	fármaco	fenómeno	hábitat
+persona	deidad	comediante	película	átomo	metrópolis	tempestad	escritor	escuadrón	personaje	monstruo	criatura mitológica	vertebrado	sirviente	autor
+vertebrado	persona	tracheobionta	fenómeno	animal	escena	planta	h2o	condición atmosférica	tiempo	formación geológica	vecindad	hábitat	máquina	clima
+fármaco	substancia	dolencia	morbilidad	compuesto	afección	persona	compuesto químico	mal	patología	enfermedad	biomolécula	inmunosupresor	máquina	estatina
+persona	instrumentista	urbe	honorífico	metrópolis	instrumentalista	zona metropolitana	autor	ciudad	escritor	cantor	dramaturgo	político	metrópoli	villa
+persona	máquina	medio	entidad territorial	asociación	movimiento	vecindad	estructura arquitectónica	comunidad	hábitat	moneda	compuesto	tiempo	pueblo	substancia
+persona	máquina	medio	movimiento	substancia	asociación	moneda	entidad territorial	unidad monetaria	software	autoridad	programa de computación	dinero	compuesto	producción
+vertebrado	animal	persona	cánido	tracheobionta	invertebrado	artrópodo	ave	fenómeno	deidad	planta vascular	insecto	personaje	fluido	angiosperma
+persona	indagación	movimiento	investigación	biblioteconomía	intelectual	asignatura	autor	metrópolis	estudioso	ciencia natural	comunidad	honorífico	urbe	inquisición
+persona	entidad territorial	zona metropolitana	urbe	ciudad	metrópolis	máquina	aglomeración urbana	vecindad	equipo	metrópoli	área metropolitana	corporación	álbum de estudio	comunidad
+persona	autoridad	entidad territorial	moneda	unidad monetaria	asociación	propietario	político	dinero	dirigente	capital	dueño	oficial	vecindad	comunidad
+medio	máquina	extensión de agua	hábitat	movimiento	moneda	tiempo	curso de agua	medio de transporte	fenómeno	compuesto	entidad territorial	masa de agua	estructura arquitectónica	transporte
+planta	formación geológica	tracheobionta	árido	bioma	hábitat	spermatophyta	estructura arquitectónica	angiosperma	agua	planta vascular	mineral	compuesto	líquido	fluido
+ciudad	centro urbano	zona metropolitana	urbe	metrópoli	hábitat	entidad territorial	municipio	suburbio	área urbana	vecindad	pueblo	aglomeración urbana	comuna	metrópolis
+accidente geográfico	río	formación geológica	caserío	arroyo	terraplén	escena	municipio	hábitat	vecindad	área urbana	comuna	suburbio	ciudad	pueblo
+máquina	movimiento	persona	medio	espacio	hábitat	estructura arquitectónica	tiempo	entidad territorial	substancia	compuesto	canal	asociación	comunidad	fenómeno
+persona	asociación	estructura arquitectónica	máquina	tracheobionta	propietario	autor	contenido mental	entidad territorial	edificación	dueño	escritor	órgano	producción	trabajo
+persona	substancia	sentencia	punición	máquina	delito	psicotrópico	fallo	requisitoria	sometimiento	medio	mal	autoridad	fármaco	droga
+persona	trabajador	vecindad	escena	vertebrado	dirigente	entidad territorial	político	municipio	empleado	líder	juguete	aldehuela	autoridad	hábitat
+persona	máquina	medio	substancia	fluido	compuesto	vecindad	compuesto químico	hábitat	fenómeno	tracheobionta	entidad territorial	movimiento	moneda	líquido
+producción	persona	representación	deporte	función	género musical	serie	instrumentista	programa de computación	transmisión	álbum de estudio	biblioteconomía	obra musical	software	músico
+asignatura	neurociencia	investigación	neurobiología	ciencia natural	biociencia	investigación médica	morbilidad	zoología	patología	indagación	afección	estructura neurológica	filología	dolencia
+persona	político	ciudad	urbe	entidad territorial	pueblo	zona metropolitana	municipio	metrópolis	estadista	aglomeración urbana	metrópoli	líder	autoridad	dirigente
+persona	tracheobionta	escritor	máquina	planta	personaje	autor	álbum de estudio	instrumentista	metrópolis	político	comunidad	metrópoli	entidad territorial	vecindad
+municipio	área urbana	pueblo	aglomeración urbana	entidad territorial	población urbana	accidente geográfico	centro urbano	ciudad	vecindad	comuna	arroyo	zona metropolitana	área metropolitana	río
+persona	escritor	autor	instrumentista	compositor	músico	dueña	álbum de estudio	poeta	honorífico	zona metropolitana	entidad territorial	dramaturgo	personaje	político
+político	líder	persona	estadista	villa	urbe	dirigente	metrópoli	autoridad	metrópolis	ciudad	pueblo	zona metropolitana	aglomeración urbana	entidad territorial
+persona	entidad territorial	máquina	vecindad	comunidad	municipio	ciudad	medio	metrópoli	moneda	asociación	estructura arquitectónica	pueblo	unidad monetaria	hábitat
+persona	cura	tracheobionta	dueño	entidad territorial	dirigente	propietario	escena	trabajador	mandatario	autoridad	pueblo	autor	vecindad	escritor
+persona	instrumentalista	instrumentista	escritor	autor	cantor	álbum de estudio	compositor	político	dramaturgo	personaje	película	honorífico	músico	álbum
+pueblo	entidad territorial	comunidad	metrópolis	zona metropolitana	urbe	vecindad	centro urbano	persona	ciudad	metrópoli	municipio	área urbana	escena	hábitat
+persona	autoridad	dirigente	político	entidad territorial	municipio	pueblo	líder	ciudad	jefe	área urbana	comunidad	aglomeración urbana	población urbana	edificio
+fluido	planta	tracheobionta	substancia	líquido	persona	compuesto	spermatophyta	droga	compuesto químico	fármaco	animal	bebida	narcótico	planta vascular
+persona	político	entidad territorial	autoridad	líder	dirigente	ciudad	municipio	vecindad	pueblo	comunidad	hábitat	aglomeración urbana	metrópoli	metrópolis
+bebida	planta	bebida alcohólica	persona	trago	condimento	plato	indumentaria	aliño	tracheobionta	tarta	producto alimenticio	pastel	aderezo	planta vascular
+planta	condimento	producto alimenticio	bebida	spermatophyta	tracheobionta	aromatizante	líquido	planta vascular	angiosperma	aliño	fluido	trago	alcohol	producto agrícola
+aldehuela	persona	dirigente	político	líder	municipio	entidad territorial	pueblo	autoridad	jefe	caserío	clérigo	área urbana	ciudad	población urbana
+persona	político	entidad territorial	autoridad	ciudad	líder	municipio	comunidad	dirigente	vecindad	pueblo	metrópoli	urbe	metrópolis	aglomeración urbana
+instrumentista	instrumentalista	persona	escritor	autor	honorífico	cantor	compositor	estadista	estudioso	dramaturgo	dirigente	erudito	político	poeta
+persona	escritor	autor	personaje	maldad	tracheobionta	representación	producción	estilo literario	álbum de estudio	obra musical	poeta	fenómeno	máquina	juguete
+hábitat	vecindad	persona	estructura arquitectónica	entidad territorial	municipio	escena	área urbana	edificio	accidente geográfico	pueblo	aglomeración urbana	edificación	ciudad	suburbio
+máquina	moneda	persona	medio	unidad monetaria	divisa	estructura arquitectónica	vecindad	entidad territorial	líquido	compuesto	asociación	fluido	tiempo	emblema
+persona	escritor	autor	instrumentista	compositor	cantor	honorífico	poeta	escritora	músico	dramaturgo	cantante	autora	instrumentalista	personaje
+zona	zona metropolitana	vecindad	escena	suburbio	centro urbano	metrópoli	área urbana	municipio	área metropolitana	pueblo	indumentaria	metrópolis	tiempo	aglomeración urbana
+máquina	medio	transporte	medio de transporte	estructura arquitectónica	hábitat	moneda	edificio	transporte de pasajeros	extensión de agua	masa de agua	servicio	vecindad	desplazamiento	fenómeno
+persona	fármaco	mal	parte corporal	substancia	parte del cuerpo	fluido	órgano	tracheobionta	patología	afección	dolencia	fenómeno	enfermedad	morbilidad
+condimento	bebida	planta	aliño	producto alimenticio	plato	aderezo	aromatizante	receta	bebida alcohólica	tracheobionta	planta vascular	alcohol	sazonador	trago
+persona	entidad territorial	municipio	vecindad	metrópoli	pueblo	comunidad	metrópolis	autoridad	dueña	ciudad	emblema	escena	población urbana	zona metropolitana
+río	accidente geográfico	formación geológica	arroyo	curso de agua	corriente	masa de agua	extensión de agua	vehículo	cuerpo de agua	depresión	depresión natural	medio de transporte	cráter	agua
+ciudad	persona	líder	entidad territorial	metrópoli	villa	vecindad	liga	aglomeración urbana	moneda	capital	político	municipio	centro urbano	corporación
+persona	máquina	vecindad	estructura arquitectónica	entidad territorial	hábitat	edificación	moneda	edificio	escena	juguete	municipio	medio	ciudad	fenómeno
+político	estadista	persona	líder	dirigente	autoridad	jefe	urbe	presidente	cabeza	honorífico	jefe de gobierno	villa	autor	ciudad
+persona	máquina	substancia	fármaco	medio	compuesto	fluido	compuesto químico	tracheobionta	fenómeno	órgano	movimiento	hábitat	droga	vecindad
+entidad territorial	vecindad	persona	bantú	municipio	población urbana	planta	pueblo	hábitat	tracheobionta	spermatophyta	área urbana	comunidad	vertebrado	aglomeración urbana
+centro urbano	zona metropolitana	vecindad	pueblo	urbe	ciudad	aglomeración urbana	área urbana	escena	municipio	metrópoli	suburbio	entidad territorial	hábitat	metrópolis
+persona	comediante	deidad	átomo	adversario	criatura mitológica	monstruo	político	supervillano	arma	animal legendario	sirviente	destello	criatura mítica	película
+político	persona	líder	dirigente	turki	jefe de estado	autoridad	jefe	mandatario	estadista	presidente	jefe de gobierno	ministro	cabeza	partido político
+persona	álbum de estudio	álbum	máquina	personaje	obra musical	equipo	película	competidor	músico	arma	animal	contendiente	conductor	producción
+persona	vertebrado	escritor	poeta	deidad	autor	animal	dueña	amo	personaje	político	sirviente	honorífico	pájaro	dueño
+persona	escritor	autor	político	honorífico	dueña	dirigente	dueño	autoridad	compositor	entidad territorial	poeta	instrumentista	propietario	amo
+centro urbano	entidad territorial	área urbana	municipio	ciudad	vecindad	aglomeración urbana	pueblo	zona metropolitana	área metropolitana	urbe	hábitat	población urbana	comunidad	metrópolis
+persona	vecindad	entidad territorial	planta	máquina	escena	estructura arquitectónica	tracheobionta	edificación	zona metropolitana	municipio	ciudad	hábitat	pueblo	fluido
+persona	máquina	entidad territorial	urbe	vecindad	ciudad	metrópoli	comunidad	movimiento	hábitat	zona metropolitana	aglomeración urbana	metrópolis	pueblo	medio
+persona	entidad territorial	municipio	pueblo	ciudad	metrópoli	vecindad	comunidad	urbe	zona metropolitana	área urbana	aglomeración urbana	área metropolitana	máquina	población urbana
+compuesto	compuesto químico	substancia	máquina	biomolécula	cristal	tracheobionta	fármaco	sustancia química	dolencia	óxido	afección	polímero	fluido	líquido
+persona	tracheobionta	instrumentista	entidad territorial	representación	signo	compositor	escritor	dueño	máquina	función	órgano	gobernante	contenido mental	autor
+hábitat	municipio	entidad territorial	vecindad	río	pueblo	formación geológica	área urbana	población urbana	accidente geográfico	estructura arquitectónica	comunidad	aldehuela	aglomeración urbana	edificio
+máquina	persona	equipo	conductor	álbum de estudio	película	producción	metrópoli	compuesto	álbum	urbe	metrópolis	software	videojuego	tiempo
+zona metropolitana	persona	vecindad	planta	pueblo	entidad territorial	municipio	aglomeración urbana	área urbana	área metropolitana	metrópolis	urbe	centro urbano	ciudad	suburbio
+astroblema	formación geológica	cráter de impacto	cráter lunar	karst	río	depresión natural	accidente geográfico	malpaís	tefra	depresión	objeto astronómico	acantilado	caverna	dolina
+substancia	compuesto químico	compuesto	polímero	óxido	droga	psicotrópico	líquido	fármaco	fluido	narcótico	óxido metálico	ácido	alcaloide	oxácido
+persona	máquina	medio	compuesto	fármaco	substancia	moneda	fenómeno	fluido	entidad territorial	compuesto químico	vecindad	movimiento	tiempo	unidad monetaria
+biblioteconomía	filología	zoología	biociencia	lenguaje	ciencia natural	estudioso	lengua	investigación	movimiento	comunidad	hábitat	asignatura	entidad territorial	urbe
+municipio	pueblo	entidad territorial	comunidad	área urbana	hábitat	escena	metrópoli	caserío	población urbana	vecindad	ciudad	aglomeración urbana	edificio	autoridad
+deidad	persona	vertebrado	escritor	poeta	autor	animal	personaje	dueña	estudioso	antropomorfismo	tracheobionta	político	escritora	intelectual
+formación geológica	hábitat	máquina	suburbio	zona metropolitana	zona	estructura arquitectónica	vecindad	tiempo	metrópoli	ciudad	municipio	escena	pueblo	tracheobionta
+medio	moneda	máquina	dinero	estructura arquitectónica	capital	unidad monetaria	hábitat	asociación	corporación	edificación	compañía	transporte	entidad territorial	movimiento
+persona	zona metropolitana	instrumentista	vecindad	producción	máquina	planta	metrópolis	urbe	entidad territorial	obra musical	tiempo	metrópoli	representación	pueblo
+persona	vecindad	entidad territorial	estructura arquitectónica	municipio	escena	hábitat	honorífico	pueblo	escritor	planta	edificación	autor	comunidad	tracheobionta
+afección	morbilidad	dolencia	fármaco	patología	enfermedad	síntoma	substancia	mal	compuesto	compuesto químico	parte del cuerpo	inflamación	parte corporal	medicina
+substancia	compuesto	compuesto químico	polímero	fármaco	óxido	droga	fluido	biomolécula	ácido	líquido	tracheobionta	psicotrópico	planta	spermatophyta
+persona	escritor	autor	honorífico	político	poeta	instrumentista	compositor	escritora	dramaturgo	estudioso	dueña	autora	personaje	erudito
+compuesto	substancia	compuesto químico	óxido	polímero	líquido	óxido metálico	fluido	droga	cristal	sustancia química	mineral	máquina	tracheobionta	fármaco
+máquina	persona	estructura arquitectónica	vecindad	hábitat	edificación	edificio	entidad territorial	moneda	medio	municipio	planta	escena	líquido	aglomeración urbana
+máquina	medio	substancia	compuesto	compuesto químico	moneda	movimiento	asociación	estructura arquitectónica	fluido	persona	hábitat	fenómeno	vecindad	líquido
+persona	máquina	metrópoli	vecindad	entidad territorial	zona metropolitana	metrópolis	medio	equipo	h2o	urbe	compuesto	tiempo	aglomeración urbana	álbum de estudio
+persona	máquina	fluido	compuesto	substancia	medio	fenómeno	compuesto químico	vecindad	juguete	tracheobionta	fármaco	hábitat	líquido	entidad territorial
+planta	producto alimenticio	líquido	condimento	bebida	verdura	producto agrícola	tracheobionta	aromatizante	spermatophyta	planta vascular	aliño	trago	fluido	alcohol
+persona	ciudad	urbe	entidad territorial	metrópoli	metrópolis	zona metropolitana	político	aglomeración urbana	municipio	comunidad	pueblo	vecindad	centro urbano	área metropolitana
+persona	máquina	planta	tracheobionta	angiosperma	vertebrado	compuesto	animal	spermatophyta	compuesto químico	planta vascular	fluido	líquido	fenómeno	arbusto
+biociencia	movimiento	zoología	ciencia natural	cráter	indagación	formación geológica	asignatura	cráter de impacto	indagatoria	astroblema	hábitat	estudioso	biocenosis	sinecología
+indumentaria	planta	estructura arquitectónica	tracheobionta	trapo	líquido	tela	prenda	edificio	máquina	ropa	obra de arte	planta vascular	planta perenne	vestimenta
+persona	indumentaria	obra de arte	obra musical	escena	trapo	evento social	zona metropolitana	vecindad	tiempo	metrópoli	representación	zona	máquina	metrópolis
+accidente geográfico	escena	vecindad	suburbio	hábitat	municipio	área urbana	pueblo	formación geológica	estructura arquitectónica	aglomeración urbana	blindaje	falda	zona	ciudad
+substancia	fármaco	compuesto químico	compuesto	droga	psicotrópico	biomolécula	fluido	afección	dolencia	polímero	mal	tracheobionta	morbilidad	patología
+persona	máquina	entidad territorial	medio	movimiento	vecindad	autoridad	tiempo	asociación	político	fenómeno	hábitat	metrópolis	comunidad	propietario
+persona	autoridad	medio	asociación	movimiento	dinero	entidad territorial	capital	moneda	unidad monetaria	propietario	unión	máquina	vecindad	comunidad
+máquina	medio	transporte	medio de transporte	aglomeración urbana	entidad territorial	hábitat	persona	estructura arquitectónica	vecindad	moneda	ciudad	edificio	capital	vía expresa
+persona	político	entidad territorial	metrópoli	municipio	pueblo	ciudad	vecindad	metrópolis	autoridad	comunidad	escritor	autor	líder	zona metropolitana
+persona	vecindad	estructura arquitectónica	entidad territorial	máquina	edificación	hábitat	edificio	moneda	municipio	escena	ciudad	medio	planta	aglomeración urbana
+fluido	persona	tracheobionta	máquina	líquido	narcótico	substancia	compuesto	planta	animal	medio	droga	compuesto químico	fenómeno	opiato
+persona	trabajador	político	sirviente	escritor	dueña	comediante	autor	dirigente	poeta	camorrista	empleado	amo	barman	soldado
+planta	tracheobionta	arbusto	legumbre	planta vascular	spermatophyta	angiosperma	planta perenne	herbácea	planta leñosa	indumento	líquido	árbol	fluido	compuesto
+persona	medio	autoridad	entidad territorial	máquina	vecindad	hábitat	moneda	estructura arquitectónica	transporte	capital	unidad monetaria	edificación	municipio	movimiento
+medio	persona	moneda	máquina	vecindad	estructura arquitectónica	hábitat	edificación	capital	entidad territorial	fluido	unidad monetaria	asociación	dinero	edificio
+vertebrado	animal	persona	spermatophyta	angiosperma	tracheobionta	planta vascular	planta	arbusto	escritor	bebida	árbol	plato	fluido	deidad
+máquina	fluido	persona	estructura arquitectónica	líquido	fenómeno	planta	tracheobionta	vecindad	hábitat	medio	compuesto	juguete	edificio	edificación
+persona	entidad territorial	vecindad	comunidad	ciudad	municipio	hábitat	aglomeración urbana	metrópolis	movimiento	pueblo	metrópoli	político	zona metropolitana	área urbana
+spermatophyta	angiosperma	planta vascular	planta	árbol	animal	planta perenne	tracheobionta	vertebrado	vitaceae	planta leñosa	prunus	arbusto	aromatizante	bebida
+metrópoli	persona	pueblo	autor	entidad territorial	escena	municipio	zona metropolitana	urbe	erudito	escritor	metrópolis	área urbana	comuna	comunidad
+planta	líquido	condimento	bebida	aromatizante	planta vascular	fluido	especia	trago	tracheobionta	producto alimenticio	aliño	mineral	compuesto	vegetal
+deporte	zona metropolitana	centro urbano	vecindad	urbe	ciudad	metrópoli	entidad territorial	área metropolitana	municipio	competencia	atletismo	área urbana	comunidad	aglomeración urbana
+persona	software	máquina	programa de computación	variable	producción	programa de ordenador	biblioteconomía	programa informático	autor	función	indagación	representación	escritor	asignatura
+persona	entidad territorial	autoridad	vecindad	municipio	comunidad	ciudad	político	pueblo	hábitat	dirigente	unidad monetaria	moneda	estructura arquitectónica	edificación
+máquina	medio	compuesto	fenómeno	vecindad	hábitat	movimiento	entidad territorial	compuesto químico	medio de transporte	tiempo	extensión de agua	formación geológica	persona	cristal
+persona	escritor	película	comediante	autor	dramaturgo	político	cantor	honorífico	actor dramático	personaje	instrumentista	histrión	actor	poeta
+persona	escritor	autor	compositor	poeta	instrumentista	músico	dramaturgo	honorífico	escritora	zona metropolitana	dueña	obra musical	álbum de estudio	cantante
+moneda	unidad monetaria	entidad territorial	vecindad	dinero	persona	capital	divisa	medio	edificación	máquina	corporación	hábitat	estructura arquitectónica	asociación
+software	compañía	juego de mesa	equipo	programa de ordenador	máquina	programa de computación	transmisión	programa informático	película	período	medio de comunicación	persona	álbum de estudio	canal
+persona	máquina	vecindad	hábitat	medio	entidad territorial	estructura arquitectónica	fluido	fenómeno	tracheobionta	edificación	moneda	movimiento	autoridad	capital
+máquina	medio	compuesto	moneda	compuesto químico	líquido	medio de transporte	transporte	substancia	fluido	cristal	unidad monetaria	conductor	persona	fenómeno
+persona	entidad territorial	ciudad	político	líder	aglomeración urbana	pueblo	urbe	municipio	metrópolis	comunidad	área urbana	metrópoli	centro urbano	vecindad
+compañía	variable	programa de computación	software	programa de ordenador	energía	firma	juego de mesa	máquina	juego de tablero	instrumento de medida	semiconductor	canal	instrumento de medición	medio de comunicación
+persona	político	entidad territorial	tracheobionta	vecindad	comunidad	autoridad	planta	autor	metrópolis	escritor	zona metropolitana	metrópoli	ciudad	municipio
+aldehuela	edificio	municipio	estructura arquitectónica	entidad territorial	área urbana	población urbana	vecindad	hábitat	edificación	pueblo	aglomeración urbana	escena	accidente geográfico	caserío
+planta	bantú	tracheobionta	angiosperma	hábitat	formación geológica	spermatophyta	indoario	vecindad	estructura arquitectónica	pueblo	planta vascular	vertebrado	comunidad	lengua
+grafema	diacrítico	lenguaje	función	persona	signo	lengua	contenido mental	signo diacrítico	estructura anatómica	indoario	patología	lengua natural	correspondencia	función matemática
+persona	instrumentista	compositor	músico	escritor	autor	poeta	obra musical	álbum de estudio	cantante	personaje	escritora	autora	álbum	tracheobionta
+afección	dolencia	morbilidad	enfermedad	síntoma	mal	patología	fármaco	cardiopatía	condición	inflamación	parte corporal	parte del cuerpo	hipersomnio	tumor
+entidad territorial	vecindad	comunidad	zona metropolitana	área urbana	hábitat	centro urbano	aglomeración urbana	pueblo	municipio	ciudad	área metropolitana	población urbana	urbe	curso de agua
+persona	instrumentista	instrumentalista	compositor	músico	vocalista	escritor	álbum de estudio	cantor	autor	cantante	personaje	letrista	álbum	compositora
+planta	trago	bebida alcohólica	bebida	indumentaria	tracheobionta	planta vascular	plato	animal	fruto	fruta	prenda	vestuario	ropa	árbol
+persona	escritor	autor	poeta	honorífico	mandatario	dueña	compositor	soberano	entidad territorial	político	gobernante	personaje	álbum de estudio	jefe de estado
+persona	entidad territorial	máquina	vecindad	ciudad	comunidad	hábitat	municipio	medio	movimiento	estructura arquitectónica	asociación	unidad monetaria	pueblo	autoridad
+persona	autor	escritor	zona metropolitana	entidad territorial	político	ciudad	metrópoli	dirigente	líder	municipio	urbe	metrópolis	área metropolitana	comunidad
+persona	escritor	autor	personaje	poeta	álbum de estudio	instrumentista	dueña	honorífico	cantor	compositor	político	músico	metrópolis	deidad
+entidad territorial	población urbana	municipio	vecindad	área urbana	río	aglomeración urbana	centro urbano	pueblo	hábitat	comunidad	ciudad	capital	área metropolitana	arroyo
+accidente geográfico	formación geológica	hábitat	vecindad	río	máquina	escena	ciudad	estructura arquitectónica	arroyo	h2o	área urbana	municipio	zona metropolitana	suburbio
+persona	urbe	político	metrópolis	metrópoli	ciudad	zona metropolitana	entidad territorial	honorífico	autor	comunidad	escritor	área metropolitana	instrumentista	pueblo
+persona	entidad territorial	metrópolis	metrópoli	comunidad	ciudad	vecindad	autoridad	político	urbe	máquina	asociación	municipio	aglomeración urbana	zona metropolitana
+persona	entidad territorial	movimiento	comunidad	metrópolis	político	urbe	pueblo	vecindad	metrópoli	aglomeración urbana	máquina	municipio	ciudad	zona metropolitana
+escritor	persona	parapsicología	instrumentista	personaje	estudioso	intelectual	autor	compositor	escritora	indagación	poeta	comediante	deidad	músico
+persona	político	ciudad	metrópoli	entidad territorial	urbe	líder	contendiente	zona metropolitana	metrópolis	equipo	escuadrón	honorífico	competidor	autoridad
+accidente geográfico	formación geológica	frutal	cráter	depresión	tempestad	borrasca	indumentaria	acantilado	falda	luz	trapo	fenómeno	escena	blindaje
+persona	autor	metrópoli	escritor	dueña	entidad territorial	zona metropolitana	municipio	álbum de estudio	ciudad	urbe	honorífico	pueblo	comunidad	poeta
+municipio	entidad territorial	pueblo	área urbana	persona	ciudad	población urbana	área metropolitana	zona metropolitana	aglomeración urbana	vecindad	urbe	comunidad	comuna	metrópoli
+accidente geográfico	río	fenómeno	agua	formación geológica	vecindad	clima	pueblo	condición atmosférica	hábitat	municipio	escena	depresión	h2o	área urbana
+río	accidente geográfico	centro urbano	aglomeración urbana	hábitat	formación geológica	ciudad	área urbana	vecindad	municipio	arroyo	entidad territorial	población urbana	zona metropolitana	corriente
+persona	escritor	deidad	poeta	personaje	compositor	estilo literario	autor	autora	escritora	músico	tracheobionta	obra musical	obra literaria	luz
+accidente geográfico	formación geológica	río	arroyo	corriente	agua	masa de agua	extensión de agua	hábitat	infraestructura urbana	estructura arquitectónica	vecindad	escena	curso de agua	infraestructura
+persona	entidad territorial	máquina	comunidad	movimiento	urbe	metrópoli	ciudad	medio	metrópolis	vecindad	asociación	zona metropolitana	autor	autoridad
+persona	máquina	fluido	medio	tracheobionta	substancia	fenómeno	fármaco	parte corporal	movimiento	compuesto	hábitat	animal	mal	compuesto químico
+máquina	medio	canal	compañía	software	señal	compuesto	programa de computación	medio de transporte	programa de ordenador	conductor	semiconductor	instrumento de medida	cristal	firma
+planta	producto alimenticio	bebida	condimento	aliño	alcohol	tracheobionta	bebida alcohólica	aromatizante	trago	producto agrícola	repostería	líquido	plato	planta vascular
+persona	político	escritor	entidad territorial	metrópolis	autor	honorífico	amo	dueña	álbum de estudio	metrópoli	autoridad	ciudad	dueño	urbe
+río	formación geológica	accidente geográfico	hábitat	arroyo	agua	curso de agua	municipio	vecindad	área urbana	pueblo	corriente	entidad territorial	población urbana	aglomeración urbana
+máquina	software	programa de computación	programa de ordenador	persona	variable	canal	programa informático	equipo	conductor	medio	transmisión	signo	energía	tiempo
+objeto astronómico	planemo	deidad	átomo	luz	máquina	persona	arma	cuerpo celeste	metrópolis	astroblema	personaje	destello	película	criatura mítica
+persona	entidad territorial	comunidad	escritor	pueblo	metrópolis	vecindad	autor	metrópoli	municipio	tracheobionta	político	zona metropolitana	población urbana	área urbana
+compuesto	compuesto químico	substancia	líquido	óxido	polímero	fluido	cristal	mineral	planta	tracheobionta	máquina	óxido metálico	elemento químico	roca
+persona	vecindad	máquina	entidad territorial	hábitat	estructura arquitectónica	moneda	edificación	autoridad	cofradía	fluido	trabajador	juguete	unidad monetaria	tracheobionta
+compuesto	compuesto químico	máquina	cristal	substancia	líquido	óxido	polímero	metal	recipiente	elemento metálico	fluido	elemento químico	mineral	conductor
+máquina	entidad territorial	persona	medio	vecindad	ciudad	urbe	comunidad	metrópoli	zona metropolitana	aglomeración urbana	centro urbano	movimiento	metrópolis	área metropolitana
+planta	condimento	bebida	persona	plato	líquido	producto alimenticio	álbum de estudio	relish	zona metropolitana	bebida alcohólica	repostería	álbum	máquina	equipo
+persona	autoridad	dirigente	líder	jefe	aldehuela	trabajador	político	municipio	jefe de estado	pueblo	entidad territorial	aristócrata	oficial	clérigo
+álbum de estudio	persona	videojuego	equipo	película	álbum	máquina	instrumentalista	personaje	obra musical	instrumentista	competidor	banda de rock	grupo de rock	producción
+persona	político	medio	máquina	entidad territorial	metrópolis	hábitat	vecindad	movimiento	comunidad	fármaco	autoridad	tiempo	asociación	substancia
+zona metropolitana	urbe	instrumentista	metrópoli	persona	metrópolis	álbum de estudio	ciudad	centro urbano	instrumentalista	área metropolitana	obra de arte	aglomeración urbana	entidad territorial	vecindad
+persona	medio	substancia	máquina	moneda	autoridad	movimiento	unidad monetaria	entidad territorial	compuesto	fluido	hábitat	compuesto químico	narcótico	tracheobionta
+persona	escritor	poeta	autor	compositor	dueña	músico	político	personaje	vertebrado	álbum de estudio	trabajador	escritora	amo	instrumentista
+escuadra	persona	vehículo	marinero	nave	metrópolis	comodoro	zona metropolitana	tripulante	aglomeración urbana	accidente geográfico	área urbana	ciudad	bajel	municipio
+átomo	máquina	partícula subatómica	partícula	variable	escalar	bosón	partícula portadora	planemo	bosón de gauge	objeto astronómico	energía	partícula elemental	instrumento de medición	semiconductor
+substancia	compuesto	compuesto químico	fluido	fármaco	persona	tracheobionta	líquido	máquina	planta	droga	spermatophyta	medio	órgano	narcótico
+moneda	máquina	medio	dinero	persona	unidad monetaria	corporación	capital	divisa	asociación	vecindad	pisto	estructura arquitectónica	compañía	entidad territorial
+vertebrado	animal	spermatophyta	angiosperma	tracheobionta	planta vascular	planta	arthropoda	árbol	invertebrado	fluido	arbusto	persona	órgano	artrópodo
+persona	instrumentista	escritor	cantor	álbum de estudio	instrumentalista	película	autor	personaje	honorífico	político	compositor	músico	dramaturgo	metrópolis
+persona	máquina	medio	vecindad	hábitat	estructura arquitectónica	entidad territorial	edificación	fluido	moneda	tracheobionta	fenómeno	movimiento	compuesto	substancia
+hábitat	municipio	vecindad	río	formación geológica	centro urbano	área urbana	pueblo	metrópoli	arroyo	estructura arquitectónica	entidad territorial	ciudad	aglomeración urbana	suburbio
+persona	mandatario	político	líder	jefe de estado	autoridad	jefe	dirigente	gobernante	gobernador	soberano	dueño	entidad territorial	presidente	escritor
+persona	escritor	autor	dueña	político	poeta	honorífico	metrópoli	álbum de estudio	compositor	entidad territorial	músico	amo	autoridad	dueño
+persona	músico	obra musical	prenda	compositor	escritor	poeta	escena	pájaro	ropa	álbum	evento social	indumentaria	vestuario	tracheobionta
+substancia	compuesto	compuesto químico	fluido	fármaco	psicotrópico	narcótico	droga	máquina	medio	ácido	líquido	polímero	tracheobionta	óxido
+spermatophyta	tracheobionta	planta	lenguaje	fluido	persona	planta vascular	vecindad	hábitat	comunidad	entidad territorial	angiosperma	bantú	movimiento	animal
+municipio	zona metropolitana	persona	pueblo	vecindad	ciudad	entidad territorial	escena	contienda	equipo	área urbana	metrópoli	aglomeración urbana	escuadra	área metropolitana
+persona	comunidad	pueblo	entidad territorial	autor	lenguaje	escritor	intelectual	escena	movimiento	lengua	municipio	institución educacional	deporte	contenido mental
+persona	máquina	instrumentista	producción	zona metropolitana	metrópoli	representación	vecindad	metrópolis	biblioteconomía	entidad territorial	planta	tracheobionta	álbum de estudio	urbe
+planta	persona	tracheobionta	planta vascular	spermatophyta	líquido	fluido	vecindad	angiosperma	trago	zona metropolitana	músico	prenda	vertebrado	centro urbano
+persona	tracheobionta	planta	indumentaria	animal	planta vascular	vertebrado	personaje	representación	ropa	prenda	fluido	vestimenta	álbum de estudio	bebida
+síntoma	dolencia	afección	fenómeno	mal	compuesto	compuesto químico	morbilidad	máquina	patología	enfermedad	substancia	parte del cuerpo	partícula subatómica	cavidad
+compuesto	substancia	compuesto químico	polímero	tracheobionta	fluido	líquido	planta	fármaco	spermatophyta	droga	óxido	ácido	biomolécula	planta vascular
+medio	máquina	moneda	medio de transporte	entidad territorial	hábitat	transporte	movimiento	vecindad	capital	estructura arquitectónica	unidad monetaria	divisa	corporación	tiempo
+persona	entidad territorial	autoridad	dirigente	vecindad	municipio	trabajador	dueño	político	propietario	edificación	pueblo	ciudad	estructura arquitectónica	escena
+persona	autor	escritor	instrumentista	cantor	honorífico	instrumentalista	metrópolis	urbe	entidad territorial	político	estudioso	metrópoli	compositor	personaje
+medio	máquina	transporte	moneda	medio de transporte	desplazamiento	estructura arquitectónica	movimiento	hábitat	vehículo	capital	dinero	tiempo	unidad monetaria	especificación técnica
+persona	autor	político	escritor	honorífico	instrumentalista	cantor	urbe	estadista	instrumentista	metrópoli	economista	autoridad	dueña	metrópolis
+spermatophyta	angiosperma	vitaceae	vertebrado	tracheobionta	planta	arbusto	planta vascular	filogenia	animal	planta leñosa	persona	bantú	lenguaje	zoología
+substancia	compuesto	compuesto químico	fluido	líquido	máquina	droga	fármaco	planta	narcótico	tracheobionta	medio	spermatophyta	psicotrópico	persona
+máquina	hábitat	estructura arquitectónica	entidad territorial	vecindad	superficie	ciudad	tracheobionta	formación geológica	movimiento	planta	escena	pueblo	compuesto	comunidad
+persona	vecindad	máquina	entidad territorial	tracheobionta	político	medio	hábitat	líquido	aglomeración urbana	planta	pueblo	municipio	h2o	fluido
+máquina	vehículo	dínamo	objeto astronómico	planemo	receptáculo	formación geológica	átomo	magnificador	conformación	nódulo	escalar	tiempo	astroblema	cristal
+persona	entidad territorial	municipio	vecindad	autoridad	pueblo	ciudad	dirigente	estructura arquitectónica	escena	trabajador	cofradía	edificación	área urbana	propietario
+urbe	ciudad	zona metropolitana	persona	líder	entidad territorial	metrópolis	político	aglomeración urbana	pueblo	borough	centro urbano	autoridad	área urbana	municipio
+persona	autoridad	dinero	entidad territorial	propietario	unidad monetaria	persona jurídica	moneda	comunidad	contenido mental	recurso	divisa	asociación	movimiento	función
+persona	tracheobionta	fluido	planta	vecindad	hábitat	spermatophyta	líquido	medio	entidad territorial	máquina	animal	estructura arquitectónica	substancia	compuesto
+moneda	líder	persona	autoridad	medio	político	unidad monetaria	entidad territorial	divisa	máquina	medio de transporte	capital	transporte	vecindad	vehículo
+persona	personaje	instrumentista	deidad	escritor	honorífico	instructor	poeta	autor	músico	compositor	estudioso	intelectual	lenguaje	lengua
+persona	entidad territorial	municipio	ciudad	zona metropolitana	urbe	vecindad	pueblo	área urbana	área metropolitana	edificio	escena	aglomeración urbana	estructura arquitectónica	población urbana
+persona	autoridad	entidad territorial	propietario	dirigente	político	vecindad	asociación	dueño	unidad monetaria	cofradía	comunidad	capital	municipio	edificación
+máquina	indumentaria	paño	fenómeno	emblema	líquido	luz	h2o	accidente geográfico	formación geológica	vecindad	prenda	escena	vestimenta	trapo
+formación geológica	malpaís	accidente geográfico	karst	río	depresión natural	elevación	arroyo	cráter	risco	depresión	hábitat	agua	acantilado	parcela
+persona	entidad territorial	político	metrópolis	urbe	comunidad	escritor	autor	metrópoli	instrumentista	honorífico	zona metropolitana	movimiento	autoridad	vecindad
+persona	entidad territorial	metrópoli	pueblo	municipio	tracheobionta	vecindad	aglomeración urbana	comunidad	urbe	zona metropolitana	área urbana	metrópolis	ciudad	área metropolitana
+planta	indumentaria	tracheobionta	estructura arquitectónica	líquido	mineral	verdura	edificación	planta vascular	piedra	edificio	trapo	hortaliza	producto agrícola	producto alimenticio
+persona	máquina	medio	substancia	compuesto	movimiento	fármaco	compuesto químico	entidad territorial	asociación	fenómeno	comunidad	tiempo	variable	mal
+pueblo	entidad territorial	río	persona	hábitat	municipio	movimiento	metrópolis	vecindad	área urbana	político	accidente geográfico	aglomeración urbana	ciudad	población urbana
+persona	máquina	fluido	tracheobionta	planta	líquido	fenómeno	compuesto	animal	medio	vecindad	compuesto químico	substancia	estructura arquitectónica	hábitat
+persona	escritor	autor	poeta	cantor	personaje	metrópolis	dramaturgo	deidad	dueña	vertebrado	álbum de estudio	político	zona metropolitana	urbe
+persona	vecindad	entidad territorial	h2o	pueblo	tracheobionta	municipio	escena	hábitat	vertebrado	planta	máquina	aglomeración urbana	área urbana	metrópolis
+dolencia	morbilidad	afección	fármaco	enfermedad	mal	substancia	síntoma	inmunosupresor	patología	estatina	inflamación	compuesto	compuesto químico	medicamento
+máquina	substancia	medio	fluido	compuesto	fenómeno	compuesto químico	persona	hábitat	movimiento	estructura arquitectónica	tracheobionta	parte corporal	vecindad	órgano
+máquina	medio	compuesto	signo	instrumento de medición	persona	instrumento de medida	fenómeno	compuesto químico	movimiento	variable	tiempo	base	medio de transporte	programa de computación
+entidad territorial	río	corriente	transporte	área urbana	vecindad	población urbana	aglomeración urbana	municipio	hábitat	pueblo	medio de transporte	masa de agua	comunidad	vehículo
+persona	tracheobionta	entidad territorial	comunidad	vecindad	movimiento	escritor	político	autor	metrópolis	metrópoli	urbe	pueblo	hábitat	honorífico
+máquina	persona	software	programa de computación	instrumentalista	programa de ordenador	equipo	conductor	semiconductor	compañía	juego de mesa	variable	urbe	álbum de estudio	programa informático
+persona	escritor	instrumentista	escritora	autor	estudioso	poeta	dramaturgo	compositor	autora	histrión	erudito	actor dramático	político	letrista
+persona	político	ciudad	villa	líder	entidad territorial	municipio	dirigente	metrópoli	vecindad	zona metropolitana	área metropolitana	pueblo	escritor	escena
+afección	dolencia	morbilidad	patología	enfermedad	síntoma	mal	fármaco	compuesto químico	compuesto	inflamación	parte corporal	substancia	parte del cuerpo	órgano
+zona	zona metropolitana	vecindad	indumentaria	escena	planta	estructura arquitectónica	metrópoli	obra de arte	pueblo	centro urbano	suburbio	área urbana	aglomeración urbana	municipio
+accidente geográfico	formación geológica	río	karst	terraplén	depresión	acantilado	agua	cráter	risco	agua pluvial	frutal	arroyo	escena	vecindad
+estructura arquitectónica	hábitat	formación geológica	vecindad	accidente geográfico	edificio	escena	municipio	entidad territorial	suburbio	área urbana	pueblo	ciudad	superficie	arroyo
+entidad territorial	municipio	persona	comunidad	ciudad	pueblo	metrópoli	vecindad	urbe	población urbana	aglomeración urbana	área urbana	hábitat	zona metropolitana	área metropolitana
+persona	político	honorífico	autor	jefe de estado	autoridad	entidad territorial	escritor	líder	dirigente	dueña	mandatario	metrópoli	ciudad	amo
+persona	entidad territorial	máquina	ciudad	planta	moneda	vecindad	corporación	unidad monetaria	zona metropolitana	compuesto	spermatophyta	área metropolitana	urbe	fluido
+persona	político	movimiento	agresión	trabajador	escena	fenómeno	clima	pueblo	h2o	tiempo	medio	líder	vehículo	aglomeración urbana
+persona	político	líder	dirigente	autoridad	jefe de estado	jefe	entidad territorial	estadista	autor	municipio	urbe	pueblo	ciudad	honorífico
+persona	instrumentista	obra musical	músico	personaje	histrión	escritor	dramaturgo	compositor	álbum	álbum de estudio	indumentaria	comediante	poeta	cómico
+político	persona	estadista	líder	autoridad	urbe	villa	pueblo	dirigente	jefe	autor	ciudad	entidad territorial	cabeza	municipio
+río	formación geológica	accidente geográfico	arroyo	corriente	curso de agua	agua	extensión de agua	estructura arquitectónica	hábitat	elevación	masa de agua	cuerpo de agua	vecindad	malpaís
+máquina	urbe	persona	ciudad	entidad territorial	aglomeración urbana	metrópolis	zona metropolitana	vecindad	escuadrón	metrópoli	período	tiempo	movimiento	pueblo
+persona	máquina	movimiento	substancia	medio	asignatura	compuesto	entidad territorial	variable	contenido mental	compuesto químico	asociación	hábitat	signo	comunidad
+substancia	compuesto	compuesto químico	polímero	fármaco	biomolécula	sustancia química	óxido	droga	fluido	ácido	psicotrópico	líquido	tracheobionta	dolencia
+persona	entidad territorial	comunidad	pueblo	municipio	edificio	área urbana	zona metropolitana	estructura arquitectónica	aglomeración urbana	hábitat	autoridad	población urbana	vecindad	área metropolitana
+persona	escritor	autor	músico	compositor	obra musical	escritora	poeta	dramaturgo	instrumentista	cantante	autora	personaje	histrión	actor dramático
+persona	hábitat	vecindad	movimiento	entidad territorial	tracheobionta	fenómeno	máquina	estructura arquitectónica	vertebrado	medio	comunidad	tiempo	fluido	municipio
+cráter	astroblema	formación geológica	máquina	depresión natural	objeto astronómico	accidente geográfico	montículo	depresión	deidad	piedra	hábitat	cráter de impacto	metrópolis	luz
+substancia	compuesto	máquina	compuesto químico	medio	fluido	persona	líquido	tracheobionta	planta	moneda	fenómeno	fármaco	movimiento	hábitat
+persona	político	escritor	autor	urbe	instrumentista	honorífico	instrumentalista	cantor	zona metropolitana	metrópolis	competidor	metrópoli	escuadrón	villa
+hábitat	vecindad	ciudad	municipio	río	suburbio	estructura arquitectónica	centro urbano	accidente geográfico	área urbana	formación geológica	entidad territorial	pueblo	urbe	aglomeración urbana
+río	centro urbano	accidente geográfico	área urbana	aglomeración urbana	extensión de agua	ciudad	vecindad	municipio	edificio	hábitat	arroyo	estructura arquitectónica	corriente	curso de agua
+substancia	compuesto	compuesto químico	polímero	óxido	biomolécula	líquido	fluido	fármaco	tracheobionta	sustancia química	óxido metálico	droga	ácido	cristal
+persona	entidad territorial	máquina	vecindad	movimiento	político	hábitat	autoridad	medio	comunidad	ciudad	aglomeración urbana	municipio	pueblo	metrópolis
+persona	zona metropolitana	entidad territorial	urbe	ciudad	álbum de estudio	metrópolis	máquina	vecindad	metrópoli	aglomeración urbana	equipo	área metropolitana	pueblo	municipio
+medio	persona	hábitat	estructura arquitectónica	vecindad	máquina	entidad territorial	edificación	movimiento	moneda	capital	asociación	unidad monetaria	edificio	autoridad
+persona	entidad territorial	pueblo	ciudad	urbe	municipio	aglomeración urbana	vecindad	comunidad	área urbana	metrópoli	metrópolis	zona metropolitana	hábitat	área metropolitana
+estructura arquitectónica	indumentaria	escena	tracheobionta	planta	formación geológica	vecindad	hábitat	emblema	trapo	edificio	pueblo	edificación	paño	zona
+persona	político	entidad territorial	movimiento	comunidad	autoridad	metrópolis	metrópoli	vecindad	pueblo	hábitat	ciudad	autor	máquina	municipio
+formación geológica	fenómeno	hábitat	tracheobionta	accidente geográfico	vecindad	máquina	compuesto	estructura arquitectónica	fluido	agua	planta	superficie	condición atmosférica	líquido
+persona	político	entidad territorial	líder	autoridad	vecindad	metrópoli	máquina	metrópolis	amo	ciudad	comunidad	honorífico	urbe	autor
+indumentaria	trapo	máquina	tracheobionta	animal	criatura mitológica	persona	arma	luz	átomo	lámpara	criatura mítica	luminaria	vertebrado	planta
+persona	entidad territorial	municipio	autoridad	pueblo	ciudad	vecindad	dirigente	dueño	área urbana	área metropolitana	comunidad	jefe de estado	aglomeración urbana	población urbana
+medio	máquina	entidad territorial	moneda	vecindad	hábitat	estructura arquitectónica	unidad monetaria	movimiento	persona	comunidad	capital	divisa	municipio	medio de transporte
+persona	político	dirigente	dueña	autor	escritor	poeta	entidad territorial	autoridad	dueño	pueblo	honorífico	municipio	amo	propietario
+planemo	deidad	astroblema	cráter	partícula subatómica	vertebrado	objeto astronómico	átomo	partícula	persona	cráter lunar	bosón	partícula portadora	invertebrado	tracheobionta
+persona	escritor	autor	poeta	escritora	autora	dueña	compositor	dramaturgo	personaje	político	intelectualidad	comediante	músico	erudito
+persona	instrumentista	escritor	zona metropolitana	autor	álbum de estudio	compositor	entidad territorial	músico	metrópolis	urbe	instrumentalista	honorífico	ciudad	metrópoli
+estructura arquitectónica	edificación	entidad territorial	edificio	persona	vecindad	municipio	hábitat	pueblo	cofradía	escena	comunidad	área urbana	autoridad	ciudad
+urbe	zona metropolitana	aglomeración urbana	metrópolis	persona	entidad territorial	ciudad	municipio	pueblo	metrópoli	área metropolitana	área urbana	comunidad	centro urbano	vecindad
+persona	urbe	metrópolis	escuadrón	político	honorífico	zona metropolitana	escuadra	cantor	escritor	villa	ciudad	metrópoli	autor	dramaturgo
+substancia	compuesto	compuesto químico	fármaco	fluido	droga	psicotrópico	líquido	polímero	tracheobionta	ácido	spermatophyta	planta	narcótico	alcaloide
+instrumentista	persona	músico	planta	tracheobionta	instrumento musical	género musical	compositor	plato	obra musical	indumentaria	representación	álbum de estudio	aerófono	personaje
+persona	metrópolis	máquina	político	deidad	metrópoli	entidad territorial	escritor	urbe	personaje	vecindad	tiempo	autor	ciudad	álbum de estudio
+persona	película	zona metropolitana	metrópolis	pueblo	tiempo	vecindad	álbum	urbe	aglomeración urbana	obra musical	entidad territorial	metrópoli	álbum de estudio	ciudad
+persona	escritor	indumentaria	personaje	autor	tracheobionta	poeta	juguete	ropa	animal	vestimenta	máquina	prenda	compositor	vertebrado
+persona	escritor	autor	contenido mental	tracheobionta	representación	producción	lenguaje	personaje	lengua	función	movimiento	estilo literario	poeta	biblioteconomía
+persona	político	autor	escritor	metrópolis	urbe	honorífico	cantor	líder	instrumentalista	instrumentista	estadista	dramaturgo	metrópoli	escuadrón
+persona	municipio	pueblo	entidad territorial	ciudad	área urbana	vecindad	comuna	escena	aglomeración urbana	área metropolitana	población urbana	zona metropolitana	urbe	suburbio
+persona	escritor	autor	honorífico	instrumentista	compositor	álbum de estudio	personaje	instrumentalista	actor	poeta	político	cantor	músico	película
+aglomeración urbana	líder	entidad territorial	municipio	pueblo	ciudad	político	villa	área urbana	autoridad	urbe	población urbana	zona metropolitana	metrópoli	metrópolis
+persona	película	videojuego	software	álbum de estudio	instrumentalista	programa de computación	átomo	juego de video	juego de ordenador	variable	personaje	programa de ordenador	equipo	serie
+persona	entidad territorial	metrópoli	ciudad	municipio	vecindad	zona metropolitana	pueblo	área metropolitana	urbe	comunidad	aglomeración urbana	área urbana	metrópolis	escena
+persona	entidad territorial	vecindad	municipio	hábitat	área urbana	aglomeración urbana	pueblo	ciudad	estructura arquitectónica	comunidad	población urbana	tracheobionta	escena	edificación
+planta	fluido	estructura arquitectónica	tracheobionta	edificación	líquido	hábitat	persona	vecindad	medio	bebida	edificio	spermatophyta	cofradía	arbusto
+máquina	conductor	semiconductor	compuesto	compañía	equipo	cristal	instrumento de medida	instrumento de medición	juego de mesa	software	programa de computación	programa de ordenador	compuesto químico	señal
+urbe	formación geológica	hábitat	entidad territorial	movimiento	estructura arquitectónica	vecindad	pueblo	ciudad	área urbana	comunidad	aglomeración urbana	municipio	población urbana	zona metropolitana
+persona	político	autor	escritor	honorífico	urbe	entidad territorial	ciudad	metrópoli	metrópolis	zona metropolitana	autoridad	líder	comunidad	instrumentista
+máquina	compuesto	cristal	fenómeno	líquido	compuesto químico	agua	recipiente	formación geológica	mineral	fluido	masa de agua	extensión de agua	planta	medio
+lenguaje	persona	estudioso	erudito	lengua	escritor	intelectual	poeta	autor	sabio	mandatario	lengua natural	autoridad	político	bantú
+persona	indumentaria	álbum de estudio	álbum	vestido	obra musical	máquina	película	político	representación	luz	trabajador	metrópoli	vestimenta	tiempo
+persona	hábitat	entidad territorial	vecindad	municipio	estructura arquitectónica	edificación	movimiento	ciudad	tracheobionta	autoridad	comunidad	pueblo	edificio	área urbana
+tiempo	accidente geográfico	formación geológica	hábitat	vecindad	zona metropolitana	río	centro urbano	metrópolis	área urbana	escena	pueblo	metrópoli	suburbio	aglomeración urbana
+máquina	objeto astronómico	movimiento	formación geológica	metrópoli	planemo	luz	metrópolis	persona	hábitat	astroblema	urbe	deidad	partícula subatómica	conformación
+máquina	persona	medio	fenómeno	fluido	hábitat	movimiento	vecindad	compuesto	substancia	estructura arquitectónica	entidad territorial	compuesto químico	tracheobionta	moneda
+máquina	transporte	estructura arquitectónica	medio	medio de transporte	hábitat	formación geológica	movimiento	extensión de agua	desplazamiento	infraestructura	entidad territorial	transporte de pasajeros	masa de agua	vecindad
+persona	estructura arquitectónica	edificación	asociación	hábitat	medio	movimiento	cofradía	entidad territorial	unión	vecindad	edificio	fármaco	autoridad	tracheobionta
+persona	vertebrado	fenómeno	hábitat	vecindad	animal	tracheobionta	medio	fluido	máquina	estructura arquitectónica	escena	movimiento	clima	entidad territorial
+persona	estudioso	político	escritor	erudito	autor	honorífico	estadista	astrónomo	astrónoma	matemático	economista	indagación	urbe	líder
+ciudad	villa	zona metropolitana	centro urbano	metrópoli	aglomeración urbana	urbe	borough	municipio	área urbana	entidad territorial	área metropolitana	pueblo	metrópolis	comunidad
+máquina	medio	moneda	movimiento	persona	entidad territorial	vecindad	compuesto	estructura arquitectónica	comunidad	hábitat	asociación	tiempo	fenómeno	ciudad
+persona	entidad territorial	metrópoli	ciudad	zona metropolitana	vecindad	urbe	municipio	pueblo	metrópolis	aglomeración urbana	comunidad	equipo	político	área metropolitana
+persona	autor	escritor	urbe	honorífico	metrópoli	instrumentista	estudioso	metrópolis	erudito	comunidad	político	entidad territorial	ciudad	economista
+persona	estructura arquitectónica	trabajo	asociación	edificación	cofradía	edificio	máquina	vecindad	escena	trabajador	hábitat	movimiento	entidad territorial	tracheobionta
+río	accidente geográfico	formación geológica	arroyo	municipio	hábitat	ciudad	vecindad	suburbio	comuna	área urbana	estructura arquitectónica	aglomeración urbana	curso de agua	entidad territorial
+vecindad	edificio	estructura arquitectónica	entidad territorial	aglomeración urbana	edificación	ciudad	municipio	área urbana	zona metropolitana	hábitat	suburbio	centro urbano	área metropolitana	escena
+político	líder	persona	dirigente	estadista	autoridad	jefe	entidad territorial	presidente	cabeza	jefe de estado	aristócrata	pueblo	villa	mandatario
+máquina	persona	juguete	fenómeno	tracheobionta	pasamano	trabajador	compuesto	indumentaria	parte del cuerpo	cristal	recipiente	compuesto químico	parte corporal	ropa
+máquina	variable	software	programa de computación	equipo	programa de ordenador	persona	programa informático	urbe	juego de mesa	tensor	metrópoli	canal	signo	semiconductor
+substancia	compuesto	compuesto químico	fluido	líquido	máquina	tracheobionta	planta	droga	fármaco	medio	spermatophyta	persona	condimento	psicotrópico
+municipio	pueblo	vecindad	aglomeración urbana	entidad territorial	ciudad	área urbana	hábitat	estructura arquitectónica	metrópoli	comunidad	centro urbano	población urbana	escena	suburbio
+máquina	persona	tiempo	fenómeno	h2o	metrópoli	zona metropolitana	metrópolis	álbum de estudio	vecindad	álbum	luz	etapa	urbe	período
+persona	político	autoridad	dirigente	entidad territorial	líder	municipio	metrópoli	pueblo	ciudad	comunidad	urbe	autor	jefe	área metropolitana
+estructura arquitectónica	máquina	extensión	indumentaria	vecindad	zona	obra de arte	ciudad	escena	edificio	entidad territorial	suburbio	municipio	hábitat	zona metropolitana
+vertebrado	spermatophyta	animal	tracheobionta	angiosperma	persona	planta vascular	planta	invertebrado	órgano	fluido	arthropoda	compuesto	compuesto químico	artrópodo
+persona	escritor	autor	honorífico	político	dueña	instrumentista	cantor	poeta	personaje	compositor	álbum de estudio	metrópolis	músico	metrópoli
+persona	político	escritor	autor	honorífico	poeta	dueña	entidad territorial	metrópolis	pueblo	metrópoli	urbe	comunidad	líder	autoridad
+persona	entidad territorial	urbe	ciudad	zona metropolitana	político	metrópolis	pueblo	metrópoli	comunidad	municipio	autor	aglomeración urbana	área metropolitana	vecindad
+planta	compuesto	compuesto químico	tracheobionta	planta vascular	plato	spermatophyta	angiosperma	fluido	líquido	animal	planta perenne	substancia	planta leñosa	bebida
+persona	político	turki	bantú	comunidad	autoridad	líder	entidad territorial	pueblo	movimiento	metrópolis	población urbana	área urbana	cabeza	escritor
+persona	instrumentista	escritor	metrópolis	autor	zona metropolitana	comunidad	urbe	entidad territorial	metrópoli	tracheobionta	planta	vecindad	compositor	escritora
+máquina	medio	moneda	compuesto	líquido	persona	planta	fluido	compuesto químico	substancia	estructura arquitectónica	entidad territorial	vecindad	unidad monetaria	tracheobionta
+máquina	líquido	medio	planta	fluido	moneda	estructura arquitectónica	persona	vecindad	edificación	bebida	compuesto	pisto	tracheobionta	hábitat
+lengua	lenguaje	indoario	persona	estudioso	mandatario	lengua natural	bantú	deidad	afroasiático	político	indoeuropeo	gobernante	escritor	intelectual
+persona	fluido	tracheobionta	substancia	compuesto	planta	líquido	compuesto químico	fármaco	spermatophyta	máquina	medio	droga	animal	narcótico
+vertebrado	animal	planta	pájaro	indumentaria	persona	planta vascular	tracheobionta	escritor	prenda	angiosperma	ropa	spermatophyta	vestuario	árbol
+persona	indumentaria	álbum de estudio	máquina	personaje	emblema	álbum	escritor	honorífico	autor	representación	deidad	poeta	luz	obra musical
+substancia	compuesto	compuesto químico	polímero	óxido	fármaco	biomolécula	sustancia química	máquina	fluido	droga	ácido	líquido	óxido metálico	tracheobionta
+persona	escritor	autor	político	honorífico	poeta	dueña	líder	autoridad	estadista	entidad territorial	dirigente	metrópolis	dramaturgo	cantor
+cráter	formación geológica	río	centro urbano	metrópolis	malpaís	hábitat	karst	astroblema	metrópoli	vecindad	aglomeración urbana	accidente geográfico	zona metropolitana	entidad territorial
+medio	persona	entidad territorial	hábitat	movimiento	vecindad	máquina	comunidad	estructura arquitectónica	ciudad	capital	municipio	aglomeración urbana	pueblo	asociación
+accidente geográfico	estructura arquitectónica	escena	hábitat	vecindad	infraestructura	edificio	municipio	área urbana	formación geológica	infraestructura urbana	aglomeración urbana	corriente	máquina	entidad territorial
+persona	trabajador	máquina	fenómeno	animal	hábitat	vecindad	juguete	vehículo	vertebrado	opiato	entidad territorial	comerciante	autoridad	fluido
+persona	entidad territorial	comunidad	vecindad	municipio	autoridad	pueblo	movimiento	hábitat	aglomeración urbana	población urbana	capital	área urbana	ciudad	medio
+substancia	compuesto	compuesto químico	biomolécula	fármaco	dolencia	sustancia química	gas	polímero	tracheobionta	afección	máquina	medio	mal	fluido
+indumentaria	tracheobionta	planta	persona	trapo	escena	ropa	prenda	líquido	planta vascular	vestimenta	paño	vestuario	bebida	vestido
+máquina	compuesto	substancia	medio	compuesto químico	moneda	fluido	líquido	estructura arquitectónica	planta	cristal	fenómeno	hábitat	mezcla	tracheobionta
+planta	tracheobionta	angiosperma	frutal	planta vascular	hortaliza	spermatophyta	arbusto	formación geológica	planta leñosa	árbol	planta perenne	árido	árbol frutal	líquido
+persona	entidad territorial	autoridad	vecindad	político	metrópolis	comunidad	municipio	líder	hábitat	mandatario	pueblo	capital	jefe de estado	dirigente
+persona	máquina	entidad territorial	metrópoli	urbe	ciudad	comunidad	equipo	metrópolis	aglomeración urbana	vecindad	zona metropolitana	software	movimiento	autoridad
+persona	autoridad	entidad territorial	municipio	cofradía	escena	vecindad	asociación	pueblo	estructura arquitectónica	trabajador	político	dirigente	comunidad	edificación
+indumentaria	planta	prenda	ropa	tracheobionta	frutal	escena	vestimenta	trapo	zona	falda	tela	paño	vecindad	líquido
+persona	spermatophyta	angiosperma	tracheobionta	vertebrado	entidad territorial	planta	vecindad	animal	hábitat	planta vascular	comunidad	urbe	ciudad	metrópolis
+máquina	persona	estructura arquitectónica	medio	edificación	fluido	vecindad	planta	hábitat	moneda	compuesto	entidad territorial	líquido	edificio	asociación
+persona	autor	escritor	honorífico	político	cantor	dueña	urbe	autoridad	instrumentalista	jefe de estado	poeta	líder	dramaturgo	entidad territorial
+persona	máquina	entidad territorial	emblema	vecindad	comunidad	moneda	municipio	pueblo	metrópoli	medio	hábitat	divisa	ciudad	aglomeración urbana
+persona	deidad	político	jefe de estado	honorífico	mandatario	autor	escritor	gobernador	entidad territorial	pueblo	poeta	estudioso	autoridad	presidente
+municipio	área urbana	pueblo	caserío	entidad territorial	ciudad	centro urbano	población urbana	hábitat	aldehuela	vecindad	aglomeración urbana	suburbio	río	metrópoli
+compañía	ciudad	centro urbano	aglomeración urbana	zona metropolitana	urbe	entidad territorial	metrópoli	área urbana	vecindad	municipio	metrópolis	divisa	comunidad	pueblo
+vecindad	hábitat	municipio	estructura arquitectónica	escena	entidad territorial	formación geológica	área urbana	pueblo	suburbio	ciudad	planta	tracheobionta	edificio	accidente geográfico
+accidente geográfico	formación geológica	vecindad	centro urbano	río	aglomeración urbana	zona metropolitana	arroyo	municipio	hábitat	ciudad	edificio	escena	suburbio	estructura arquitectónica
+persona	estructura arquitectónica	vecindad	edificación	entidad territorial	tracheobionta	hábitat	máquina	edificio	planta	asociación	municipio	escena	movimiento	comunidad
+persona	entidad territorial	vecindad	ciudad	municipio	aglomeración urbana	área urbana	estructura arquitectónica	escena	autoridad	metrópoli	pueblo	edificación	hábitat	zona metropolitana
+máquina	líquido	compuesto	compuesto químico	medio	persona	cristal	fenómeno	planta	fluido	conductor	tiempo	h2o	tracheobionta	moneda
+persona	máquina	entidad territorial	moneda	medio	vecindad	corporación	ciudad	unidad monetaria	aglomeración urbana	equipo	compañía	divisa	autoridad	asociación
+persona	máquina	entidad territorial	tracheobionta	vecindad	substancia	medio	movimiento	asociación	fluido	hábitat	planta	comunidad	político	compuesto
+persona	álbum de estudio	película	personaje	álbum	instrumentista	instrumentalista	escritor	comediante	máquina	arma	músico	deidad	obra musical	autor
+político	estadista	líder	dirigente	persona	jefe	autoridad	jefe de estado	cabeza	presidente	escritor	estudioso	metrópolis	mandatario	autor
+persona	dirigente	autoridad	trabajador	propietario	entidad territorial	cofradía	comerciante	dueño	municipio	edificación	jefe	vecindad	estructura arquitectónica	político
+persona	instrumentista	músico	compositor	personaje	obra musical	escritor	tracheobionta	género musical	álbum de estudio	estilo literario	álbum	planta	representación	indumentaria
+río	hábitat	municipio	accidente geográfico	área urbana	arroyo	estructura arquitectónica	edificio	vecindad	población urbana	entidad territorial	formación geológica	caserío	aglomeración urbana	pueblo
+persona	escritor	autor	instrumentista	poeta	estudioso	compositor	honorífico	metrópoli	dramaturgo	metrópolis	comunidad	escritora	entidad territorial	personaje
+persona	máquina	asociación	medio	moneda	entidad territorial	compañía	dinero	estructura arquitectónica	autoridad	software	movimiento	corporación	firma	vecindad
+persona	vecindad	estructura arquitectónica	hábitat	edificación	tracheobionta	máquina	entidad territorial	fluido	medio	planta	fenómeno	edificio	asociación	movimiento
+semiconductor	máquina	software	programa de computación	programa de ordenador	variable	energía	broadcasting	instrumento de medición	instrumento de medida	programa informático	rtd	resistor	canal	magnificador
+máquina	persona	planta	estructura arquitectónica	tracheobionta	indumentaria	vecindad	fluido	fenómeno	líquido	escena	hábitat	compuesto	juguete	entidad territorial
+persona	político	líder	estadista	dirigente	escritor	autor	autoridad	jefe	urbe	entidad territorial	jefe de estado	metrópolis	honorífico	mandatario
+máquina	compuesto	compuesto químico	conductor	cristal	substancia	líquido	medio	instrumento de medición	instrumento de medida	fenómeno	dínamo	motor	señal	signo
+municipio	estructura arquitectónica	edificio	hábitat	vecindad	área urbana	formación geológica	suburbio	accidente geográfico	entidad territorial	caserío	ciudad	comuna	escena	pueblo
+persona	municipio	entidad territorial	pueblo	autoridad	ciudad	metrópoli	zona metropolitana	área metropolitana	comunidad	vecindad	área urbana	urbe	honorífico	líder
+arbusto	planta	herbácea	tracheobionta	spermatophyta	planta vascular	planta leñosa	planta perenne	angiosperma	indumento	líquido	compuesto	fluido	receptáculo	compuesto químico
+persona	escritor	autor	urbe	honorífico	zona metropolitana	metrópolis	político	poeta	cantor	dramaturgo	estadista	autora	escritora	metrópoli
+medio	máquina	substancia	fluido	compuesto	líquido	estructura arquitectónica	compuesto químico	moneda	tracheobionta	planta	droga	edificación	fármaco	narcótico
+estructura arquitectónica	edificio	accidente geográfico	máquina	vecindad	infraestructura	infraestructura urbana	escena	hábitat	arroyo	área urbana	masa de agua	edificación	formación geológica	corriente
+substancia	compuesto	compuesto químico	polímero	óxido	droga	máquina	sustancia química	psicotrópico	óxido metálico	biomolécula	líquido	fármaco	ácido	fluido
+estructura arquitectónica	edificación	persona	asociación	edificio	hábitat	máquina	vecindad	entidad territorial	medio	cofradía	trabajo	movimiento	escena	comunidad
+máquina	fluido	estructura arquitectónica	planta	líquido	persona	edificio	compuesto	edificación	medio	tracheobionta	fenómeno	vecindad	hábitat	compuesto químico
+indumentaria	tracheobionta	escena	planta	persona	cofradía	estructura arquitectónica	paño	prenda	ropa	edificio	vestimenta	emblema	edificación	planta vascular
+cráter	formación geológica	movimiento	zoología	río	biociencia	biocenosis	bioma	ciencia natural	cráter de impacto	hábitat	sinecología	astroblema	indagación	biblioteconomía
+corporación	persona	moneda	entidad territorial	capital	ciudad	unidad monetaria	vecindad	compañía	medio	aglomeración urbana	municipio	máquina	divisa	zona metropolitana
+persona	municipio	entidad territorial	escena	pueblo	vecindad	indumentaria	tracheobionta	planta	metrópoli	ciudad	área urbana	zona metropolitana	área metropolitana	trabajador
+máquina	compañía	moneda	medio	firma	transporte	medio de transporte	divisa	unidad monetaria	dinero	corporación	substancia	persona	capital	compuesto
+medio	máquina	substancia	transporte	fluido	compuesto	fenómeno	compuesto químico	líquido	estructura arquitectónica	hábitat	medio de transporte	droga	narcótico	movimiento
+formación geológica	fenómeno	accidente geográfico	escena	luz	vecindad	tiempo	tracheobionta	hábitat	h2o	persona	tiempo atmosférico	máquina	condición atmosférica	vertebrado
+persona	máquina	medio	vecindad	moneda	entidad territorial	asociación	substancia	estructura arquitectónica	hábitat	fluido	movimiento	unidad monetaria	fenómeno	compuesto
+persona	autor	político	cantor	urbe	honorífico	metrópoli	escritor	instrumentalista	zona metropolitana	ciudad	instrumentista	escuadrón	metrópolis	dueña
+compuesto	compuesto químico	substancia	planta	tracheobionta	angiosperma	fluido	spermatophyta	condimento	líquido	planta vascular	bebida	droga	arbusto	fármaco
+urbe	estadista	ciudad	persona	zona metropolitana	honorífico	metrópolis	entidad territorial	político	instrumentista	metrópoli	autor	cantor	pueblo	área metropolitana
+animal	tracheobionta	fluido	planta	persona	compuesto químico	compuesto	líquido	bebida	planta vascular	substancia	trago	hongo	fármaco	vertebrado
+municipio	escena	edificio	pueblo	entidad territorial	área urbana	estructura arquitectónica	vecindad	edificación	persona	población urbana	ciudad	zona metropolitana	caserío	palacete
+persona	político	lenguaje	lengua	movimiento social	escritor	movimiento artístico	autor	estudioso	poeta	movimiento	intelectual	lengua natural	intelectualidad	mandatario
+máquina	medio	vecindad	hábitat	moneda	fenómeno	medio de transporte	estructura arquitectónica	transporte	entidad territorial	persona	compuesto	movimiento	tiempo	ciudad
+persona	escritor	político	autor	honorífico	poeta	dueña	escritora	docto	estudioso	metrópolis	cantor	líder	autora	erudito
+persona	tracheobionta	movimiento	pueblo	entidad territorial	comunidad	vecindad	municipio	movimiento social	escena	área urbana	político	escritor	hábitat	autor
+persona	autoridad	moneda	entidad territorial	estructura arquitectónica	unidad monetaria	máquina	medio	vecindad	municipio	edificación	hábitat	asociación	capital	edificio
+vehículo	río	medio de transporte	transporte	embarcación	accidente geográfico	medio	transporte de pasajeros	líder	máquina	político	nave	movimiento	fenómeno	hábitat
+persona	máquina	fluido	medio	vecindad	compuesto	substancia	planta	juguete	fármaco	tracheobionta	compuesto químico	estructura arquitectónica	fenómeno	edificación
+fármaco	morbilidad	enfermedad	afección	mal	patología	compuesto	compuesto químico	fenómeno	fluido	máquina	droga	dolencia	tracheobionta	inflamación
+persona	máquina	substancia	fármaco	narcótico	psicotrópico	fluido	medio	parte corporal	compuesto químico	compuesto	droga	opiato	órgano	mal
+substancia	persona	medio	dolencia	fármaco	compuesto	movimiento	máquina	compuesto químico	morbilidad	afección	mal	asignatura	variable	biomolécula
+planta	bebida	condimento	producto alimenticio	aliño	trago	bebida alcohólica	producto agrícola	tracheobionta	hortaliza	verdura	planta vascular	repostería	aromatizante	líquido
+persona	político	escritor	honorífico	autor	cantor	dueña	urbe	poeta	instrumentista	metrópolis	álbum de estudio	dramaturgo	personaje	compositor
+persona	mandatario	político	líder	jefe de estado	entidad territorial	escritor	autoridad	pueblo	gobernante	gobernador	soberano	autor	honorífico	jefe
+persona	máquina	software	instrumentalista	variable	metrópolis	programa de computación	álbum de estudio	movimiento	urbe	medio	producción	programa de ordenador	etapa	tiempo
+planemo	astroblema	cráter	objeto astronómico	máquina	cráter de impacto	formación geológica	metrópolis	escuadrón	urbe	luz	cráter lunar	escuadra	metrópoli	accidente geográfico
+persona	autor	escritor	planta	tracheobionta	entidad territorial	cofradía	poeta	instituto	dueño	indumentaria	honorífico	autoridad	instrumentista	trabajador
+persona	entidad territorial	máquina	medio	comunidad	movimiento	vecindad	moneda	autoridad	ciudad	unidad monetaria	metrópoli	aglomeración urbana	hábitat	municipio
+persona	máquina	ciudad	metrópoli	urbe	zona metropolitana	entidad territorial	vecindad	álbum de estudio	metrópolis	equipo	comunidad	aglomeración urbana	instrumentista	centro urbano
+persona	político	metrópolis	comunidad	entidad territorial	autoridad	autor	metrópoli	movimiento	escritor	pueblo	dueña	municipio	vecindad	hábitat
+compuesto	máquina	compuesto químico	líquido	planta	fluido	substancia	tracheobionta	medio	persona	spermatophyta	fenómeno	vecindad	hábitat	arbusto
+substancia	compuesto químico	compuesto	biomolécula	fármaco	polímero	sustancia química	droga	dolencia	óxido	fluido	psicotrópico	líquido	cristal	mal
+persona	entidad territorial	vecindad	máquina	municipio	comunidad	hábitat	pueblo	estructura arquitectónica	medio	ciudad	movimiento	aglomeración urbana	área urbana	autoridad
+persona	entidad territorial	político	escritor	ciudad	autor	urbe	metrópolis	metrópoli	honorífico	comunidad	vecindad	zona metropolitana	municipio	autoridad
+persona	entidad territorial	municipio	vecindad	ciudad	pueblo	escena	área urbana	emblema	estructura arquitectónica	población urbana	aglomeración urbana	comunidad	urbe	área metropolitana
+substancia	compuesto químico	compuesto	fármaco	droga	psicotrópico	fluido	alcaloide	sustancia química	polímero	líquido	biomolécula	tracheobionta	óxido	ácido
+persona	lenguaje	lengua	mandatario	autor	indoeuropeo	honorífico	gobernante	título nobiliario	escritor	indoario	jefe de estado	dueño	soberano	afijo
+persona	político	líder	dirigente	ciudad	entidad territorial	autoridad	villa	municipio	metrópoli	vecindad	zona metropolitana	dueño	área metropolitana	jefe
+persona	tracheobionta	planta	máquina	entidad territorial	animal	escritor	vecindad	spermatophyta	fluido	compuesto	vertebrado	autor	planta vascular	líquido
+persona	metrópolis	escritor	álbum de estudio	máquina	autor	personaje	amo	político	película	álbum	producción	comediante	trabajador	equipo
+persona	metrópoli	municipio	pueblo	entidad territorial	autoridad	autor	comunidad	ciudad	urbe	honorífico	zona metropolitana	área metropolitana	político	líder
+máquina	medio	compuesto	persona	vecindad	moneda	fluido	corporación	líquido	compuesto químico	electrodoméstico	substancia	transporte	entidad territorial	medio de transporte
+persona	entidad territorial	municipio	ciudad	vecindad	pueblo	metrópoli	aglomeración urbana	área urbana	comunidad	zona metropolitana	centro urbano	área metropolitana	hábitat	metrópolis
+formación geológica	cráter	depresión	deidad	tempestad	caverna	accidente geográfico	indumentaria	tracheobionta	objeto astronómico	astroblema	luz	fenómeno	trapo	falda
+persona	escritor	poeta	autor	dueña	escritora	deidad	personaje	honorífico	compositor	autora	erudito	político	estudioso	músico
+persona	monstruo	comediante	animal	animal legendario	destello	animal mítico	vertebrado	arma	criatura mitológica	álbum	álbum de estudio	villano	criatura mítica	personaje
+ciudad	máquina	aglomeración urbana	municipio	vehículo	vecindad	villa	entidad territorial	zona metropolitana	área urbana	río	medio de transporte	hábitat	metrópoli	pueblo
+persona	político	máquina	metrópolis	entidad territorial	ciudad	metrópoli	vecindad	zona metropolitana	urbe	equipo	aglomeración urbana	líder	comunidad	área metropolitana
+persona	autor	escritor	spermatophyta	filogenia	honorífico	contenido mental	indagación	investigación	estudioso	tracheobionta	órgano	estructura anatómica	tratamiento	morfología
+arbusto	planta	vecindad	moneda	planta vascular	angiosperma	tracheobionta	entidad territorial	tela	spermatophyta	textil	líquido	estructura arquitectónica	árbol	divisa
+dolencia	afección	fármaco	compuesto	substancia	compuesto químico	máquina	morbilidad	mal	patología	enfermedad	síntoma	fluido	persona	biomolécula
