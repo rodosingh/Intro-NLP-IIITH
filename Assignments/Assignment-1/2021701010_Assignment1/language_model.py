@@ -59,17 +59,30 @@ def ngrams_constructor(n, texts):
                     ngrams[s] += 1
     return ngrams
 
-def recursiveNgramsConstructor(n, texts):
+
+def recursiveNgramsConstructor(n, texts, unk_thresh=10):
     """
     Parameters:
         n: Highest Order n-gram required
         texts : List of Strings
             List containing Sentences.
+        unk_thresh: Threshold count for a
+             word to be in <UNK> group.
 
     Output:
         Dictionary Containing Tables of all n-grams from 1 to n.
     """
-    return {k:ngrams_constructor(k, texts) for k in range(1, n+1)}
+    req_dict = {k:ngrams_constructor(k, texts) for k in range(2, n+1)}
+    unigrams = ngrams_constructor(1, texts)
+    # here those words/unigrams whose count is less than certain threshold
+    # put them in <UNK> group.
+    unigrams["<UNK>"] = 0
+    for key, val in unigrams.items():
+        if val <= unk_thresh:
+            unigrams["<UNK>"] += val
+            _ = unigrams.pop(key)
+    req_dict[1] = unigrams
+    return req_dict
 
 # ---------------------- LM = Construct Language Model ------------------------
 
@@ -182,10 +195,10 @@ def kneserNey(history, current, recur_step, cent_dict):
     # Check if current word is in VOCAB
     if current not in cent_dict[1]:
         # return len(list(filter(lambda x: cent_dict[n][x] == 1, cent_dict[n])))/len(cent_dict[n])
-        return 0.75/sum(cent_dict[1].values())
+        return 0.75/sum(cent_dict[1]["<UNK>"])
     # base condition --- Empty String
     if n == 1:
-        return 0.25/len(cent_dict[1]) + 0.75/sum(cent_dict[1].values())
+        return 0.25/len(cent_dict[1]) + 0.75/sum(cent_dict[1]["<UNK>"])
             # 0.75*len(dict(filter(lambda item: item[1]>0, 
             # cent_dict[1].items())))/(tot_unigram_counts*len(cent_dict[1]))
             # As V cancels out with the NUMerator.
@@ -213,7 +226,7 @@ def kneserNey(history, current, recur_step, cent_dict):
         # 0 at lower order, because higher order n-grams are less frequent than lower
         # orders. If a particular lower n-gram doesn't exist then higher too doesn't 
         # exist. So at first step only lamb=0 ==> first_term=0 ==> lamb(eps)/V 
-        return 0.75/sum(cent_dict[1].values())
+        return 0.75/sum(cent_dict[1]["<UNK>"])
     # New history for further step...
     new_hist = " ".join(history.split()[1:])
     sec_term = lamb*kneserNey(new_hist, current, recur_step+1, cent_dict)
@@ -239,7 +252,7 @@ def wittenBell(history, current, cent_dict):
     # base condition --- Empty String
     if n == 1:
         if current in cent_dict[1]:
-            return Cnt(current, cent_dict)/sum(cent_dict[1].values())
+            return Cnt(current, cent_dict)/sum(cent_dict[1]["<UNK>"])
         return 1/len(cent_dict[1])
 
     # define lambda parameter
