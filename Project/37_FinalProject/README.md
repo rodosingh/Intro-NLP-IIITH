@@ -59,24 +59,6 @@ This submission has the following directory structure-
 │   ├── task9_scorer.py
 │   ├── train.py
 │   └── utils.py
-
-├── TASK_2_MT
-│   ├── basic_tokenizer.py (Self made rule based tokenizer from Assignment_1)
-│   ├── create_BLEU_score_files.py (Script used to create the required files with BLEU scores)
-│   ├── merge_vocab.py (Script used for transfer learning the Seq2Seq model for merging vocab)
-│   ├── MT_dataset.py (Dataset class to load the data for MT task)
-│   ├── MT_model.py (Contains the Encoder, Decoder, Attention and Seq2Seq model)
-│   ├── MT_plotter.py (Script to generate the plots visible in 2021701021_REPORT.pdf)
-│   └── MT_trainer.py (Script to train the end-to-end MT model)
-├── 2021701021_LM_test.txt
-├── 2021701021_LM_train.txt
-├── 2021701021_MT1_test.txt
-├── 2021701021_MT1_train.txt
-├── 2021701021_MT2_test.txt
-├── 2021701021_MT2_train.txt
-├── 2021701021_REPORT.pdf
-├── language_model.py (Script to interact with NNLM model)
-├── machine_translation.py (Script to interact with MT models)
 └── README.md
 ```
 
